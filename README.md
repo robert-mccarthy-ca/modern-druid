@@ -2,7 +2,7 @@
 
 **Open-source carbon farming for a livable planet.**
 
-Modern Druid is my attempt to build a globally replicable, revenue-generating carbon farming model — one that sequesters atmospheric carbon, restores degraded land, and provides free food to communities — all while paying workers fairly and preparing for global deployment by 2030.
+Modern Druid is my attempt to build/design a globally replicable, revenue-generating carbon farming model — one that sequesters atmospheric carbon, restores degraded land, and provides free food to communities — all while paying workers fairly and preparing for global deployment by 2030.
 
 This model earns revenue from **international voluntary carbon markets**, meaning it’s largely insulated from national political will and can generate the same income level whether built in Canada, Kenya, or Cambodia.
 
@@ -38,6 +38,7 @@ I’ve picked **2030** as the deadline because that’s about when we hit the ne
 - **2°C warming**
 - **A Blue Ocean Arctic event**
 - **Mass-casualty heat waves**
+
 Maybe all three.
 
 That might finally be the moment the world wakes up — and when it does, it’s going to need a fully documented, globally ready carbon farming system to deploy **immediately**.
@@ -48,9 +49,9 @@ That might finally be the moment the world wakes up — and when it does, it’s
 
 ## 🌿 Why Bother?
 
-Because I like forests. Because I like gardening. Because if I can make a comfortable living running fancy bonfires and growing ecosystems, I'm good.
+Because I like forests. Because I like food. Because I like gardening. Because if I can make a comfortable living running fancy bonfires and growing ecosystems, I'm good.
 
-Because the forests won’t exist in 20 years unless someone builds a way to stop the burn. And because I'd rather fix the carbon problem than chase food profits.
+Because neither the forests nor our food supply will exist in 20 years unless someone builds a way to stop the burn. And because I'd rather fix the carbon problem than chase food profits.
 
 ---
 
@@ -69,12 +70,14 @@ Because the forests won’t exist in 20 years unless someone builds a way to sto
 
 ### 🔥 Biochar Production
 - 10 tonnes of biomass/acre converted to biochar in insulated, tiltable kilns
+- Local forestry waste converted to biochar
 - Quench water recovered for irrigation
 - Biochar verified for carbon markets and approved for sale (CFIA, OMRI)
 
 ### 🌳 Syntropic Agroforestry
 - Successional food forest system with biomass crops, nitrogen fixers, pollinators, and edible trees
 - Designed with wild buffers, biodiversity grids, and resilient water infrastructure
+- Biochar is applied to the soil or sold as generated
 
 ### 🧪 Natural Farming
 - KNF and JADAM practices: JMS, IMO collections, FPJ, LAB, and more
@@ -120,7 +123,7 @@ At the end of the 20 years:
 
 ## 🧭 2030 Target
 
-By 2030, Modern Druid will:
+By 2030, Modern Druid aims to:
 - Be profitable
 - Be replicated at least once
 - Host a full open-source training platform

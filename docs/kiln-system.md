@@ -1,4 +1,4 @@
-# 🔥 Biochar Kiln System – Modern Druid
+## 🔥 Biochar Kiln System – Modern Druid
 
 The heart of the Modern Druid carbon farm is a scalable, loader-accessible **flame cap kiln system** designed for small teams to produce high-quality biochar safely and efficiently.
 
@@ -11,7 +11,7 @@ Kilns are fixed in place, filled by loader, topped up by hand during burns, and 
 - **Fixed-position, insulated kilns** with a tilting mechanism for easy unloading
 - **Automated quench and drain system** to minimize labour and risk
 - **Windbreak-style kiln building**, open-air with forced-air exhaust chimneys
-- **MRV-compliant emissions monitoring**
+- **No emissions capture required**, but **MRV-compliant emissions monitoring**
 - **Safe, year-round operation**, including in snow or rain, with emergency fire suppression
 - **Separation of grinding operations** to minimize dust ignition risk
 
@@ -19,59 +19,81 @@ Kilns are fixed in place, filled by loader, topped up by hand during burns, and 
 
 ## 🔥 Kiln Function & Workflow
 
-Flame cap kilns are a low-tech, low-emissions method of producing biochar by continuously adding biomass over the flame to reduce oxygen exposure and retain carbon. They're fast, scalable, and simple to build using local materials.
+Flame cap kilns are a low-tech, low-emissions method of producing biochar by continuously adding biomass over the flame to reduce oxygen exposure and retain carbon. They're fast, scalable, and simple to build using local materials. Kiln crews would be 2 kiln operators and a loader/driver. This is for safety reasons, if an accident happens with tons of coals, someone needs to be able to operate fire suppression equipment if there's an injury or emergency. The goal is to have a single kiln operator manage 2 or 3 5-yard kilns each and get 2 runs in in a day.
 
-To streamline operations:
-- Kilns are arranged in a line on a **raised insulated platform**
-- Biomass is loaded in bulk via loader from below and **topped up by hand** from adjacent bins during combustion
+- Kilns are arranged in a line on a **raised platform**
+- Biomass is loaded in bulk via loader from below and **topped up by hand** during combustion
 - At completion, operators hit a **quench button** to flood the kiln with water
 - After cooling and stirring, the water is **drained into a recovery tank** for reuse or soil application
-- Once drained, the biochar is **dumped into a trailer** and transferred to a secondary structure for grinding, drying, and storage
+- Once drained, the biochar is **dumped into a trailer** and transferred to a secondary structure for weighing, grinding, drying, and storage
 
 Grinding and packaging are done in a separate building for safety and air quality. Finished biochar may be sold (if certified) or applied directly to the food forest.
 
 ---
 
-## 🧊 Winter Considerations
+## 🧊 Seasonal Workflow & Throughput
 
-- Biochar cannot be applied on snow-covered land without increasing albedo and melting snowpack — it must be **stockpiled over winter**
-- All production during winter is stored for later application or packaging
-- Application or sale is **required** before carbon credits can be claimed (biochar must be in a stable end-use, not stockpiled indefinitely)
-- If production throughput is high enough, biochar could be produced over the winter months and applied in the spring/summer to spread the work throughout the year.
+To start, the core staff would be working over the winter making biochar, which gets a fairly robust production capacity just from November 1 to April 30. These numbers assume a 12 hour work day, 3 days a week. The difference between an operator who can handle 2 kilns at a time and an operator that can handle 3 is substantial, so improving those efficiencies would make a large difference. Sales would also add to these figures, but assuming enough biomass could be secured, being able to produce 2 kiln runs a day per operator and the operator operating at least 2 kilns themselves witha 3rd operator to reload the kilns and haul away and grind the biochar. The biochar output is enough to pay for additional seasonal food forest employees until that side brings in revenue. Once biochar sales revenue starts, that is in addition to the money we get for the credits.
 
----
+**Core kiln season**: **November 1 to April 30** (26 weeks)
+- **3 days per week**, 2 burns per day
+- Leaves **October and May** for other off-season tasks
+- **Same 3-person crew** transitions to food forest operations during the growing season
 
-## 🧱 Kiln Building Design
+### 📐 Kiln Output – Math Breakdown (5 yd³ Kiln)
 
-- Constructed from metal with **cut-out lower walls** for passive air intake
-- Equipped with **forced-air chimney fans** to extract emissions
-- Entire structure functions as a **giant fume hood**, allowing for emissions monitoring and MRV compliance
-- Allows for year-round operation in variable conditions
-- Emergency fire suppression systems included
-- Dust-generating operations (grinding, packaging) take place in a separate building for safety
-
----
-
-## 🌲 Biomass Sourcing & Flow
-
-- **Primary goal**: generate all biomass onsite via agroforestry
-- **Early stages**: use local forestry waste streams to meet Puro.Earth’s 1000 tCO₂e minimum and generate additional revenue
-  - Ideal partnerships: logging/milling operations with slash piles or waste they pay to dispose of
-  - May require manual collection (chainsaws, trailers)
-- **Non-kiln-suitable fines** (sawdust, small chips): diverted to food forest as mulch
-- **Moisture control**: all biomass must be dry before use; storage infrastructure needed
+Each 5 cubic yard kiln run is calculated as follows:
+- 5 yd³ × 0.7646 = **3.823 m³**
+- Bulk density of biochar: **250 kg/m³**
+- Biochar yield: 3.823 × 250 = **956 kg** = **0.96 tonnes of biochar**
+- Biomass required (30% yield): 0.96 ÷ 0.3 = **3.19 tonnes of biomass**
+- Carbon content (80%): 0.96 × 0.8 = **0.77 tonnes of carbon**
+- CO₂e: 0.77 × 3.67 = **2.81 tonnes CO₂e sequestered per burn**
+- Revenue (@ $200 CAD/tCO₂e): 2.81 × 200 = **$562 CAD per burn**
 
 ---
 
-## 📦 Biochar Handling & Sales Strategy
+### 🔥 Scenario: 8 Kilns, 3 Operators
+- Total burns: **624** (26 weeks × 3 days/week × 8 kilns)
+- **Biochar produced**: ~**596 tonnes**
+- **Biomass processed**: ~**1,988 tonnes**
+- **CO₂e sequestered**: ~**1,751 tonnes**
+- **Revenue (@ $200 CAD/tCO₂e)**: ~**$350,286 CAD** (26 weeks × 3 days/week × 2 burns/day × 8 kilns)
 
-- Biochar is **weighed and tested** before sale or application
-- Only biochar that is **sold for use in soil or applied to the farm** counts for crediting — not fuel or untracked uses
-- Once **CFIA registration** and **OMRI certification** are complete:
-  - Biochar is sold online only (no physical storefront)
-  - Packaged in 1-cubic-foot bags
-  - Orders are fulfilled as received; unsold stock is applied to the farm
-- Goal is to **keep production continuous** as long as biomass is available
+### 🔥 Scenario: 12 Kilns, 3 Operators
+- Total burns: **936** (26 weeks × 3 days/week × 12 kilns)
+- **Biochar produced**: ~**894 tonnes**
+- **Biomass processed**: ~**2,981 tonnes**
+- **CO₂e sequestered**: ~**2,627 tonnes**
+- **Revenue (@ $200 CAD/tCO₂e)**: ~**$525,383 CAD**
+
+> ⚠️ **Important**: These biomass volumes (~2,000 to 3,000 tonnes) would require either a **very large site** capable of producing that volume of biomass or reliable **partner relationships** with forestry or agricultural operations with waste streams. This scale is **not expected at startup**, but it is useful for understanding scaling potential.
+
+> The seasonal throughput of a single 3-person crew (8 kilns over 3 days/week during winter) producing over **1,100 tonnes of biochar** is a critical startup capacity baseline.
+
+---
+
+## 📈 Maximum Year-Round Throughput
+
+For scaling up, two dedicated 3-person kiln crews running **6 days a week year-round** can maximize production capacity.
+
+### 🔥 Scenario: 8 Kilns, 2 Crews, Full-Year
+- Total burns: **6 days/week × 8 kilns × 52 weeks = 2,496 burns**
+- **Biochar**: ~**2,396 tonnes**
+- **Biomass**: ~**7,952 tonnes**
+- **CO₂e**: ~**7,003 tonnes**
+- **Revenue**: ~**$1.4 million CAD**
+
+### 🔥 Scenario: 12 Kilns, 2 Crews, Full-Year
+- Total burns: **3,744**
+- **Biochar**: ~**3,578 tonnes**
+- **Biomass**: ~**11,929 tonnes**
+- **CO₂e**: ~**10,504 tonnes**
+- **Revenue**: ~**$2.1 million CAD**
+
+These numbers assume consistent feedstock quality, sufficient drying/storage capacity, and uninterrupted operations. At this scale, **on-site biomass generation is unlikely to suffice**, making reliable external partnerships essential and a key part of profitability and how much we can afford for additional summer labour, either to retrieve the biomass or to work in the food forest.
+
+This represents the **maximum scalable throughput** for a single site with 2 full-time kiln crews. Multiple such sites could be coordinated under the same replication model and funding strategy.
 
 ---
 
@@ -80,36 +102,26 @@ Grinding and packaging are done in a separate building for safety and air qualit
 Puro.Earth requires full traceability and MRV for all credits issued.
 
 ### What we measure:
-
 - Input biomass (by weight)
 - Output biochar (by dry weight)
 - Water used for quenching (reused or soil-applied)
 - Emissions (monitored via chimney sensors)
 
 ### What we test:
-
 - Carbon content
 - Moisture level
 - Ash content
 - Volatile matter (PAHs)
-- Heavy metals (especially with urban or mixed waste streams)
+- Heavy metals
 
-> Biochar **must be applied to soil or sold for stable use** to qualify for credits. Testing is required at least annually and may be triggered by feedstock changes.
+Biochar must be applied to soil or sold for stable use to qualify for credits. Testing is required at least annually and may increase depending on feedstock variability.
 
 ---
 
 ## ♻️ Quench Water
 
-- Water from quenching is **reused** for later quench cycles or applied to the food forest (after dilution)
-- It acts as a nutrient-rich soil drench if managed properly
-
----
-
-## 📈 Credit Eligibility and Thresholds
-
-- Puro.Earth minimum: **1000 tCO₂e per year**
-- With 10 t/acre biomass yield and ~3.25 tCO₂e per acre sequestered, this requires ~300 acres OR access to local waste biomass streams
-- Emissions from collection and transport are subtracted from credit value — local sourcing is critical for net removal
+- Quench water is reused for later kiln cycles or diluted and applied to the food forest
+- Rich in soluble nutrients and beneficial compounds if managed properly
 
 ---
 
@@ -122,6 +134,5 @@ Puro.Earth requires full traceability and MRV for all credits issued.
 - Design fume hood structure for emissions monitoring
 - Prototype system in cold Canadian climate
 
-> This document will evolve as we prototype and scale.  
-> If you're building something similar — we’d love your input.
+> This document will evolve as we prototype and scale. If you're building something similar — we’d love your input.
 

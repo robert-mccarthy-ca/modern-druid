@@ -30,16 +30,19 @@ And more importantly, we want to **crush degenerative industrial agriculture** w
 
 If we can prove this model works, carbon markets will reward it, farmers will copy it, and no one will be able to justify spraying poisons on monocrops ever again.
 
+And if I can make a comfortable living running fancy bonfires and growing ecosystems, I'm good, I don't need the other hassles.
+
 ---
 
 ## ⏳ Why 2030?
 
-I’ve picked **2030** as the deadline because that’s about when we hit the next wall:
+I’ve picked **2030** as the deadline because that’s about when I expect we hit the next wall:
 - **2°C warming**
 - **A Blue Ocean Arctic event**
 - **Mass-casualty heat waves**
+- **Major food shortages**
 
-Maybe all three.
+Maybe all the above.
 
 That might finally be the moment the world wakes up — and when it does, it’s going to need a fully documented, globally ready carbon farming system to deploy **immediately**.
 
@@ -49,7 +52,7 @@ That might finally be the moment the world wakes up — and when it does, it’s
 
 ## 🌿 Why Bother?
 
-Because I like forests. Because I like food. Because I like gardening. Because if I can make a comfortable living running fancy bonfires and growing ecosystems, I'm good.
+Because I like forests. Because I like food.
 
 Because neither the forests nor our food supply will exist in 20 years unless someone builds a way to stop the burn. And because I'd rather fix the carbon problem than chase food profits.
 

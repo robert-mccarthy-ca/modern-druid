@@ -26,7 +26,7 @@ With global replication, this model could remove **multiple ppm of CO₂ per yea
 
 We give the food away. All of it. Not because there isn’t profit in food — but because **there’s more carbon to draw down** if we don’t waste time on harvest logistics, sales, and transport. Let the people pick their own damn food.
 
-And more importantly, we want to **crush degenerative industrial agriculture** with simple market forces: you can’t compete with free unless you heal the land.
+And more importantly, we want to **crush degenerative industrial agriculture** with simple market forces: it's hard to compete with free.
 
 If we can prove this model works, carbon markets will reward it, farmers will copy it, and no one will be able to justify spraying poisons on monocrops ever again.
 
@@ -46,7 +46,7 @@ Maybe all the above.
 
 That might finally be the moment the world wakes up — and when it does, it’s going to need a fully documented, globally ready carbon farming system to deploy **immediately**.
 
-**All training will be digital and open-source.** Anyone who wants to do this isn't competing *against* us — they're competing *with* us. We're all racing against collapse.
+**All training will be digital and open-source.** Anyone who wants to do this isn't competing *against* us — they're competing *with* us. We're all racing against ecological collapse.
 
 ---
 
@@ -61,7 +61,7 @@ Because neither the forests nor our food supply will exist in 20 years unless so
 ## 🚀 Project Goals
 
 - **Profitability** from verified carbon removal credits and biochar sales
-- **Replicable by 2030** and deployed to new sites
+- **Replicable by 2030** and deployed to at least one new site
 - **Full transparency** and open access to all workflows, designs, and verification methods
 - **Non-exploitative revenue sharing**: 50% of all revenue goes to employees, equally across borders
 - **Community-first food systems**: All food is free to the public
@@ -94,7 +94,6 @@ Revenue comes from:
 - **Puro.Earth** biochar carbon credits
 - **Verra VCS + CCB** soil carbon credits
 - **CFIA/OMRI** biochar sales
-- **Eventual timber harvests**
 
 > Food is always free. Excess goes to local businesses and processors.  
 > “Pick your own damn food, we’re busy drawing down carbon.”

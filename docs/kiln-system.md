@@ -53,14 +53,14 @@ Each 5 cubic yard kiln run is calculated as follows:
 
 ---
 
-### 🔥 Scenario: 8 Kilns, 3 Operators
+### 🔥 Scenario: 3 Operators operating 4 kilns twice daily (1 operating the loader supporting the other 2 operators that operate 2 kilns each)
 - Total burns: **624** (26 weeks × 3 days/week × 8 kilns)
 - **Biochar produced**: ~**596 tonnes**
 - **Biomass processed**: ~**1,988 tonnes**
 - **CO₂e sequestered**: ~**1,751 tonnes**
 - **Revenue (@ $200 CAD/tCO₂e)**: ~**$350,286 CAD** (26 weeks × 3 days/week × 2 burns/day × 8 kilns)
 
-### 🔥 Scenario: 12 Kilns, 3 Operators
+### 🔥 Scenario: 3 Operators operating 6 kilns twice daily (1 operating the loader supporting the other 2 operators that operate 3 kilns each)
 - Total burns: **936** (26 weeks × 3 days/week × 12 kilns)
 - **Biochar produced**: ~**894 tonnes**
 - **Biomass processed**: ~**2,981 tonnes**
@@ -75,16 +75,16 @@ Each 5 cubic yard kiln run is calculated as follows:
 
 ## 📈 Maximum Year-Round Throughput
 
-For scaling up, two dedicated 3-person kiln crews running **6 days a week year-round** can maximize production capacity.
+For scaling up, two dedicated 3-person kiln crews running **6 days a week year-round** can maximize production capacity of a facility.
 
-### 🔥 Scenario: 8 Kilns, 2 Crews, Full-Year
+### 🔥 Scenario: 3 Operators operating 4 kilns twice daily, 6 days a week, Full-Year
 - Total burns: **6 days/week × 8 kilns × 52 weeks = 2,496 burns**
 - **Biochar**: ~**2,396 tonnes**
 - **Biomass**: ~**7,952 tonnes**
 - **CO₂e**: ~**7,003 tonnes**
 - **Revenue**: ~**$1.4 million CAD**
 
-### 🔥 Scenario: 12 Kilns, 2 Crews, Full-Year
+### 🔥 Scenario: 3 Operators operating 6 kilns twice daily, 6 days a week, Full-Year
 - Total burns: **3,744**
 - **Biochar**: ~**3,578 tonnes**
 - **Biomass**: ~**11,929 tonnes**
@@ -93,7 +93,7 @@ For scaling up, two dedicated 3-person kiln crews running **6 days a week year-r
 
 These numbers assume consistent feedstock quality, sufficient drying/storage capacity, and uninterrupted operations. At this scale, **on-site biomass generation is unlikely to suffice**, making reliable external partnerships essential and a key part of profitability and how much we can afford for additional summer labour, either to retrieve the biomass or to work in the food forest.
 
-This represents the **maximum scalable throughput** for a single site with 2 full-time kiln crews. Multiple such sites could be coordinated under the same replication model and funding strategy.
+This represents the **maximum scalable throughput** for a single site with 2 full-time kiln crews. Multiple such sites could be coordinated under the same replication model and funding strategy, or a second line of kilns could be placed in the same building if large enough, etc.
 
 ---
 
@@ -114,13 +114,14 @@ Puro.Earth requires full traceability and MRV for all credits issued.
 - Volatile matter (PAHs)
 - Heavy metals
 
-Biochar must be applied to soil or sold for stable use to qualify for credits. Testing is required at least annually and may increase depending on feedstock variability.
+Biochar must be applied to soil or sold for stable use to qualify for credits. Testing is required at least annually for both Puro and CFIA standards and may increase depending on feedstock variability.
 
 ---
 
 ## ♻️ Quench Water
 
 - Quench water is reused for later kiln cycles or diluted and applied to the food forest
+  - This may require storage if only processing biochar during the winter
 - Rich in soluble nutrients and beneficial compounds if managed properly
 
 ---
@@ -129,7 +130,7 @@ Biochar must be applied to soil or sold for stable use to qualify for credits. T
 
 - Finalize kiln design and dimensions
 - Design water recovery and quench system
-- Research affordable insulation options
+- Research affordable insulation options such as refractory cement or hempcrete
 - Plan biochar transfer and grinding workflow
 - Design fume hood structure for emissions monitoring
 - Prototype system in cold Canadian climate

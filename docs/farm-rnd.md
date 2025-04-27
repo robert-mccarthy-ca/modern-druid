@@ -1,6 +1,6 @@
 # 🧪 Modern Druid – Farm R&D and Infrastructure Improvement Projects
 
-A master plan for long-term scalability, adaptation, and technological acceleration of carbon farming. These are projects that would be started as soon as the site is fully planted, using the local development portion of the annual revenue to continuously improve the site's productivity and resilience to extreme climatic conditions.
+A master plan for long-term scalability, adaptation, and technological acceleration of carbon farming. These are projects that would be started as soon as the site is fully planted, using the local development portion of the annual revenue to continuously improve the site's productivity and resilience to extreme climatic conditions. All results would be shared freely.
 
 ---
 

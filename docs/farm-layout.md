@@ -1,6 +1,6 @@
 # 🌳 Agroforestry Layout – Modern Druid
 
-Modern Druid farms are designed around syntropic agroforestry and natural farming principles to maximize biomass, biodiversity, and long-term carbon sequestration.
+Modern Druid farms are designed around syntropic agroforestry and natural farming principles to maximize biomass, biodiversity, food quality and long-term carbon sequestration.
 
 ---
 
@@ -13,85 +13,97 @@ Each 25-hectare block will feature:
 - **Central pond (~0.1 ha)** for irrigation and resilience
 - Shared infrastructure near the pond:
   - Water harvesting system
-  - Power and solar
-  - Input preparation (KNF, JADAM)
+  - Power and solar generation
+  - KNF and JADAM input preparation area
   - Nursery site
 
-The 25-hectare block size was chosen to allow wildlife corridors approximately every half kilometre, promoting biodiversity and offering unmanaged spaces. Adjacent blocks would share a 20 m combined wild buffer. Buffer zones will receive biochar, foliars, and irrigation but no pruning or disturbance beyond that. 
+The 25-hectare block size was selected to promote wildlife corridors approximately every half kilometre, enhancing biodiversity and allowing for unmanaged natural spaces. Adjacent blocks share a 20 m combined wild buffer. Buffer zones will receive biochar, foliar feeds, and irrigation but will be left otherwise undisturbed.
 
-Central infrastructure clusters around the pond to maximize efficiency: nursery space, water storage, and workspace for KNF input preparation.
-
----
-
-## 🌾 Row Types
-
-- Alternating patterns of target tree rows:
-  - **50% edible/medicinal focus**
-  - **50% biomass focus**
-- Biomass alley crops integrated between rows
+Centralized infrastructure around the pond maximizes operational efficiency: water storage, nursery space, and input preparation facilities.
 
 ---
 
-## 🌻 Seedball Strategy for Planting
-
+## 🌾 Row Types and Planting Strategy
+**Initial Planting**
 - **Sunflowers**: Annual taproot openers, 1 m grid spacing
 - **Comfrey**: Perennial biomass species, 1 m grid, offset between sunflowers
-- **Daikon radish**: Additional annual taproot openers planted between comfrey and sunflowers
-- **Groundcover mix**: Broadcast low-growing, beneficial species (clover, yarrow, trefoil, purslane, etc.)
-- **Biomass Trees**: Started in nursery, transplanted in fall after sunflowers are chopped down
+- **Daikon radish**: Additional annual taproot openers between sunflowers and comfrey
+- **Groundcover mix**: Broadcast low-growing beneficial species (clover, yarrow, trefoil, purslane, etc.)
+- **Biomass Trees**: Raised in nursery, transplanted into place after sunflowers are chopped
 
-**Planting Workflow**:
-- Sunflowers are planted on a 1 m grid to punch initial holes through the soil.
-- Comfrey seeded offset between sunflower grid points.
-- Daikon radishes interplanted between comfrey and sunflower points.
-- A diverse groundcover is broadcast throughout.
-- In the fall, sunflowers are chopped and replaced by biomass trees transplanted from the nursery.
-- Minimal soil disturbance beyond initial tree row trenching; future plantings rely on seedballs and transplanting only.
+**Pre-Planting Workflow**:
+- Sunflowers create initial vertical taproot pathways.
+- Comfrey establishes deep perennial roots offset between sunflower points.
+- Daikon radish assists rapid initial soil breakup.
+- Diverse groundcover broadcast early for ground-layer biodiversity.
+- Fall transplanting of nursery-raised biomass trees replaces chopped sunflowers.
+
+**Row and Alley Planting**:
+- Initial soil disturbance limited to a single trench pass for tree rows.
+- All perennial crops established from nursery transplants; all others seeded by seedball.
+- Alley structure:
+  - Either 50% edible/medicinal trees + 50% biomass trees with full biomass alleys
+  - Or 100% biomass tree rows with mixed edible/biomass alley crops
+- As trees mature:
+  - **Annual canopy lifting** through pruning
+  - **Understory planting** beneath rising canopies
+  - **Succession management** by removing overly tall or poorly adapted trees
+- Annual planting cycles:
+  - Constant introduction of new trees and plants
+  - "Cull the weak, keep the strong" to evolve the site naturally
+- Biodiversity prioritized:
+  - Begin with natives, expand into adjacent climate analogs
+  - Use all available plants, let nature sort out the winners
+
+> Early emphasis on deep soil carbon establishment, followed by full vertical and horizontal biomass expansion.
 
 ---
 
-## 🧪 Soil Inputs
+## 🧪 Soil and Foliar Inputs
 
 - **Weekly JMS and IMO applications**
-- **Biochar** applied post-inoculation (JMS, IMO, Johnson-Su)
-- Long-term composting via Johnson-Su bioreactors and cover crop residues
-- **KNF natural inputs** for foliar and soil drenching
-- **No pesticides, herbicides, fungicides, or synthetic fertilizers**
+- **Annual biochar application** during snow-free periods and after pruning
+- **Compost** composting via Johnson-Su bioreactors
+- **KNF natural inputs** for foliar and soil drenches
+- **Strict no-use policy** on pesticides, herbicides, fungicides, and synthetic fertilizers
 
-> Waste streams unsuitable for biochar kilns (like woodchips and sawdust) are repurposed for soil building as mulch.
+**Notes:**
+- Frequent microbial and foliar inputs counter rapid soil evolution stresses.
+- Weekly JMS/IMO applications ensure post-biochar inoculation without needing separate pre-inoculation steps.
+- Local organic waste streams (e.g., sawdust, woodchips) used as mulch where biochar is unsuitable.
 
 ---
 
 ## 🔄 Planting Phases
 
 ### Phase 1 – Biomass & Soil Building
-- Land clearing and soil preparation
-- Early IMO and JMS applications
+- Land clearing
+- Early IMO and JMS inoculations
 - Broadcasting seedballs and cover crops
-- Establishing nursery site
+- Establishing nursery operations
 
 ### Phase 2 – Food Forest Structuring
-- Transplanting trees from nursery
-- Planting diverse understory species via seedballs
-- Organizing permanent rows and alleys
-- Pruning and managing plant succession dynamics
+- Single initial trencher pass for tree rows
+- Fall transplanting of nursery-raised trees
+- Seedball planting of diverse understory species
+- Permanent alley and row organization
+- Ongoing pruning and succession management
 
 ### Phase 3 – Continuous Improvement and R&D
-
-- **Irrigation**: 
-  - Automated irrigation systems scalable from groundwater/surface water to atmospheric harvesting
+- **Irrigation**:
+  - Automation of water delivery from surface/ground sources, expanding toward atmospheric harvesting
 - **Biochar Production**:
-  - Streamlining and automating biochar workflows with conveyor and grinder systems
+  - Streamlining workflows with conveyors and grinding systems
 - **Drone Use**:
-  - Drone seeding, foliar feeding, and field scouting before fixed irrigation is deployed
+  - Drone seeding, foliar applications, and field scouting for new sites
 - **Breeding Program**:
-  - Breeding new plant lines specifically adapted to high-biochar, microbially active soils
+  - Adapting plant lines to evolving biochar-rich, microbially active soils
 - **Augmented Reality Integration**:
-  - AR glasses/headsets for visual planting grids and live field data collection
+  - AR glasses/headsets for real-time visual planting grids and field data collection
 - **Knowledge Documentation**:
-  - Open-access media documentation (e.g., YouTube) for transparent global replication
+  - Open-access publishing (YouTube, GitHub, etc.) for replicable carbon farming models
 
 See [`docs/farm-rnd.md`](../farm-rnd.md) for expanded research and development goals.
 
-> **This layout evolves as we learn** — Field trials, soil data, and yield tracking will drive continuous improvements.
+> **This layout evolves continuously** — Field experimentation, soil data, and ecosystem feedback loops drive ongoing refinements.
 

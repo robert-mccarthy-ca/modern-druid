@@ -24,6 +24,7 @@ Centralized infrastructure around the pond maximizes operational efficiency: wat
 ---
 
 ## 🌾 Row Types and Planting Strategy
+
 **Initial Planting**
 - **Sunflowers**: Annual taproot openers, 1 m grid spacing
 - **Comfrey**: Perennial biomass species, 1 m grid, offset between sunflowers
@@ -71,6 +72,44 @@ Centralized infrastructure around the pond maximizes operational efficiency: wat
 - Frequent microbial and foliar inputs counter rapid soil evolution stresses.
 - Weekly JMS/IMO applications ensure post-biochar inoculation without needing separate pre-inoculation steps.
 - Local organic waste streams (e.g., sawdust, woodchips) used as mulch where biochar is unsuitable.
+
+---
+
+## 💵 Soil Carbon Revenue Model
+
+- Syntropic agroforestry systems typically sequester **10–20 tonnes CO₂e per hectare per year**.
+- **For a 25-hectare block**:
+  - **Conservative estimate**: 250 tCO₂e/year
+  - **Moderate estimate**: 375 tCO₂e/year
+  - **Aggressive estimate**: 500 tCO₂e/year
+
+- Using a **target carbon credit price of $45 CAD per tonne** (Verra + CCB soil projects):
+
+| Estimate | Annual Soil Carbon Revenue (CAD) |
+|----------|-----------------------------------|
+| Conservative (10 tCO₂e/ha) | ~$11,250 |
+| Moderate (15 tCO₂e/ha)     | ~$16,875 |
+| Aggressive (20 tCO₂e/ha)   | ~$22,500 |
+
+> **Note**: These revenues are from soil carbon credits only and can be stacked with biochar carbon credit revenues and biochar sales for a multi-stream income model.
+
+---
+
+## 🧪 MRV (Monitoring, Reporting, Verification) Requirements
+
+- **Initial baseline soil sampling** to **3 metres depth** across project blocks before planting.
+- **Direct sampling method** for MRV:
+  - Full 0–3 m core samples, divided into depth segments (e.g., 0–30 cm, 30–100 cm, 100–300 cm).
+  - Carbon concentration, bulk density, and moisture content measured separately by depth.
+- **Annual or biennial re-sampling**:
+  - Always to full depth (3 m) to capture deep carbon accumulation.
+  - Higher effort but critical for scientific rigor, soil profile research, and long-term credibility.
+- **Additional MRV steps**:
+  - Georeferenced core locations
+  - Regular photo documentation
+  - Third-party lab analysis for soil organic carbon (SOC)
+
+> Choosing full-depth direct sampling increases verification credibility, builds a world-class soil dataset, and strengthens future carbon credit prices.
 
 ---
 

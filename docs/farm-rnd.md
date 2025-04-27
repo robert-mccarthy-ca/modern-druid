@@ -1,6 +1,6 @@
 # 🧪 Modern Druid – Farm R&D and Infrastructure Improvement Projects
 
-A master plan for long-term scalability, adaptation, and technological acceleration of carbon farming.
+A master plan for long-term scalability, adaptation, and technological acceleration of carbon farming. These are projects that would be started as soon as the site is fully planted, using the local development portion of the annual revenue to continuously improve the site's productivity and resilience to extreme climatic conditions.
 
 ---
 
@@ -28,10 +28,12 @@ A master plan for long-term scalability, adaptation, and technological accelerat
 - **Winterization**:
   - Heated sprayers for artificial snow application in snowless winters
 - **Maintenance Feeding Strategy**:
-  - Regular general inoculations, no growth-stage targeting
+  - Regular general foliar feeding, no growth-stage targeting
+  - IMO, JMS or Johnson Su extracts weekly through irrigation lines
 - **Automation Goals**:
-  - Scheduled spraying
-  - Remote override and monitoring
+  - Scheduled spraying after sunset
+  - Remote monitoring
+  - All irrigation, foliar feeding, inoculation and snow-making should eventually be automated
 
 ---
 
@@ -39,6 +41,8 @@ A master plan for long-term scalability, adaptation, and technological accelerat
 
 - **Kiln Sizing Optimization**:
   - Deeper or shallower kilns matched to ideal burn time and loader capacity
+- **Alternate Kiln Designs**:
+  - Experiment with alternate kiln design to lower labour or increase carbon sequestration
 - **Conveyor Systems**:
   - Post-quench dumping to trailer or automated conveyor system
   - Conveyed biochar fed into separate grinding/storage areas
@@ -57,11 +61,7 @@ A master plan for long-term scalability, adaptation, and technological accelerat
   - Mapping of rows and alleys
 - **Ongoing Operations**:
   - Drone-based foliar spraying (IMO, JMS, liquid KNF)
-  - Drone scouting for:
-    - Soil moisture levels
-    - Biomass health
-    - Tree growth patterns
-    - Disease detection
+  - Phases out as irrigation is deployed
 
 ---
 
@@ -70,10 +70,8 @@ A master plan for long-term scalability, adaptation, and technological accelerat
 - **Tree and Crop Nursery**:
   - Focus: plants adapted to biochar-enhanced, microbially rich soils
 - **Breeding Programs**:
-  - Apples and other non-true-breeding crops isolated for improved strains
-  - Oaks, chestnuts, maples, berry shrubs, nitrogen fixers
-  - All other plants that will grow there
-  - Introduce species from different areas as climate conditions continue to change
+  - Named cultivars would be grouped based on flavour profile and actively bred for improved flavour and vigor
+  - Keep seed from the best performing plants
 - **Seed-to-Seed Strategy**:
   - Continuous reseeding from best-performing stock
   - Oldest trees removed as replacements mature

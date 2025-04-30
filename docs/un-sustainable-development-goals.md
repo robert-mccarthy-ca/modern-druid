@@ -6,6 +6,10 @@ This document outlines how the **Modern Druid** carbon farming model directly su
 
 ## 🎯 SDG Contributions
 
+### **SDG 1 – No Poverty**
+- Farms continue to spawn new farms until the community is fully employed or runs out of land
+- Developed nation level wages
+
 ### **SDG 2 – Zero Hunger**
 - Establishment of **free food forests** for local communities
 - Year-round food production via syntropic agroforestry methods
@@ -16,19 +20,18 @@ This document outlines how the **Modern Druid** carbon farming model directly su
 - No synthetic pesticide, fungicide, or herbicide use
 - Free public access to clean, nutrient-rich food sources
 
-### **SDG 6 – Clean Water and Sanitation**
-- **Passive water harvesting systems** (radiative panels, atmospheric water collectors)
-- **Water recycling and soil hydration strategies** using captured and quench waters
-- Reduction of groundwater extraction pressures
-
-### **SDG 7 – Affordable and Clean Energy**
-- Deployment of **solar power** and **vertical axis wind turbines** for farm operations
-- Research and prototyping of low-energy water harvesting and processing technologies
-
 ### **SDG 8 – Decent Work and Economic Growth**
 - **50% of all revenue** directed to employee wages and bonuses
 - Creation of dignified, regenerative agriculture jobs in rural areas
 - Equitable pay structure across global deployment (same pay in developing and developed nations)
+
+### **SDG 10 – Reduced Inequality**
+- Same wages anywhere in the world
+- International markets pay the same everywhere
+
+### **SDG 11 – Sustainable Cities and Communities**
+- Food source is now local and carbon negative
+- Sustainable irrigation means they **stay sustainable** through droughts
 
 ### **SDG 12 – Responsible Consumption and Production**
 - Conversion of **local organic waste streams** into biochar and mulch
@@ -38,28 +41,12 @@ This document outlines how the **Modern Druid** carbon farming model directly su
 ### **SDG 13 – Climate Action**
 - Verified removal of atmospheric CO₂ through **soil carbon sequestration** and **biochar application**
 - Open-source replication model to enable global scaling
-- Contribution to reversing climate tipping points by 2030+ timeframe
+- Contribution to reversing atmospheric carbon dioxide
 
 ### **SDG 15 – Life on Land**
 - Restoration of **degraded lands** through perennial polycultures and food forests
 - Promotion of **native biodiversity** and wildlife corridors
 - Soil regeneration practices prioritizing microbial and fungal diversity
-
-### **SDG 17 – Partnerships for the Goals**
-- Open-access knowledge sharing (YouTube, GitHub, training libraries)
-- Designed to **empower local communities** to create autonomous carbon farms
-- Seeks partnerships with educational institutions, NGOs, and regenerative agriculture networks
-
----
-
-## 📈 Potential Secondary Contributions
-
-| SDG | Potential Contributions |
-|-----|--------------------------|
-| 1 – No Poverty | If future sites are deployed in marginalized communities, offering food and income security |
-| 4 – Quality Education | If formal training programs and certifications are developed for carbon farming techniques |
-| 10 – Reduced Inequality | Promoting income equality between developing and developed regions through pay structure |
-| 11 – Sustainable Cities and Communities | Integrating peri-urban carbon farms around major cities for food and carbon drawdown |
 
 ---
 

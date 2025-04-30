@@ -2,7 +2,7 @@
 
 **Open-source carbon farming for a livable planet.**
 
-Modern Druid is my attempt to build/design a globally replicable, revenue-generating carbon farming model — one that sequesters atmospheric carbon, restores degraded land, and provides free food to communities — all while paying workers fairly and preparing for global deployment by 2030.
+Modern Druid is my attempt to build/design a globally replicable, revenue-generating carbon farming model — one that sequesters meaningful levels of atmospheric carbon, restores degraded land, and provides free food to communities — all while paying workers fairly and preparing for global deployment by 2030. True carbon dioxide removal.
 
 This model earns revenue from **international voluntary carbon markets**, meaning it’s largely insulated from national political will and can generate the same income level whether built in Canada, Kenya, or Cambodia.
 
@@ -16,15 +16,15 @@ A syntropic agroforestry system can produce approximately **10 tonnes of dry bio
 
 Using a conservative estimate (10 tonnes/acre), we can sequester about **3.25 tonnes of CO₂ per acre per year** by converting the biomass into high-carbon biochar. To offset just **1 ppm of atmospheric CO₂** (7.81 Gt), it would take **~887 million acres** — or about **10% of global farmland**.
 
-And that’s just the biochar. It doesn’t count the **soil carbon** captured by our perennial food forests.
+And that’s just the biochar. That doesn’t even count the **soil carbon** captured by our perennial food forests. But forests burn, so to prevent that we need secure irrigation, extracted from the atmosphere.
 
-With global replication, this model could remove **multiple ppm of CO₂ per year**, while providing food security, ecological regeneration, and meaningful jobs in every region of the world. It’s not just a farm — it’s a tool for **ending extractive agriculture** and replacing it with something that feeds everyone and heals everything.
+With global replication, this model could remove **multiple ppm of CO₂ per year**, while providing food security, ecological regeneration, and meaningful jobs in every region of the world. It’s not just a farm — it’s a tool for **ending extractive agriculture** and replacing it with something that feeds everyone and heals everything. This will require international regulatory carbon markets with a minimum price, but to get there, we need to show that carbon markets can work at scale. Using the voluntary carbon markets, this project will attempt to demonstrate that a price on carbon can indeed draw down carbon in a meaningful way.
 
 ---
 
 ## ⚡ Why Free Food?
 
-We give the food away. All of it. Not because there isn’t profit in food — but because **there’s more carbon to draw down** if we don’t waste time on harvest logistics, sales, and transport. Let the people pick their own damn food.
+We give the food away. All of it. Not because there isn’t profit in food — but because **there’s more carbon to draw down** if we don’t waste time on harvest logistics, sales, and transport. Let the people pick their own damn food, we're busy sequestering carbon.
 
 And more importantly, we want to **crush degenerative industrial agriculture** with simple market forces: it's hard to compete with free.
 
@@ -113,9 +113,6 @@ Each site runs on a **20-year cycle**, with revenue split as follows:
 - **20% to the local site**
 - **10% to the global project**
 - **20% to remote expansion** — every farm funds the next one
-
-Once hardened (sustainable irrigation, automation, resilience):
-- Profits are split 50/50 between employees and the farm manager
 
 At the end of the 20 years:
 - The farm is handed over to the local farm manager

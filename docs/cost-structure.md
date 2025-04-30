@@ -9,7 +9,7 @@ Modern Druid's cost structure is designed to prioritize essential systems first 
 ### 1. **Land Acquisition**
 - **Purchase** cost of farmland (costs vary widely by region)
 - Target: Minimum 25 hectares per farm block
-- Minimum number of blocks to reliably produce enough biomass: ???
+- Minimum number of blocks to reliably produce enough biomass: 4-8 (100-200 hectares)
 
 ### 2. **Baseline MRV and Soil Testing**
 - Initial full-depth (0–3m) soil core sampling and third-party lab testing

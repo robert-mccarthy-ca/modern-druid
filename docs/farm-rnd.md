@@ -79,6 +79,16 @@ A master plan for long-term scalability, adaptation, and technological accelerat
 
 ---
 
+## Greenhouse Development
+
+- **Annual Crops**:
+  - Make sure the locals have basic food through the winter as well
+  - Leftover biomass used for mulch or biochar
+- **Biomass Crops**:
+  - Indoor extended season C4 crops like sugarcane could produce prodigious levels of biomass for biochar
+
+---
+
 ## 🥽 Augmented Reality (AR) for Field Operations
 
 - **AR Glasses and Headsets**:

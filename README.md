@@ -112,10 +112,10 @@ Each site runs on a **20-year cycle**, with revenue split as follows:
 - **50% to employees**
 - **20% to the local site**
 - **10% to the global project**
-- **20% to remote expansion** — every farm funds the next one
+- **20% to remote expansion** — every farm funds new farms as a standard core practice
 
 At the end of the 20 years:
-- The farm is handed over to the local farm manager
+- The farm is handed over to the farmers who ran it
 - Then we move on to the next neglected patch of earth
 
 ---
@@ -145,5 +145,4 @@ Open an issue, propose improvements, or fork it to build your own farm.
 
 ## 📜 License
 
-None yet — but you’re welcome to start your own farm based on this.  
-Once the project hits launchable status, it’ll be released under a permissive license that protects its purpose and ensures equitable replication.
+None yet, once the project hits launchable status, it’ll be released under a permissive license that protects its purpose and ensures equitable replication.

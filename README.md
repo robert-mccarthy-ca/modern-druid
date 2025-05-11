@@ -2,9 +2,9 @@
 
 **Introducing carbon farming as a profession for a livable planet.**
 
-Modern Druid is my attempt to design (and hopefully build) a globally scalable, revenue-generating carbon farming model — one that sequesters meaningful levels of atmospheric carbon, regenerates nearly any farmland or any other underutilized land, and provides free food to the communities they're based in. 20 year projects where we buy the land, build a community food forest and grow biomass for biochar, earning our revenue from carbon removal credits in international voluntary carbon markets, and pay our employees equitably with a 50% of revenue going to employee wages. Cap the wage gap between new hire and farm manager to double based on hours worked. Keep all employees directly and meaningfully motivated to outperform anything the world has ever seen before. At the end of the project, the farmers who worked that project get to keep the land. Scalable to multiple parts per million of carbon dioxide removal annually as long as the price of carbon doesn't fall. Since that would basically take solving the carbon crisis to cause it, I can live with the risk of climate change being a solved problem within a few years. 
+Modern Druid is my attempt to design (and hopefully one day get to build) a globally scalable, revenue-generating carbon farming model — one that sequesters meaningful levels of atmospheric carbon, regenerates nearly any farmland or any other underutilized land, and provides free food to the communities they're based in. 20 year projects where we buy the land, build a community food forest and grow biomass for biochar, earning our revenue from carbon removal credits in international voluntary carbon markets, and pay our employees equitably with a 50% of revenue going to employee wages. Cap the wage gap between new hire and farm manager to double based on hours worked. Keep all employees directly and meaningfully motivated to outperform anything the world has ever seen before. At the end of the project, the farmers who worked that project get to keep the land. Scalable to multiple parts per million of carbon dioxide removal annually as long as the price of carbon doesn't fall too low. Since carbon markets crashing would require substantial climate progress, I can live with the risk of climate change miroculuously working itself out on its own.
 
-Ideally this would eventually be a using UN based carbon removal market system, but that doesn't exist today. The closest we have are the voluntary carbon markets, which are international ... so you can make the same amount of money doing this in Canada as you can in Uruguay or Kenya. Globally reproducible. This model earns revenue from **international voluntary carbon markets**, meaning it’s largely insulated from national political will. It also meets 9 out of the 17 UN Sustainable Development Goals, so hopefully we get a good price on our credits. And simply by not going for all the profits, by not being too greedy, we can give the food away for free and put the first nail in the coffin of the biocide based destructive agriculture industry that is destroying the world's soils. It's hard to compete with free after all.
+Ideally this would eventually be a using UN based carbon removal market system, but that doesn't exist today. The closest we have are the voluntary carbon markets, which are international ... so you can make the same amount of money doing this in Canada as you can in Uruguay or Kenya. Globally reproducible. This model earns revenue from **international voluntary carbon markets**, meaning it’s largely insulated from national political will. It also meets 9 out of the 17 UN Sustainable Development Goals, so hopefully we get a good price on our credits. And simply by not going for all the profits, by not being too greedy, we can give the food away for free and put the first nail in the coffin of the biocide based destructive agriculture industry that is destroying the world's soils. It's hard to compete with free, fresh, local and organic after all.
 
 We combine **biochar production**, **syntropic agroforestry**, and **natural farming** to build climate resilience, enrich soil, and create a blueprint for distributed, regenerative carbon removal. Each farm is designed to continously **spawn new farms**, creating an exponential growth curve toward an actual global impact. Irrigation will need to be upgraded to sustainably harvest and store water through **pond storage** and **atmospheric water harvesting** or **desalination** depending on the area, because we’ve crossed too many climate tipping points to count on historical rainfall patterns and forests burn. This can be boostrapped anywhere with water today, but it will be fragile in the face of several degrees of global warming without irrigation, which appears to be where we're headed.
 
@@ -24,7 +24,7 @@ This will require international regulatory carbon markets with a minimum price, 
 
 We give the food away. All of it. Not because there isn’t profit in food — but because **there’s more carbon to draw down** if we don’t waste time on harvest logistics, sales, and transport. Let the people pick their own damn food, we're busy sequestering carbon.
 
-And more importantly, we want to **crush degenerative industrial agriculture** with simple market forces: it's hard to compete with free. It’s not just a farm — it’s a tool for **ending extractive agriculture** and replacing it with something that feeds everyone and heals everything.
+And more importantly, we want to **crush extractive, degenerative, toxin-based, ecologically destructive industrial agriculture** with simple market forces: our food is organically grown, fresh, local and most importantly, free ... compete with that. It’s not just a farm — it’s a tool for **ending extractive agriculture** and replacing it with something that feeds everyone and heals everything.
 
 If we can prove this model works, carbon markets will reward it, farmers will copy it, and no one will be able to justify spraying poisons on monocrops ever again.
 
@@ -44,15 +44,15 @@ Maybe all the above.
 
 That might finally be the moment the world wakes up — and when it does, it’s going to need a fully documented, globally ready carbon farming system to deploy **immediately**.
 
-**All training will be digital and open-source.** Anyone who wants to do this isn't competing *against* us — they're competing *with* us. We're all racing against ecological collapse.
+**All training will be digital and open-source.** Anyone who wants to do this isn't competing *against* us — they're competing *with* us. We're all racing against ecological collapse and our own extinction.
 
 ---
 
 ## 🌿 Why Bother?
 
-Because I like forests. Because I like food.
+Because I like forests. Because I like food. Because I live here.
 
-Because neither the forests nor our food supply will exist in 20 years unless someone builds a way to stop the burn. And because I'd rather fix the carbon problem than chase food profits.
+Because neither the forests nor our food supply will exist here or anywhere else in 20 years unless someone builds a way to stop the runaway carbon dioxide levels. And because I'd rather get paid to fix the carbon problem than chase food profits to make people pay me for the privilege of eating healthy food.
 
 ---
 
@@ -61,7 +61,7 @@ Because neither the forests nor our food supply will exist in 20 years unless so
 - **Profitability** from verified carbon removal credits and biochar sales
 - **Replicable by 2030** and deployed to at least one new site
 - **Full transparency** and open access to all workflows, designs, and verification methods
-- **Non-exploitative revenue sharing**: 50% of all farm revenue goes to employees, equally across borders, but each farm is separate so every farm worker has a very direct incentive to succeed
+- **Non-exploitative revenue sharing**: 50% of all farm revenue goes to employees, equally across borders, but each farm is separate so every farm worker has a very direct incentive to make their site succeed
 - **Community-first food systems**: All food is free to the public
 - **Global readiness**: All training materials are online, pre-recorded, and free to use
 
@@ -180,7 +180,7 @@ By 2030, Modern Druid aims to:
 This is meant to be an openly available project.
 Feel free to open an issue, propose improvements, or fork it to build your own farm.
 
-> Still just one dude with a crazy idea that won't stop running through his head. But let’s try anyway. Let's at least hammer out the idea, see if it's sound before abandoning it.
+> This is still just one dude with a crazy idea that won't stop running through his head. But let’s try anyway. Let's at least hammer out the idea, see if it's sound before abandoning it.
 
 ---
 

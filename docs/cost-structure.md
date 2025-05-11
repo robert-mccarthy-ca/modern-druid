@@ -8,8 +8,7 @@ Modern Druid's cost structure is designed to prioritize essential systems first 
 
 ### 1. **Land Acquisition**
 - **Purchase** cost of farmland (costs vary widely by region)
-- Target: Minimum 25 hectares per farm block
-- Minimum number of blocks to reliably produce enough biomass: 4-8 (100-200 hectares)
+- Target: 100-200 hectares for initial test site, smaller expansions should be possible after minimum Puro requirements are met
 
 ### 2. **Baseline MRV and Soil Testing**
 - Initial full-depth (0–3m) soil core sampling and third-party lab testing
@@ -30,6 +29,7 @@ Modern Druid's cost structure is designed to prioritize essential systems first 
 ### 5. **Essential Equipment**
 - Small tractor or loader
 - Trailers for biomass and biochar transport
+- Vehicles for hauling trailers and biomass
 - Soil augers or hydraulic corers (for MRV sampling)
 - Water tanks and pumps
 
@@ -49,7 +49,7 @@ Modern Druid's cost structure is designed to prioritize essential systems first 
 - Emissions monitoring (where applicable)
 
 ### 2. **Labour**
-- Crew wages (3-person minimal crew to start)
+- Crew wages
 - 50% of revenue allocated to wages under Modern Druid revenue-sharing model
 
 ### 3. **Biomass Management**
@@ -60,6 +60,8 @@ Modern Druid's cost structure is designed to prioritize essential systems first 
 - Kiln maintenance
 - Pond maintenance and atmospheric water harvesting system upkeep
 - Solar and wind generation maintenance
+- Irrigation
+- Water harvesting
 
 ### 5. **Knowledge Documentation**
 - Media production (video, blog, website hosting)
@@ -69,9 +71,9 @@ Modern Druid's cost structure is designed to prioritize essential systems first 
 
 ## 📈 Prioritization Strategy
 
-- **Phase 1**: Secure land, complete MRV baseline, build first kilns, build kiln building, build nursery, start biomass and nursery cycles.
-- **Phase 2**: Expand kiln capacity, automate biochar handling, install water harvesting.
-- **Phase 3**: Optimize farm operations, initiate drone and AR integration, publish full replication kits.
+- **Phase 1**: Secure land, complete MRV baseline, build first kilns, build kiln building, build nursery, microbial surveys and inoculations, start planting the first phase of the food forest.
+- **Phase 2**: Expand kiln capacity, automate biochar handling, install irrigation and water harvesting.
+- **Phase 3**: Optimize farm operations, initiate drone and AR integration, publish full replication kits, continue adding sustainable irrigation, start new farms.
 
 ---
 

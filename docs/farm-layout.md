@@ -29,34 +29,38 @@ Centralized infrastructure around the pond maximizes operational efficiency: wat
 - **Sunflowers**: Annual taproot openers, 1 m grid spacing
 - **Comfrey**: Perennial biomass species, 1 m grid, offset between sunflowers
 - **Daikon radish**: Additional annual taproot openers between sunflowers and comfrey
-- **Groundcover mix**: Broadcast low-growing beneficial species (clover, yarrow, trefoil, purslane, etc.)
-- **Biomass Trees**: Raised in nursery, transplanted into place after sunflowers are chopped
+- **Groundcover mix**: Broadcast low-growing beneficial species (clover, yarrow, trefoil, purslane, etc.) with a focus on anything with a deep taproot
+- **Black Locust**: Either raised in nursery, transplanted into place after sunflowers are chopped, or planted with seedballs after chop
 
 **Pre-Planting Workflow**:
 - Sunflowers create initial vertical taproot pathways.
 - Comfrey establishes deep perennial roots offset between sunflower points.
 - Daikon radish assists rapid initial soil breakup.
 - Diverse groundcover broadcast early for ground-layer biodiversity.
-- Fall transplanting of nursery-raised biomass trees replaces chopped sunflowers.
+- Fall transplanting of nursery-raised biomass trees replaces chopped sunflowers, reusing the hole from the giant taproot that will now decompose.
 
 **Row and Alley Planting**:
 - Initial soil disturbance limited to a single trench pass for tree rows.
-- All perennial crops established from nursery transplants; all others seeded by seedball.
+- Named cultivars established from nursery transplants; all others seeded by seedball.
 - Alley structure:
   - Either 50% edible/medicinal trees + 50% biomass trees with full biomass alleys
   - Or 100% biomass tree rows with mixed edible/biomass alley crops
 - As trees mature:
   - **Annual canopy lifting** through pruning
   - **Understory planting** beneath rising canopies
-  - **Succession management** by removing overly tall or poorly adapted trees
+  - **Succession management** by removing overly tall, poorly adapted trees, or trees that have better genetic stock to replace them
 - Annual planting cycles:
   - Constant introduction of new trees and plants
   - "Cull the weak, keep the strong" to evolve the site naturally
 - Biodiversity prioritized:
   - Begin with natives, expand into adjacent climate analogs
   - Use all available plants, let nature sort out the winners
+- Breeding stock:
+  - selectively breed for our new and evolving soil conditions, because there's never been a modern terra-pretafied natural farming syntropic agroforestry system in place, so we'll need to breed our own seed stocks.
+  - even plants that do not grow true from seed like apples should be part of a breeding program, although this may take keeping different taste profiles isolated to common areas to keep the genetics from merging. A tart apple should be placed near other tart apples for example.
+  - breed for vigor, yield and biomass
 
-> Early emphasis on deep soil carbon establishment, followed by full vertical and horizontal biomass expansion.
+> Early emphasis on deep soil carbon establishment, followed by full vertical and horizontal biomass expansion. We would start by punching deep taproots all across the land, focusing on deep rooted plants that produce minimal lateral root competition, and introducing all the microbial diversity we can harvest from the local environments.
 
 ---
 
@@ -126,7 +130,9 @@ Centralized infrastructure around the pond maximizes operational efficiency: wat
 - Fall transplanting of nursery-raised trees
 - Seedball planting of diverse understory species
 - Permanent alley and row organization
-- Ongoing pruning and succession management
+- Ongoing pruning, canopy and succession management
+- Biochar applications
+- Mulch applications (non-kilnable biomass)
 
 ### Phase 3 – Continuous Improvement and R&D
 - **Irrigation**:

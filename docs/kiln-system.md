@@ -1,14 +1,16 @@
 ## 🔥 Biochar Kiln System – Modern Druid
 
-The heart of the Modern Druid carbon farm is a scalable, loader-accessible **flame cap kiln system** designed for small teams to produce high-quality biochar safely and efficiently.
+The heart of the Modern Druid carbon farm is a line of **flame cap kiln systems** designed for small teams to produce high-quality biochar safely and efficiently.
 
-Kilns are fixed in place, filled by loader, topped up by hand during burns, and quenched via a push-button automated system. Once quenched and drained, the biochar is dumped into a trailer and hauled to a secondary processing site for crushing and storage.
+Kilns are fixed in place, filled by loader, topped up by hand during burns, and quenched via a push-button automated system. Once quenched and drained, the biochar is dumped into a trailer and hauled to a secondary processing site for drying, weighing, crushing and storage. The kilns are then reset for the next run.
+
+The complicated part is the logistics. We avoid most of this by growing our own biomass and just applying it instead of selling it. Any sales would be online, simply pack and ship. Flame cap kilns are low tech, and can be constructed anywhere in the world from local materials. The only technical part is the emissions monitoring and safe construction of a kiln building. The rest is basically large fancy bonfires.
 
 ---
 
 ## 🛠 Kiln Design Goals
 
-- **Fixed-position, insulated kilns** with a tilting mechanism for easy unloading
+- **Fixed-position, insulated kilns** with a tilting mechanism for easy unloading and reset, maximizing up time
 - **Automated quench and drain system** to minimize labour and risk
 - **Windbreak-style kiln building**, open-air with forced-air exhaust chimneys
 - **No emissions capture required**, but **MRV-compliant emissions monitoring**
@@ -19,21 +21,24 @@ Kilns are fixed in place, filled by loader, topped up by hand during burns, and 
 
 ## 🔥 Kiln Function & Workflow
 
-Flame cap kilns are a low-tech, low-emissions method of producing biochar by continuously adding biomass over the flame to reduce oxygen exposure and retain carbon. They're fast, scalable, and simple to build using local materials. Kiln crews would be 2 kiln operators and a loader/driver. This is for safety reasons, if an accident happens with tons of coals, someone needs to be able to operate fire suppression equipment if there's an injury or emergency. The goal is to have a single kiln operator manage 2 or 3 5-yard kilns each and get 2 runs in in a day.
+Flame cap kilns are a low-tech method of producing biochar by continuously adding biomass over the flame to reduce oxygen exposure and retain carbon. They're fast, scalable, and simple to build using local materials. Kiln crews would be 2 kiln operators and a loader/driver. This is for safety reasons, if an accident happens with tons of burning coals, someone needs to be able to operate fire suppression equipment if there's an injury or emergency. The goal is to have a single kiln operator manage 3 or more 5-yard kilns each and get 2 runs in in a day. 5 yards was chosen as an arbitrary size that could be managed by hand. Exact measurements would have to be determined during prototyping phase. Ring of Fire kilns are the design inspiration (keep up the good work Kelpie!), but a sturdier, insulated, mounted version on a tiltable platform that you could tip out the kiln onto a trailer. The design would need to be sturdy enough to be loaded by loader on a daily basis and would need drainage to a quench water tank and a quench system that would simply fill the kiln with water when triggered. The quench system being automated means the operators don't need to get scalded with steam and can go back to maintaining the fires. All of this would take place in kiln building which would have its lower building side walls cut out, so the entire building becomes a fume hood. The chimneys would be actively exhausted as well, with emissions monitoring equipment in each chimney for Puro MRV compliance. This also operates as a passive safety feature where dangerous levels of carbon dioxide cannot build up as the tops and the bottom are both open, even in the event of total equipment failure.
 
-- Kilns are arranged in a line on a **raised platform**
+- Kiln building captures emissions for monitoring
+- Kiln building brings in fresh air for combustion through passive openings that can never fail regardless of power loss
+- Kilns are arranged in lines on a **raised platform** for efficiency in draining and dumping
+- Additional biomass required during the burn is stored in adjacent bins
 - Biomass is loaded in bulk via loader from below and **topped up by hand** during combustion
 - At completion, operators hit a **quench button** to flood the kiln with water
 - After cooling and stirring, the water is **drained into a recovery tank** for reuse or soil application
-- Once drained, the biochar is **dumped into a trailer** and transferred to a secondary structure for weighing, grinding, drying, and storage
+- Once drained, the biochar is **dumped into a trailer** and transferred to a secondary structure for drying, weighing, grinding, and storage
 
-Grinding and packaging are done in a separate building for safety and air quality. Finished biochar may be sold (if certified) or applied directly to the food forest.
+Grinding and packaging are done in a separate building for safety and air quality. Finished biochar may be sold (if certified) or applied directly to the food forest. The food forest should get at least half of the biochar produced from its biomass. Biochar made from industrial waste streams could simply be sold if markets support it, or used in the food forest.
 
 ---
 
 ## 🧊 Seasonal Workflow & Throughput
 
-To start, the core staff would be working over the winter making biochar, which gets a fairly robust production capacity just from November 1 to April 30. These numbers assume a 12 hour work day, 3 days a week. The difference between an operator who can handle 2 kilns at a time and an operator that can handle 3 is substantial, so improving those efficiencies would make a large difference. Sales would also add to these figures, but assuming enough biomass could be secured, being able to produce 2 kiln runs a day per operator and the operator operating at least 2 kilns themselves witha 3rd operator to reload the kilns and haul away and grind the biochar. The biochar output is enough to pay for additional seasonal food forest employees until that side brings in revenue. Once biochar sales revenue starts, that is in addition to the money we get for the credits.
+To start, only the core staff would be working over the winter making biochar, which has a fairly robust production capacity just from November 1 to April 30. These numbers assume a 12 hour work day, 3 days a week. The difference between an operator who can handle 2 kilns at a time and an operator that can handle 3 is substantial, so improving those efficiencies would make a large difference. Sales would also add to these figures, but assuming enough biomass could be secured, being able to produce 2 kiln runs a day per operator and the operator operating at least 2 kilns themselves with a 3rd operator to reload the kilns and haul away and grind the biochar. The biochar output is enough to pay for additional seasonal food forest employees until that side brings in revenue in addition to the core staff. Once biochar sales revenue starts, that is in addition to the money we get for the credits.
 
 **Core kiln season**: **November 1 to April 30** (26 weeks)
 - **3 days per week**, 2 burns per day
@@ -65,11 +70,13 @@ Each 5 cubic yard kiln run is calculated as follows:
 - **Biochar produced**: ~**894 tonnes**
 - **Biomass processed**: ~**2,981 tonnes**
 - **CO₂e sequestered**: ~**2,627 tonnes**
-- **Revenue (@ $200 CAD/tCO₂e)**: ~**$525,383 CAD**
+- **Revenue (@ $200 CAD/tCO₂e)**: ~**$525,383 CAD** (26 weeks × 3 days/week × 2 burns/day × 12 kilns)
 
-> ⚠️ **Important**: These biomass volumes (~2,000 to 3,000 tonnes) would require either a **very large site** capable of producing that volume of biomass or reliable **partner relationships** with forestry or agricultural operations with waste streams. This scale is **not expected at startup**, but it is useful for understanding scaling potential.
+These biomass volumes (~2,000 to 3,000 tonnes) would require either a **large site** capable of producing that volume of biomass or reliable **partner relationships** with forestry or agricultural operations with waste streams. That being said, after the initial project meets Puro's minimum size requirements, additional sites could be started smaller, or kiln sites could be located at extremely large waste source sites.
 
-> The seasonal throughput of a single 3-person crew (8 kilns over 3 days/week during winter) producing over **1,100 tonnes of biochar** is a critical startup capacity baseline.
+> The seasonal throughput of a single 3-person crew (8 kilns over 3 days/week during winter) sequestering over **1,000 tonnes of carbon dioxide** is a critical startup capacity baseline. This is to meet Puro.Earth's minimum size requirements, and this is critically necessary as biochar carbon credits are the financial backbone of the project.
+
+Areas with large industrial waste streams such as forestry could see early profitability if the logistics of getting the biomass to the site are easy and cheap enough. Satellite kiln operations that ship biochar to the farms could be another option as we expand.
 
 ---
 
@@ -93,7 +100,7 @@ For scaling up, two dedicated 3-person kiln crews running **6 days a week year-r
 
 These numbers assume consistent feedstock quality, sufficient drying/storage capacity, and uninterrupted operations. At this scale, **on-site biomass generation is unlikely to suffice**, making reliable external partnerships essential and a key part of profitability and how much we can afford for additional summer labour, either to retrieve the biomass or to work in the food forest.
 
-This represents the **maximum scalable throughput** for a single site with 2 full-time kiln crews. Multiple such sites could be coordinated under the same replication model and funding strategy, or a second line of kilns could be placed in the same building if large enough, etc.
+This represents the **maximum scalable throughput** for a single site with 2 full-time kiln crews. Multiple such sites could be coordinated under the same replication model and funding strategy, or longer lines of kilns could be placed in the same building if large enough, etc.
 
 ---
 
@@ -130,10 +137,6 @@ Biochar must be applied to soil or sold for stable use to qualify for credits. T
 
 - Finalize kiln design and dimensions
 - Design water recovery and quench system
-- Research affordable insulation options such as refractory cement or hempcrete
 - Plan biochar transfer and grinding workflow
 - Design fume hood structure for emissions monitoring
 - Prototype system in cold Canadian climate
-
-> This document will evolve as we prototype and scale. If you're building something similar — we’d love your input.
-

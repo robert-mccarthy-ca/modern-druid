@@ -13,10 +13,7 @@ This multi-stream model creates a resilient financial foundation, while keeping 
 - **Method**: Deep soil carbon sequestration verified via direct sampling to 3 metres.
 - **Volume**: 10–20 tonnes CO₂e per hectare per year.
 - **Pricing**: Target $45 CAD per tonne (aligned with high co-benefit CCB projects).
-- **Example for 25 ha block**:
-  - Conservative (10 tCO₂e/ha): ~$11,250 CAD/year
-  - Moderate (15 tCO₂e/ha): ~$16,875 CAD/year
-  - Aggressive (20 tCO₂e/ha): ~$22,500 CAD/year
+- **Scalability**: Limited only by the amount of farmland and labour available.
 
 ### 2. **Biochar Carbon Removal Credits (Puro.Earth)**
 
@@ -28,7 +25,7 @@ This multi-stream model creates a resilient financial foundation, while keeping 
 ### 3. **Biochar Product Sales**
 
 - **Method**: Certified CFIA/OMRI biochar sold for agricultural and horticultural use.
-- **Product**: Packaged bulk or bagged biochar (e.g., 1 cubic foot bags).
+- **Product**: Packaged bulk or bagged biochar (e.g., 1 cubic foot bags). Can be sold either raw or preconditioned.
 - **Pricing**: Estimated retail ~$0.50–$1.00 CAD per litre bulk equivalent.
 - **Strategy**: Online direct-to-consumer sales, and potential B2B wholesaling.
 
@@ -42,7 +39,7 @@ This multi-stream model creates a resilient financial foundation, while keeping 
 | Biochar Carbon Credits     | Variable (based on production) |
 | Biochar Sales              | Variable (based on market absorption) |
 
-> **Note**: These revenues are from soil and biochar carbon credits, plus biochar sales. Timber harvests are not a primary revenue stream during the project life cycle, as tree rotation focuses on adaptive breeding over timber production.
+> **Note**: These revenues are from soil and biochar carbon credits, plus biochar sales. Timber harvests are not a primary revenue stream during the project life cycle, as tree rotation focuses on adaptive breeding over timber production. Timber sales may be an option for whoever inherits the site after the project completes, but not something that we will focus on.
 
 ---
 
@@ -50,6 +47,7 @@ This multi-stream model creates a resilient financial foundation, while keeping 
 
 - **Early Phase**:
   - Focus on maximizing biochar production for carbon credits and soil application.
+  - Seek industrial waste streams for increased biochar production capability.
   - Build baseline soil carbon for long-term soil credit revenue.
 
 - **Mid Phase**:
@@ -61,12 +59,10 @@ This multi-stream model creates a resilient financial foundation, while keeping 
   - Continue generational replanting cycles to enhance soil performance and biodiversity.
   - Improve operational efficiency and reduce labour through automation.
 
-
 ---
 
 # ✅ Conclusion
 
-Modern Druid's regenerative system is designed for **resilient, stacked revenue** without compromising its mission to heal the land, pull carbon from the atmosphere, and provide free food access.
+Modern Druid's regenerative system is designed for **resilient, stacked revenue from carbon** without compromising its mission to heal the land, pull carbon from the atmosphere, and provide free food access.
 
 Every tree planted and every kilogram of biomass processed contributes to a financially and ecologically sustainable future.
-

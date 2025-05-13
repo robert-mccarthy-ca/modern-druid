@@ -17,6 +17,7 @@ Modern Druid's MRV (Monitoring, Reporting, Verification) framework is designed t
 - **Sampling Method**:
   - Direct core sampling using professional soil augers or hydraulic core samplers.
   - Georeferenced sampling locations mapped via GPS.
+  - Soil pits dug to the same level for educational and illustrative purposes (show what the soil looks like year by year)
 - **Sample Handling**:
   - Sealed, labelled samples by depth.
   - Delivered to accredited third-party labs for analysis.
@@ -63,10 +64,11 @@ Modern Druid's MRV (Monitoring, Reporting, Verification) framework is designed t
 - **Certification Alignment**:
   - Puro.Earth biochar protocols
   - CFIA standards for agricultural biochar products
+  - OMRI organic certification for biochar sales
 
 ### Emissions Monitoring
 
-- **Facility Design**: Kiln structures designed as ventilated "fume hoods" with active air extraction.
+- **Facility Design**: Kiln buildings designed as ventilated "fume hoods" with active air extraction.
 - **Measurement**:
   - Periodic sampling of exhaust gases for CO₂, CO, VOCs, particulate matter
 - **Reporting**:
@@ -78,7 +80,8 @@ Modern Druid's MRV (Monitoring, Reporting, Verification) framework is designed t
 
 - **Digital MRV Database**:
   - Soil sample metadata
-  - Core images (optional)
+  - Core images
+  - Soil pit images
   - Laboratory reports
   - Kiln run logs
   - Biochar test certificates
@@ -90,5 +93,4 @@ Modern Druid's MRV (Monitoring, Reporting, Verification) framework is designed t
 
 # ✅ Conclusion
 
-Modern Druid's MRV protocol is designed not only to meet the highest verification standards for carbon credit issuance, but also to build an unprecedented long-term record of soil regeneration and atmospheric carbon removal.
-
+Modern Druid's MRV protocol is designed not only to easily meet the highest verification standards for carbon credit issuance, but also to build an unprecedented long-term record of soil regeneration and atmospheric carbon removal.

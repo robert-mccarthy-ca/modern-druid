@@ -1,10 +1,10 @@
-# 🌿 Modern Druid
+# 🌿 The Modern Druid Project
 
 **Introducing carbon farming as a profession for a livable planet.**
 
-Modern Druid is my attempt to design (and hopefully one day get to build) a globally scalable, revenue-generating carbon farming model — one that sequesters meaningful levels of atmospheric carbon, regenerates nearly any farmland or any other underutilized land, and provides free food to the communities they're based in. 20 year projects where we buy the land, build a community food forest and grow biomass for biochar, earning our revenue from carbon removal credits in international voluntary carbon markets, and pay our employees equitably with a 50% of revenue going to employee wages. Cap the wage gap between new hire and farm manager to double based on hours worked. Keep all employees directly and meaningfully motivated to outperform anything the world has ever seen before. At the end of the project, the farmers who worked that project get to keep the land. Scalable to multiple parts per million of carbon dioxide removal annually as long as the price of carbon doesn't fall too low. Since carbon markets crashing would require substantial climate progress, I can live with the risk of climate change miroculuously working itself out on its own.
+The Modern Druid Project is my attempt to design (and hopefully one day get to build) a globally scalable, revenue-generating carbon farming model — one that sequesters meaningful levels of atmospheric carbon, raises the fertility of the land, and provides free food and good wages to the communities they're based in. 20 year projects where we buy the land, build a community food forest where we grow biomass for biochar, earning our revenue from carbon removal credits in international voluntary carbon markets and biochar sales. We also plan to pay our employees equitably with 50% of revenue going to employee wages. We would also cap the wage gap between new hire and farm manager to double based on hours worked. Keep all employees directly and meaningfully motivated to outperform anything the world has ever seen before. At the end of the project, the farmers who worked that project get to keep the land. Scalable to multiple parts per million of carbon dioxide removal annually as long as the price of carbon doesn't fall too low. Since carbon markets crashing would require substantial climate progress, that scenario would present its own opportuniites for UN level policy input.
 
-Ideally this would eventually be a using UN based carbon removal market system, but that doesn't exist today. The closest we have are the voluntary carbon markets, which are international ... so you can make the same amount of money doing this in Canada as you can in Uruguay or Kenya. Globally reproducible. This model earns revenue from **international voluntary carbon markets**, meaning it’s largely insulated from national political will. It also meets 9 out of the 17 UN Sustainable Development Goals, so hopefully we get a good price on our credits. And simply by not going for all the profits, by not being too greedy, we can give the food away for free and put the first nail in the coffin of the biocide based destructive agriculture industry that is destroying the world's soils. It's hard to compete with free, fresh, local and organic after all.
+Ideally this would eventually be a using UN regulated carbon removal market system, but that doesn't exist today. The closest we have are **national regulated carbon markets** which are subject to the whims of politics and **international voluntary carbon markets**, which are politically resilient by means of market forces. We plan to target the voluntary carbon markets for now, which means that this model would produce the same wages and earnings in Canada as in Peru or Kenya. Globally reproducible. It also has the potential to meet 12 of the 17 UN Sustainable Development Goals, so hopefully we can get a good price on our credits. And simply by not going for all the profits, by not being too greedy, we can give the food away for free and put the first nail in the coffin of the biocide based destructive agriculture industry that is destroying the world's soils. It's hard to compete with free, fresh, local and organic after all, especially if you have to pay for inputs or harvesting.
 
 We combine **biochar production**, **syntropic agroforestry**, and **natural farming** to build climate resilience, enrich soil, and create a blueprint for distributed, regenerative carbon removal. Each farm is designed to continously **spawn new farms**, creating an exponential growth curve toward an actual global impact. Irrigation will need to be upgraded to sustainably harvest and store water through **pond storage** and **atmospheric water harvesting** or **desalination** depending on the area, because we’ve crossed too many climate tipping points to count on historical rainfall patterns and forests burn. This can be boostrapped anywhere with water today, but it will be fragile in the face of several degrees of global warming without irrigation, which appears to be where we're headed.
 
@@ -16,7 +16,7 @@ A syntropic agroforestry system can produce approximately **10 tonnes of dry bio
 
 Using a conservative estimate (10 tonnes/acre), we can sequester about **3.25 tonnes of CO₂ per acre per year** by converting the biomass into high-carbon biochar. To offset just **1 ppm of atmospheric CO₂** (7.81 Gt), it would take **~887 million acres** — or about **10% of global farmland**. With global replication, this model could remove **multiple ppm of CO₂ per year**, while providing food security, ecological regeneration, and meaningful jobs in every region of the world. And that’s just the biochar. That doesn’t even count the **soil carbon** captured by perennial food forests. 
 
-This will require international regulatory carbon markets with a minimum price, but to get there, we need to show that carbon markets can work at scale. Using the voluntary carbon markets, this project will attempt to demonstrate that a price on carbon can indeed draw down carbon in a meaningful way and can be used to end the land management practices that are destroying the soil carbon reserves globally. 
+This will require international regulatory carbon markets with a minimum price to scale to that size, but to get there, we need to show that carbon markets can work at scale. Using the voluntary carbon markets, this project will attempt to demonstrate that a price on carbon can indeed draw down carbon in a meaningful way and can be used to end the land management practices that are destroying the soil carbon reserves globally. 
 
 ---
 
@@ -28,13 +28,13 @@ And more importantly, we want to **crush extractive, degenerative, toxin-based, 
 
 If we can prove this model works, carbon markets will reward it, farmers will copy it, and no one will be able to justify spraying poisons on monocrops ever again.
 
-And on a personal note, if I can make a comfortable living running fancy bonfires and growing ecosystems, I'm good, I don't need the other hassles. I just have to make carbon farming a thing in order to do that.
+And on a personal note, if I can make a comfortable living gardening like a boss at scale and having fancy bonfires, I'm good, I don't need the other hassles. I just have to make carbon farming a thing first in order to do that.
 
 ---
 
 ## ⏳ Why 2030?
 
-I’ve picked **2030** as the deadline because that’s about when I expect we hit the next wall:
+I’ve picked **2030** as my target deadline because that’s about when I expect we hit the next wall:
 - **2°C warming**
 - **A Blue Ocean Arctic event**
 - **Mass-casualty heat waves**
@@ -42,7 +42,7 @@ I’ve picked **2030** as the deadline because that’s about when I expect we h
 
 Maybe all the above.
 
-That might finally be the moment the world wakes up — and when it does, it’s going to need a fully documented, globally ready carbon farming system to deploy **immediately**.
+That might finally be the moment the world wakes up to the urgency required to reverse cliamtye change — and when it does, it’s going to need a fully documented, globally ready carbon farming system to deploy **immediately**.
 
 **All training will be digital and open-source.** Anyone who wants to do this isn't competing *against* us — they're competing *with* us. We're all racing against ecological collapse and our own extinction.
 
@@ -50,16 +50,14 @@ That might finally be the moment the world wakes up — and when it does, it’s
 
 ## 🌿 Why Bother?
 
-Because I like forests. Because I like food. Because I live here.
-
-Because neither the forests nor our food supply will exist here or anywhere else in 20 years unless someone builds a way to stop the runaway carbon dioxide levels. And because I'd rather get paid to fix the carbon problem than chase food profits to make people pay me for the privilege of eating healthy food.
+Because I like forests. Because I like food. Because I live here. Because neither the forests nor our food supply will exist here or anywhere else in 20 years unless someone builds a way to stop runaway carbon dioxide levels. Because you shouldn't have to pay for the privilege of eating. Because profitable business doesn't have to be exploitatively predatory.
 
 ---
 
-## 🚀 Project Goals
+## 🚀 2030 Project Goals
 
 - **Profitability** from verified carbon removal credits and biochar sales
-- **Replicable by 2030** and deployed to at least one new site
+- **Replicable and deployed** to at least one new site
 - **Full transparency** and open access to all workflows, designs, and verification methods
 - **Non-exploitative revenue sharing**: 50% of all farm revenue goes to employees, equally across borders, but each farm is separate so every farm worker has a very direct incentive to make their site succeed
 - **Community-first food systems**: All food is free to the public
@@ -70,19 +68,20 @@ Because neither the forests nor our food supply will exist here or anywhere else
 ## 🔧 System Overview
 
 ### 🔥 Biochar Production
-- 10 tonnes of biomass/acre converted to biochar in insulated, tiltable kilns
+- Purpose grown biomass converted to biochar in insulated, tiltable kilns
 - Local forestry waste converted to biochar
 - Quench water recovered for irrigation
-- Biochar verified for carbon markets (Puro.Earth) and approved for sale (CFIA, OMRI)
+- Biochar verified for carbon markets (Puro.Earth) and approved for commercial sale (CFIA, OMRI)
+- 50%+ of the purpose grown biochar added to the soil of the food forest, continuously building a modern analog of terra preta
 
 ### 🌳 Syntropic Agroforestry
-- Successional food forest system with biomass crops, nitrogen fixers, pollinators, and edible trees
-- Designed with wild buffers, biodiversity, and resilient water infrastructure
-- Unsold biochar is applied to the soil
+- Successional food forest system with high biomass crops, nitrogen fixers, pollinators, and edible trees
+- Designed with wild buffers, biodiversity, and resilient water infrastructure in mind
+- Unsold biochar is applied to the soil, no waste
 
 ### 🧪 Natural Farming
 - KNF and JADAM practices: JMS, IMO collections, FPJ, LAB, and more
-- Continuous microbial input supports soil carbon and plant resilience
+- Continuous microbial input supports soil health and biodiversity as it progresses through its successional phases
 
 ---
 
@@ -93,9 +92,9 @@ Revenue comes from:
 - **Verra VCS + CCB** soil carbon credits
 - **CFIA/OMRI** biochar sales
 
-The risk factor on earnings prices is basically whether the world stops the rise of carbon dioxide or not, whether so much carbon is coming out that we're dropping back down. I can live with that risk since we haven't slowed down yet as far as global emissions go.
+The primary risk factor on earnings prices is market demand, but as we haven't even slowed down our emissions yet, that's unlikely to be a short or even a long term threat.
 
-> Food is always free. Excess goes to local businesses and processors.  
+> Food is always free. Excess goes to local businesses, processors and entrepeneurs.
 > “Pick your own damn food, we’re busy drawing down carbon.”
 
 ---
@@ -116,7 +115,7 @@ Each site runs on a **20-year cycle**, with revenue split as follows:
 
 At the end of the 20 years:
 - The farm is handed over to the farmers who ran it
-- Then we move on to the next neglected patch of earth, we're looking to heal the land, not conquer it.
+- The company would leave behind fertile food forests with local ownership in its wake
 
 This should be a model welcomed into nearly every community on Earth as a result of all the benefits. Profits don't require predatory levels of exploitation. If this can be viable in Canada, which I believe it can be, this can be brought anywhere with farmland today. The initial size of farm needs to be something on the order of 100-200 hectares to reliably hit the Puro minimum project production levels, but after that, smaller expansions should be possible. The aim being to have 5-10 people per farm, with employees having the opportunity to run their own farms as the farm spawns new farms. There should be a constant churn of new farm manager trainees since expansion is core to the model. The people that make the money are the people who help remove carbon from the atmosphere.
 
@@ -186,4 +185,4 @@ Feel free to open an issue, propose improvements, or fork it to build your own f
 
 ## 📜 License
 
-None yet, when/if the project hits launchable status, it’ll be released under a permissive license that protects its purpose and ensures equitable replication.
+None yet, but when/if the project hits launchable status, it’ll be released under a permissive license that protects its purpose and ensures equitable replication.

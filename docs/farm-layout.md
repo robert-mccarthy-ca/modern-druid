@@ -1,6 +1,6 @@
 # 🌳 Agroforestry Layout – Modern Druid
 
-Modern Druid farms are designed around syntropic agroforestry and natural farming principles to maximize biomass, biodiversity, food quality and long-term carbon sequestration.
+Modern Druid farms are designed around syntropic agroforestry and natural farming principles with heavy biochar applications to maximize biomass, biodiversity, food quality and long-term carbon sequestration. Because biochar heavy food forests have never been a thing that our current seed sources have grown in, we will need to selectively breed our plants for production in high biochar and microbially abundant soil.
 
 ---
 
@@ -9,17 +9,18 @@ Modern Druid farms are designed around syntropic agroforestry and natural farmin
 Each 25-hectare block will feature:
 
 - **North–south oriented rows**
-- **10 m wild buffers** on all sides
+- **15 m wild buffers** on all sides
 - **Central pond (~0.1 ha)** for irrigation and resilience
 - Shared infrastructure near the pond:
   - Water harvesting system
   - Power and solar generation
   - KNF and JADAM input preparation area
   - Nursery site
+  - Public parking lot
 
-The 25-hectare block size was selected to promote wildlife corridors approximately every half kilometre, enhancing biodiversity and allowing for unmanaged natural spaces. Adjacent blocks share a 20 m combined wild buffer. Buffer zones will receive biochar, foliar feeds, and irrigation but will be left otherwise undisturbed.
+The 25-hectare block size was selected to promote wildlife corridors approximately every half kilometre, enhancing biodiversity and allowing for unmanaged natural spaces. Adjacent blocks share a 30m combined wild buffer. Buffer zones will receive biochar, foliar feeds, and irrigation but will be left otherwise undisturbed allowing for natural seeding and habitat, a corridor for wildlife.
 
-Centralized infrastructure around the pond maximizes operational efficiency: water storage, nursery space, and input preparation facilities.
+Centralized infrastructure around the pond maximizes operational efficiency: water storage, nursery space, and input preparation facilities. Public parking is another area for development if we want the public to actually use the food forest.
 
 ---
 
@@ -32,12 +33,7 @@ Centralized infrastructure around the pond maximizes operational efficiency: wat
 - **Groundcover mix**: Broadcast low-growing beneficial species (clover, yarrow, trefoil, purslane, etc.) with a focus on anything with a deep taproot
 - **Black Locust**: Either raised in nursery, transplanted into place after sunflowers are chopped, or planted with seedballs after chop
 
-**Pre-Planting Workflow**:
-- Sunflowers create initial vertical taproot pathways.
-- Comfrey establishes deep perennial roots offset between sunflower points.
-- Daikon radish assists rapid initial soil breakup.
-- Diverse groundcover broadcast early for ground-layer biodiversity.
-- Fall transplanting of nursery-raised biomass trees replaces chopped sunflowers, reusing the hole from the giant taproot that will now decompose.
+The idea of the initial planting is to start by filling the soil column with giant taproots to break up any underlying clay and start building a soil column 3m+ deep, which is about the deepest you can sample easily. So a combination of giant sunflower and comfrey at 1m spacing each intertwined, and daikon radishes planted on a 25cm grid everywhere else. Follow up with black locust, hybrid poplar and possibly paulownia in place of the sunflowers once they flower, keeping the leaves for mulch and kilning the stems and heads, priming the tree's taproot path with the sunflower's taproot. The comfrey would be just as a mulch for the soil. The radish would be cut down at the same time and a diverse cover crop mix thrown in where it was. Row and alley planting would then start.
 
 **Row and Alley Planting**:
 - Initial soil disturbance limited to a single trench pass for tree rows.

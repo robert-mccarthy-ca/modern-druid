@@ -69,7 +69,7 @@ That might finally be the moment the world wakes up to the urgency required to r
 
 ## 🔧 System Overview
 
-Use natural farming to enhance the soil microbial diversity and provide foliar feeding without chemical fertilizers. Use syntropic agroforestry to grow the food forest and improve the soil through dense and diverse successional management. Use the biomass to produced biochar, apply it to the soil, improving microbial habitat as well as water and nutrient retention. And when the soil improves, so does the rest of the yields, specifically our food and biomass production, our carbon sequestration rates, which in turn increase soil growth rates. A nice happy little feedback loop.
+Use natural farming to enhance the soil microbial diversity and provide foliar feeding without chemical fertilizers. Use syntropic agroforestry to grow the food forest and improve the soil through dense and diverse successional management. Use the woody biomass to produce biochar and leave the rest for the soil, apply biochar to the soil, improving microbial habitat as well as water and nutrient retention. And when the soil improves, so does the rest of the yields, specifically our food and biomass production, our carbon sequestration rates, which in turn increase soil growth rates. A nice happy little feedback loop.
 
 ### 🔥 Biochar Production
 - Purpose grown biomass converted to biochar in insulated, tiltable kilns

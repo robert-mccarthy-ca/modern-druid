@@ -49,7 +49,7 @@
 
 ---
 
-## 🌎 Alignment with 12 of the 17 UN Sustainable Development Goals (SDGs)
+## 🌎 Alignment with 11 of the 17 UN Sustainable Development Goals (SDGs)
 
 | SDG                                            | Contribution                                                                                            |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -57,11 +57,10 @@
 | **#2 Zero Hunger**                             | Establishes free, perennial food systems.                                                               |
 | **#3 Good Health and Well-being**              | Avoids toxic inputs; supports microbiome health through regenerative exposure.                          |
 | **#5 Gender Equality**                         | Enforces wage equality by design.                                                                       |
-| **#6 Clean Water and Sanitation**              | Uses sustainable water harvesting and does not produce agricultural runoff.                             |
 | **#8 Decent Work and Economic Growth**         | Creates meaningful, green employment with the bulk of the revenues staying in the communities.          |
 | **#9 Industry, Innovation and Infrastructure** | Develops scalable kiln and agroforestry tech to replace destructive agricultural practices.             |
 | **#11 Sustainable Cities and Communities**     | Enhances food security and fire resilience near communities.                                            |
 | **#12 Responsible Consumption and Production** | Converts organic waste into soil-building biochar.                                                      |
 | **#13 Climate Action**                         | Sequesters carbon with high-integrity MRV.                                                              |
 | **#15 Life on Land**                           | Restores ecosystems and enhances biodiversity.                                                          |
-| **#17 Partnerships for the Goals**             | Works with certifiers, industry, communities of all scales, and global health networks to scale impact. |
+| **#17 Partnerships for the Goals**             | Work with certifiers, industry, communities of all scales, and global health and food networks to scale impact. |

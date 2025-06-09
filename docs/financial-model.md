@@ -131,7 +131,7 @@ This design prevents exploitation by:
 
 This creates a globally scalable, self-replicating network of carbon farms with high community retention of revenue, equitable pay, and regenerative land use. By displacing degenerative agriculture through pure market forces and carbon revenue, we redefine what "profitable farming" means.
 
-A regenerative carbon economy, where food is free, land is healed, and business doesn't come at the cost of the Earth.
+A regenerative carbon economy, where food is free, land is healed, and profit doesn't come at the cost of the Earth.
 
 ---
 

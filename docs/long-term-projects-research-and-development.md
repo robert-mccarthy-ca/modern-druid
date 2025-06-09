@@ -94,6 +94,25 @@ This document outlines Modern Druid's strategic long-term projects and R\&D prio
 
 ---
 
+## Aquatic R\&D
+
+### ✅ Halophytic Sites
+
+**Goal:** Use salt tolerant plants to irrigate with seawater.
+**Impact:** Can grow without fresh water.
+
+### ✅ Kelp Farms
+
+**Goal:** Grow biomass in the ocean, not just on land.
+**Impact:** Massively expand the plantable area by growing in the ocean.
+
+### ✅ Floating Islands
+
+**Goal:** Create floating islands that support food forests of their own.
+**Impact:** Equatorial ocean zones free of hurricanes could be used as agricultural regions as could lakes.
+
+---
+
 ## 🎥 Education, Documentation & Public Engagement
 
 ### ✅ YouTube & Open Documentation
@@ -113,4 +132,4 @@ This document outlines Modern Druid's strategic long-term projects and R\&D prio
 
 ---
 
-This list serves as the foundation for R\&D and infrastructure evolution. Each project strengthens the resilience, replicability, and transformative impact of Modern Druid farms.
+This list serves as the foundation for R\&D and infrastructure evolution. Each project strengthens the resilience, replicability, and transformative impact of The Modern Druid Project.

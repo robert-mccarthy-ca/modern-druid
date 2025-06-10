@@ -1,128 +1,119 @@
-# 🌳 Agroforestry Layout – Modern Druid
+# Agroforestry Layout – Modern Druid
 
-Modern Druid farms are designed around syntropic agroforestry and natural farming principles with heavy biochar applications to maximize biomass, biodiversity, soil health, food quality and long-term carbon sequestration. The idea is to have north-south rows of trees, with half of the target trees being food and half being for biomass with a biomass alley crop, or a biomass tree row with a half food half biomass alley crop. Biomass production is the primary focus, but a quarter of the food forest is still dedicated to food.
-
-And since biochar and microbially rich and diverse soils haven't existed like this before in modern agriculture, we will need to actively breed our own seed lines and heirloom varieties of everything.
+Modern Druid farms integrate syntropic agroforestry with natural farming and heavy biochar applications to maximize biomass, biodiversity, soil health, food production, and long‑term carbon sequestration. North–south tree rows with both biomass and food grown in the rows and alleys. Roughly 25% of the forest is dedicated to edible yields while maintaining biomass as the primary focus. To fully harness the benefits of terra preta–style soils, we will develop active breeding programs for all plant varieties grown, adapting them both to our local biochar‑enriched environment and to our shifting climate.
 
 ---
 
-## 🌱 Initial Layout Strategy
+## 1. Block‑Level Layout
 
-Each 25-hectare block will feature:
+Each 25 ha block includes:
 
-- **North–south oriented rows**
-- **15 m wild buffers** on all sides
-- **Central pond (~0.1 ha)** for irrigation and resilience
-- Shared infrastructure near the pond:
-  - Water harvesting system
-  - Power and solar generation
-  - Public parking lot
+* **Orientation:** North–south rows for optimal sunlight capture
+* **Wild Buffers:** 15 m unfarmed edges on all sides (30 m shared between adjacent blocks) to support wildlife corridors
+* **Central Pond (\~0.1 ha):** Primary water storage for irrigation and drought resilience
+* **Shared Infrastructure (adjacent to pond):**
 
-The 25-hectare block size was selected to promote wildlife corridors approximately every half kilometre, enhancing biodiversity and allowing for unmanaged natural spaces. Adjacent blocks share a 30m combined wild buffer. Buffer zones will receive biochar, foliar feeds, and irrigation but will be left otherwise undisturbed allowing for natural seeding and habitat, a corridor for wildlife.
+  * **Atmospheric Water Harvesting:**
 
-Centralized infrastructure around the pond maximizes operational efficiency: water storage, harvesting and power generation. Public parking will be required if we want the public to actually use the food forest.
+    * **Refrigerative Dehumidifiers:** Energy-efficient units to extract moisture from ambient air, ideal in humid conditions.
+    * **Passive Radiative Cooling Panels:** Nighttime cooling surfaces that condense dew without electricity.
+    * **Fog Nets & Dew Harvesters:** Mesh or surface systems to capture fog droplets and early-morning dew.
+    * **Solar-Driven Desiccant Systems:** Low-energy setups using solar heat to regenerate desiccant materials for water production.
+  * **Groundwater Intake & Distribution:** Well pumps sized for peak irrigation, with inline filtration and UV sterilization.
+  * **Renewable Power Generation:**
 
----
+    * **Solar PV Arrays:** Ground-mounted panels oriented for seasonal sun angles, potentially mounted on pond floats.
+    * **Vertical-Axis Wind Turbines (VAWTs):** Compact, omnidirectional turbines suited to variable forest-edge winds.
+    * **Battery Storage & Microgrid Controls:** Modular battery banks and smart inverters to balance supply and demand off-grid.
+  * **Public Access Infrastructure:**
 
-## 🌾 Row Types and Planting Strategy
+    * **Parking & Trails:** Gravel or permeable-pave lots and paths to minimize runoff.
+    * **Educational Kiosks:** Solar-powered stations with interpretive signage on agroforestry and water/energy systems.
 
-**Initial Planting**
-- **Sunflowers**: Annual taproot openers, 1 m grid spacing
-- **Comfrey**: Perennial biomass species, 1 m grid, offset between sunflowers
-- **Daikon radish**: Additional annual taproot openers between sunflowers and comfrey
-- **Groundcover mix**: Broadcast low-growing beneficial species (clover, yarrow, trefoil, purslane, etc.) with a focus on anything with a deep taproot
-- **Black Locust**: Either raised in nursery, transplanted into place after sunflowers are chopped, or planted with seedballs after chop
-
-The idea of the initial planting is to start by filling the soil column with giant taproots to break up any underlying clay and start building a soil column 3m+ deep, which is about the deepest you can sample easily and hence get paid for. So a combination of giant sunflower and comfrey at 1m spacing each intertwined, and daikon radishes planted on a 25cm grid everywhere else. Follow up with black locust and hybrid poplar in place of the sunflowers once they flower, keeping the leaves for mulch and kilning the stems and heads, priming the tree's taproot path with the sunflower's taproot. The comfrey would be grown as a mulch for the soil, being a deep taprooted nutrient accumulator. The radish would be cut down at the same time and a diverse ground cover mix thrown in where it was. Row and alley planting would then start after taproots are growing everywhere.
-
-**Row and Alley Planting**:
-- Initial soil disturbance limited to a single pass to break up any hardpan or clay in some manner.
-- Named cultivars established from cuttings; all others from seed.
-- Alley structure:
-  - Either 50% edible/medicinal trees + 50% biomass trees with full biomass alleys
-  - Or 100% biomass tree rows with mixed edible/biomass alley crops
-- As trees mature:
-  - **Annual canopy lifting** through pruning
-  - **Understory planting** beneath rising canopies
-  - **Succession management** by removing overly tall, poorly adapted trees, or trees that have better genetic stock to replace them (newer generations of our breeding projects)
-- Annual planting cycles:
-  - Constant introduction of new trees and plants
-  - "Cull the weak, keep the strong" to evolve the site naturally
-- Biodiversity prioritized:
-  - Begin with natives, expand into adjacent climate analogs
-  - Use all available plants, let nature sort out the winners
-- Breeding stock:
-  - selectively breed for our new and evolving soil conditions, because there's never been a modern terra-pretafied natural farming syntropic agroforestry system in place to my knowledge, so we'll need to breed our own seed stocks.
-  - even plants that do not grow true from seed like apples should be part of a breeding program, although this may take keeping different taste profiles isolated to different areas to keep from cross pollinating. A tart apple should be placed near other tart apples for example.
-  - breed for vigor, yield and biomass
-
-> Early emphasis on deep soil carbon establishment, followed by full vertical and horizontal biomass expansion. We would start by punching deep taproots all across the land, focusing on deep rooted plants that produce minimal lateral root competition, and introducing all the microbial diversity we can harvest from the local environments. Next up would be deep rooted edible and high biomass pioneer species and working our way up as the soil succession progresses.
+This configuration promotes sustainability, biodiversity, efficient operations, and public accessibility to free food forests.
 
 ---
 
-## 🧪 Soil and Foliar Inputs
+## 2. Establishment Phase: Deep Soil Preparation
 
-- **Weekly JMS and IMO applications**
-- **Frequent biochar application** during snow-free periods and after pruning
-- **KNF natural inputs** for foliar and soil drenches
-- **Strict no-use policy** on pesticides, herbicides, fungicides, and synthetic fertilizers
-- **Local organic waste streams** from forestry or other industries
+**Objective:** Break up hardpan and build a 3 m+ root column for future carbon credits and deep soil health.
 
-Natural Farming inputs would fall into either the foliar or soil drench category. JMS would be a soil drench, and liquid IMO being sprayed as a foliar along with the standard general purpose nutrients such as FPJ (Fermented Plant Juice), OHN (Oriental Herbal Nutrient) and BRV (Brown Rice Vinegar). As our soils are expected to change rather rapidly, the inoculations will continue throughout the project lifecycle. Biochar preconditioned with JLF (Jadam Liquid Fertilizer, which is just pre-digested plant matter) would be added during pruning passes so it continuously gets incorporated into the newly grown soils. Any other biomass from local waste streams that would be unsuitable to kilns, such as woodchips or sawdust that would pack t oo tightly could also be applied to the soils during pruning passes.
+### 2.1 Pioneer Taproot Plantings
 
-And finally, as plant health relies on soil health which relies on microbial health and diversity, no biocides (pesticides, herbicides, fungicides, high salt fertilizers) would be used of any kind as they all kill microbes.
+* **Giant Sunflower:** Annual taproot openers at 1 m grid
+* **Comfrey:** Perennial biomass and nutrient accumulator at 1 m grid, offset from sunflowers
+* **Daikon Radish:** Annual taproots on 0.25 m grid between sunflowers and comfrey
+* **Groundcover Mix:** Broadcast deep‑rooted species (clover, yarrow, purslane) to stabilize soil
+* **Black Locust & Hybrid Poplar:** Transplanted or seeded after sunflower chop to follow existing taproot channels
 
----
+By intertwining these species, we fracture any compacted clay, and begin building soil structure by filling the soil with the deepest roots we can find. The initial biomass would be sunflower stalks and heads which could be processed into biochar, with the rest left for soil, including the comfrey and radish (minus whatever people want to eat). Black locust, hybrid poplars and any other fast growing deep taprooted pioneer trees would become the next biomass crop the following season.
 
-## Irrigation
+### 2.2 Transition to Structured Rows
 
-- **Sustainable Water Harvesting** extracted from the atmosphere or seawater as available
-- **Bootstrapped With Existing Groundwater** light irrigation needs to be installed to buffer against wild drought conditions
-- **Automatic Foliar Feeding** KNF input applications can be automated, just have to fill the tanks
-- **Year Round Moisture** snowmaking equipment for when snow cover isn't reliable
-- **Pond Storage** store as much of a buffer as possible
-
-Automated irrigation would be required to have a reliable system. Our climate is too broken to rely on historical rainfall patterns to last the 20 years of the projects. Groundwater would be used initially, but water storage ponds and atmospheric water harvesting would be used and improved every year to give us a buffer when it doesn't rain or snow. Having no snowpack in January and February would be just as detrimental as no spring rains. Foliar feeding would be automated as part of the irrigation system, reducing labour costs.
+Once we have converted our land to our placenta stage pioneer species, we then start planting the row and alley system properly, with about 25% going to food crops overall, both in the tree rows and the alleys. The placenta stage plants would just be chopped for mulch and/or biomass.
 
 ---
 
-## 💵 Soil Carbon Revenue Model
+## 3. Tree & Alley System
 
-- Syntropic agroforestry systems typically sequester **10–20 tonnes CO₂e per hectare per year**.
-- **For a 25-hectare block**:
-  - **Conservative estimate**: 250 tCO₂e/year
-  - **Moderate estimate**: 375 tCO₂e/year
-  - **Aggressive estimate**: 500 tCO₂e/year
+**Management Practices:**
 
-- Using a **target carbon credit price of $45 CAD per tonne** (Verra + CCB soil projects):
+* Annual canopy lifts via selective pruning
+* Understory plantings beneath rising tree canopies
+* Succession removals: replace weak or poorly adapted individuals with superior breeding stock
+* Continuous introduction of new seedlings and seedball plantings
+* "Cull the weak, keep the strong" to naturally evolve genetics over time
 
-| Estimate | Annual Soil Carbon Revenue (CAD) |
-|----------|-----------------------------------|
-| Conservative (10 tCO₂e/ha) | ~$11,250 |
-| Moderate (15 tCO₂e/ha)     | ~$16,875 |
-| Aggressive (20 tCO₂e/ha)   | ~$22,500 |
+**Biodiversity & Breeding:**
 
-> **Note**: These revenues are from soil carbon credits only and can be stacked with biochar carbon credit revenues and biochar sales for a multi-stream income model.
+* Prioritize native and commercial heirloom species, then adjacent climate analogs
+* Breed seed lines for vigor, yield, and biochar‑conditioned soil performance
+* Isolate taste and trait lines (e.g., group tart apples together) to minimize unwanted cross‑pollination
 
 ---
 
-## 🧪 MRV (Monitoring, Reporting, Verification) Requirements
+## 4. Soil & Foliar Inputs
 
-- **Initial baseline soil sampling** to **3 metres depth** across project blocks before planting.
-- **Direct sampling method** for MRV:
-  - Full 0–3 m core samples, divided into depth segments (e.g., 0–30 cm, 30–100 cm, 100–300 cm).
-  - Carbon concentration, bulk density, and moisture content measured separately by depth.
-- **Annual or biennial re-sampling**:
-  - Always to full depth (3 m) to capture deep carbon accumulation.
-  - Higher cost and effort but critical for scientific rigor, soil profile research, and long-term credibility.
-- **Additional MRV steps**:
-  - Georeferenced core locations
-  - Regular photo documentation
-  - Third-party lab analysis for soil organic carbon (SOC)
+* **Biochar:** Frequent applications during pruning and snow‑free periods, preconditioned with JLF (Jadam Liquid Fertilizer)
+* **Natural Farming Inputs:**
 
-> Choosing full-depth direct sampling increases verification credibility, builds a world-class soil dataset, and strengthens future carbon credit prices.
+  * JMS as soil drench
+  * Liquid IMO, FPJ, OHN, BRV as foliar sprays
+* **Weekly Applications:** Maintain microbial diversity with JMS, IMO, KNF inputs
+* **Zero Tolerance:** No pesticides, herbicides, fungicides, or synthetic fertilizers
+* **Local Organic Waste:** Incorporate woodchips and sawdust unsuitable for kilning during pruning passes
 
 ---
 
-> **This layout evolves continuously** — Field experimentation, soil data, and ecosystem feedback loops drive ongoing refinements.
+## 5. Irrigation & Water Management
 
+* **Groundwater Pumping:** Initial irrigation buffer against drought
+* **Atmospheric Water Harvesting:** Scale annually to reduce well dependency
+* **Snowmaking Systems:** Supplement soil moisture when natural snowpack is insufficient
+* **Automated Foliar Feeding:** Integrate KNF inputs into irrigation for labour efficiency
+* **Pond Storage:** Maximize resilience by storing seasonal runoff and harvested water
+
+---
+
+## 6. Soil Carbon Revenue Estimates
+
+Syntropic agroforestry projects should reliably sequester approximately 10–20 t CO₂e/ha/yr. At **CAD \$45/tonne**, a 25 ha block yields:
+
+| Sequestration Rate (t CO₂e/ha/yr) | Total (t CO₂e/yr) | Revenue (CAD) |
+| --------------------------------- | ----------------- | ------------- |
+| 10 (Conservative)                 | 250               | \~11 250      |
+| 15 (Moderate)                     | 375               | \~16 875      |
+| 20 (Aggressive)                   | 500               | \~22 500      |
+
+> Revenue projections exclude biochar carbon credits and biochar sales, which can stack for a multi‑stream income model.
+
+---
+
+## 7. MRV Protocol (Monitoring, Reporting, Verification)
+
+* **Baseline Sampling:** Full 0–3 m soil cores before establishment, segmented by depth (0–30 cm, 30–100 cm, 100–300 cm)
+* **Re‑sampling:** Annual or biennial full‑depth cores to document deep carbon accrual
+* **Analysis Metrics:** Carbon concentration, bulk density, and moisture by segment
+* **Accuracy Enhancements:** Georeferenced core locations, photo and video documentation, third‑party lab validation
+
+> Full‑depth sampling maximizes scientific credibility and underpins premium carbon credit pricing.

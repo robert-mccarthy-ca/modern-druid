@@ -10,7 +10,7 @@ The complicated part is the logistics. We can avoid most of this simply by growi
 
 ## 🛠 Kiln Design Goals
 
-- **Fixed-position, insulated kilns** with a tiltingmechanism for easy unloading and reset, maximizing up time
+- **Fixed-position, insulated kilns** with a tilting mechanism for easy unloading and reset, maximizing up time
 - **Automated quench and drain system** to minimize labour and risk (steam is hot, quenching by hose takes a long time)
 - **Windbreak-style kiln building**, open-air with forced-air exhaust chimneys to make the entire building a fume hood
 - **No emissions capture required**, but **MRV-compliant emissions monitoring** would be used

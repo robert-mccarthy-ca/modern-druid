@@ -58,7 +58,7 @@ Each 5 cubic yard kiln run is calculated as follows:
 - CO₂e: 0.77 × 3.67 = **2.81 tonnes CO₂e sequestered per burn**
 - Revenue (@ $200 CAD/tCO₂e): 2.81 × 200 = **$562 CAD per burn from 3.19 tonnes of biomass**
 
-This gives us approximately 0.88 tons of CO2 sequestered per ton of biomass (2.81 tCO2e/ 3.19 tonnes biomass). Actual revenue will depend on total biomass available, but to look at production capacity, we have the scenarios of 2 and 3 kilns per operator twice a day, 3 days a week. This work schedule was chosen for a 4 day weekend and we could add a second shift with the same equipment easily. And of course, if workflows can be developed to operate more kilns per person, even more capacity can be added for a small crew.
+This gives us approximately 0.88 tons of CO2 sequestered per ton of biomass (2.81 tCO2e / 3.19 tonnes biomass) or $176.18 CAD per ton of biomass processed ($562 CAD / 3.19 tons of biomass). Actual revenue will depend on total biomass available, but to look at production capacity, we have the scenarios of 2 and 3 kilns per operator twice a day, 3 days a week. This work schedule was chosen for a 4 day weekend and we could add a second shift with the same equipment easily. And of course, if workflows can be developed to operate more kilns per person, even more capacity can be added for a small crew.
 
 ### 🔥 Scenario: 3 Operators operating 4 kilns twice daily (1 operating the loader supporting the other 2 operators that operate 2 kilns each)
 - Total burns: **624** (26 weeks × 3 days/week × 8 kilns)
@@ -74,9 +74,11 @@ This gives us approximately 0.88 tons of CO2 sequestered per ton of biomass (2.8
 - **CO₂e sequestered**: ~**2,627 tonnes**
 - **Revenue (@ $200 CAD/tCO₂e)**: ~**$525,383 CAD** (26 weeks × 3 days/week × 2 burns/day × 12 kilns)
 
-The seasonal throughput of a single 3-person crew (8 kilns over 3 days/week during winter) sequestering over **1,000 tonnes of carbon dioxide** is a critical startup capacity baseline. This is to meet Puro.Earth's minimum size requirements, and this is critically necessary as biochar carbon credits are the early financial backbone of the project. This would require a bare minimum of 1135 tons of dry biomass per year (1000 tons of CO2/ 0.88 tons of CO2 per ton of biomass), with 1500 being a safer minimum to account for any emissions that take place as part of the project which come out of the project's earnings.
+The seasonal throughput of a single 3-person crew (8 kilns over 3 days/week during winter) sequestering over **1,000 tonnes of carbon dioxide** is a critical startup capacity baseline. This is to meet Puro.Earth's minimum size requirements, and this is critically necessary as biochar carbon credits are the early financial backbone of the project. This would require a bare minimum of 1135 tons of dry biomass per year (1000 tons of CO2/ 0.88 tons of CO2 per ton of biomass), with 1500 being a safer minimum to account for any emissions that take place as part of the project which come out of the project's earnings. This level would basically be slightly above minimum wage from biochar credits alone, until soil carbon credits and biochar sales revenues start to bring that up to a more comfortable level. As productivity increases, so do wages, so employees are highly motivated to make the project succeed. That also assumes that a 3 person team could manage enough land to grow 1500 tons of biomass per year.
 
 Areas with large industrial waste streams such as forestry could see much earlier profitability if the logistics of getting the biomass to the site are easy and cheap enough. Satellite kiln operations that ship biochar to the farms could be another option as we expand if we have sufficiently large waste streams.
+
+Also, as no prototype has been built, these numbers are from reported figures I could find online. Prototyping, test batches and lab testing would be required to validate or correct these numbers.
 
 ---
 
@@ -135,8 +137,8 @@ Biochar must be applied to soil or sold for stable use to qualify for credits. T
 
 ## 🔄 Next Steps
 
-- Finalize kiln design and dimensions
+- Prototype kiln, optimize dimensions
+- Prototype kiln building for emissions monitoring
 - Design water recovery and quench system
 - Plan biochar transfer and grinding workflow
-- Design fume hood structure kiln building for emissions monitoring
-- Prototype system in cold Canadian climate
+- Design waste quench water disposal in food forest

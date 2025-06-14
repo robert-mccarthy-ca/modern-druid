@@ -92,6 +92,11 @@ This document outlines Modern Druid's strategic long-term projects and R\&D prio
 **Goal:** Capture water from kiln exhaust condensation.
 **Impact:** Could reduce water demand in greenhouses and improve circular resource use.
 
+### ✅ Aquaculture/Aquaponics
+
+**Goal:** Produce fish in ponds and/or tanks.
+**Impact:** Fish waste feeds the soil and plants. Plants filter the waste for the fish to have clean water again. Fish becomes another potential food source.
+
 ---
 
 ## Aquatic R\&D

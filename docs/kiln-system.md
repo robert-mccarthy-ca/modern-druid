@@ -13,7 +13,7 @@ The complicated part is the logistics. We can avoid most of this simply by growi
 - **Fixed-position, insulated kilns** with a tiltingmechanism for easy unloading and reset, maximizing up time
 - **Automated quench and drain system** to minimize labour and risk (steam is hot, quenching by hose takes a long time)
 - **Windbreak-style kiln building**, open-air with forced-air exhaust chimneys to make the entire building a fume hood
-- **No emissions capture required**, but **MRV-compliant emissions monitoring**
+- **No emissions capture required**, but **MRV-compliant emissions monitoring** would be used
 - **Safe all weather operation**, including in snow or rain, with emergency fire suppression just in case
 - **Separation of grinding operations** to minimize dust ignition risk, done in a separate building
 

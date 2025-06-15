@@ -1,0 +1,4 @@
+*.vsidx
+docs/.vs/docs/FileContentIndex/read.lock
+docs/.vs/ProjectSettings.json
+docs/.vs/slnx.sqlite

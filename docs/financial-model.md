@@ -35,17 +35,15 @@ The Modern Druid Project is a self-sustaining, replicable collective of carbon f
 
 ---
 
-## 2. Revenue Streams (100 ha Site)
+## 2. Revenue Streams (100 ha Site, 1500 tonnes of Biomass)
 
 | Stream                      | Units                                   | Yield Range         | Price (CAD)        | Revenue Range (CAD/yr)    |
 | --------------------------- | --------------------------------------- | ------------------- | ------------------ | ------------------------- |
-| **Soil Carbon Credits**     | t CO₂e(4–10 / ha / yr)                  | 400 – 1 000 t CO₂e  | \$45 / tCO₂e       | \$18 000 – \$45 000       |
-| **Biomass Production**      | t biomass / ha / yr (temperate)         | 5 – 15 t / ha       | —                  | 500 – 1 500 t biomass     |
-| **Biochar Carbon Credits**  | t CO₂e(25% yield; 2.5 t CO₂e/t biochar) | 313 – 938 t CO₂e    | \$200 / tCO₂e      | \$62 500 – \$187 500      |
-| **Biochar Sales**           | L biochar (50% sold; 2 L / kg)          | 250 000 – 750 000 L | \$0.50 – \$1.00 /L | \$125 000 – \$750 000     |
-| **Total Estimated Revenue** |                                         |                     |                    | **\$205 500 – \$982 500** |
-
-> *Table excludes stacking between carbon credit types and sales; multi‑stream stacking amplifies total returns.*
+| **Soil Carbon Credits**     | t CO₂e(10-20 / ha / yr)                     | 1000-2 000 t CO₂e  | \$45 / tCO₂e         | \$45 000 – \$90 000         |
+| **Biomass Production**      | t biomass / ha / yr (temperate)             | 1500             | —                  | —                         |
+| **Biochar Carbon Credits**  | t CO₂e (30% yield)                       | 1320 t CO₂e       | \$200 / tCO₂e        | \$264 000                 |
+| **Biochar Sales**           | L biochar (50% sold)                    | 225 tonnes        | varies             | up to  \$1 500 000         |
+| **Total Estimated Revenue** |                                         |                  |                    | **\$309 000 – \$1 850 000** |
 
 ---
 

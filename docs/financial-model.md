@@ -42,8 +42,10 @@ The Modern Druid Project is a self-sustaining, replicable collective of carbon f
 | **Soil Carbon Credits**     | t CO₂e(10-20 / ha / yr)                     | 1000-2 000 t CO₂e  | \$45 / tCO₂e         | \$45 000 – \$90 000         |
 | **Biomass Production**      | t biomass / ha / yr (temperate)             | 1500             | —                  | —                         |
 | **Biochar Carbon Credits**  | t CO₂e (30% yield)                       | 1320 t CO₂e       | \$200 / tCO₂e        | \$264 000                 |
-| **Biochar Sales**           | L biochar (50% sold)                    | 225 tonnes        | varies             | up to  \$1 500 000         |
+| **Biochar Sales**           | L biochar (50% sold)                    | 225 tonnes        | varies             | \$0 -  \$1 500 000         |
 | **Total Estimated Revenue** |                                         |                  |                    | **\$309 000 – \$1 850 000** |
+
+> Note that the upper revenue range for biochar sales would require all consumer retail sales, \$250 000 - \$500 000 would be a more likely range if it could all be sold.
 
 ---
 

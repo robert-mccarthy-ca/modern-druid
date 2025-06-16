@@ -83,7 +83,7 @@ The goal: a 3-person crew grows 1,500+ tonnes of biomass annually and converts i
 * CO₂e: \~1320 t
 * Revenue: \~\$264,000 CAD
 
-With the bare minimum of 1500 tons per year, we are left with $132,000 to pay for 3 employees from biochar carbon credits alone, and another $132,000 to pay for non-wage costs. Soil carbon credits and biochar sales would make up the difference between minimum wages and a comfortable ones and speed growth. Long term growth of the site should continue to push these numbers up, but may incur additional labour as well. The price of carbon on their respective voluntary markets would directly impact revenues and employee earnings.
+With the bare minimum of 1500 tons per year, we are left with $132,000 to pay for 3 employees from biochar carbon credits alone, and another $132,000 to pay for non-wage costs. Soil carbon credits and biochar sales would make the difference between minimum wages and comfortable ones. Those revenues would also increase the rest of the site's budget. Long term growth of the site should continue to push these numbers up, but may incur additional labour as well. The prices of carbon credits on their respective markets would directly impact revenues and employee earnings.
 
 Since only 312 burn runs possible during the proposed workweek, kiln operators would need to keep at least 2 kilns running each, with additional kilns increasing capacity quickly. Additional crews could easily be added, or operations could continue throughout the year if local fire regulations allow if enough biomass was available.
 

@@ -13,8 +13,8 @@ This document outlines Modern Druid's strategic long-term projects and R\&D prio
 
 ### ✅ Biochar Distribution Efficiency
 
-**Goal:** Develop tools and workflows for fast, low-labour biochar field application.
-**Impact:** Critical for scaling across hectares; a key limiter to full-cycle carbon sequestration speed.
+**Goal:** Develop workflows for fast, low-labour biochar field application. Determine optimal rates of application.
+**Impact:** Critical for scaling across hectares; a key limiter to getting paid for the biochar credits.
 
 ### ✅ General Farm Efficiency Improvements
 
@@ -32,12 +32,12 @@ This document outlines Modern Druid's strategic long-term projects and R\&D prio
 
 ### ✅ Breeding Program for Biomass & Soil Carbon Traits
 
-**Goal:** Select seed from all plants, with a focus on vigor and flavour, then filter for root structure and soil impact. **Impact:** Builds a line of plants uniquely adapted to terra preta-like soils and deep remediation.
+**Goal:** Select seed from all plants, with a focus on vigor and flavour. **Impact:** Builds a line of plants uniquely adapted to terra preta-like soils and the current climate which will be a moving target until we stabilize the planet.
 
-### ✅ Root Exudate & Soil Biology Synergy Selection
+### ✅ Introduce species from adjacent climate zones
 
-**Goal:** Identify and prioritize plants with high microbial exudation and fungal association.
-**Impact:** Enhances soil carbon stabilization and supports deeper biological structuring.
+**Goal:** Introduce new species from adjacent climate zones as temperatures continue to rise, finding what does best in this new climate.
+**Impact:** Ensures we still have a broad selection of species when they start dying off from climate change.
 
 ---
 
@@ -46,7 +46,7 @@ This document outlines Modern Druid's strategic long-term projects and R\&D prio
 ### ✅ Enhanced Rock Weathering Trials
 
 **Goal:** Compare local rock dusts (granite, basalt, etc.) for CO2 capture + soil mineralization.
-**Impact:** Adds inorganic carbon removal pathway and long-term fertility boost.
+**Impact:** Adds inorganic carbon removal pathway and an additional revenue stream.
 
 ### ✅ Soil Injection Trials
 
@@ -56,7 +56,7 @@ This document outlines Modern Druid's strategic long-term projects and R\&D prio
 ### ✅ Saprotrophic Fungi Integration
 
 **Goal:** Introduce wood-decomposing fungi to biomass rows and woody mulch.
-**Impact:** Breaks down dense biomass and opens up clay, supporting next-succession crops.
+**Impact:** Additional biodiversity and food crops.
 
 ### ✅ Soil Capacitance & Moisture Mapping
 
@@ -73,13 +73,18 @@ This document outlines Modern Druid's strategic long-term projects and R\&D prio
 **Goal:** Explore how exposure to IMO-enhanced soils impacts human skin and gut microbiota.
 **Impact:** Opens new scientific and marketing narratives linking soil health and human health.
 
+### ✅ Non-arable Land Conversion
+
+**Goal:** Use mulch and biochar to build soil where it does not exist today, areas such as granite bedrock outcroppings.
+**Impact:** Increases the available land for these sites.
+
 ---
 
 ## 🏡 Greenhouse Systems & Controlled Environment R\&D
 
 ### ✅ Kiln Exhaust to Geothermal Battery
 
-**Goal:** Reuse heat and CO2 from kilns to warm soil or air in greenhouses.
+**Goal:** Reuse heat and CO2 from kilns to warm soil for geothermally air in greenhouses over winter.
 **Impact:** Increases energy efficiency and supports year-round growing conditions.
 
 ### ✅ Biological Aeroponics with Living Soil Cap
@@ -94,8 +99,8 @@ This document outlines Modern Druid's strategic long-term projects and R\&D prio
 
 ### ✅ Aquaculture/Aquaponics
 
-**Goal:** Produce fish in ponds and/or tanks.
-**Impact:** Fish waste feeds the soil and plants. Plants filter the waste for the fish to have clean water again. Fish becomes another potential food source.
+**Goal:** Produce fish in ponds and/or tanks. Fish waste feeds the soil and plants. Soil and plants filter the waste for the fish to have clean water again.
+**Impact:** Improves microbial diversity. Fish becomes another potential food source.
 
 ---
 
@@ -103,13 +108,13 @@ This document outlines Modern Druid's strategic long-term projects and R\&D prio
 
 ### ✅ Halophytic Sites
 
-**Goal:** Use salt tolerant plants to irrigate with seawater.
-**Impact:** Can grow without fresh water.
+**Goal:** Use salt tolerant plants to irrigate with seawater on coastal sites.
+**Impact:** Can grow without fresh water. Can pave the way for inland farms that require biomass in desert regions.
 
 ### ✅ Kelp Farms
 
 **Goal:** Grow biomass in the ocean, not just on land.
-**Impact:** Massively expand the plantable area by growing in the ocean.
+**Impact:** Massively expand the plantable area by growing in the ocean. Can provide mulch for soil building on land. Some species are edible.
 
 ### ✅ Floating Islands
 
@@ -127,13 +132,8 @@ This document outlines Modern Druid's strategic long-term projects and R\&D prio
 
 ### ✅ Open-Source Training Materials
 
-**Goal:** Create accessible, step-by-step resources to train new farmers, builders, and biochar operators.
-**Impact:** Enables high-quality replication across languages, cultures, and climates.
-
-### ✅ Global Online Learning Platform (Future Phase)
-
-**Goal:** Centralize learning modules, certification tracks, and peer support tools.
-**Impact:** Scales training globally once carbon farming gains policy and financial support.
+**Goal:** Create accessible, step-by-step resources to train new farmers and biochar operators.
+**Impact:** Enables high-quality replication across languages, cultures, and climates. Enable anyone to do this.
 
 ---
 

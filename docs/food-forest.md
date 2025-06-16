@@ -97,15 +97,16 @@ Once we have converted our land to our placenta stage pioneer species, we then s
 
 ## 6. Soil Carbon Revenue Estimates
 
-Syntropic agroforestry projects should reliably sequester approximately 10–20 t CO₂e/ha/yr. At **CAD \$45/tonne**, a 25 ha block yields:
+Syntropic agroforestry projects should reliably sequester approximately 10–20 t CO₂e/ha/yr in the soil. At **CAD \$45/tonne**, a 100 ha site yields:
 
 | Sequestration Rate (t CO₂e/ha/yr) | Total (t CO₂e/yr) | Revenue (CAD) |
 | --------------------------------- | ----------------- | ------------- |
-| 10 (Conservative)                 | 250               | \~11 250      |
-| 15 (Moderate)                     | 375               | \~16 875      |
-| 20 (Aggressive)                   | 500               | \~22 500      |
+| 10 (Conservative)                 | 1000               | \~45,000     |
+| 15 (Moderate)                     | 1500               | \~67,500     |
+| 20 (Aggressive)                   | 2000               | \~90,000     |
 
-> Revenue projections exclude biochar carbon credits and biochar sales, which can stack for a multi‑stream income model.
+
+A minimum project size of 1500 tonnes per year would be targetted. Revenue projections exclude biochar carbon credits and biochar sales, which stack for a multi‑stream income model.
 
 ---
 

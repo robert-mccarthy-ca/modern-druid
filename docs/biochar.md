@@ -89,6 +89,20 @@ Since we only have 312 burn runs possible during the proposed workweek, kiln ope
 
 Revenues continue to go up as additional biomass is processed into biochar, either from food forest productivity increases or from local waste streams. Consequently, regions with high-waste industries (e.g., forestry) could scale faster and possibly warrant year round operation of kilns. Satellite kiln sites may be viable with sufficient biomass availability.
 
+### Biochar Sales
+
+* 140-170 cubic feet per tonne of biochar
+* $40+ CAD/cubic foot on current market
+* 5.2-6.5 cubic yards per tonne of biochar
+* $200+ CAD per cubic yard of biochar
+
+At 225 tonnes, half of the annual production, we have:
+
+$234,000 - $292,500 CAD if sold in bulk
+$1,260,000 - $1,530,000 CAD if sold in cubic foot bags
+
+Once sales come online, this gives us a potential revenue stream of 225 tonnes of biochar which if we could sell it all could reasonably sell for between $234,000 CAD and $1,500,000 CAD per year. This would likely require an additional dedicated employee for packaging, but well worth the money. This wouldn't be available until biochar certification comes in from CFIA, which takes more than a year according to them. But once the sales come online that gives us a potential employee budget of upwards of $1.75 million CAD, enough for respectable career wages even if we need a few more employees do do everything we want to accomplish.
+
 *Note: All numbers based on best available data. Prototyping and testing required for validation.*
 
 ---

@@ -93,4 +93,4 @@ Modern Druid's MRV (Monitoring, Reporting, Verification) framework is designed t
 
 # ✅ Conclusion
 
-The Modern Druid Project's MRV protocol is designed not only to easily meet the highest verification standards for carbon credit issuance, but also to build an unprecedented long-term record of soil regeneration and atmospheric carbon removal available for everyone.
+The Modern Druid Project's MRV protocol is designed not only to easily meet the highest verification standards for carbon credit issuance, but also to build an unprecedented long-term record of soil regeneration and atmospheric carbon removal dataset that is available for everyone.

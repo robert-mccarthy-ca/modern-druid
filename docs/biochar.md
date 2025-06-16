@@ -101,7 +101,7 @@ At 225 tonnes, half of the annual production, we have:
 $234,000 - $292,500 CAD if sold in bulk
 $1,260,000 - $1,530,000 CAD if sold in cubic foot bags
 
-Once sales come online, this gives us a potential revenue stream of 225 tonnes of biochar which if we could sell it all could reasonably sell for between $234,000 CAD and $1,500,000 CAD per year. This would likely require an additional dedicated employee for packaging, but well worth the money. This wouldn't be available until biochar certification comes in from CFIA, which takes more than a year according to them. But once the sales come online that gives us a potential employee budget of upwards of $1.75 million CAD, enough for respectable career wages even if we need a few more employees do do everything we want to accomplish.
+Once sales come online, this gives us a potential revenue stream of 225 tonnes of biochar which if we could sell it all could reasonably sell for between $234,000 CAD and $1,500,000 CAD per year. This would likely require an additional dedicated employee for packaging, but well worth the money. This wouldn't be available until biochar certification comes in from CFIA, which takes more than a year according to them. But once the sales come online that gives us a potential annual employee budget upwards of $800,000 CAD, enough for legitimate career wages even if we need a few more employees do do everything we want to accomplish.
 
 *Note: All numbers based on best available data. Prototyping and testing required for validation.*
 

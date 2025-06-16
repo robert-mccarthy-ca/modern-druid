@@ -64,7 +64,7 @@ The goal: a 3-person crew grows 1,500+ tonnes of biomass annually and converts i
 
 **Kiln Season:** November 1 to April 30 (26 weeks)
 
-* 3 days/week, 2 burns/day
+* 312 kiln runs (26 weeks, 3 days/week, 2 burns/day, 2 kiln operators)
 * October and May for other tasks
 * Same team switches to food forest duties in growing season
 
@@ -75,24 +75,6 @@ The goal: a 3-person crew grows 1,500+ tonnes of biomass annually and converts i
 * CO₂e: \~2.81 tCO₂e
 * Revenue (@ \$200 CAD/tCO₂e): \~\$562 CAD
 
-### Scenario A: 8 Kilns/Day With 3 Operators - Max Throughput
-
-* Burns: 624/year (26 weeks × 3 days × 2 kilns per operator × 2 kiln operators x 2 runs per day)
-* Biochar: \~596 t
-* Biomass: \~1,988 t
-* CO₂e: \~1,751 t
-* Revenue: \~\$350,286 CAD
-
-### Scenario B: 12 Kilns/Day With 3 Operators - Max Throughput
-
-* Burns: 936/year (26 weeks × 3 days × 3 kilns per operator × 2 kiln operators x 2 runs per day)
-* Biochar: \~894 t
-* Biomass: \~2,981 t
-* CO₂e: \~2,627 t
-* Revenue: \~\$525,383 CAD
-
-**Minimum input biomass needed to hit 1,000 tCO₂e**: \~1,135 t (with margin, 1,500 t safer)
-
 ### 1500 Tonnes of Biomass
 
 * Burns Needed: 470
@@ -101,9 +83,11 @@ The goal: a 3-person crew grows 1,500+ tonnes of biomass annually and converts i
 * CO₂e: \~1320 t
 * Revenue: \~\$264,000 CAD
 
-With the bare minimum of 1500 tons pre year, we are left with $132,000 to pay for 3 employees from biochar carbon credits alone. Soil carbon credits and biochar sales would make up the difference between minimum wages and a comfortable ones. Long term growth of the site should continue to push these numbers up, but may incur additional labour as well. The price of carbon on their respective voluntary markets would directly impact revenues and employee earnings.
+With the bare minimum of 1500 tons per year, we are left with $132,000 to pay for 3 employees from biochar carbon credits alone, and another $132,000 to pay for non-wage costs. Soil carbon credits and biochar sales would make up the difference between minimum wages and a comfortable ones and speed growth. Long term growth of the site should continue to push these numbers up, but may incur additional labour as well. The price of carbon on their respective voluntary markets would directly impact revenues and employee earnings.
 
-Surplus biomass = better pay, higher impact. High-waste regions (e.g., forestry) could scale faster and possibly warrant year round operation of kilns. Satellite kiln sites may be viable with sufficient biomass access.
+Since only 312 burn runs possible during the proposed workweek, kiln operators would need to keep at least 2 kilns running each, with additional kilns increasing capacity quickly. Additional crews could easily be added, or operations could continue throughout the year if local fire regulations allow if enough biomass was available.
+
+Revenues continue to go up as additional biomass is processed into biochar, either from food forest productivity increases or from local waste streams. Consequently, regions with high-waste industries (e.g., forestry) could scale faster and possibly warrant year round operation of kilns. Satellite kiln sites may be viable with sufficient biomass availability.
 
 *Note: All numbers based on best available data. Prototyping and testing required for validation.*
 

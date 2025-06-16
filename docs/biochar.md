@@ -85,7 +85,7 @@ The goal: a 3-person crew grows 1,500+ tonnes of biomass annually and converts i
 
 With the bare minimum of 1500 tons per year, we are left with $132,000 to pay for 3 employees from biochar carbon credits alone, and another $132,000 to pay for non-wage costs. Soil carbon credits and biochar sales would make the difference between minimum wages and comfortable ones. Those revenues would also increase the rest of the site's budget. Long term growth of the site should continue to push these numbers up, but may incur additional labour as well. The prices of carbon credits on their respective markets would directly impact revenues and employee earnings.
 
-Since only 312 burn runs possible during the proposed workweek, kiln operators would need to keep at least 2 kilns running each, with additional kilns increasing capacity quickly. Additional crews could easily be added, or operations could continue throughout the year if local fire regulations allow if enough biomass was available.
+Since we only have 312 burn runs possible during the proposed workweek, kiln operators would need to keep at least 2 kilns running each, with being capable of maintaining more kilns per operator increasing capacity quickly. Additional crews could easily be added, or operations could continue throughout the year if local fire regulations allow and enough biomass was available.
 
 Revenues continue to go up as additional biomass is processed into biochar, either from food forest productivity increases or from local waste streams. Consequently, regions with high-waste industries (e.g., forestry) could scale faster and possibly warrant year round operation of kilns. Satellite kiln sites may be viable with sufficient biomass availability.
 

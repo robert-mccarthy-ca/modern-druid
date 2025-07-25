@@ -4,26 +4,28 @@
 
 Climate change isn’t coming — it’s here. We’ve already passed 1.5°C. Permafrost isn’t just melting, it’s burning. Fires from 2023 are still burning today. We’ve ignited the peat. The once-frozen carbon stores of the North are now fueling the very fires that release them.
 
-**Is there any way out?**
+**Is there any way forward that doesn't involve dying in the apocalypse?**
 
-That’s what I wanted to know. What if I had the resources to do something meaningful? Not another greenwashed offset scheme. Not another bandaid. **Could I build something with existing tools that might actually matter?** Could we remove carbon from the atmosphere at the scale of **multiple parts per million per year** — and do it while healing the land and feeding people?
+That’s what I wanted to know. Could I do something meaningful even if I had the money to start a company to do it? Not another greenwashed offset scheme. Not another bandaid. **Could I build something with existing tools and technologies that might actually matter?** Could we remove carbon from the atmosphere at the scale of **multiple parts per million per year**?
 
-Here’s my attempt. And you know what? I think I might have cracked it.
+Here’s my attempt. 
 
 ---
 
 ## 🌱 The Big Idea: Self-Replicating Carbon Farms
 
-Introducing the **Modern Druid Project** — a scalable blueprint for exponential climate action.
+Introducing the **Modern Druid Project** — a scalable blueprint for exponential climate action. The main service is starting self-replicating farms.
 
 Each farm:
 
 * Removes atmospheric carbon through **biochar + soil carbon sequestration**
-* Grows **free food** using syntropic agroforestry and natural farming
-* Pays **real wages** through carbon credits and biochar revenue
-* **Spawns new farms** as a built-in function, creating geometric growth
+* Purpose grown biomass for conversion to **biochar**, locking the carbon in solid form
+* Grows **free food** using syntropic agroforestry and natural farming techniques **free from pesticides, herbicides or fungicides**
+* Pays **real wages** through carbon credits and biochar revenue, 80% of revenue stays in the communities
+* **Spawns new farms** as a built-in function, creating geometric growth through a permanent expansion budget
+* The land and the food forest on it **passes to the farmers who built it** at the end of its project cycle
 
-We’re not talking about monoculture plantations. These are **high-biomass food forests** designed to grow carbon, food, soil, and community. And do it profitably. No greenwashing. No offsets. Real carbon drawdown, rooted in the soil.
+We’re not talking about monoculture plantations. These are **high-biomass food forests** designed to grow carbon, food, soil, and community. And do it profitably. No greenwashing. Legitimate carbon dioxide removal that you can see, touch, even taste for yourself, rooted in the soil. Paid for by international voluntary carbon markets that pay the same regardless of where you run the project, whether it's in a high income country like Canada (where I live) or an impoverished area like rural Kenya, bringing real prosperity to poorer communities. Channeling money and resources from polluters to the people who would heal the land.
 
 ---
 
@@ -31,31 +33,42 @@ We’re not talking about monoculture plantations. These are **high-biomass food
 
 ### 🧊 Climate-First
 
-This model isn’t *about* food. It’s about stopping runaway climate change. Food is a **co-benefit**.
+This model isn’t *about* food. It’s about stopping runaway climate change. Food is a **co-benefit**. But producing food lets us use agricultural land at scale to do this.
 
 * **Primary crop:** Biomass for biochar
 * **Secondary crops:** Edibles, medicine, biodiversity
-* **Carbon revenue only**: Puro.Earth (biochar carbon credits) + Verra + CCB (soil carbon credits) + biochar sales
+* **Carbon revenue only**: Puro.Earth (biochar carbon credits), Verra + CCB (soil carbon credits), and biochar sales
 
 ### 💸 Free Food, Forever
 
 Why give food away?
 
-* Undercut industrial ag. Who competes with free?
-* Eliminate harvest/sales logistics
-* Build public trust
-* Feed people
+* Eliminate harvest/sales logistics and farm design constraints.
+* Build public trust and interest.
+* Undercut the industrial chemical agriculture machine that's destroying the world's soils. Let's see them compete with free and organic. Drive them out of business, buy their land, start new farms.
+* Food security for the communities they operate in. Forcing people to pay for the privilege of eating doesn't have to exist as a business model. Carbon can pay those bills.
+* Be a source of regeneration and prosperity wherever we go, welcomed into and hopefully paid to set up carbon farms. Be a source of food security and cost savings to the communities along with wages.
 
 > Let the people pick their own damn food. We're busy drawing down carbon.
+
+### 🌿 The Land Returns to the Communities
+
+Why give the land away? Why not just keep it forever?
+
+* Farmers work a whole lot harder if it's their land they're improving.
+* Be a source of regeneration and prosperity wherever we go, welcomed into and hopefully paid to set up carbon farms. Be a source of generational wealth for the people who would take up the mantle of carbon farmer. Make it a legitimate, sought after career.
+* This isn't a new form of colonialism. It's regeneration. Both of the land and the communities.
+* To be trusted and welcomed into communities across the world, we need to expand everywhere to have a chance of saving the planet.
+* We come, we improve the soil, we draw down carbon, we feed the people, and then we leave. And we leave behind a legacy of fertility and prosperity in our wake. Business doesn't have to be exploitative to be profitable.
 
 ### 🌿 Agroforestry, Not Agriculture
 
 Land is structured as:
 
 * Tall **pollarded biomass trees** in structured rows
-* Low/mid strata of edible and support species
+* Low/mid strata of edible and support species beneath
 * Short rotation coppiced alleys
-* Managed for **pruning, not picking**
+* Managed for **biomass production and mechanical harvesting**, not picking efficiency or maximizing food harvests
 
 ### 🔥 Biochar at Scale
 
@@ -65,8 +78,12 @@ We use **flame-cap kilns**, modified for automation and emissions monitoring:
 * Quench automation
 * MRV-compliant kiln sheds (ventilation + sensors)
 * Crush, weigh, screen, apply
+* Boosts soil water and nutrient retention
+* Provides abundant microbial habitat
 
-At least **50% of biochar** stays on site to build terra preta soils. The rest can be sold if markets exist.
+At least **50% of biochar** stays on site to build terra preta-like soils. The rest can be sold if markets exist.
+
+Making biochar is actually fairly easy, it's the logistics of getting the biomass and selling that make it hard. We largely bypass those obstacles by growing our own biomass and using the biochar ourselves to improve our soils and grow more biomass.
 
 ### 🧪 Natural Farming as Soil Engine
 
@@ -79,31 +96,33 @@ At least **50% of biochar** stays on site to build terra preta soils. The rest c
 * Start with existing surface/groundwater
 * Expand to **atmospheric water harvesting**
 * Use **ponds, snowmaking, and smart irrigation**
+* Becomes a **major part of the annual local development budget** as the site matures and inputs drop
 
-No water = no food = no carbon. Irrigation resilience is non-negotiable.
+No water = no food = no carbon. Irrigation resilience is non-negotiable in the face of radical climate change.
 
 ### 🌍 Universal Pay & Ownership
 
 * 50% of revenue to employees, always
 * No one earns more than 2× the lowest paid
 * Farms **transfer to worker ownership after 20 years**
-* Carbon farmers can retire with land
+* Carbon farmers can retire with land and generational wealth
 
 ---
 
 ## 📈 Can It Scale?
 
-Yes. It’s built to.
+Yes. It’s built to. By having every farm self-replicating we grow at a rate of O(e^x), or in layman's terms, we have an exponential growth rate.
 
-* **100–150 hectares** per site to hit Puro minimums (1000–1500 t CO2/year)
+* **100–150 hectares** per site to hit Puro minimums (1000 t CO2/year)
 * Estimated 10–20 t CO₂e/ha/year from soil + biochar combined
 * 515 million hectares globally could remove **1 ppm CO₂/year**
 * That’s **\~10% of global farmland**
 
-With enough replication, we could approach **ppm/month**. And that’s not hypothetical —
-**this project is designed to replicate itself.** Every successful farm spawns new ones.
+With enough replication, by forcing out and replacing existing agricultural proactices, we could approach **ppm/month**. And that’s really where we need to be at this point. Every successful farm spawns new ones until we've run out of earth to heal.
 
-> Carbon farming, scaled like open-source software.
+We are limited by the size of the voluntary markets, so eventually to scale to global levels there needs to be a global price on carbon, probably at the UN scale. Showing that this works would go along way to making that happen.
+
+> Carbon farming, scaled like software.
 
 ---
 
@@ -120,18 +139,18 @@ With enough replication, we could approach **ppm/month**. And that’s not hypot
 ### 🌳 Food Forest Design
 
 * Syntropic agroforestry: dense, layered, successional
-* Biomass trees in rows, food beneath
-* Minimal maintenance: prune and mulch
-* Annual canopy lifts, continual replanting
+* High pollarded biomass trees in rows, food beneath
+* Short rotation coppicing in the alleys between
+* Minimal maintenance: prune, mulch, seed
 * Edible plants self-harvested by locals
 
 ### 🧬 R\&D Engine
 
 * Biomass breeding for yield and carbon
-* Fungal integration for decomposition + food
-* Soil injection trials for deeper microbial reach
-* Rock dust trials (enhanced weathering)
-* Sensor networks for 3 m soil profiling
+* Rock dust trials (enhanced rock weathering)
+* Greenhouses heated by the biochar production for year round production regardless of weather
+* Aquaculture, growing fish in the water storage for both plant nutrients and meat harvesting
+* Education, free access to all of it. Training programs, engineering designs, everything.
 
 ### 🏭 Revenue Model
 
@@ -139,7 +158,7 @@ With enough replication, we could approach **ppm/month**. And that’s not hypot
 * Verra + CCB soil credits
 * Optional biochar sales (once certified)
 
-> First we make the carbon, then we make the money.
+> Free food and enhanced soil fertility, paid for by polluters.
 
 ---
 
@@ -160,6 +179,8 @@ With enough replication, we could approach **ppm/month**. And that’s not hypot
   * Global R\&D (10%)
   * New farm launches (10%)
 
+This is at $200 CAD and $45 CAD per ton of CO2 for biochar and soil respectively. $200 CAD/tonne has been a rough value for the past year or so on Puro.Earth's marketplace. $45/tonne CAD is an optimistic price based on the large number of co-benefits that typically bring in the higher value credits.
+
 > Goal: Six-figure income potential for carbon farmers. Globally.
 
 ---
@@ -167,8 +188,16 @@ With enough replication, we could approach **ppm/month**. And that’s not hypot
 ## 🔁 20-Year Cycles
 
 * **Years 1–20**: Revenue grows. Food is free. Carbon is pulled.
-* **Year 20**: Ownership handed to the workers.
+* **Year 20**: 
+  - Ownership of half the land handed to the workers.
+  - New land purchased and added to the project
+* **Year 20-40**: Revenue grows. Food is free. Carbon is pulled.
+* **Year 40**:
+  - Ownership of the rest of the initial land is handed to the workers.
+  - New Land purchased and added to the project
 * New farms launched throughout using site budget.
+
+At year 20, half the land is given to the workers who worked it. The other half gets renewed for another 20 years, along with any other land purchases that get added to the project. Every 20 years after that the oldest land is passed to the farmers and new land is added until there's no more local land to buy up. At which point it begins its final project cycle with the remainder of the land granted to it's final farmers.
 
 It’s not colonization. It’s reparative. **Land returns to the people**, improved.
 
@@ -176,8 +205,8 @@ It’s not colonization. It’s reparative. **Land returns to the people**, impr
 
 ## 🧩 Where It Stands
 
-No funding. Just an idea. This is a blueprint.
-I’m building the protocols, workflows, financials, R\&D list, and documentation now.
+No funding. No project. No company. Nothing. Just one guy's crazy idea.
+I’m still refining the protocols, workflows, financials, R\&D list, and documentation now. The idea is to refine and develop it to the point where it's pitchable as a climate startup.
 
 This repository contains:
 
@@ -189,8 +218,8 @@ This repository contains:
 * `mrv-protocols.md`: Carbon credit verification standards
 * `long-term-projects-research-and-development.md`: Advanced R\&D roadmap
 
-Everything here will be free. Training videos will follow. Because when the world is ready, it won’t have time to wait.
+Everything here would be documented and releases for free. Training videos, engineering designs, parperwork examples, everything someone needs to do this themselves. Because when the world is finally ready to act, digitally is the only way to spread that information fast enough.
 
-This is how I would solve it. This is the Modern Druid Project.
+This is how I would solve it. This is the Modern Druid Project. 
 
-Let’s see what happens when we try.
+And you know what? I think it might just have a chance of working. Dare to solve the problem.

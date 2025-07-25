@@ -27,8 +27,8 @@ The Modern Druid Project is a self-sustaining, replicable collective of carbon f
 * Revenue allocation **after profitability**:
 
   * 50% → employee wages & bonuses
-  * 20% → local farm improvements
-  * 20% → funding new project companies, typically promoting from within
+  * 30% → local farm improvements
+  * 10% → funding new project companies, typically promoting from within
   * 10% → Global Parent Company
 * Employees promoted to managers of new farms, creating a self-replicating leadership pipeline
 * Ownership of the farm transferred to workers at end of project cycle
@@ -76,7 +76,7 @@ The Modern Druid Project is a self-sustaining, replicable collective of carbon f
 | **Stage**          | Wages & Bonuses | Local Improvements | Replication Funds | Global R\&D |
 | ------------------ | --------------- | ------------------ | ----------------- | ----------- |
 | Pre‑profitability  | 50%             | 50%                | 0%                | 0%          |
-| Post‑profitability | 50%             | 20%                | 20%               | 10%         |
+| Post‑profitability | 50%             | 30%                | 10%               | 10%         |
 
 This ensures workers are prioritized, local farms scale sustainably, and Global R\&D is adequately funded only after local stability.
 

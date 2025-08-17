@@ -1,225 +1,152 @@
-# 🌍 The Modern Druid Project
+🌍 The Modern Druid Project
 
-**What would I do if I had the budget to stop climate collapse?**
+What would I do if I had the budget to stop climate collapse?
 
-Climate change isn’t coming — it’s here. We’ve already passed 1.5°C. Permafrost isn’t just melting, it’s burning. Fires from 2023 are still burning today. We’ve ignited the peat. The once-frozen carbon stores of the North are now fueling the very fires that release them.
+Climate change isn’t coming — it’s here. We’ve already passed 1.5 °C. Permafrost is burning, peat fires from 2023 still smoulder today, and vast carbon stores in the North are being released. Even if we stopped emissions tomorrow (we aren’t — they’re at record highs), hundreds of ppm of CO₂ would still pour into the atmosphere in the coming decades.
 
-**Is there any way forward that doesn't involve dying in the apocalypse?**
+Is there a way forward that doesn’t end in collapse?
 
-That’s what I wanted to know. Could I do something meaningful even if I had the money to start a company to do it? Not another greenwashed offset scheme. Not another bandaid. **Could I build something with existing tools and technologies that might actually matter?** Could we remove carbon from the atmosphere at the scale of **multiple parts per million per year**?
+That’s the challenge. Not offsets or greenwashing. Not another bandaid. The question:
+👉 With today’s tools, can we build something that matters at planetary scale and still make a living?
+👉 Could we actually remove multiple ppm of CO₂ per year?
 
-Here’s my attempt. 
+This is my attempt to design a solution to this problem.
 
----
+🌱 The Core Idea
 
-## 🌱 The Big Idea: Self-Replicating Carbon Farms
+Grow biomass crops on agricultural land using syntropic agroforestry (fast-growing coppice + food forest understory).
 
-Introducing the **Modern Druid Project** — a scalable blueprint for exponential climate action. The main service is starting self-replicating farms.
+Convert woody biomass into biochar (carbonized plant matter), a stable form of carbon that persists in soils for millennia.
 
-Each farm:
+Apply biochar back to the soil — improving fertility, water retention, microbial habitat, and yields.
 
-* Removes atmospheric carbon through **biochar + soil carbon sequestration**
-* Purpose grown biomass for conversion to **biochar**, locking the carbon in solid form
-* Grows **free food** using syntropic agroforestry and natural farming techniques **free from pesticides, herbicides or fungicides**
-* Pays **real wages** through carbon credits and biochar revenue, 80% of revenue stays in the communities
-* **Spawns new farms** as a built-in function, creating geometric growth through a permanent expansion budget
-* The land and the food forest on it **passes to the farmers who built it** at the end of its project cycle
+Give away the food. Make it public access. No harvest logistics, no marketing costs, no middlemen. Free, local, organic nutrition that improves food security and lowers living costs.
 
-We’re not talking about monoculture plantations. These are **high-biomass food forests** designed to grow carbon, food, soil, and community. And do it profitably. No greenwashing. Legitimate carbon dioxide removal that you can see, touch, even taste for yourself, rooted in the soil. Paid for by international voluntary carbon markets that pay the same regardless of where you run the project, whether it's in a high income country like Canada (where I live) or an impoverished area like rural Kenya, bringing real prosperity to poorer communities. Channeling money and resources from polluters to the people who would heal the land.
+Make money from carbon. Biochar-based carbon credits (Puro.Earth) + soil carbon credits (Verra CCB) + biochar sales into agriculture, construction, and industry.
 
----
+This system can sequester ~20 tCO₂e/ha/year with existing methods — more with improved microbial inoculants, irrigation, and breeding. At global scale, that’s multiple ppm of CO₂ drawdown per year.
 
-## 💡 What Makes It Different?
+🍎 The Food Forest Layer
 
-### 🧊 Climate-First
+Food forests are some of the most productive food systems we know of. By mixing pollarded biomass trees with edible species across multiple canopy layers, we:
 
-This model isn’t *about* food. It’s about stopping runaway climate change. Food is a **co-benefit**. But producing food lets us use agricultural land at scale to do this.
+Keep agricultural land food-productive
 
-* **Primary crop:** Biomass for biochar
-* **Secondary crops:** Edibles, medicine, biodiversity
-* **Carbon revenue only**: Puro.Earth (biochar carbon credits), Verra + CCB (soil carbon credits), and biochar sales
+Speed succession with syntropic agroforestry
 
-### 💸 Free Food, Forever
+Increase biodiversity and resilience
 
-Why give food away?
+Provide free, local, chemical-free food to surrounding communities
 
-* Eliminate harvest/sales logistics and farm design constraints.
-* Build public trust and interest.
-* Undercut the industrial chemical agriculture machine that's destroying the world's soils. Let's see them compete with free and organic. Drive them out of business, buy their land, start new farms.
-* Food security for the communities they operate in. Forcing people to pay for the privilege of eating doesn't have to exist as a business model. Carbon can pay those bills.
-* Be a source of regeneration and prosperity wherever we go, welcomed into and hopefully paid to set up carbon farms. Be a source of food security and cost savings to the communities along with wages.
+This makes the project viable at scale — because we don’t have to choose between carbon farming and food security.
 
-> Let the people pick their own damn food. We're busy drawing down carbon.
+👉 For full details on site layout, equipment, throughput per worker, and seasonal workflows, see the food-forest.md file.
 
-### 🌿 The Land Returns to the Communities
+💰 The Revenue Model
 
-Why give the land away? Why not just keep it forever?
+Carbon Credits
 
-* Farmers work a whole lot harder if it's their land they're improving.
-* Be a source of regeneration and prosperity wherever we go, welcomed into and hopefully paid to set up carbon farms. Be a source of generational wealth for the people who would take up the mantle of carbon farmer. Make it a legitimate, sought after career.
-* This isn't a new form of colonialism. It's regeneration. Both of the land and the communities.
-* To be trusted and welcomed into communities across the world, we need to expand everywhere to have a chance of saving the planet.
-* We come, we improve the soil, we draw down carbon, we feed the people, and then we leave. And we leave behind a legacy of fertility and prosperity in our wake. Business doesn't have to be exploitative to be profitable.
+Puro.Earth: Biochar carbon removal (~$200 CAD/tCO₂e)
 
-### 🌿 Agroforestry, Not Agriculture
+Verra CCB: Soil carbon (lower, but increases with co-benefits)
 
-Land is structured as:
+Biochar Sales
 
-* Tall **pollarded biomass trees** in structured rows
-* Low/mid strata of edible and support species beneath
-* Short rotation coppiced alleys
-* Managed for **biomass production and mechanical harvesting**, not picking efficiency or maximizing food harvests
+Agriculture, horticulture, filtration, concrete/asphalt replacement, animal bedding/feed, etc.
 
-### 🔥 Biochar at Scale
+Community Cobenefits
 
-We use **flame-cap kilns**, modified for automation and emissions monitoring:
+Free food for locals → higher SDG impact rating → better credit prices
 
-* Loader-fed, tiltable, insulated kilns
-* Quench automation
-* MRV-compliant kiln sheds (ventilation + sensors)
-* Crush, weigh, screen, apply
-* Boosts soil water and nutrient retention
-* Provides abundant microbial habitat
+Scaling is international: carbon markets pay the same in Canada as in Kenya. Political inaction doesn’t matter; projects can thrive in any country.
 
-At least **50% of biochar** stays on site to build terra preta-like soils. The rest can be sold if markets exist.
+⚒️ The Biochar Process
 
-Making biochar is actually fairly easy, it's the logistics of getting the biomass and selling that make it hard. We largely bypass those obstacles by growing our own biomass and using the biochar ourselves to improve our soils and grow more biomass.
+Ring-of-Fire style kilns, upgraded to insulated, tiltable, quenched units in covered sheds with monitored chimneys.
 
-### 🧪 Natural Farming as Soil Engine
+Throughput:
 
-* JMS, IMO, FPJ, LAB applied continuously
-* Boosts biodiversity, disease resistance, fertility
-* No pesticides, no chemicals, no bullshit
+Each 5-yard kiln run needs ~3.2 t biomass → sequesters ~2.8 tCO₂e
 
-### 💧 Water Security Is Key
+3-person crew running 8 kilns/day → ~22 tCO₂e sequestered daily (2 runs of 4 kilns, 2 kilns each and a floater)
 
-* Start with existing surface/groundwater
-* Expand to **atmospheric water harvesting**
-* Use **ponds, snowmaking, and smart irrigation**
-* Becomes a **major part of the annual local development budget** as the site matures and inputs drop
+Scale: Meets Puro’s minimum (1,000 t/year) in ~45 kiln days.
 
-No water = no food = no carbon. Irrigation resilience is non-negotiable in the face of radical climate change.
+Half of the biochar stays on-site (soil improvement + terra preta), half is sold for revenue.
 
-### 🌍 Universal Pay & Ownership
+👥 Labour, Governance & Scaling
 
-* 50% of revenue to employees, always
-* No one earns more than 2× the lowest paid
-* Farms **transfer to worker ownership after 20 years**
-* Carbon farmers can retire with land and generational wealth
+100 ha managed by 3–5 people under the “no food harvest” model.
 
----
+Wage model:
 
-## 📈 Can It Scale?
+50% of earnings go to employees (cap: highest paid earns ≤2× lowest).
 
-Yes. It’s built to. By having every farm self-replicating we grow at a rate of O(e^x), or in layman's terms, we have an exponential growth rate.
+Projects run for 20 years, then half of ownership transfers to workers.
 
-* **100–150 hectares** per site to hit Puro minimums (1000 t CO2/year)
-* Estimated 10–20 t CO₂e/ha/year from soil + biochar combined
-* 515 million hectares globally could remove **1 ppm CO₂/year**
-* That’s **\~10% of global farmland**
+Expansion:
 
-With enough replication, by forcing out and replacing existing agricultural proactices, we could approach **ppm/month**. And that’s really where we need to be at this point. Every successful farm spawns new ones until we've run out of earth to heal.
+Self-replicating model: farms spawn new farms via reinvestment.
 
-We are limited by the size of the voluntary markets, so eventually to scale to global levels there needs to be a global price on carbon, probably at the UN scale. Showing that this works would go along way to making that happen.
+Parent company retains a small % for R&D, education, PR, and training.
 
-> Carbon farming, scaled like software.
+📊 UN Sustainable Development Goals (SDGs)
 
----
+The Modern Druid Project could also directly contribute to 14 of the 17 UN SDGs, with the remaining 3 possible as the project matures and expands into kelp farming for the biomass source.
 
-## 🔧 How It Works
+🧭 SDG Coverage (12 of 17)
+- SDG 1 – No Poverty → equitable wages + worker ownership.
+- SDG 2 – Zero Hunger → free food forests + nutrient-dense food.
+- SDG 3 – Good Health & Wellbeing → improved diets, cleaner air/soil, reduced toxins.
+- SDG 4 – Quality Education → open-source training, replication, mentorship.
+- SDG 5 – Gender Equality → built-in if farms intentionally empower women and non-binary workers (especially in areas with systemic inequality).
+- SDG 6 – Clean Water & Sanitation → biochar reduces nutrient runoff, water harvesting improves access.
+- SDG 7 – Affordable & Clean Energy → renewable integration, low-energy kilns, waste-heat recovery.
+- SDG 8 – Decent Work & Economic Growth → dignified, well-paid green jobs.
+- SDG 9 – Industry, Innovation & Infrastructure → replicable agroforestry/biochar infrastructure.
+- SDG 10 – Reduced Inequalities → equity pay model + prioritizing marginalized communities.
+- SDG 11 – Sustainable Cities & Communities → food forests as public commons.
+- SDG 12 – Responsible Consumption & Production → waste-to-biochar circular economy.
+- SDG 13 – Climate Action → carbon drawdown at ppm scale.
+- SDG 15 – Life on Land → reforestation, biodiversity, soil regeneration.
 
-### 🔥 Biochar System
+The remaining 3 would require further development to hit them all directly.
 
-* Flame cap kilns, automated for efficiency and safety
-* Kiln buildings monitor emissions (CO₂, CO, VOCs, PM)
-* Quench water recovered, reused in food forests
-* Char is dried, weighed, screened, tested
-* MRV-compliant from day one
+- SDG 14 – Life Below Water → hit by:
+  - Kelp/seaweed farming for biomass + blue carbon sequestration.
+  - Eliminating nutrient runoff into rivers/lakes/oceans.
+  - Protecting fisheries and water ecosystems through land–water integration.
+- SDG 16 – Peace, Justice & Strong Institutions → hit by:
+  - Worker-owned governance model → justice + inclusion.
+  - Land trust or co-op ownership → prevents exploitation.
+  - Open-source global model → transparent and accountable institutions.
+  - Prioritizing Indigenous partnerships → strengthens sovereignty and rights.
+- SDG 17 – Partnerships for the Goals → hit by:
+  - Open publishing of methodology.
+  - Partnerships with local governments, NGOs, Indigenous groups, and climate funds.
+  - Linking to carbon markets + global replication networks.
 
-### 🌳 Food Forest Design
+As of this writing, most projects cap at 5–8 SDGs, 17 just isn't a thing in carbon removal projects today. That’s a premium co-benefit story. Imagine the impact of being able to remove carbon at scales that are relevant to restoring our atmosphere to 300 parts per million and hit every single one of the UNs Sustainable Development Goals and still be profitable as a company and as an industry. It would go a long way towards the argument that we as a global society need a UN level carbon price/tax to pay enough people to do this. Which is what we would need in order to scale to ppm per month, the voluntary market just isn't big enough.
 
-* Syntropic agroforestry: dense, layered, successional
-* High pollarded biomass trees in rows, food beneath
-* Short rotation coppicing in the alleys between
-* Minimal maintenance: prune, mulch, seed
-* Edible plants self-harvested by locals
+📚 Open Documentation Commitment
 
-### 🧬 R\&D Engine
+All documentation — training materials, engineering drawings, operating workflows, certification forms, and compliance guides — will be published openly. The goal is for any group, anywhere, to replicate and launch their own carbon farm project without proprietary barriers.
 
-* Biomass breeding for yield and carbon
-* Rock dust trials (enhanced rock weathering)
-* Greenhouses heated by the biochar production for year round production regardless of weather
-* Aquaculture, growing fish in the water storage for both plant nutrients and meat harvesting
-* Education, free access to all of it. Training programs, engineering designs, everything.
+🚀 Summary
 
-### 🏭 Revenue Model
+Carbon: Multiple ppm per year potential at scale
 
-* Puro.Earth biochar credits
-* Verra + CCB soil credits
-* Optional biochar sales (once certified)
+Food: Free, local, organic, chemical-free
 
-> Free food and enhanced soil fertility, paid for by polluters.
+People: Real wages, long-term ownership transfer
 
----
+Planet: Soil fertility, biodiversity, resilient hydrology
 
-## 📊 Financial Summary
+Policy: Bypasses politics through global markets
 
-### Revenue (per 1500 tonnes of biomass, 100 hectares at 15 tonnes/hectare):
+This is how we could disrupt industrial agriculture (make them compete with free), restore ecosystems, provide food security, and reverse climate change, with or without political will. All by simply not walking the path that exploits the land for maximum profit.
 
-* Biochar credits: \~\$264,000 CAD/year
-* Soil credits: \$45,000–\$90,000 CAD/year
-* Biochar sales: \$0–\$1.5M CAD (if market exists)
+The Modern Druid Project.
+Not just survival. Prosperity.
 
-### Costs:
-
-* Half of revenue to **employee wages and bonuses**
-* Remainder split between:
-
-  * Local infrastructure (30%)
-  * Global R\&D (10%)
-  * New farm launches (10%)
-
-This is at $200 CAD and $45 CAD per ton of CO2 for biochar and soil respectively. $200 CAD/tonne has been a rough value for the past year or so on Puro.Earth's marketplace. $45/tonne CAD is an optimistic price based on the large number of co-benefits that typically bring in the higher value credits.
-
-> Goal: Six-figure income potential for carbon farmers. Globally.
-
----
-
-## 🔁 20-Year Cycles
-
-* **Years 1–20**: Revenue grows. Food is free. Carbon is pulled.
-* **Year 20**: 
-  - Ownership of half the land handed to the workers.
-  - New land purchased and added to the project
-* **Year 20-40**: Revenue grows. Food is free. Carbon is pulled.
-* **Year 40**:
-  - Ownership of the rest of the initial land is handed to the workers.
-  - New Land purchased and added to the project
-* New farms launched throughout using site budget.
-
-At year 20, half the land is given to the workers who worked it. The other half gets renewed for another 20 years, along with any other land purchases that get added to the project. Every 20 years after that the oldest land is passed to the farmers and new land is added until there's no more local land to buy up. At which point it begins its final project cycle with the remainder of the land granted to it's final farmers.
-
-It’s not colonization. It’s reparative. **Land returns to the people**, improved.
-
----
-
-## 🧩 Where It Stands
-
-No funding. No project. No company. Nothing. Just one guy's crazy idea.
-I’m still refining the protocols, workflows, financials, R\&D list, and documentation now. The idea is to refine and develop it to the point where it's pitchable as a climate startup.
-
-This repository contains:
-
-* `README.md`: The big picture
-* `farm-layout.md`: Agroforestry and food forest structure
-* `financial-model.md`: Revenue and cost modelling
-* `goals.md`: UN SDG alignment and impact targets
-* `kiln-system.md`: Biochar kiln specs and throughput
-* `mrv-protocols.md`: Carbon credit verification standards
-* `long-term-projects-research-and-development.md`: Advanced R\&D roadmap
-
-Everything here would be documented and releases for free. Training videos, engineering designs, parperwork examples, everything someone needs to do this themselves. Because when the world is finally ready to act, digitally is the only way to spread that information fast enough.
-
-This is how I would solve it. This is the Modern Druid Project. 
-
-And you know what? I think it might just have a chance of working. Dare to solve the problem.
+> "Pick your own damn food, we're busy drawing down carbon."

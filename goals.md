@@ -31,15 +31,16 @@ The Modern Druid Project pursues transformative environmental, social, and econo
 * **Sustainable Water Harvesting:** Deploy passive (radiative cooling panels, fog nets) and active (refrigerative dehumidifiers, desiccant systems, desalination) atmospheric or seawater capture, plus pond storage—supplement groundwater without depletion.
 * **Automated Moisture Management:** Install fixed, automated irrigation and winter snowmaking systems to prevent soil desiccation year-round.
 
-### 6. Conduct Long-Term Regenerative R\&D
+### 6. Abolish Industrial Agriculture
+
+* **Outcompete on Quality:** Provide certified organic, chemical-free food and medicine at no cost to consumers.
+* **Outcompete on Price:** Leverage carbon revenue streams to offer free produce—forcing conventional agriculture to compete against zero cost.
+
+### 7. Conduct Long-Term Regenerative R\&D
 
 * **Ecosystem Science:** Investigate soil microbiomes, rock weathering, fungal networks, and carbon dynamics.
 * **Innovation Hubs:** Prototype greenhouse systems using kiln waste heat and JMS/IMO aeroponics for iterative learning and technology transfer.
 
-### 7. Abolish Industrial Agriculture
-
-* **Outcompete on Quality:** Provide certified organic, chemical-free food and medicine at no cost to consumers.
-* **Outcompete on Price:** Leverage carbon revenue streams to offer free produce—forcing conventional agriculture to compete against zero cost.
 
 ## 🌎 UN SDG Alignment & Implementation UN SDG Alignment & Implementation
 

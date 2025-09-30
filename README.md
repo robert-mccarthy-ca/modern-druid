@@ -46,41 +46,84 @@ But if our atmosphere increases by even 10 ppm from the thawing permafrost, not 
 
 ---
 
-### **1.0 Agroforestry**
+# **1.0 Agroforestry**
 
+The Modern Druid agroforestry engine is designed to do three things at once:
 
-The idea is to use syntropic agroforestry to grow a food forest while also growing biomass for converting to biochar. In standard syntropic systems, target crop trees are grown in different canopy layers, low, medium, high and emergent with various support trees between that get used as mulch along with herbaceous strips. I propose to flip that, grow biomass as our crops and use food as the support species which we selectively breed for our local and changing conditions. The biomass is used to generate biochar, which we would earn carbon removal credits for. At least half of the biochar would be reapplied to the land it came from, with the remainder being available for sale or spreading on the land. We have to either sell or use it to receive credits. The soil carbon growth from having a food forest is non-trivial and also generates carbon removal credits, although not as highly priced as the biochar credits. Those are the revenue streams, carbon, carbon and more carbon. The food is given away for free to whoever wants to go pick it. We wouldn't even harvest it. Growing food gets a lot easier if you don't have to harvest it, sell it, or rely on it for your wages. The layout is for free U-pick by hand. We just need to grow the plants fast, we don't have to have efficient harvesting, it's done for us for free by whoever wants to eat it or rots and feeds the soil. We become a community resource while getting paid by polluters.
+1. Grow **biomass as the primary crop** (fuel for biochar and carbon credits).
+2. Establish a **diverse, free-access food forest** as the support species.
+3. **Build soil carbon and resilience** through syntropic cycling and biochar return.
 
-#### **1.1 Operational Engine: Agroforestry System Design**
+Unlike conventional syntropic systems that treat food crops as the primary, here **biomass is the crop**. Food is the “support species,” free to anyone who wants to harvest it. This flips the economic logic: wages are paid from carbon credits, while the community benefits from free food, shade, biodiversity, and resilience services.
 
-**Equipment Snapshot (field‑side):** Compact **ATV/mini‑tractor** with flail mower, **boomless sprayer**, tow‑behind spreader for most operations; A larger tractor (150-200 hp) with coppice header for winter harvesting; **trailers**; **kilns**, **crusher/grinder**; brewing totes/pumps; covered storage; CTL (Compact Track Loader); Telehandler.
+Food harvest logistics disappear: fruit, herbs, and greens are picked directly by local people or fall to feed the soil. That makes management simpler and cheaper, while simultaneously positioning the project as a civic resource. We are **paid by polluters**, but communities enjoy the food, the cooling, the trails, and the resilience.
 
+---
 
-**MRV Reminder: Soil Baseline** — Prior to planting, establish **0–3 m segmented cores** at georeferenced points, with photos and third‑party lab tests; resample **annually** to quantify gains.
+## **1.1 Operational Engine: Agroforestry System Design**
 
+### **Layout & Planting Strategy**
 
-**Layout & Planting Strategy**
-*   **Repeating Pattern (16m wide):**
-    *   **Tree Row (2m):** Multi-strata food forest (primary biomass trees, understory food shrubs, support species).
-    *   **Combined Path/Herb Strip (3m):** Drivable by CTL for access; perennial herbaceous layer for mulch/medicine; public footpath.
-    *   **Coppice Alley (8m):** Densely planted with fast-coppicing species for annual biomass harvest.
-    *   **Combined Path/Herb Strip (3m):** Mirror of the first, completing the unit.
-*   **Phased Planting:**
-    *   **Year 0 - Pioneer Phase:** Entire site flail-mowed. Seedballs broadcast densely with a mix of primary pioneers that excel at driving roots deep into the soil ... everywhere. Deep-taproot species in this area with potential value: **Daikon Radish, Chicory, Sunflower, Comfrey, and Black Locust.** Between those, a wide variety of low growing greens, herbs and other edible annuals and perrenials would be sown as well for early local food production. The sunflowers could be harvested for biomass, using the biggest sunflowers you can find as could the black locust via coppicing while developing the rest of the site.
-    *   **Year 1-2 - Framework:** Tree Rows and Coppice Alleys planted with seedballs. Irrigation installed. Tree rows have a top layer inteded for pollardable trees at whatever our highest height that is easy and safe to manage. Everything below that would be filled with a diverse selection of edible trees, nuts, berries. The goal to be to introduce new species each year until seeds from the best performing trees bear seed and those are planted, replacing the previous generation once it matures and passes selection (tastiest apple, biggest yield, whatever the criteria is). Beside tree rows and between rows and alleys will be paths for people to walk through and herbaceous biomass strips used as mulch for the tree and coppice rows opposite the tree rows from the paths, next to the coppice alley on both sides. The herbaceous strip is mostly used for mulch, but edible species can be included as well if they grow fast. Shade tolerant perrenials and early ephemerals would be planted in the coppice alleys
-    *   **Year 3+ - Succession:** The Field Manager selects seed from the best performing plants for seedball creation, breeding our plants to our environment as much as we can. System diversifies with perennial foods first, with annuals allowed to grow between the coppiced trees until they overgrow them. This will be followed by all the other species we can find to grow there to maximize diversity, maximizing the number of species that survive future climate shocks. Pollarding begins on the highest canopy layer in the rows, being another biomass source for biochar. Begin to transition to coppice and pollarding every two to three years, rotating through the site to maximize production and reduce labour further.
+* **16 m repeating pattern:**
 
-**Advanced Irrigation & System Protection**
-*   **Infrastructure:** A permanent network of **frost-proof overhead sprinklers** is installed throughout the site. Supply lines are buried below the frost line.
-    1.  **Sustainable Water Harvesting:** Radiative cooling panels, compressors, fog nets, and any other technolgy that can reliably pull water from the atmosphere. We want to pull water from the atmosphere or the oceans (desalinated). Restore the local hydrological cycle, not deplete it. We know that precipitation patterns are going to change basically everywhere and rather dramatically, so relying on stable precipitation to grow food is no longer a viable option.
-    2.  **Renewable Energy:** Solar and wind most likely, used to power pumps, fans, and whatever electric tools or vehicles on site, both to save money and to reduce our carbon footprint since we can only claim net reductions, not gross, so all vehicle emissions count against us for example.
-    3.  **Water Storage:** Ponds and swales to store runoff and excess sustainably harvested water for irrigation, foliar feeding, quenching and conditioning biochar.
-    4.  **Storage and Work Area:** One or more buildings that are separate from kiln operations for the storage of equipment, biochar and biomass along with a work area for the natural farming and propagation inputs.
-*   **Multi-Function System:** This system serves four critical purposes:
-    1.  **Broadcast Irrigation:** Provides uniform 1-2mm/day coverage across the entire landscape, ensuring both tree rows and coppice alleys contribute to soil building.
-    2.  **Foliar Application:** The sprinkler system is connected to a mixing tank to efficiently apply JADAM/KNF/Johnson-Su microbial inputs to the entire system regularly, giving life a chance to grow wherever it can as the conditions continue to change.
-    3.  **Snowpack Protection:** Snowmaking during winter days without snow gives us snowcover to insulate the land over winter to reduce winterkill from heatwaves that melt the snowpack.
-    4.  **Fire Mitigation:** Remove severe drought from the landscape altogether and have an emergency sprinkler system to defend from wildfires originating off site.
+  * **Tree Row (2 m):** Multi-strata food forest. Highest layer = pollardable biomass trees (walnut, chestnut, poplar). Below = edible trees (apple, pear, plum, mulberry, nut shrubs). Understory = berries, herbs, nitrogen fixers.
+  * **Path/Herb Strip (3 m):** Walkable public path, also herbaceous mulch strip with comfrey, mint, oregano, alfalfa. Access for CTL and foot traffic.
+  * **Coppice Alley (8 m):** Dense high-biomass species (willow, locust, hybrid poplar) harvested every 1–3 years for biochar.
+  * **Path/Herb Strip (3 m):** Mirror of the first.
+
+* **Phased Planting:**
+
+  * **Year 0 – Pioneer Phase:** Flail-mow entire site; broadcast seedballs with pioneer mix (daikon, chicory, sunflower, comfrey, black locust, plus quick-growing herbs/greens).
+  * **Year 1–2 – Framework:** Plant Tree Rows + Coppice Alleys with seedballs. Install irrigation. Begin species diversification.
+  * **Year 3+ – Succession:** Select seed from best-performing plants for new seedball batches. Introduce new perennials annually. Begin pollarding of upper canopy. Rotate coppice cuts across alleys for sustainable biomass.
+
+---
+
+### **Annual Task Breakdown & Workflows**
+
+| Task                                | Season                              | Workflow                                                                                                                 | Equipment (Why)                                                                                                                       |
+| ----------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Seedball Production**             | Winter (Jan–Feb), ad hoc year-round | Mix clay, compost, seed in rotary tumbler. Dry on racks. Bag & inventory.                                                | **Rotary tumbler (concrete-mixer style)** for throughput; drying racks; bins/bags. Low-tech, scalable.                                |
+| **Site Prep (Year 0)**              | Spring/Fall                         | Flail-mow to knock back weeds/brush. Broadcast pioneer seedballs across entire site.                                     | **ATV/mini-tractor + flail mower** → mulches rough vegetation. **Tow-behind seed spreader** for hectares/day coverage.                |
+| **Broadcast Seeding (Succession)**  | Spring & Fall                       | Spread new batches into coppice alleys, tree rows, herb strips. Hand-spread in sensitive zones.                          | **ATV/tractor spreader** for bulk; **backpack spreaders** for precision.                                                              |
+| **Nursery Ops & Input Production**  | Year-round                          | Collect seed from best performers.  Brew JMS/IMO. Prep seedballs.                                                        | **Greenhouse, trays.** **Brewing totes + pumps** for microbial inputs.                                                 |
+| **Foliar Spraying**                 | Weekly, May–Oct                     | Mix JMS/JLF in tote, apply via boomless sprayer over entire system.                                                      | **ATV sprayer (200–400 L, boomless)** covers ~20 ha/day. Efficient, low compaction.                                                   |
+| **Mowing & Mulching (alleys)**      | Summer (Jun–Aug, 3 passes)          | Flail mow herbaceous strips and alleys. Biomass left in place on both rows and alleys.                                     | **ATV/mini-tractor + flail mower.** Mulches finely, builds soil organic matter.                                                       |
+| **Pruning Pass (food rows)**        | Spring                              | Flail mow the rows about 70% in from the path to the row line vertically                                                                 | **ATV/mini-tractor + flail mower**. Biomass left in place.                                                                   |
+| **Pollarding (upper canopy)**       | Winter (Jan–Mar)                    | Harvest upper canopy limbs from pollardable trees. Feedstock for biochar.                                                | **Chainsaws** (battery where possible). **Grapple-saw on telehandler** for safety/reach.                                              |
+| **Coppice Harvest & Baling**        | Winter (Jan–Mar)                    | Cut coppice alleys on rotation. Bale for kiln feedstock. 1–2 ha/day per 2-person crew.                                   | **Forage harvester + coppice header** for efficiency. **Chainsaws/ATV trailers** for small zones. **Round baler** compacts feedstock. |
+| **Kiln Operations (Pyrolysis)**     | Year-round, esp. Jan–Mar            | Load bales into kilns, manage 8 at once with 3-person crew. Quench, drain, tilt unload into trailer. Process in crusher. | **Insulated tiltable kilns. CTL** for bale handling. **Dump trailer + crusher/hammer mill.** Automated quench saves labour.           |
+| **Biochar Inoculation & Spreading** | Ongoing                             | Half or more of char mixed with JMS/IMO. Spread back on fields.                                                                  | **Mixing totes** for inoculation. **Tow-behind spreader** from ATV/tractor.                                                           |
+| **Infrastructure & Maintenance**    | Year-round                          | Irrigation checks, pump/solar service, vehicle repairs, storm/fire readiness.                                            | **Shop tools, CTL, telehandler.** Preventive work avoids downtime.                                                                    |
+| **Monitoring & Verification (MRV)** | Monthly/Annual                      | Soil cores (0–3 m). Drone surveys for canopy, heat, biomass. Batch test biochar. Monitor kiln emissions.                 | **Soil corers (manual + powered). Drone + NDVI/thermal sensors. Handheld emissions sensors.**                                         |
+| **Community Days & Trails**         | Spring–Fall                         | Prep safe trails, signage, harvest festivals, workshops.                                                                 | **Trail mower, signage tools, portable shelters.** Community engagement → legitimacy.                                                 |
+
+---
+
+### **Advanced Irrigation & System Protection**
+
+Permanent **frost-proof sprinkler grid** doubles as irrigation, foliar feed delivery, snowpack protection, and wildfire defence.
+
+* **Water Harvesting:** Radiative panels, fog nets, or AWG systems. Restores water cycle resilience.
+* **Power:** On-site solar/wind for pumps & electric fleet (minimizes emissions).
+* **Storage:** Ponds/swales buffer supply for irrigation, quenching, and foliar sprays.
+* **Protection Functions:**
+
+  1. **Irrigation:** 1–2 mm/day coverage across whole site.
+  2. **Foliar Inputs:** JMS/KNF broadcast via sprinklers.
+  3. **Snowmaking:** Insulates soils against winterkill.
+  4. **Wildfire Mitigation:** Emergency sprinkler operation as defensible barrier.
+
+---
+
+### **Equipment Snapshot (field-side)**
+
+* **Light fleet:** ATV/mini-tractor + flail mower, sprayer, spreader.
+* **Heavy harvest:** 150–200 hp tractor with coppice header, round baler.
+* **Handling:** Compact Track Loader (CTL), telehandler, trailers.
+* **Kiln suite:** Tiltable flame-cap kilns, crusher/grinder, automated quench.
+* **Nursery/inputs:** Greenhouse, rotary tumbler, brewing totes.
+* **MRV:** Soil corers, drones, emissions sensors.
 
 ---
 
@@ -202,91 +245,9 @@ Biochar can be made from larger woody biomass such as logging and milling scraps
 
 ---
 
-### **3.0 Workflow**
-
-#### **3.1 Standard Annual Maintenance Schedule**
-
-*   **Mowing & Mulching:** 3 passes per year (End of June, July, August).
-*   **Foliar Spraying:** Weekly applications of IMO from May through October.
-*   **Soil Inoculation:** Weekly applications of Johnson Su extract and JMS (Jadam Microbial Solution) to build soil microbial diversity and populations.
-*   **Seedball Production:** January-February (using the industrial tumbler).
-*   **Spring Broadcast Seeding:** May.
-*   **Fall Broadcast Seeding:** October.
-*   **Pruning Pass:** June.
-*   **Coppice Harvest & Biochar Production:** January-February.
-*   **Infrastructure & Automation Improvements:** Ongoing.
-
-#### **3.2 Initial Planting Schedule**
-
-**Phase 0: Pioneer Preparation (Year 0, Fall)**
-*   **Objective:** Prepare the canvas. Smother vegetation, break compaction, and build soil life.
-*   **Action:**
-    1.  Flail mow the entire site.
-    2.  **First Broadcast:** Apply a dense layer of pioneer seedballs (Daikon, Chicory, Sunflower, Comfrey, Black Locust, etc.).
-    3.  **Build Charhouse:** Construct the Charhouse and kilns.
-
-**Phase 1: Framework Establishment (Year 1, Spring)**
-*   **Objective:** Establish the permanent architecture.
-*   **Action:**
-    1.  **Second Broadcast:** Target future **8m Coppice Alleys** with coppice-able species (Willow, Black Locust).
-    2.  **Third Broadcast:** Target future **2m Tree Rows** with a stratified food forest mix.
-    3.  **Irrigation:** Ensure the system is operational and drought resilient.
-
-**Phase 2: Succession & Diversification (Year 2, Spring)**
-*   **Objective:** Fill gaps, add diversity, plant a new succession of trees and begin selection.
-*   **Action:**
-    1.  Identify top performing plants and failures based on vigor, food quality and yields, either culling for mulch or for saving seed from.
-    2.  **Fourth Broadcast:** Fill gaps with successful species.
-    3.  **Introduction of New Species:** Begin trials for new canopy species and perennial vegetables.
-    4.  First small **coppice harvest** may occur in winter.
-
-**Phase 3: Optimization & Yield (Year 3+)**
-*   **Objective:** The system begins to mature and improve.
-*   **Action:**
-    1.  The full **coppice harvest** occurs.
-    2.  Selection process intensifies.
-    3.  The food forest begins to yield significant harvests for public foraging.
-    4.  The system generates substantial carbon credit and biochar revenue.
-
-#### **3.3 Workload Analysis: Proving the 100-Hectare Hub is Viable**
-
-**Field Throughput Snapshots:**  
-• **Labour ratio:** One trained worker can manage **20–25 ha** at peak.  
-• **Foliar coverage:** ~**20 ha/day** with ATV + boomless sprayer.  
-• **Pelletizer output:** **200–500 kg/day**.  
-• **Winter coppice:** **1–2 ha/day** per **2‑person** team.
-
-
-**Core Assumption:** Core Crew of 4 people works **3 days/week, 12 hours/day, 43 weeks/year** = **1,548 hours/member/year**. November and December are off while the land goes dormant and the ground freezes up, providing a reasonable work-life balance while allowing a second shift to be added with the same equipment, in particular as satellite farms start spawning. Satellite farms using the hub resources on the hub's days off or when otherwise unused. A fifth would be required for the MDC initiatives, YouTube documentation, grant applications, public relations, and so forth. As the pilot site becomes profitable and we can start offering the **Hub-in-a-Box** as a service, not just when we can afford to build a new one, then more staffing would be required. But for the 100 hectare pilot site, 4 full time employees working 3 days a week 12 days a year with 2 months off at the end of the year.
-
-**Annual Task Breakdown & Hour Allocation**
-| Task | Estimated Hours | Season |
-| :--- | :--- | :--- |
-| **Coppice Harvest & Baling** | 250 hrs | **Jan-Mar** |
-| **Pollarding Harvest** | 150 hrs | **Jan-Mar** |
-| **Pyrolysis (Kiln Operations)** | 2,610 hrs | Year-Round |
-| **Mowing & Mulching (3 passes)** | 560 hrs | Summer |
-| **Pruning Pass** | 100 hrs | Spring |
-| **Foliar Spraying** | 150 hrs | Growing Season |
-| **Broadcast Seeding** | 100 hrs | Spring/Fall |
-| **Nursery & Input Production** | 1,000 hrs | Year-Round |
-| **Infrastructure & Maintenance** | 1,000 hrs | Year-Round |
-| **Total Estimated Labor Demand** | | **~5,920 hours** |
-
-**Analysis: Is It Possible?**
-*   **Total Core Crew Hours Available (4 people):** **6,192 hours**
-*   **Total Task Demand:** **~5,920 hours**
-*   **Surplus:** **272 hours**
-
-**Conclusion:** The annual workload fits within the core crew's available hours, but only barely. An additional employee may be needed seasonally. The extended 12-week harvest window (Jan-March) is key to minimizing seasonal help.
-
-**Final Crewing Plan**
-*   **Core Crew:** 4 FTEs (Infrastructure Lead, Field Manager, Field Operator 1, Field Operator 2) on a 3x12 schedule.
-*   **Result:** A highly efficient, lean operation that protects its crew from burnout and provides reasonable living career wages with a clear path to land ownership.
-
----
-
 ### **4.0 Financials and Company Structure**
+
+Parent company with franchised farms. Farms operate on 20 year cycles where land is retired and added to the project. Half of the land is removed from the project and given to the people who worked it, and any new land purchased gets added to the project, with each further cycle bestowing the oldest batch on the employees before adding new land. The initial site will be a hub farm, one that helps new farms start up using its equipment when it's not in use. Newly started farms are started as satellite farms that use those resources until they are set up and running profitably. At which point soending is directed to buying the equipment to upgrade to being a hub site of their own and starts spawning new satellite farms of their own. revenue portion from profitable projects goes to parent company. Half of carbon revenue goes to employees, either as wages or bonuses.
 
 #### **4.1 Financial Projections: Revenue & Costs (100Ha Flagship Hub)**
 
@@ -294,7 +255,6 @@ Biochar can be made from larger woody biomass such as logging and milling scraps
 • **Certifications & compliance:** **Puro.Earth**, **Verra + CCB**, **CFIA**, **OMRI**.  
 • **Recurring MRV:** Soil & biochar lab testing, emissions sampling, and data management.  
 • **Public documentation:** Ongoing open‑access documentation and education.
-
 
 One of the core principles is to pay employees half of the revenues. This is to ensure that carbon farming becomes a sufficiently attractive career to attract enough labour and to motivate everyone to outperform anything the world has ever seen, because that's what's on the menu. The wage gap should also be capped at double, so new hires make no less than half of the highest paid staff on an hourly basis. Anything left over after hourly wages are paid would be distributed as bonuses pro-rated based on hourly wages earned. This isn't about exploitation, it's about saving the planet, but people need to be paid well enough to consider it a career, the people saving the world should be comfortably compensated. These values are all in Canadian Dollars, but the amount doesn't change based on where the farm is located, just the currency. $50000 CAD/year for example is a very high wage in rural Kenya. The revenue is based on international markets, so it's the same anywhere in the world.
 

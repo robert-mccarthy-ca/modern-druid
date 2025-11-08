@@ -27,7 +27,9 @@ Welcome to my pet project. I decided to try to design a solution to combat clima
   - **4.1 Soil Carbon MRV**
   - **4.2 Biochar MRV**
   - **4.3 The Integrated MRV Database**
-- **3.0 Workflow**
+- **5. Integrated Workflows**
+  - **5.1 Annually Recurring Workflows**
+  - **5.2 One-Time or Occasional Workflows**
 - **4.0 Financials and Company Structure**
 - **5.0 UN Sustainable Development Goals (SDG) Impact**
 - **6.0 Future Growth (R&D)**
@@ -462,129 +464,155 @@ By investing in this comprehensive MRV framework from the outset, the Modern Dru
 
 
 
+
+
+
+
+### **5. Integrated Workflows**
+
+This section details the recurring, on-the-ground tasks that bring the Modern Druid system to life. Workflows are organized chronologically and by function to provide a clear, actionable operational calendar.
+
+#### **5.1 Annual & Perennial Cycles**
+
+**A. Winter Season (Months 1-3): Biomass Harvest & Planning**
+*   **Workflow:** Biomass Harvesting (from 3.12)
+    *   Coppice alleys and pollard tree rows on an alternating-year schedule.
+    *   Utilize coppice harvester/baler and telehandler with energy-wood shear.
+    *   Haul bundled biomass to storage and drying area.
+*   **Workflow:** Seedball Production (from 3.1)
+    *   Produce millions of seedballs using rotary tumblers for the upcoming year.
+    *   Focus on species diversification and planting out the best performing genetics from the breeding project.
+*   **Workflow:** Strategic Planning & Maintenance
+    *   Equipment maintenance and repair.
+    *   MRV data analysis and credit application preparation.
+    *   Annual business planning and budget allocation.
+
+**B. Spring Season (Months 4-6): Establishment & Intense Management**
+*   **Workflow:** Pruning Passes (from 3.9)
+    *   Hard pruning of alternating tree rows with tractor and vertical saw bar.
+    *   Chip material and apply as mulch to the rows.
+*   **Workflow:** Breeding Project Culling & Planting (from 3.10)
+    *   Select and cull plants based on previous season's performance (taste, vigor, yield).
+    *   Plant new seedballs from "champion" lines underneath the canopy.
+*   **Workflow:** Biochar Application (from 3.11)
+    *   Spread finely ground biochar using an ATV-mounted spreader before mulching.
+*   **Workflow:** Foliar Input Delivery (Automated) (from 3.7)
+    *   Deliver all liquid foliar Natural Farming inputs (IMO, FPJ, etc.) through the automated irrigation system.
+
+**C. Summer Season (Months 7-9): Growth & Maintenance**
+*   **Workflow:** Monthly Mowing of Herbaceous Strips (from 3.8)
+    *   Spread finely ground biochar using an ATV-mounted spreader
+    *   Mow paths and herb strips with a sickle bar mower.
+    *   Manually spread cut material as mulch in tree rows and coppice alleys.
+*   **Workflow:** Foliar Input Delivery (Automated) (from 3.7)
+    *   Deliver all liquid foliar Natural Farming inputs (IMO, FPJ, etc.) through the automated irrigation system.
+*   **Workflow:** Continuous Breeding Observation
+    *   Ongoing taste-testing and vigor assessment of food crops.
+    *   Seed collection from best-performing plants.
+
+**D. Autumn Season (Months 10-12): Harvest, Preparation, & Biochar Production**
+*   **Workflow:** Biochar Production Campaign (from 3.13)
+    *   Intensive 12-week biochar production campaign using dried biomass.
+    *   3-person crew operating 8 kilns on a 12-hour/day, 3-day/week schedule.
+*   **Workflow:** Site Preparation & Input Brewing
+    *   Brew and stockpile JMS, IMO, JLF, and other inputs for the next season.
+    *   Prepare for end-of-season MRV soil sampling.
+
+#### **5.2 One-Time or Occasional Workflows**
+
+*   **Workflow:** Initial Site Survey (from 3.2)
+*   **Workflow:** Initial Site Prep (from 3.3)
+*   **Workflow:** Planting the Rows and Alleys (from 3.4)
+*   **Workflow:** Irrigation Installation (from 3.5)
+*   **Workflow:** Natural Farming Inputs Production (from 3.6) - (Initial setup and ongoing production)
+
 ---
 
-### **3.0 Workflows**
+### **5. Integrated Workflows**
 
-The workflows can be separated largely into two groups, the global company and the individual farms. For the global company we have various R&D efforts, training videos, public relations, assorted administrative tasks, design documents, and starting farms in new regions. Initially this would be undertaken by the pilot site, but would eventually split off into its own distinct company. The goal of the global parent company would be to do the things that are applicable to all sites, such as training videos or research, and to start new sites as funding arrives, either externally through pre-sales of credits, or internally through the royalties from profitable sites. The goal of the individual farms would be to grow enough food to justify using farmland for a carbon capture project, sequestering enough carbon dioxide to remain profitable, and spawning new farms. Below are the workflows for the individual sites.
+This section details the recurring, on-the-ground tasks that bring the Modern Druid system to life. Workflows are organized chronologically and by function to provide a clear, actionable operational calendar.
 
-#### **3.1 Seedball Production**
+---
 
-Seedballs are essentially little balls of moistened clay powder mixed with some type of compost and some soil and seeds that are then dried and stored for use. To use them, drop them on the ground. Literally, that's it. The whole point of them as far as we're concerned is that they're easy to deploy in a spreader, they can be made with synergistic mixes of plant species, and they don't require any form of tillage. Just broadcast after mowing. But in order to do that, you first need to be able to make seedballs fast enough to be practical.
+#### **5.1 Annually Recurring Workflows**
 
-Making seedballs requires powdered clay, topsoil, compost (or other inocculant like IMO or JMS) and seeds. Seeds would likely be sourced from various seed vendors initially unless there was a local source. Beyond the initial generation of plants though, seeds are saved from the best performing seeds. These plants are planted out in the annual plantings, and if they outperform their older counterparts, they replace them, otherwise they get culled and used as mulch.
+**A. Winter Season (December to February): Biomass Harvest & Planning**
+*   **Workflow:** Biomass Harvesting
+    *   Coppice alleys and pollard tree rows on an alternating-year schedule.
+    *   Utilize coppice harvester/baler and telehandler with energy-wood shear.
+    *   Haul bundled biomass to storage and drying area.
+*   **Workflow:** Seedball Production
+    *   Produce millions of seedballs using rotary tumblers for the upcoming year.
+    *   Focus on species diversification and planting out the best performing genetics from the breeding project.
+*   **Workflow:** Strategic Planning & Maintenance
+    *   Equipment maintenance and repair.
+    *   MRV data analysis and credit application preparation.
+    *   Annual business planning and budget allocation.
 
-Rotary drums are easily built, low tech devices that can work anywhere and produce hundreds of thousands of seedballs per day. We're going ot need several million, so this would be a non-trivial task, but one that could be done any time of year. Drying racks would also be needed to dry all those seedballs, so space would need to be allocated for it and for storage once dry.
+**B. Spring Season (March to May): Activation, Promotion & Growth Initiation**
+*   **Workflow:** Biochar Production Campaign
+    *   Intensive 12-week biochar production campaign using dried biomass.
+    *   3-person crew operating 8 kilns on a 12-hour/day, 3-day/week schedule.
+*   **Workflow:** "Pick-Your-Own" Promotion & Education
+    *   Launch the season's public harvest. Install signage, update websites, and host community events to guide foraging.
+    *   Highlight early yields like haskaps, strawberries, and perennial greens to signal the start to the season.
+*   **Workflow:** Foliar Input Delivery (Automated)
+    *   Activate irrigation system for the season.
+    *   Begin automated foliar application of IMO, FPJ, OHN, etc., via the irrigation system.
 
-This would need to be done on a regular basis throughout the project life, but a lot of it would need to be done when starting a new farm.
+**C. Summer Season (June to August): Peak Growth & Maintenance**
+*   **Workflow:** Pruning Passes
+    *   Conduct hard pruning of alternating tree rows now that plants are in active growth, providing a strong growth pulse.
+    *   Chip material and apply as mulch.
+*   **Workflow:** Biochar Pre-Charging & Application
+    *   **Step 1:** Soak raw biochar in Jadam Liquid Fertilizer (JLF) for several days to load it with nutrients.
+    *   **Step 2:** Inoculate the nutrient-charged biochar with Jadam Microbial Solution (JMS) immediately before application.
+    *   **Step 3:** Spread the pre-charged, microbially-active biochar using an ATV-mounted spreader.
+*   **Workflow:** Mowing Herbaceous Strips
+    *   Begin monthly mowing of paths and herb strips.
+    *   Spread cut material as mulch *over* the newly applied biochar.
+*   **Workflow:** Breeding Project Culling & Planting
+    *   Select and cull plants based on performance (taste, vigor, yield).
+    *   Plant new seedballs from "champion" lines.
+*   **Workflow:** Continuous Maintenance
+    *   Continue automated foliar feeding.
+    *   Ongoing public harvest promotion for mid-summer fruits (raspberries, currants).
 
-#### **3.2 Initial Site Survey**
+**D. Autumn Season (September to November): Harvest, Production & Preparation**
+*   **Workflow:** Late-Season Harvest & Community Engagement
+    *   Promote harvest of late fruits (apples, pears, nuts).
+*   **Workflow:** Site Preparation & Input Brewing
+    *   Flail mow any remaining annuals.
+    *   Brew and stockpile JLF, IMO, and other inputs for the next season.
+    *   Prepare for end-of-season MRV soil sampling.
+*   **Workflow:** Breeding Project Seed Collection
+    *   Select seeds from the best-performing plants (based on taste, vigor, yield) and cull the poor performers.
 
-Before carbon credits can be issued for soil carbon, a baseline needs to be measured. This is done through soil samples to a depth of 3m, which is about as deep as portable corers can go. The point of starting with a deep taprooted selection of plants with minimal lateral root competition is that we would be growing soil throughout that entire soil column.
+---
 
-Before changing the land, microbial sampling for JMS (Jadam Microbial Solution) and IMO (Indigenous Microorganisms) from Jadam and Natural Farming systems needs to take place. This mostly involves collection of soil samples and culturing out the biology involved. This should also take place in as many healthy ecosystems and soils as is locally available. Combined results will be used as our microbial inoculants. Gathering new soil samples for culturing will be a long term task on an occasional basis during the growing season.
+#### **5.2 One-Time or Occasional Workflows**
 
-This should only have to be done once per site.
+*   **Workflow:** Initial Site Survey
+*   **Workflow:** Initial Site Prep
+*   **Workflow:** Planting the Rows and Alleys
+*   **Workflow:** Irrigation Installation
+*   **Workflow:** Natural Farming Inputs Production System (Initial setup, with production becoming an ongoing seasonal task)
 
-#### **3.3 Initial Site Prep**
+This refined structure ensures biological effectiveness (pruning during active growth, fresh biochar inoculation), operational efficiency (year-round automated foliar feeds), and successful community integration (season-long harvest promotion).
 
-The first step after we have our baseline measured is to use a flail mower to mow everything down to the soil, perhaps a few centimeters below to take out as many plant crowns as possible with a minimum of soil disturbance. This would be followed immediately by a deep taprooted selection of plants, mostly perennial but with some annuals, including a coppicable biomass species. An example for my area would be something like black locust (coppicable tree) every 1m, comfrey (perennial shade tolerant high biomass herbaceous plant) interspaced at 1m, giant sunflowers (early biomass annual that leaves a deep taproot to decompose and feed the soil), chicory (deep taprooted perennial) and daikon radish (annual that does very well at soil decompaction left to rot in place) in between with a smattering of lower growing perennials for ground cover. All of which would be from seed using seedballs. The workflow there being someone walks behind the flail mower dropping seedballs with the desired species at the desired spacing.
+---
 
-Flail mowing with a small tractor can be expected to clear 2.5 to 10 hectares per day depending on the size of the tractor, the vegetation in place and the land being covered. This would be done by one employee while one or more others plant (toss) the seedballs at the desired spacing. The expectation is that the initial site prep can be done in a single season before planting out the rows and alleys proper.
 
-This should only have to be done once per site.
 
-#### **3.4 Planting the Rows and Alleys**
 
-The food forest would be planted out as a row and alley system where the tree rows have a large selection of species. In syntropic agroforestry the concept is to use different canopy layers overlapping, emergent, high medium and low strata species intermingled so the same position can be growing multiple crops at different heights allowing for a higher planting density than conventional monocrop orchards. Herbaceous strips are also used between the rows and alleys alongside paths for people to access the rows. The rows would be aligned north-south so all rows get light from both sides.
 
-For the rows, our emergent species would be pollardable species with a high pollard, for example, paulownia, hybrid poplar, willow or hazelnut, but experiment with all available species to see. Below that we would have our various fruit and nut trees, with the tastiest and best producing allowed to grow to high strata, the others chopped down to allow for new trees grown from the best trees that are growing in the low canopy. The low strata would be comprised of saplings and perennial species like blueberries, raspberries and so forth, including some form of ground cover such as herbs or low growing berries like strawberries.
 
-For the alleys we want a selection of coppicable trees such as paulownia, black locust or willow that would get harvested every other year, allowing for more yield and less annual labour. The trees would be spaced to optimize production at 2 year rotations. Between those trees, shade tolerant perennial species, ideally edible, would be planted as a ground cover.
 
-For the herbaceous strips that are destined for mowing and to be used as mulch, we will be picking high biomass perennials such as comfrey, chickory, jerusalem artichokes and any other high biomass plants that grow well in the area.
 
-Planting would be done with a flail mower and seedballs, much like the initial site prep. Depending on how long from initial site prep the replanting takes, this may require a pass with a brush saw first to cut down any larger trees or other plants. For select plants, specific cultivars may be desired and would have to be planted from seedling or so forth, for example, if you want McIntosh Red apples, you need to get that cultivar. Any such plants would be used as labour allows and grown from seed afterwards. For plants taht do not grow true from seed, such as apples, they would be planted densely and selected based on taste, vigor and yield.
 
-The layout would be row, path, herbaceous strip, alley, herbaceous strip, path and then repeating with the next row. The exact widths of each would have to be hammered out, probably after consulting with an agroforestry expert, but would need to accommodate a mulch layer on either side of the tree row, a path wide enough for people to pass by, and a combined path and herbaceous strip wide enough to use at least light tractors to speed harvesting.
 
-Initial planting would only need to be done once, but once established, the site would continue to get planted every year, just not as intensively.
 
-#### **3.5 Irrigation**
 
-After the site is planted, irrigation needs to be installed. Not just any irrigation though, we want to irrigate about a millimeter per day that sees no precipitation and we want to do it year round. We also want to be able apply foliar applications of biology in particular, but with other natural farming inputs as well. The goal isn't to maximize production, the goal is to boost production while preventing severe drought conditions, to prevent growth from stopping just because our broken precipitation patterns resulted in no rain for 3 months and to protect from wildfires in the summer and keep snow on the ground to insulate plant roots. We don't need a lot of it, but we do need it to be there regardless of weather and precipitation patterns. 
-
-Once the Amazon finishes collapsing, the source of much of North America's clouds goes away and dramatic precipitation pattern changes are expected. Changing ocean currents are already shifting the monsoons. The warmer the atmosphere, the more water is in the air, but the fewer clouds we have, so we can expect larger rain events and longer dry spells worldwide. The precipitation patterns our ecosystems evolved with are not something we can rely on going forward, which is why we need to be harvesting water from either the air or the sea. Groundwater can be used in the meantime, but setting up water harvesting is the next step after the irrigation is set up, unless there is no water for irrigation, in which case it needs to happen first. In either case, the site is not complete without both irrigation and a sustainable water supply. To save water, ponds should be set up as well to capture runoff and store harvested water.
-
-Among the more promising atmospheric water harvesting technologies today are radiant cooling panels which passively condense water from night air, fog nets for foggy areas, compressors based dehumidifiers, and sorption and desorption from hydrogels. Water storage in the form of ponds could be modified to have the water harvesting panels and so forth directly above them, preventing evaporative losses and draining right into the storage area. How much will be needed is going to vary per site, but 1mm of supplemented rain (or about 1cm of snow) is the target goal, enough to prevent drought conditions and wildfires from starting and having an emergency supply in the event of an external wildfire. The food forests cannot be allowed to simply burn as the rest of our ecosystem collapses and burns, we need to manage the land, now and for centuries to come before this gets fixed.
-
-Once irrigation is set up fully, the foliar feeding would be run through it, reducing future work elsewhere and improving foliar regimens.
-
-#### **3.6 Natural Farming Inputs**
-
-Natural Farming is a practice popular in Asia, Japan and Korea especially, with these particular practices being of Korean origin. Korean Natural Farming (KNF) and Jadam Natural Farming practices specifically. Soil health is highly dependant on soil microbiology, and both of these practices have a strong focus on fostering it, both in quantities and in diversity. Indigenous Microorganisms (IMO) is a KNF input made with either rice or leaf mold soil grown out aerobically in a medium such as cracked grains and is used as an inocculant for soil and plants alike, being used both as a soil drench and as a foliar application for plants. We would plan to do both, as an aerobically brewed liquid, known as liquid IMO. Jadam Microbial Solution (JMS) is similar in nature, but is an anaerobic culturing using leaf mold soil and cooked potatoes, so yields different microbes. This is only for soil however, not as a foliar spray. We would apply both to the soils on a regular basis, since our soils are not expected to remain the same, they're expected to change and improve over time with continuous applications of biochar year after year.
-
-Other natural farming inputs would include Fermented Plant Juice (FPJ), Oriental Herbal Nutrients (OHN), Brown Rice Vinegar (BRV), sea salt, and Jadam Liquid Fertilizer (JLF). The FPJ and OHN would need to be made on site, as would IMO and JMS. Jadam Liquid Fertilizer is plant material in a barrel with a few handfuls of soil and filled with water, left to ferment anaerobically for several months, producing a liquid fertilizer that gets drained off, the result of the soil life digesting the plant material. This is used in the biochar preparation. The vinegar could be made, but probbaly not worth it, probably just buy it. Brown sugar is another component used when making FPJ.
-
-Not from Natural Farming practices, but Johnson Su compost would also be made, which is a low temperature static aerobic compost made using worms and kept moist over a period of a year, so would have to be made on site. It would be used as an inocculant, not as a bulk nutrient, we would be using mulch instead of compost for that purpose. Johnson Su compost is a fungally dominant compost and is used as an inocculant as a compost extract. The standard directions are to apply it once only, but as we're rapidly growing and changing our soil, we'll apply it regularly alongside the liquid IMO, both as a foliar and as a soil inocculant, or alongside JMS for soil inocculation.
-
-The inocculants need to be started immediately to start growing soil life as soon as possible after the site soil survey. All of the inputs would need to be made on a regular basis and would be limited to the growing season for all but OHN, which can be made any time of year. The inputs themselves are shelf stable, so they can be done in large batches at least.
-
-#### **3.7 Foliar Sprays**
-
-Foliar sprays are sprays applied to the foliage, so the whole plant above ground gets sprayed. For liquid IMO and the Johnson Su extracts, this is to boost and diversify the plant microbiomes as well as the soil microbiome. FPJ, OHN, BRV and sea salt are also used in KNF to provide nutrients through the leaves without the need to use fertilizers. Both have substantial positive effects on plant health and growth. Foliar feeds are partly for nutrients, partly for disease reduction, a diverse and dense microbiome on and in the plant largely prevents opportunistic infections completely and also boosts secondary metabolite production in plants. Those are the parts that provide most of the nutrients and flavour.
-
-Once the irrigation systems are installed, this would be done via automated irrigation, but until then one employee would have the job of doing so during the growing season using a boomless sprayer behind an ATV, something narrow enough to use the same paths as the public. This would be an ongoing task every growing season.
-
-#### **3.8 Mowing Herbaceous Strips**
-
-The herbaceous strips beside the paths are there for mulch and would be mown for use as mulch on a monthly basis. Some of the mulch would go to the tree row, some to the coppice alley. This would be done with a small tractor with a sickle bar mower to cut the material down and a person to walk behind to spread it where it needs to go, partly next to the tree rows and partly in the coppice alleys since we're growing in both areas. This will be a long term task throughout the growing season up until late summer, letting the plants recover before winter dormancy. This would be a task allocated to 1-2 employees, but largely tying their employee time and labour for the bulk of the growing season. This would be with one tractor driver, one mulch placer, although if the mowing is fast enough, this may be something that a single operator can handle. 
-
-#### **3.9 Pruning Passes**
-
-One of the core concepts from syntropic agroforestry is using support species as mulch, extremely high density and hard thinning and pruning. This would be done on the rows every other year with a tractor and a vertical saw bar followed by a chipper and placed under the tree row as mulch, simply take out 70% or so of the branches starting from the path, leaving a more narrow row at the end. That would be the bulk of the pruning, the big addition of organic matter other than the herbaceous strips. This would be done in the spring, providing a growth pulse with the added airflow and light, providing abundant mulch to build soil. The every other year schedule is intended to allow for fruiting on plants that only fruit on second year wood, while ensuring enough light continues to get through the canopy for the understory to grow.
-
-This would be an annual task on alternating rows, so half gets done each year to help reduce labour.
-
-#### **3.10 Breeding Project**
-
-With both a changing climate and a changing soil, there is a need to selectively breed our plants to the new conditions. High biochar soils with abundant and diverse microbial populations don't really exist outside of the Amazon's Terra Preta soils, so all of our plants should be bred for growth in those types of soils as they develop. Weather extremes are another factor that will continue to change, with performance under those conditions being another selection factor alongside taste and yield rather than rely on larger and more mature trees.
-
-This selection would be done by hand every other year, culling from what's left after a pruning pass based on taste tests and observations throughout the growing season, and planting more plants underneath from seedball. The number of species in a row would be added to each planting pass. This culling pass would be kept to the spring and summer, making sure any growth pulse from the introduced light and airflow doesn't occur just as the plant goes into dormancy.
-
-The workforce allocated to this would be whatever is left over from other tasks, this is the growing season's background task that should be done whenever free time is found by any of the farm operators.
-
-#### **3.11 Biochar Application**
-
-A major component of this design is to use the biochar produced largely on-site to build superior soils with higher nutrient retention, more microbial habitat, diversity and quantity, better water retention while draining better, and overall fertility. This is done every time the mowing takes place, spread by a spreader pulled behind an atv or small tractor. The goal is to spread out the biochar before organizing the mulched material after it is cut so we put the biochar under the mulch, slowly incorporating into the soil. We would be using a relatively finely ground char, something on the range of 1-2 mm so the soil life can help it migrate down faster. This is ideally the only time the biochar would be applied, as changing the albedo (reflectivity) of the soils would melt any snowpack beneath it in winter. As a result, the labour for this would be required from spring to the end of summer just like the mowing.
-
-#### **3.12 Biomass Harvesting**
-
-The biomass harvested for biochar production is from coppicing the alleys, cutting them down to the stump, and from pollarding the emergent layer of our tree rows. In both cases, this would be done during the winter months, since it is better to have woody material for the kilns than leafy material, and less compaction occurs from the tractor usage when the ground is frozen.
-
-For the alleys, a coppice harvester and baler would be used. This deposits the harvested material as long straight bundles of wood all tied up for easy handling. This is a key feature for allowing a kiln operator to manage multiple kilns, the material must be quick to load into a kiln by hand. The bundled wood would be picked up in a trailer to haul to a storage and drying area. Wood needs to be dry enough to burn before it can be processed into biochar. For the rows, we would use an energy-wood shear with accumulator fingers on a telehandler with boom at a height of about 4m, giving us room for the fruit and nut trees beneath.
-
-In both cases this would be done every other year on alternating rows so the canopy doesn't close over while still being relatively efficient on coppice and food production.
-
-#### **3.13 Biochar Production**
-
-The core revenue stream behind the project is biochar produced in flame cap kilns. These kilns are basically large cyclindrical containers that get loaded with woody biomass. The exact size and capacity of the kilns would be based on the largest that can be loaded by hand using baled wood from an adjacent bin and finish in about 5 hours. The financial projections in part 4 are based on a 5 cubic yard kiln. The kilns would be equipped with a quench system that would simply spray water from overhead until the kiln was full, ensuring the biochar is all put out that would trigger at the push of a button so the operator can focus on running kilns. After the quench is done the operator would hit the drain button, draining the quench water into a holding tank to be either reused as quench water or used in irrigation after being diluted, which provides nutrients for the soil life.
-
-The kilns would be lined up in a row so that operators can just walk down a line of kilns, topping up kilns as they burn down until the flames die down and the quench can be started. The kilns would tilt to empty into a trailer to be hauled to a separate processing building. This then gets dried, weighed and crushed, ready to be sold or stored as raw biochar. Ideally at least 2 operators would be assigned to the kilns with another assigned to a loader to reload both the wood bins and on reset, the kiln itself. This operator would be responsible for hauling it away for drying and for dumping it into a hoppper for crushing and hauling it to storage. The reason for this is to make sure at least 2 employees are present when handling giant bonfires in case of emergency while providing them support and doing other tasks so they can focus on the kilns.
-
-Raw biochar can be sold as is, or it can be preconditioned by soaking it in JLF for a few days, otherwise it draws nutrients from the soil for the first year before enhancing crop yields. When precharged with nutrients and microbiology biochar produces a significant boost to plant growth and lasts basically forever in soil, for centuries to millenia as we've seen from the Terra Preta soils. Preconditioned biochar is both more useful in the filed and of higher value, but only for growing applications. If selling as an aggregate, it wouldn't provide any additional benefit from preconditioning and wouldn't need to be. How much would be conditioned would depend on how much could be sold horticulturally.
-
-This is a task that can be done any time after the harvested biomass has sufficiently dried, so would likey be scheduled for whenever labour needs are lowest.
-
-#### **3.14 Monitoring Reporting and Verification (MRV)**
-
-In order to get credits issued you need to prove that you sequestered the carbon. This is where measurements and testing comes in.
-
-For the soil portion, this would be done with portable soil corers to a depth of 3m, which is about as deep as the human portable equipment can handle. This would need to be done with enough samples to meet whatever standards are found in Vera, or whichever other market is being used for the project. Some countries may have more lucrative markets than the voluntary markets. How many core samples would be required would depend on the protocols and the variability of the land, so a 100 hectare uniform plot would be cheaper to verify than 100 1 hectare blocks in different areas.
-
-For biochar we need to test the biochar itself on a batch basis, so in our case measured for each of our species used in coppicing and pollarding and calculated from that. The emissions also need to be monitored to make sure that combustion is efficient and not releasing a bunch of undesirable chemicals into the air. Flame cap kilns tend to be very clean burning though as long as the material is sufficiently dried and clean. This would allow for things like mill scraps as well, although another way to organize the material would need to be found or created in order to maintain production efficiency, but probably not cost effective for things like general mixed brush from public dumping. The testing isn't cheap, so doing larger batches such as by species is cheaper if there's a small number of species.
-
-In both cases, the testing needs to occur at least annualy and is needed before credits can be issued. Other emissions from the project such as fuel need to be measured as well, we only get paid for net sequestration. For biochar this also means that it needs to be sold for non-destructive uses or applied to the soil as well before credit issuance.
 
 ---
 

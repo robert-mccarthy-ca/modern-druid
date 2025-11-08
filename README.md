@@ -123,7 +123,7 @@ The design is based on a north-south oriented, repeating 16-meter block to optim
     *   **Emergent Layer (Pollardable):** Fast-growing, high-biomass trees (e.g., Poplar, Willow, Paulownia) pruned high (~4m) to create a canopy over the food-producing layers.
     *   **Canopy Layer (Edible):** Fruit and nut trees (e.g., Apple, Pear, Plum, Hazelnut). The most vigorous and tasty cultivars are selected to grow into the canopy.
     *   **Shrub Layer:** Berries and nitrogen-fixers (e.g., Blueberry, Raspberry, Goumi).
-    *   **Herbaceous Layer:** Perennial vegetables, herbs, and ground covers (e.g., Comfrey, Strawberry, Mint).
+    *   **Herbaceous Layer:** Perennial biomass and ground covers (e.g., Comfrey, Jerusalem Artichoke, Strawberry, Mint).
 *   **Path/Herb Strip (3 m):** A public access path doubles as a mulch production zone, planted with high-biomass, mowable perennials (e.g., Comfrey, Chicory, Jerusalem Artichoke).
 *   **Coppice Alley (8 m):** The primary biochar feedstock engine. Densely planted with high-yielding coppice species (e.g., Willow, Black Locust, Hybrid Poplar) on a 2-3 year harvest rotation.
 *   **Path/Herb Strip (3 m):** A mirror of the first, completing the pattern.
@@ -196,6 +196,25 @@ The irrigation system is the platform for future resilience technologies:
 ---
 
 ### **3. Biochar**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### **2.1 The Biochar Production Engine: Scale, Speed, and Verification**
 

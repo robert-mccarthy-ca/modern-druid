@@ -3,16 +3,19 @@
 Welcome to my pet project. I decided to try to design a solution to combat climate change, to answer the question **"How would I solve this problem if I could?"** What would such a solution even look like? Here's my attempt. I've called it The Modern Druid Project because more people speak geek these days than nerd and it captures the heart of the project, to heal the earth. Also, as I live in Canada, this is based on Canadian climates, but should be adaptable to any other climate zone warm enough to grow plants, the specific plants would just change.
 
 ### **Executive Summary**
-**What it is.** A replicable, open‑source **carbon‑removal farm** that pairs **syntropic agroforestry** (biomass + free food + soil carbon sequestration) with **biochar** (durable carbon dioxide removal), verified by rigorous **0–3 m soil** and **biochar lab testing** MRV, funded by **carbon removal credits + biochar sales**, and is driven by an expansion budget so every farm spawns new farms, and governed by an **equitable pay + land‑transfer model** that meets 13 of the 17 UN Sustainable Development Goals (SDGs), with the remaining 4 being unlockable with future R&D projects.
+**What it is.** A replicable, open‑source **carbon‑removal farm** that pairs **syntropic agroforestry** (biomass + free food + soil carbon sequestration) with **biochar** (durable carbon dioxide removal), verified by rigorous **0–3 m soil** and **biochar lab testing** MRV, funded by **carbon removal credits + biochar sales**, driven by an expansion budget so every farm spawns new farms, and governed by an **equitable pay + land‑transfer model** that meets 13 of the 17 UN Sustainable Development Goals (SDGs) out of the box, with the remaining 4 being unlockable with future R&D projects.
 
 **How it works.** We grow community food forests with high‑biomass coppice alleys and high pollards. Part of the biomass becomes **biochar** (durable credits sold for revenue), the rest stays in place to feed the soil. At least **half the char stays on‑farm** to accelerate fertility, water resilience, and future biomass, with the remainder being sold. Food is **free pick‑your‑own** to remove logistics friction and deliver tangible community benefits. 
 
-**Why this wins.** The system creates a powerful virtuous cycle: Agroforestry boosts soil carbon and fertility, which in turn accelerates biomass and food production. This biomass fuels more biochar creation. The application of biochar then further improves soil carbon, water resilience, and fertility, compounding the benefits. Each farm has a dedicated new farm budget where existing employees are promoted to running their own farms, and self-replicating systems have exponential growth curves. Equitable pay and land transfer brings local prosperity and builds generational wealth preventing a new form of colonial land acquisition. The carbon markets are voluntary and international, immune to political inaction and all but the most corrupt political opposition. 
+**Why this wins.** The system creates a powerful virtuous cycle: Agroforestry boosts soil carbon and fertility, which in turn accelerates biomass and food production. This biomass fuels more biochar creation. The application of biochar then further improves soil carbon, water resilience, and fertility, compounding the benefits. Each farm has a dedicated new farm startup budget where existing employees are promoted to running their own farms, and self-replicating systems have exponential growth curves. Equitable pay and land transfer brings local prosperity and builds generational wealth without creating a new form of colonial land acquisition. The carbon markets are voluntary and international, providing equitable pay across borders, immune to political inaction and all but the most blatant political opposition.
 
 ---
 
 ### **Contents**
 - **Executive Summary**
+- **1. Introduction**
+  - **1.1 The Crisis**
+  - **1.2 The Opportunity**
 - **1.0 Agroforestry**
 - **2.0 Biochar**
 - **3.0 Workflow**
@@ -24,7 +27,44 @@ Welcome to my pet project. I decided to try to design a solution to combat clima
 
 ---
 
-﻿# **The Modern Druid Project: A Blueprint for Planetary-Scale Carbon Drawdown and Food Security**
+### **1. Introduction**
+
+#### **1.1 The Crisis**
+
+We are no longer facing a future climate crisis; we are living through a present-day climate breakdown. The evidence is no longer in distant projections or abstract data points—it is rewriting the map of our lived experience.
+
+**A Rapidly Reshuffling World**
+The very definition of our climates **is** becoming obsolete. In a stark symbol of this shift, **New York City has now been officially reclassified as a humid subtropical climate.** The frozen winters that once defined the northeastern United States are receding into memory. This isn't an isolated anomaly. In Canada, the climate of **Toronto now mirrors the historical average of Vancouver**, a city 3,400 kilometers to the west and famously one of the country's mildest. On a more personal note, my hometown of **Sault Ste. Marie—once with an average annual temperature of 4.2°C (1961-1990)—now averages 7.3°C, making it warmer than Toronto was in the pre-Boomer era.** This 3.1°C local increase represents a staggering 75% of the temperature difference between a temperate growing region and permafrost.
+
+These are not minor fluctuations. They represent fundamental shifts that destabilize ecosystems, agriculture, and infrastructure designed for a climate that no longer exists.
+
+**The Unraveling of Planetary Systems**
+This warming is activating powerful, self-reinforcing feedback loops that threaten to push the climate system beyond any hope of human management:
+
+*   **The Permafrost Carbon Bomb:** Below 0°C is classified as permafrost. As this threshold is crossed globally, the frozen soils of the Arctic and boreal regions are thawing. These soils hold a colossal **1,460–1,600 billion tons of carbon**—nearly twice the amount currently in our atmosphere. This carbon is being released both as CO₂ and, alarmingly, as methane (CH₄). Methane is **80-120 times more potent than CO₂ at trapping heat over its first two decades**, and its atmospheric concentration is now rising at an accelerating rate. A release of even a small percentage of this stored carbon as methane would create a heating pulse that could trigger runaway warming, which in turn would create a runaway methane **release**, melting the remaining permafrost, as in **ALL OF IT**.
+*   **Collapsing Ecosystems:** The Amazon rainforest, a critical planetary moisture pump and carbon sink, is tipping into a net carbon source. The world's boreal forests are succumbing to unprecedented wildfires. Coral reefs, the nurseries of the ocean, are bleaching and dying en masse. Each collapse releases more carbon and diminishes the Earth's ability to regulate its own systems.
+
+**The Impending Human Toll**
+The consequences for human civilization are dire and already unfolding. Our global food supply, reliant on stable seasonal patterns, is becoming a gamble. The shifting rainfall patterns—oscillating between devastating droughts and catastrophic floods—are something no modern ecosystem or agricultural system is prepared to withstand. Crop failures, once localized, are becoming synchronized across breadbasket regions.
+
+Simultaneously, these supply shocks collide with a backdrop of **soaring wealth inequality**. The result is a devastating pincer movement on global stability: **rapid food price inflation and a precipitous drop in purchasing power for the vast majority of the world's population.** Climate change is not just an environmental issue; it is the ultimate threat multiplier for economic collapse, resource conflict, and mass migration.
+
+**The Scale of the Challenge**
+In 1750, atmospheric CO₂ was 278 parts per million (ppm). Today, it exceeds 425 ppm. Even if global emissions ceased tomorrow, the planet's inertia would keep CO₂ levels elevated for centuries.
+
+**Extinction Threat**
+The Permian–Triassic mass extinction event took place 252 million years ago when global temperatures rose by 8 degrees over a period of 60,000 years. It was the largest extinction event in Earth's history, deadlier even than when the asteroid killed the dinosaurs. And it occurred because of runaway carbon dioxide and methane levels in our atmosphere. Making that kind of temperature jump over a few hundred years basically ends all life on this planet larger than a cockroach unless it lives in a powered bunker. Because even a few dozen ppm of methane in the atmosphere is going to push us closer to 10 degrees Celcius than 1.5 and we have thousands at risk of release. An increase of even 2-3 ppm of methane makes this an irreversible runaway scenario, even if we bring carbon dioxide levels back to 278 ppm.
+
+We must now move beyond mere emission reduction. To restore a safe climate and refreeze the permafrost, we must actively remove **trillions of tons of CO₂ from the atmosphere**—a task of a scale and urgency that is unparalleled in human history. The durable carbon removal market in 2024 delivered a few hundred thousand tons. We need to remove *teratons*—trillions of tons—to restore our atmosphere to stable pre-industrial levels. And it needs to happen before the methane is released.
+
+This is the context in which The Modern Druid Project was conceived. The question is no longer *if* we need to draw down carbon, but *how* we can possibly do it fast enough.
+
+#### **1.2 The Opportunity**
+
+
+
+
+
 
 ### **Executive Summary — Detail**
 

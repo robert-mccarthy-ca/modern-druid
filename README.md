@@ -161,7 +161,7 @@ This system is more than a water delivery method; it is the core infrastructure 
 
 *   **Design:** A permanent, in-ground network of PVC or HDPE mains and laterals, buried below the local frost line. Risers with impact-resistant sprinkler heads are spaced for full coverage (head-to-head).
 *   **Zoning:** The farm is divided into sectors (e.g., coppice alleys, tree rows, wildlife corridors) that can be watered independently based on need.
-*   **Water Source & Storage:** Fed from a combination of on-site ponds (capturing runoff), wells, and ultimately, integrated Atmospheric Water Generation (AWG) systems to achieve water independence from unpredictable precipitation.
+*   **Water Source & Storage:** Fed from a combination of on-site ponds (capturing runoff), wells, and, as a key R&D goal, integrated Atmospheric Water Generation (AWG) systems to achieve water independence from unpredictable precipitation.
 
 #### **Multi-Functional Operational Modes**
 
@@ -190,7 +190,7 @@ The irrigation system is the platform for future resilience technologies:
 
 #### **Power & Control**
 
-*   **Energy Source:** Primarily on-site solar PV with battery storage, ensuring operation during grid outages, which are increasingly common during climate-related disasters.
+*   **Energy Source:** Primarily on-site solar PV with battery storage, ensuring operation during grid outages, which are increasingly common during climate-related disasters such as extreme weather or wildfire.
 *   **Control System:** A centralized, weather-aware smart controller that automatically adjusts schedules based on real-time soil moisture sensors, weather forecasts, and evapotranspiration (ET) data.
 
 ---

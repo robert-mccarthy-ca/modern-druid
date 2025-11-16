@@ -48,12 +48,7 @@ Welcome to my pet project. I decided to try to design a solution to combat clima
   - **9.2 Phase 2: Regional Saturation & The "Hub-in-a-Box" Service (Years 3-10)**
   - **9.3 Phase 3: Global Transition & Frontier Expansion (Years 5-20+)**
   - **9.4 The Ultimate Integration: A Managed Transition**
-
-  Rewrite in progress ...
-
-
-
-- **8.0 Investments and Final Thoughts**
+- **10. Funding Pathways: Building the First Hub**
 
 ---
 
@@ -822,7 +817,7 @@ The immediate and singular focus is the successful establishment and operation o
 
 #### **9.2 Phase 2: Regional Saturation & The "Hub-in-a-Box" Service (Years 3-10)**
 
-With a proven model and an understood food production curve, the growth engines are activated.
+With a proven model and a well-understood food production curve, the growth engines are activated.
 
 *   **The "Hub-in-a-Box" Service:** Modern Druid Central packages the entire operational model into a deployable, turnkey service for clients (governments, impact investors) with the capital and will to act. The premium charged for this service creates a cross-subsidization fund.
 *   **Strategic Seeding of a Global Network:** The profits from paid "Hub-in-a-Box" installations are used to **strategically seed flagship hubs in underserved regions and every major climate zone.** The goal is to create a global network of living seed banks and adaptation research centers.
@@ -852,87 +847,34 @@ The true scale required involves a coordinated, managed transition of our global
 
 We are not just building carbon sinks; we are building the next food system. The rate of our expansion will be governed by one key metric: **how quickly we can produce enough food to responsibly take existing farmland offline.** By building this system one validated hub at a time, creating a global network of adaptation, and using a cross-subsidization model, we can create a future where feeding humanity is the very act that restores the climate.
 
+---
 
+### **10. Funding Pathways: Building the First Hub**
 
+The Modern Druid Project is ready for activation. Our primary goal is to establish the first 100-hectare flagship hub to validate the model and create the open-source "Hub-in-a-Box" package. We are prioritizing the following funding pathways, which best align with our mission to disseminate this solution freely and ethically worldwide.
 
+#### **Primary Pathway: The Open-Source Pilot (Philanthropic Grant)**
+*   **Model:** Secure a major grant from a forward-thinking philanthropic foundation to fund the flagship hub as a 5-year open-source pilot and public research project.
+*   **Ask:** **$3.5 Million CAD** to fully fund land, infrastructure, and operations, with deliverables focused on creating a publicly available "Replication Toolkit."
+*   **Why This is the Ideal Path:** This model is the purest expression of our mission. It eliminates commercial pressure, allows us to focus entirely on optimization and rigorous data collection, and ensures all findings are freely available to accelerate global adoption. A successful grant-funded pilot would provide the undeniable proof-of-concept to fuel all subsequent pathways.
 
+#### **Secondary Pathway: The Solutions Provider (Strategic Partner Sale)**
+*   **Model:** We partner with a pioneering government, corporation, or consortium to design and build a turnkey "Carbon Removal & Food Security Hub" in their region.
+*   **Ask:** **$3.5 Million CAD** to cover the complete capital and startup costs for the first hub.
+*   **Why This is a Strong Alternative:** This pathway treats the blueprint as a high-value product. It immediately establishes a revenue model for Modern Druid Central, funded by those with the capital and will to act first. The premium from this initial "Hub-in-a-Box" sale would be directly reinvested once the system is proven to seed hubs in underserved regions, cross-subsidizing global equity. This is the operational model we intend to pursue once the system is proven.
 
+#### **Tertiary Pathway: The Mission-Locked Venture (Founder-Controlled Equity)**
+*   **Model:** Raise capital from a small circle of deeply mission-aligned impact investors in exchange for a minority equity stake in a specially structured company.
+*   **Ask:** **$3.5 Million CAD** for a non-controlling equity share.
+*   **Important Note:** This is a viable option only under the condition that the corporate charter legally locks in the core ethical principles—the 50/30/10/10 profit-sharing, equitable wages, and land-transfer model—making them unchangeable by any future board or majority shareholder. This ensures the company's mission is protected in perpetuity, with the founder retaining controlling interest to guarantee its execution.
 
+While other funding structures are possible, these three pathways represent our strategic focus. We believe they offer the best balance of mission integrity, scalability, and practical execution to launch this critical work.
 
+**The climate crisis will not wait. Let's build the proof.**
 
+For a detailed proposal and confidential discussion, please contact:
+Robert McCarthy, Founder
+The Modern Druid Project
+robert.mccarthy.ca@member.mensa.org
 
-
-
-
-
-
-Rewrite in progress ...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### **8.0 Investments and Final Thoughts**
-
-#### **8.1 Investment Summary**
-
-If someone with the startup funds likes the idea sufficiently to want to start this, by all means feel free to get in touch with me at robert.mccarthy.ca@member.mensa.org. This is still very much at the 'one dude and an idea' stage, but I'd love to give it a shot if I could.
-
-The investment is partially de-risked by:
-*   **Existing Markets:** Revenue is based on high-demand, international carbon removal markets.
-*   **Political Resilience:** Immune to most political opposition by catering to international markets.
-*   **Phased Revenue:** A clear timeline to profitability.
-*   **Value-Add Strategy:** A path to higher margins through retail sales and increased soil fertility.
-*   **Scalability:** The hub-and-spoke model allows for exponential growth.
-*   **Grants:** The possibility of government level grants and startup loans is another potential source of funding beyond carbon revenues.
-
-Garden like a beast. Have fancy bonfires. Let people pick their own damn food. Dare to solve the problem.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-** Stuff to Add:
-- reframe methane intro as current levels and history, so the full 120x impact as co2, we're interested in the net methane in the atmosphere
-- sell carbon credits at value above market hopefully
-- allow carbon removal to take place and start at a local level through civic improvement projects
-- 
+---

@@ -730,6 +730,8 @@ The project's core model directly and meaningfully contributes to 12 of the 17 g
 | **13**| **Climate Action** | **The core mission.** Delivers verifiable, large-scale Carbon Dioxide Removal (CDR) through biochar and soil sequestration, directly combating climate change. |
 | **15**| **Life on Land** | Restores biodiversity by creating rich, layered habitats. Prevents erosion, builds soil organic matter, and connects fragmented landscapes with dedicated wildlife corridors. |
 
+---
+
 #### **7.2 Future SDG Impacts through R&D and Expansion**
 
 The remaining SDGs are targeted for achievement through the project's dedicated R&D pipeline and strategic scaling.
@@ -744,9 +746,13 @@ The remaining SDGs are targeted for achievement through the project's dedicated 
 
 **Conclusion:** This profound alignment transforms the Modern Druid Project from a carbon offset into a **Sustainable Development Offset.** It allows corporations and investors to purchase carbon removal with the certainty that their capital is simultaneously driving measurable progress across the world's most pressing humanitarian and environmental challenges.
 
+---
+
 ### **8. Future Growth (Research & Development)**
 
 Modern Druid Central (MDC) will drive a continuous innovation pipeline to increase carbon drawdown rates, expand into new ecosystems, improve efficiency, and unlock new revenue streams. This R&D is funded by the 10% MDC royalty and is focused on solving key bottlenecks to planetary-scale deployment.
+
+---
 
 #### **8.1 Near-Term R&D (Years 1-5): Enhancing the Core Model**
 
@@ -762,6 +768,8 @@ Modern Druid Central (MDC) will drive a continuous innovation pipeline to increa
 *   **Research:** Improve kiln insulation and design for reduced fuel consumption and faster cycle times. Begin R&D into capturing and utilizing syngas for thermal energy to power on-site batteries.
 *   **Benefit:** Lowers operational costs, reduces the project's own emissions, and takes the first step toward energy independence, future-proofing against energy price volatility.
 
+---
+
 #### **8.2 Medium-Term R&D (Years 3-7): System Expansion & Diversification**
 
 **4. Atmospheric Water Generation (AWG) Integration**
@@ -775,6 +783,8 @@ Modern Druid Central (MDC) will drive a continuous innovation pipeline to increa
 **6. Halophyte Crops & Saline Agriculture**
 *   **Research:** Identify and breed salt-tolerant plants (halophytes) for food, fodder, and biomass. Develop irrigation strategies using brackish water or sea water.
 *   **Benefit:** Allows for the greening of saline-degraded coastal lands, turning another category of "unusable" land into a productive carbon sink.
+
+---
 
 #### **8.3 Long-Term & Frontier R&D (Years 5-15): Next-Generation Platforms**
 
@@ -792,25 +802,33 @@ Modern Druid Central (MDC) will drive a continuous innovation pipeline to increa
 
 This structured R&D pipeline ensures that The Modern Druid Project not only remains at the forefront of the carbon removal field, but forges a new frontier for the field, continuously evolving to enhance its efficacy, profitability, and global potential.
 
+---
+
 ### **9. Scaling: The Path to a Stabilized Planet**
 
 The Modern Druid Project is a blueprint. Its ultimate objective—to rebalance the atmospheric carbon cycle at a planetary scale—is predicated on a series of critical, sequential milestones. Our scaling strategy is a phased campaign to systematically de-risk and validate the model, transforming it from a prototype farm into a new, global, climate-positive food system. The old ways have failed. Time for a changing of the guard. Compete with free or go out of business.
+
+---
 
 #### **9.1 Phase 1: The Proof-of-Concept (Years 1-5)**
 
 The immediate and singular focus is the successful establishment and operation of the **100-Hectare Flagship Hub.**
 
 *   **Primary Goal:** Prove the integrated model. Demonstrate that the system can achieve its target biomass yield for carbon removal **while simultaneously producing a comparable or greater economic value of food per hectare than conventional agriculture in the region.**
-*   **Key Milestone:** Achieve financial profitability for the farm and meet minimum project scale. Additionally, **document the timeline to food yield parity.** This data is essential to justify the transition of farmland globally.
+*   **Key Milestone:** Achieve financial profitability for the farm and meet minimum project scale. Additionally, **quantify the timeline and pathway to food yield parity.** This data is essential to justify the transition of farmland globally.
 *   **Scalability Output:** The primary output of this phase is **validation and a replicable timeline.** A successful flagship hub provides the irrefutable evidence and the necessary data on food production ramp-up needed to attract capital and partnerships for Phase 2.
+
+---
 
 #### **9.2 Phase 2: Regional Saturation & The "Hub-in-a-Box" Service (Years 3-10)**
 
-With a proven model and a understood food production curve, the growth engines are activated.
+With a proven model and an understood food production curve, the growth engines are activated.
 
 *   **The "Hub-in-a-Box" Service:** Modern Druid Central packages the entire operational model into a deployable, turnkey service for clients (governments, impact investors) with the capital and will to act. The premium charged for this service creates a cross-subsidization fund.
 *   **Strategic Seeding of a Global Network:** The profits from paid "Hub-in-a-Box" installations are used to **strategically seed flagship hubs in underserved regions and every major climate zone.** The goal is to create a global network of living seed banks and adaptation research centers.
 *   **Living Adaptation & Seed Sharing:** This network becomes a resilient, decentralized R&D platform. Hubs will continuously adapt the plant palette to their local climate. **Active trading of seedballs between adjacent climate zones will be encouraged**, accelerating the natural selection and spread of resilient, high-performing varieties for a changing world.
+
+---
 
 #### **9.3 Phase 3: Global Transition & Frontier Expansion (Years 5-20+)**
 
@@ -819,6 +837,8 @@ With a refined, adaptable, and proven model, the focus shifts to the global tran
 *   **Driving the Agricultural Transition:** The combined force of the exponential local replication and the global "Hub-in-a-Box" network creates market and social pressure. The model demonstrates it can grow abundant and healthy food without toxic inputs, providing a viable, desirable alternative that can systematically replace chemical-intensive agriculture.
 *   **Beyond Prime Farmland:** Validated R&D technologies like **Atmospheric Water Generation (AWG)** are deployed to rehabilitate degraded and arid lands, adding billions of hectares of productive land without competing with existing food production.
 *   **The Ocean Frontier:** The "Blue Druid" marine system moves to pilot deployment, providing a new source of food and biomass while sequestering carbon in the ocean.
+
+---
 
 #### **9.4 The Ultimate Integration: A Managed Transition**
 

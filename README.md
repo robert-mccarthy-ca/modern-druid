@@ -801,7 +801,7 @@ This structured R&D pipeline ensures that The Modern Druid Project not only rema
 
 ### **9. Scaling: The Path to a Stabilized Planet**
 
-The Modern Druid Project is a blueprint. Its ultimate objective—to rebalance the atmospheric carbon cycle at a planetary scale—is predicated on a series of critical, sequential milestones. Our scaling strategy is a phased campaign to systematically de-risk and validate the model, transforming it from a prototype farm into a new, global, climate-positive food system. The old ways have failed. Time for a changing of the guard. Compete with free or go out of business.
+The Modern Druid Project is a blueprint. Its ultimate objective—to rebalance the atmospheric carbon cycle at a planetary scale—is predicated on a series of critical, sequential milestones. Our scaling strategy is a phased campaign to systematically de-risk and validate the model, transforming it from a prototype farm into a new, global, climate-positive food system. The old ways have failed. Train a generation of people who tend the land instead of degrade it. Making people pay for the privilege of eating doesn't have to be a business model anymore, let's change that. Compete with free or go out of business. Time for a changing of the guard. 
 
 ---
 
@@ -872,9 +872,21 @@ While other funding structures are possible, these three pathways represent our 
 
 **The climate crisis will not wait. Let's build the proof.**
 
-For a detailed proposal and confidential discussion, please contact:
-Robert McCarthy, Founder
+If interested in trying this and have the resources, by all means, please contact:
+Robert McCarthy
 The Modern Druid Project
 robert.mccarthy.ca@member.mensa.org
 
 ---
+
+
+
+TODO:
+Part 1: beef up the methane argument
+how much co2 and methane were produced by whatever cause the permian end extinsction compared to what we have released
+outline the problem solution, restore global atmosphere and temperature to pre-industrial levels, back where it was stable.
+cover other greenhouse gases, not just co2, see how the others are rising as well, put the methane problem into context
+Part 10: build team
+highlight what skills are needed
+which skills are missing
+what skills do i bring

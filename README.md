@@ -801,7 +801,11 @@ This structured R&D pipeline ensures that The Modern Druid Project not only rema
 
 ### **9. Scaling: The Path to a Stabilized Planet**
 
-The Modern Druid Project is a blueprint. Its ultimate objective—to rebalance the atmospheric carbon cycle at a planetary scale—is predicated on a series of critical, sequential milestones. Our scaling strategy is a phased campaign to systematically de-risk and validate the model, transforming it from a prototype farm into a new, global, climate-positive food system. The old ways have failed. Train a generation of people who tend the land instead of degrade it. Making people pay for the privilege of eating doesn't have to be a business model anymore, let's change that. Compete with free or go out of business. Time for a changing of the guard. 
+The Modern Druid Project is a blueprint. Its ultimate objective—to rebalance the atmospheric carbon cycle at a planetary scale—is predicated on a series of critical, sequential milestones. We need to produce more food than standard croplands, we need to remove meaningful levels of carbon, and we need to earn a profit and a living for our employees, and we need to be able to replciate it, fast.
+
+Today, industrial agriculture degrades the soil and environments with pesticides and fertilizers. They've nearly wiped out the bees and other insects we rely on for pollination. Monocrop agriculture is extremely susceptible to complete failure in the face of extremes of weather. The old ways have failed. 
+
+Time to train a generation to produce food by tending the land instead of degrading it. Making people pay for the privilege of eating doesn't have to be a business model anymore. Time for a changing of the guard. Compete with free or go out of business. 
 
 ---
 
@@ -872,21 +876,41 @@ While other funding structures are possible, these three pathways represent our 
 
 **The climate crisis will not wait. Let's build the proof.**
 
-If interested in trying this and have the resources, by all means, please contact:
-Robert McCarthy
-The Modern Druid Project
+If interested in trying this and you have the resources or supplementary skills, by all means, please contact:<br>
+Robert McCarthy<br>
+The Modern Druid Project<br>
 robert.mccarthy.ca@member.mensa.org
+
+I'd be more than happy to try and make gardening like a boss and having fancy bonfires a career option.
 
 ---
 
 
 
 TODO:
+
 Part 1: beef up the methane argument
 how much co2 and methane were produced by whatever cause the permian end extinsction compared to what we have released
-outline the problem solution, restore global atmosphere and temperature to pre-industrial levels, back where it was stable.
 cover other greenhouse gases, not just co2, see how the others are rising as well, put the methane problem into context
+outline the problem solution:
+  restore global atmosphere to pre-industrial levels, back where it was stable.
+    carbon dioxide removal
+    methane degrades on its own into carbon dioxide which can be removed, but it's a process that takes decades to centuries
+    nitrous oxide remains a problem
+  intervene with current warming to prevent further permafrost and methane deposit collapse
+    outside of scope, but realistically required, permafrost needs to refreeze, ice shelfs need to regrow
+  do it in a way that can scale
+    exponential growth curve with farms that start new farms
+    produce more crops than the croplands we replace
+    provide more community benefits than it costs in carbon credits
+    works across borders
+
 Part 10: build team
 highlight what skills are needed
-which skills are missing
-what skills do i bring
+which skills are missing?
+what skills do i bring?
+how many people do we need?
+how much money will this actually take?
+
+
+

@@ -933,3 +933,10 @@ Re: Modern Druid Project<br>
 robert.mccarthy.ca@member.mensa.org
 
 I'd be more than happy to try and make gardening like a boss and having fancy bonfires a legitimate career option. It's a long shot, a lot of things need to line up for it to work. But, unless I'm mistaken, it's an actual shot. It has a chance of actually working, with or without political leadership.
+
+---
+
+TODO:
+
+rewrite conclusion
+add enhanced rock weathering from the beginning, super easy additional durable carbon source.

@@ -50,6 +50,7 @@ Welcome to my pet project. I decided to try to design a solution to combat clima
   - **9.3 Phase 3: Global Transition & Frontier Expansion (Years 5-20+)**
   - **9.4 The Ultimate Integration: A Managed Transition**
 - **10. Funding Pathways: Building the First Hub**
+- **11. Conclusion**
 
 ---
 
@@ -65,7 +66,7 @@ The Paris Agreement's 1.5°C target was never a "safe" level; it was a political
 1.  **Aerosol Masking:** Industrial pollution (sulfur dioxide, etc.) reflects sunlight, artificially cooling the planet. As we clean our air—a public health necessity—this masking effect diminishes. Scientists estimate this "unmasking" could contribute an additional **0.5 - 1.1°C** of warming.
 2.  **Climate Inertia:** The oceans' thermal lag means the full warming effect of our current atmospheric greenhouse gas concentration has not yet been realized. We are committed to at least **another 0.5°C** of warming even if emissions ceased tomorrow.
 
-The inescapable conclusion is that **~2.5°C of global warming is already locked into the system.** This level guarantees the activation of self-perpetuating feedback loops that threaten to push the climate system beyond any hope of human management.
+The inescapable conclusion is that **~2.5°C of global warming is already locked into the system.** This level guarantees the activation of self-perpetuating feedback loops that threaten to push the climate system beyond any hope of human management. That assumes we stop emitting carbon dioxide tomorrow. But, since we are emitting at all time highs, the temperature is absolutely going higher than that without something like marine cloud brightening or stratospheric aerosol injections taking place.
 
 **The Unraveling: Feedback Loops and Tipping Points**
 At our current committed warming, key planetary tipping points are being activated. These are not gradual changes but nonlinear, irreversible shifts that cascade through the Earth system.
@@ -73,8 +74,8 @@ At our current committed warming, key planetary tipping points are being activat
 *   **The Permafrost Carbon Feedback:**
     *   **The Stock:** Arctic and boreal permafrost hold a colossal **~1,460–1,600 billion tonnes of organic carbon**—nearly twice the amount currently in the atmosphere.
     *   **The Thaw:** Recent studies show that **~20% of the permafrost zone is already vulnerable to rapid thaw.** This process is not gradual; it creates thermokarst lakes and slumps that expose deep, ancient carbon to decomposition.
-    *   **The Release:** This carbon is being released as CO₂ and, critically, as **methane (CH₄)**. Over a 20-year period, methane is **~84 times more potent than CO₂ at trapping heat** (GWP-20). While it decays in the atmosphere over decades, its impact during that period creates a powerful heating pulse.
-    *   **The Scale of the Threat:** To understand the magnitude of this feedback, consider the warming impact of released permafrost carbon, assuming a conservative mix of 60% CO₂ and 40% methane (by carbon weight) released over a century:
+    *   **The Release:** This carbon is being released as CO₂ and, critically, as **methane (CH₄)**. Over a 20-year period, methane is **~84 times more potent than CO₂ at trapping heat** (GWP-20). While it decays in the atmosphere over decades, its impact during that period creates a powerful heating pulse. While in the atmosphere it is about 120 times as powerful as carbon dioxide.
+    *   **The Scale of the Threat:** To understand the magnitude of this feedback, consider the warming impact of released permafrost carbon, assuming a conservative mix of 60% CO₂ and 40% methane (by carbon weight) released over a century from decomposition:
         *   A **1% release** (~16 Gt C) would have a 20-year warming effect equivalent to **~250 billion tonnes of CO₂**, adding approximately **~0.15°C** to global temperatures.
         *   A **10% release** (~160 Gt C) would be equivalent to **~2,500 billion tonnes of CO₂**, adding **~1.5°C** of warming, effectively doubling our current committed warming, enough to trigger the warming of the rest of it.
         *   A full release is a "Hothouse Earth" scenario of 10+ C, which is comically incompatible with human civilization, something which has happened only a few times in Earth's history, with major extinction events being involved every time.
@@ -102,7 +103,7 @@ The locked-in warming of ~2.5°C places us on a trajectory where the loss of fou
 The consequences are dire and synchronous. Our global food supply, reliant on stable climates, faces simultaneous breadbasket failures. Soaring wealth inequality collides with rapid food price inflation, creating a pincer movement on global stability. We are witnessing the **Sixth Mass Extinction** in real-time, with ecosystem collapses from coral reefs to insect populations.
 
 **The Inescapable Conclusion: The Need for Drawdown and Intervention**
-The data leads to an unavoidable conclusion: **emission reduction alone is now insufficient.** The feedback loops we have triggered will continue to warm the planet for centuries. To restore a safe climate, we must actively remove **trillions of tonnes of CO₂ from the atmosphere** to lower concentrations to a level that can re-stabilize the cryosphere and re-freeze the permafrost. And it needs to be done before methane reaches concentrations that we cannot survive, much less fix.
+The data leads to an unavoidable conclusion: **emission reduction alone is now insufficient.** The feedback loops we have triggered will continue to warm the planet for centuries. To restore a safe climate, we must actively remove **trillions of tonnes of CO₂ from the atmosphere** to lower concentrations to a level that can re-stabilize the cryosphere and re-freeze the permafrost. And it needs to be done before methane reaches concentrations that we cannot survive, much less fix. 1.5 C above pre-industrial temperatures releases too much carbon for us to stop this in time. 1.5 C is not a safe level, we need 0 C, we need the permafrost to refreeze if we want today's schoolchildren to die of old age.
 
 Furthermore, the rate of warming is now outpacing the rate at which even the most aggressive drawdown can act. This creates a compelling, albeit temporary, case for **solar radiation management (SRM)** interventions, such as marine cloud brightening, to rapidly cool critical regions like the Arctic and buy the crucial time needed for drawdown to take effect.
 
@@ -114,21 +115,21 @@ The question is no longer *if* we need to draw down carbon, but whether we can d
 
 The scale of the crisis demands a funding mechanism of equal scale, one that is not constrained by national borders, political inertia, or the traditional economics of food. That mechanism exists today in the form of the **international voluntary carbon removal markets.**
 
-This project is fundamentally designed to harness these markets. The core insight is that the most valuable "crop" we can grow is not food for sale, but **durable carbon removal.** The revenue from this single stream is sufficient to make the entire operation profitable, liberating us from the need to monetize the food we produce.
+This project is fundamentally designed to harness these markets. The core insight is that the most valuable "crop" we can grow is not food for sale, but **both durable and living carbon removal.** The revenue from this single stream is sufficient to make the entire operation profitable, liberating us from the need to monetize the food we produce.
 
 *   **Biochar as a Premium Carbon Asset:** Biochar produced to standards like Puro.earth represents one of the most verifiable and durable forms of Carbon Dioxide Removal (CDR). Its millennial-scale stability makes it a high-value asset for corporations seeking to meet net-zero commitments, commanding prices that can support a robust agricultural operation.
 *   **The Power of "Free" Food:** By decoupling our revenue from food sales, we eliminate the largest logistical and financial burdens of farming: harvest, storage, transport, and marketing. This allows us to offer all food produced as a **free, pick-your-own public resource.** This is not a charitable loss-leader; it is a strategic efficiency made possible by a superior revenue model.
 *   **A Global, De-risked Financial Model:** The voluntary carbon market is international. A tonne of CO₂e removed in Canada has the same value as a tonne removed in Brazil or Kenya. This allows us to fund operations globally at a consistent, dignified wage level, making the project inherently equitable and **immune to local political inaction or all but the most blatant political opposition.** While market prices can and will fluctuate, the fundamental, trillion-tonne-scale demand for durable CDR provides a durable economic foundation that traditional agriculture lacks.
 
-In essence, the carbon market provides the capital to heal the planet. Our innovation is to use that capital to build a system that also heals our communities while still turning a profit. Business doesn't have to be exploitative.
+In essence, the carbon market provides the capital to heal the planet. Our innovation is to use that capital to build a system that also feeds our communities while still turning a profit. Business doesn't have to be exploitative to be profitable, we don't need to make people pay for the privilege of not starving, carbon should be able to pay the bills.
 
 ---
 
 #### **1.3 The Paradigm Shift: Solving Multiple Crises by Ending Scarcity Economics**
 
-The financial model of carbon credits is the engine, but the soul of the Modern Druid Project is a fundamental paradigm shift: **we can solve more problems by being socialists than by being sociopaths.** 
+The financial model of carbon credits is the engine, but the soul of the Modern Druid Project is a fundamental paradigm shift: **we can solve more problems by being socialists than by being sociopaths.** By not being greedy, we open up a host of other options and possibilities.
 
-The traditional agricultural model is extractive and exploitative. It seeks to maximize profit from every hectare, often at the cost of ecological health and community well-being. Pesticides, herbicides, fungicides all damage our soils and ecosystems. Synthetic fertilizers poison waterways. And it goes to the highest bidder, often far from where it is grown, incurring additional emissions from transportation. Let's see them compete with free.
+The traditional agricultural model is extractive and exploitative. It seeks to maximize profit from every hectare, often at the cost of ecological health and community well-being. Pesticides, herbicides, fungicides all damage our soils and ecosystems. Synthetic fertilizers poison waterways. And it goes to the highest bidder, often far from where it is grown, incurring additional emissions from transportation. Let's see them compete with free, local, fresh, organic and biocide free.
 
 **The "Pick-Your-Own" Principle as a Catalyst**
 The simple act of making food free for the picking is a radical intervention. Healthy food shouldn't be a privelege for the wealthy, just because we could make more money by making it so. By choosing to stop at carbon revenue—by forgoing the profit from food sales—we unlock a cascade of co-benefits that transform the project from a carbon farm into an engine for sustainable development. It immediately and powerfully addresses the root of numerous social and environmental crises, allowing the project to deliver on a stunning number of the UN Sustainable Development Goals from its very inception:
@@ -137,7 +138,7 @@ The simple act of making food free for the picking is a radical intervention. He
 *   **SDG 3: Good Health and Well-Being:** A diet of chemical-free food from rich soils provides superior nutrition, combating diet-related illnesses.
 *   **SDG 5: Gender Equality & SDG 10: Reduced Inequality:** Our constitutional governance mandates equitable pay scales globally, funded by international carbon markets. This ensures fairness and shared prosperity, regardless of location or gender.
 *   **SDG 6: Clean Water and Sanitation:** With no toxic inputs and biochar's power to filter and retain nutrients, water leaving our sites is cleaner than when it arrived.
-*   **SDG 8: Decent Work and Economic Growth:** We create dignified, well-paid green jobs and a path to land ownership, fostering local economic resilience.
+*   **SDG 8: Decent Work and Economic Growth:** We would create dignified, well-paid green jobs and a path to land ownership, fostering local economic resilience.
 *   **SDG 9: Industry, Innovation and Infrastructure:** We are building a new, decentralized, climate-positive infrastructure for land management and food security.
 *   **SDG 11: Sustainable Cities and Communities:** These farms become green public commons, buffering communities against supply chain shocks and climate disasters.
 *   **SDG 12: Responsible Consumption and Production:** The system is inherently circular, recycling biomass on-site and producing food hyper-locally.
@@ -155,13 +156,13 @@ This is the heart of the Modern Druid Project. It is not a single-solution fix b
 6.  **Amplifies the value and impact of the core carbon credits,** and...
 7.  **Scales exponentially with each farm spawning new farms.**
 
-The opportunity is to prove that the most effective way to address our greatest crises is to build systems that are inherently generous, circular, and equitable. By healing the land, we can create the abundance needed to heal our communities. This project is a blueprint for that world.
+The opportunity is to prove that the most effective way to address our greatest crises is to build systems that are inherently generous, circular, and equitable. By healing the land, we can create the abundance needed to feed and heal our communities. This project is a blueprint for that world.
 
 ---
 
 ### **2. Agroforestry**
 
-This section details the architecture of the Modern Druid agroforestry system, a replicable template designed to maximize biomass production for carbon sequestration while providing free community food and building resilient soils.
+This section details the architecture of the Modern Druid agroforestry system, a template designed to maximize biomass production for carbon sequestration while providing free community food and building resilient soils. Adaptation to the local site would be necessary, the examples here are for Northern Ontario, Canada, where I am located.
 
 ---
 
@@ -180,28 +181,28 @@ The design is based on a north-south oriented, repeating 16-meter block to optim
 
 *   **Tree Row (2 m):** The permanent, multi-layered food forest.
     *   **Emergent Layer (Pollardable):** Fast-growing, high-biomass trees (e.g., Poplar, Willow, Paulownia) pruned high (~4m) to create a canopy over the food-producing layers.
-    *   **Canopy Layer (Edible):** Fruit and nut trees (e.g., Apple, Pear, Plum, Hazelnut). The most vigorous and tasty cultivars are selected to grow into the canopy.
-    *   **Shrub Layer:** Berries and nitrogen-fixers (e.g., Blueberry, Raspberry, Goumi).
-    *   **Herbaceous Layer:** Perennial biomass and ground covers (e.g., Comfrey, Jerusalem Artichoke, Strawberry, Mint).
+    *   **Canopy Layer (Edible):** Fruit and nut trees (e.g., Apple, Pear, Plum, Hazelnut). The most vigorous and tasty cultivars are selected to grow into the upper canopy, the rest chopped for mulch. Trees would be replaced as superior younger stock is identified through breeding programs, being bred for the changing local climatic conditions.
+    *   **Shrub Layer:** Berries and nitrogen-fixers (e.g., Blueberry, Raspberry, Goumi) alongside the saplings reaching for the canopy.
+    *   **Herbaceous Layer:** Perennial biomass and ground covers (e.g., Thyme, Rosemary, Strawberry, Mint).
 *   **Path/Herb Strip (3 m):** A public access path doubles as a mulch production zone, planted with high-biomass, mowable perennials (e.g., Comfrey, Chicory, Jerusalem Artichoke).
-*   **Coppice Alley (8 m):** The primary biochar feedstock engine. Densely planted with high-yielding coppice species (e.g., Willow, Black Locust, Hybrid Poplar) on a 2-3 year harvest rotation.
+*   **Coppice Alley (8 m):** The primary biochar feedstock engine. Densely planted with high-yielding coppice species (e.g., Willow, Black Locust, Hybrid Poplar) on a 2 year harvest rotation offset from the hard pruning schedules for the tree rows.
 *   **Path/Herb Strip (3 m):** A mirror of the first, completing the pattern.
-*   **Wildlife Corridors:** Every 500m, strips of lightly managed vegetation, grown from seedballs with every species we have available densely overplanted, added biochar and irrigated. Any selection process and pruning would be left to nature, these would not be pruned or mowed in any way. All that would happen in these strips is added seedballs when we have new species to add, irrigated when it's dry, and biochar added periodically.
+*   **Wildlife Corridors:** Every 500m, strips of lightly managed vegetation, grown from seedballs with every species we have available densely overplanted, added biochar and irrigated. Any selection process and pruning would be left to nature, these would not be pruned or mowed in any way. All that would happen in these strips is added seedballs when we have new species to add, irrigated when it's dry, and biochar added periodically. This would be to provide for habitat and passage for wildlife and pollinators as well as providing a living seed bank for when existing ecosystems with just native species collapse as conditions change.
 
 #### **Phased Implementation**
 
 *   **Year 0 – Pioneer Phase:** Site flail-mowed; broadcast seeded with a pioneer mix of deep-taprooted trees (paulownia, black locust), other deep rooted perennial plants (Daikon, Chicory, Comfrey) and deep taprooted annuals like giant sunflower to break compaction and begin soil building at depth.
 *   **Year 1 – Framework Establishment:** The main 16m pattern is planted using seedballs and seedlings. Primary irrigation lines are installed.
 *   **Years 2-4 – Diversification & Training:** The system is filled with increasing diversity. Selective breeding begins. Coppice and pollarding cycles are initiated.
-*   **Year 5+ – Mature System:** The food forest and coppice alleys reach full productivity. The system operates at peak biomass yield and carbon sequestration capacity.
+*   **Year 5+ – Mature System:** The food forest and coppice alleys begin to reach reliable productivity. The system should improve year after year with the continued addition of biochar alongside the improvements from having a diverse and perrenial system. Carbon sequestration rates should continue to rise each year.
 
 #### **The Breeding & Selection Program**
 
 A continuous, on-site breeding project is essential for climate adaptation and optimization.
-*   **Goal:** To develop locally adapted "champion" lines that thrive in high-biochar, microbially rich soils and are resilient to climate extremes.
-*   **Method:** Each pruning cycle doubles as a selection event. Plants are evaluated for vigor, yield, taste, and resilience. Seeds from the best performers are used for the next generation of planting, continuously improving the genetic stock of the farm.
+*   **Goal:** To develop locally adapted seed lines that thrive in high-biochar, microbially rich soils, are resilient to climate extremes, and adapted to our current up to date climate, not the historical one.
+*   **Method:** Each pruning cycle doubles as a selection event. Plants are evaluated for vigor, yield, taste, and resilience. Seeds from the best performers are used for the next generation of planting, continuously improving the genetic stock of the farm. This takes place at the same time as the pruning, taking advantage of the growth pulse from the pruning event.
 
-#### **Integrated Irrigation & System Protection**
+#### **Integrated Irrigation & Water Storage**
 
 A permanent, frost-proof overhead sprinkler grid is a multi-functional backbone.
 *   **Functions:**
@@ -209,6 +210,8 @@ A permanent, frost-proof overhead sprinkler grid is a multi-functional backbone.
     2.  **Foliar Feeding Delivery:** Automated application of JMS, FPJ, and other natural farming inputs.
     3.  **Winter Protection:** Can operate as snowmakers to insulate soils and prevent winterkill.
     4.  **Wildfire Defense:** Creates a defensible, humid perimeter and can douse the site in case of approaching fire.
+
+Holding ponds and swales would be used where possible to harvest and store water for use in irrigation. We need to be able to store all the water we can from rainfalls if their frequency becomes erratic due to cliamte change.
 
 ---
 
@@ -220,13 +223,13 @@ This system is more than a water delivery method; it is the core infrastructure 
 
 *   **Design:** A permanent, in-ground network of PVC or HDPE mains and laterals, buried below the local frost line. Risers with impact-resistant sprinkler heads are spaced for full coverage (head-to-head).
 *   **Zoning:** The farm is divided into sectors (e.g., coppice alleys, tree rows, wildlife corridors) that can be watered independently based on need.
-*   **Water Source & Storage:** Fed from a combination of on-site ponds (capturing runoff), wells, and, as a key R&D goal, integrated Atmospheric Water Generation (AWG) systems to achieve water independence from unpredictable precipitation.
+*   **Water Source & Storage:** Fed from a combination of on-site ponds (capturing runoff), wells, and, as a key R&D goal, integrated Atmospheric Water Generation (AWG) systems to achieve sustainable water independence from unpredictable precipitation.
 
 #### **Multi-Functional Operational Modes**
 
 1.  **Base Irrigation:**
-    *   **Schedule:** 1-2 mm/day applied during early morning hours to minimize evaporation on days that have received no precipitation.
-    *   **Goal:** Maintain consistent soil moisture to prevent drought stress and maximize biomass growth, without overwatering.
+    *   **Schedule:** 1-2 mm/day applied during early morning hours to minimize evaporation, used during dry periods or when there's no more storage.
+    *   **Goal:** Maintain consistent soil moisture to prevent drought stress and maximize biomass growth, without overwatering. Buffer the system from extreme drought.
 
 2.  **Foliar Input Delivery:**
     *   **Process:** Liquid natural farming inputs (IMO, FPJ, OHN, BRV, sea salt, quench water) are injected directly into the irrigation system via a proportional dosing pump. Delivered in early evening to prevent UV killing the microbes before they have a chance to get into the plants and soil.
@@ -234,7 +237,7 @@ This system is more than a water delivery method; it is the core infrastructure 
 
 3.  **Climate Intervention Mode:**
     *   **Frost Protection:** Run the system before a predicted frost event. As water freezes on plants, it releases latent heat, protecting tender buds and blooms.
-    *   **Snowmaking (Winter Insulation):** When air temperatures are below freezing and there was no snow, run the system to create an artificial snowpack over perennial roots and soil microbes, insulating them from deadly freeze-thaw cycles and winterkill.
+    *   **Snowmaking (Winter Insulation):** When air temperatures are below freezing and there was no snow, run the system to create an artificial snowpack over perennial roots and soil microbes, insulating them from deadly freeze-thaw cycles and winterkill, or to restore lost snowpack before the start of spring.
 
 4.  **Emergency Wildfire Defense:**
     *   **Activation:** In the event of a nearby wildfire or extreme fire-danger weather.
@@ -245,11 +248,11 @@ This system is more than a water delivery method; it is the core infrastructure 
 The irrigation system is the platform for future resilience technologies:
 
 *   **Atmospheric Water Generation (AWG):** Solar-powered radiative panels, compressor-based, or desiccant systems will be integrated to harvest water directly from the air. This is the final step in decoupling food and carbon production from broken hydrological cycles.
-*   **Kiln-Exhaust Heat Exchange (Future):** R&D will explore capturing waste heat from biochar kilns to warm water for early-season irrigation to boost soil temperature or to prevent freezing in AWG components.
+*   **Kiln-Exhaust Heat Exchange (Future):** R&D will explore capturing waste heat from biochar kilns to warm water for early-season irrigation to boost soil temperature or to prevent freezing in AWG components. Energy production and syngas production are other potential paths to explore.
 
 #### **Power & Control**
 
-*   **Energy Source:** Primarily on-site solar PV with battery storage, ensuring operation during grid outages, which are increasingly common during climate-related disasters such as extreme weather or wildfire.
+*   **Energy Source:** Primarily on-site solar PV or wind with battery storage, ensuring operation during grid outages, which are increasingly common during climate-related disasters such as extreme weather or wildfire.
 *   **Control System:** A centralized, weather-aware smart controller that automatically adjusts schedules based on real-time soil moisture sensors, weather forecasts, and evapotranspiration (ET) data.
 
 ---
@@ -266,11 +269,11 @@ Biochar is the cornerstone of the Modern Druid Project's durability and profitab
 
 Biochar is a carbon-rich, porous solid produced by heating biomass (wood, agricultural residues) in a high-temperature, low-oxygen environment—a process called **pyrolysis**. This process is inspired by the ancient Amazonian *Terra Preta* (black earth) soils, but is now a leading-edge Carbon Dioxide Removal (CDR) technology verified by modern scientific standards.
 
-**Pyrolysis vs. Charcoal:** The key difference lies in the completeness of the process. Charcoal production stops before fully volatilizing the organic compounds that contribute to flavor and smoke. Biochar is produced at higher temperatures for longer, driving off these volatiles to create a more stable, carbon-pure material suitable for both soil amendment and carbon sequestration.
+**Pyrolysis vs. Charcoal:** The key difference lies in the completeness of the process. Charcoal production stops before fully volatilizing the organic compounds that contribute to flavor and smoke. Biochar is produced at higher temperatures for longer, driving off these volatiles to create a more stable, carbon-pure material suitable for both soil amendment and long term, stable carbon sequestration.
 
 #### **The Pyrolysis Process: Locking Carbon Away**
 
-In our flame-cap kilns, biomass is heated to temperatures between 450°C and 700°C. In this oxygen-limited environment, the volatile components (gases and tars) are driven off and combust in the "flame cap" above the pile, which in turn consumes ambient oxygen and protects the biochar below from burning.
+In flame-cap kilns, biomass is heated to temperatures between 450°C and 700°C. In this oxygen-limited environment, the volatile components (gases and tars) are driven off and combust in the "flame cap" above the pile, which in turn consumes ambient oxygen and protects the biochar below from burning.
 
 What remains is a solid matrix composed primarily of **elemental carbon**.
 
@@ -284,8 +287,8 @@ The value of biochar extends far beyond carbon sequestration. Its application cr
 1.  **A Soil Coral Reef:** Biochar's incredibly high surface area and complex pore structure provide a vast habitat for beneficial soil microbes and fungi, boosting the soil's living ecosystem.
 2.  **Nutrient & Water Retention:** The porous structure acts like a sponge, retaining nutrients and water that would otherwise leach away, reducing fertilizer needs and increasing drought resilience. Biochar can hold up to **5 times its weight in water**.
 3.  **Pollution Reduction:** By retaining nutrients in the root zone, biochar prevents fertilizer runoff into waterways, combating algal blooms and water pollution.
-4.  **A Circular Economy On-Site:** The model transforms waste biomass (coppiced wood) into a high-value product, closing the nutrient loop and eliminating waste.
-5.  **Accelerated Soil Carbon Sequestration:** Studies indicate that soils amended with biochar can sequester *additional* organic carbon at an accelerated rate, creating a positive feedback loop for carbon drawdown.
+4.  **A Circular Economy On-Site:** The model transforms purpose grown biomass (coppiced and pollarded wood) into a high-value product, closing the nutrient loop and eliminating waste.
+5.  **Accelerated Soil Carbon Sequestration:** Studies indicate that soils amended with biochar can sequester *additional* organic carbon at an accelerated rate, creating a positive feedback loop for carbon drawdown. It boosts both plant and soil growth when applied correctly.
 
 #### **From Carbon to Revenue: The Biochar Value Streams**
 
@@ -294,7 +297,7 @@ Biochar generates multiple, stacked revenue streams, de-risking the business mod
 *   **Primary Revenue (Carbon Credits):** The permanent sequestration of CO₂ is verified and sold as high-value carbon removal credits on the voluntary market (e.g., Puro.earth). This is the project's financial anchor.
 *   **Secondary Revenue (Product Sales):** Bulk biochar is sold as a soil amendment to farmers, vineyards, and landscapers. "Pre-charged" biochar (saturated with nutrients and microbes) commands a premium price for horticultural use.
 *   **Tertiary Revenue (Soil Carbon):** The project generates additional, verified credits from the growth of soil organic carbon, further boosted by biochar application.
-*   **On-Farm Investment:** The 50% of biochar retained on the project lands is not a cost; it is a direct investment in future yield, water resilience, and reduced input costs, compounding the system's productivity.
+*   **On-Farm Investment:** The 50% of biochar retained on the project lands is not a cost; it is a direct investment in future yield, water resilience, and reduced input costs, compounding the system's productivity. Turning our soils into a modern analog of Terra Preta.
 
 ---
 
@@ -308,7 +311,7 @@ The pyrolysis process is housed in a dedicated, purpose-built structure—**The 
 
 *   **Structure:** A simple, robust pole barn (~1,500 sq ft) with a high roof peak (~20 ft) to manage heat and gases.
 *   **Ventilation & Intrinsic Safety:**
-    *   The lower section of the walls are open, covered with heavy-duty steel mesh. This provides passive air intake for the kilns' flame caps and, critically, prevents the accumulation of flammable or toxic pyrolysis gases, making the structure intrinsically safe even in a power failure.
+    *   The lower section of the walls are open, covered with heavy-duty steel mesh. This provides passive air intake for the kilns' flame caps and, critically, prevents the accumulation of flammable or toxic pyrolysis gases, making the structure intrinsically safe even in a power or mechanical failure.
     *   A large, variable-speed **exhaust fan** is mounted high in the gable end, actively pulling any residual smoke or gases away from the operating area and ensuring a safe working environment.
 *   **Emissions Monitoring (MRV Critical):** The exhaust stack is fitted with ports for **Continuous Emissions Monitoring (CEM)** sensors (CO₂, CO, VOCs, Particulate Matter). This provides the data required for certification, proving clean, efficient combustion.
 
@@ -323,7 +326,7 @@ The system is built around a bank of 8+ custom-designed kilns, balancing through
     *   **Automated Quench System:** An overhead water pipe with solenoid valves and spray nozzles for each kiln, allowing an operator to extinguish a batch with the push of a button.
 
 *   **Material Handling:**
-    *   **Feedstock:** Biomass is pre-processed into bales or tight bundles by the coppice harvester. This is a critical labor-saving step, enabling rapid kiln loading.
+    *   **Feedstock:** Biomass is pre-processed into bales or tight bundles by the coppice harvester. This organized feedstock is a critical labor-saving step, enabling rapid kiln loading.
     *   **Equipment:** A Compact Track Loader (CTL) is used for handling bales and loading kilns. A dump trailer is positioned to receive biochar from the tilted kilns.
 
 #### **The Production Workflow: A Well-Oiled Machine**
@@ -339,7 +342,7 @@ The process is designed for a 3-person crew to manage multiple kilns in a contin
 
 ### **Achieving Scale: The Numbers**
 
-This system is designed for significant output, comfortably exceeding certification thresholds and generating meaningful revenue. The calculations below are based on a 5 cubic yard kiln capacity and a 3-person crew operating 8 kilns.
+This system is designed for significant output, comfortably exceeding certification thresholds and generating meaningful revenue. The calculations below are based on a 5 cubic yard kiln capacity and a 3-person crew operating 8 kilns. 3 people was chosen for operational safety, having 2 people on hand at all times during burning in case some accident occurs, regardless of where the third operator was, being a more mobile operator that handles the trailer hauling and resetting of kilns.
 
 **Key Assumptions & Conversion Math:**
 *   Kiln Capacity: **5 yd³**
@@ -373,7 +376,7 @@ Puro.earth's minimum threshold for a project is **1,000 tCO₂e** of carbon remo
 
 *   Days to 1,000 tCO₂e = 1000 tCO₂e / 45.1 tCO₂e/day = **~22 production days**
 
-This means the system can exceed Puro.earth's minimum annual output requirement in just **over three weeks** of operation, schedulable year-round contingent on feedstock dryness.
+This means the system can exceed Puro.earth's minimum annual output requirement in just **over three weeks** of operation, schedulable year-round contingent on feedstock dryness and availability.
 
 **Step 4: Scalable Production Model (Per 1,000 odt Biomass)**
 To clearly link agroforestry production to biochar revenue, here is the scalable output from processing **1,000 oven-dry tons (odt) of biomass**:
@@ -395,26 +398,26 @@ This output demonstrates a highly scalable, verifiable production system that fo
 
 ### **3.3 Expanded Biochar Sales Strategy**
 
-While carbon credits provide the foundational revenue, biochar product sales represent a significant and growing profit center. Our strategy is designed to systematically capture higher margins by moving from bulk commodity to branded, value-added products, creating a powerful, **stacked revenue model**.
+While carbon credits provide the foundational revenue, biochar product sales represent a significant and growing profit center. This strategy is designed to systematically capture higher margins by moving from bulk commodity to branded, value-added products, creating a powerful, **stacked revenue model**. These revenues are in addition to the carbon credits from making the biochar.
 
 #### **Market Context & Certification**
 
 *   **Pricing & Volumes:** Biochar is lightweight and bulky, with **140–170 ft³ per tonne** (5.2–6.3 yd³/t). This makes transportation a key cost factor, favoring local and regional markets initially.
-*   **Regulatory Note:** In Canada, biochar sales as a soil amendment formally commence **after CFIA registration**, a process that can take over a year. However, sales can begin immediately in other jurisdictions or for non-agricultural uses (e.g., filtration, construction). Our production and MRV protocols are designed to meet OMRI and CFIA standards from the outset.
+*   **Regulatory Note:** In Canada, biochar sales as a soil amendment cannot legally commence until **after CFIA registration**, a process that can take over a year. However, sales can begin immediately in other jurisdictions or for non-agricultural uses (e.g., filtration, construction aggregate). Our production and MRV protocols are designed to meet OMRI and CFIA standards from the outset.
 
 #### **The Stacked Revenue Advantage**
 
-A key financial innovation of our model is the separation of carbon credit revenue from product sales revenue. **We are paid for the permanent carbon removal the moment the biochar is produced and verified, regardless of whether the physical biochar itself is ever sold.** This means:
-*   **Carbon Credit Revenue is guaranteed** upon certification (e.g., from Puro.earth).
-*   **Biochar Sales Revenue is pure upside.** Every tonne of biochar sold generates income *on top of* the carbon credits it has already yielded.
+A key financial innovation of our model is the separation of carbon credit revenue from product sales revenue. **We are paid for the permanent carbon removal when the biochar is produced, verified, and either sold for non-destructive uses or applied to the soil.** This means:
+*   **Carbon Credit Revenue is guaranteed** upon both certification (e.g., from Puro.earth) and end use disposal. This means we have to hold onto biochar until it is used or sold before getting issued the carbon credits.
+*   **Biochar Sales Revenue is pure upside.** Every tonne of biochar sold generates income *on top of* the carbon credits it has already yielded. Unsold biochar can simply be applied to the soil to get paid for it.
 
-This de-risks the business and allows for flexible sales strategies, from giving biochar away to build soil fertility to selling it at a premium for maximum profit.
+This de-risks the business and allows for flexible sales strategies, from giving biochar away to build soil fertility to selling it at a premium for maximum profit. We literally don't even have to sell the biochar in order to get paid, we can simply apply it to the soil ourselves. Selling it makes us a better profit, but not strictly necessary.
 
 #### **Phased Market Penetration**
 
 **Phase 1: Bulk Sales & Market Establishment (Year 2)**
 *   **Product:** Certified biochar in 1-tonne bulk bags or loose bulk delivery.
-*   **Target Customers:** Local farms, vineyards, landscapers, turf management companies, and compost facilities.
+*   **Target Customers:** Local farms, vineyards, landscapers, aggregate supply, turf management companies, and compost facilities.
 *   **Pricing:** Market-competitive pricing at **~$800/tonne** to encourage adoption and move volume.
 *   **Goal:** Establish the product, build regional reputation, and create a reliable baseline revenue stream.
 
@@ -429,10 +432,9 @@ Once bulk sales are steady and permitted by the CFIA, we invest in processing an
     *   **Branding:** Leverage the "Beyond Organic" and "Carbon Negative" story, with a focus on soil health and plant vitality.
 
 *   **Product Line 2: Industrial & Niche Applications**
-    *   **Construction:** As a lightweight aggregate replacement in biochar-concrete or insulation.
+    *   **Construction:** As a lightweight aggregate replacement in asphalt, concrete or insulation.
     *   **Filtration:** For stormwater management, aquaculture, or on-farm water treatment systems.
     *   **Animal Feed Additive:** As a toxin binder and gut health promotor for livestock (requires specific regulatory approval).
-    *   **Pricing:** Highly variable, but typically commands a significant premium over bulk agricultural biochar.
 
 #### **Financial Modelling & Strategic Impact**
 
@@ -461,8 +463,10 @@ To capture the full impact of our deep-rooted agroforestry system, we conduct so
     *   Bulk Density
     *   Moisture
     *   (Optional: pH and soil texture for context)
-*   **Ongoing Monitoring:** **Annual** resampling occurs at the same georeferenced locations. Periodic new random points are added to the dataset over time to improve statistical integrity and account for spatial variability.
+*   **Ongoing Monitoring:** **Annual** resampling occurs at the same georeferenced locations. Periodic new random points are added to the dataset over time to improve statistical integrity and account for spatial variability. Based on those samples, if enough carbon has been sequestered to justify the cost of a full MRV cycle, it would be done so we could be issued our credits.
 *   **Documentation & QA/QC:** The process is documented with core photos and soil-pit videos. All data is managed in a central digital repository with version control.
+
+Since we wouldn't get any credits issued until we can demonstrate that we have sequestered the carbon, there would be a lag between project start and when we would begin to see soil carbon revenues.
 
 ---
 
@@ -524,7 +528,7 @@ This section details the recurring, on-the-ground tasks that bring the Modern Dr
 **B. Spring Season (March to May): Activation, Promotion & Growth Initiation**
 *   **Workflow:** Biochar Production Campaign
     *   Intensive 12-week biochar production campaign using dried biomass.
-    *   3-person crew operating 8 kilns on a 12-hour/day, 3-day/week schedule.
+    *   3-person crew operating 8 kilns on a 12-hour/day, 3-day/week schedule. Additional crews could be added if necessary, with 3-day weeks allowing for two full crews without further equipment.
 *   **Workflow:** "Pick-Your-Own" Promotion & Education
     *   Launch the season's public harvest. Install signage, update websites, and host community events to guide foraging.
     *   Highlight early yields like haskaps, strawberries, and perennial greens to signal the start to the season.
@@ -545,7 +549,7 @@ This section details the recurring, on-the-ground tasks that bring the Modern Dr
     *   Spread cut material as mulch *over* the newly applied biochar.
 *   **Workflow:** Breeding Project Culling & Planting
     *   Select and cull plants based on performance (taste, vigor, yield).
-    *   Plant new seedballs from "champion" lines.
+    *   Plant new seedballs from best performers.
 *   **Workflow:** Continuous Maintenance
     *   Continue automated foliar feeding.
     *   Ongoing public harvest promotion for mid-summer fruits (raspberries, currants).
@@ -554,7 +558,6 @@ This section details the recurring, on-the-ground tasks that bring the Modern Dr
 *   **Workflow:** Late-Season Harvest & Community Engagement
     *   Promote harvest of late fruits (apples, pears, nuts).
 *   **Workflow:** Site Preparation & Input Brewing
-    *   Flail mow any remaining annuals.
     *   Brew and stockpile JLF, IMO, and other inputs for the next season.
     *   Prepare for end-of-season MRV soil sampling.
 *   **Workflow:** Breeding Project Seed Collection
@@ -578,7 +581,7 @@ This refined structure ensures biological effectiveness (pruning during active g
 
 #### **6.1 Revenue Model & Projections**
 
-This financial model for a 100-Hectare flagship hub is based on the operational outputs and assumptions detailed in the Agroforestry and Biochar sections. It presents a conservative estimate of the revenue potential once the system reaches full productivity (Year 3+).
+This financial model for a 100-Hectare flagship hub is based on the operational outputs and assumptions detailed in the Agroforestry and Biochar sections. It presents a conservative estimate of the revenue potential once the system matures enough for sustainable productivity (Year 3-5+). Soil carbon projections are very low due to a lack of research on soil depths below 30cm.
 
 **Core Financial Assumptions:**
 
@@ -635,20 +638,20 @@ This projection confirms the viability of the Modern Druid model, demonstrating 
 #### **6.2 Strategic Financial Notes & De-risking Factors**
 
 *   **Scalability & Replication:** The 100-hectare model is a flagship template. Once operational and certified, subsequent farms can be established on any available land parcel, leveraging the existing certification and knowledge base for faster rollout at lower cost.
-*   **Market Exposure & Upside Potential:** Revenue is tied to the international voluntary carbon market. Our conservative model uses current prices, but the project has significant exposure to potential price appreciation as climate policy and corporate demand for durable CDR intensify.
+*   **Market Exposure & Upside Potential:** Revenue is tied to the international voluntary carbon market. Our conservative model uses current prices, but the project has significant exposure to potential price appreciation as climate policy and corporate demand for durable CDR intensify as the world burns. If we can produce more food than the credits cost, we can potentially increase the demand for credits to prevent the price from dropping.
 *   **Revenue Stack De-risking:** The multi-stream revenue model ensures financial resilience. The core operation remains viable on carbon credits alone, with product sales and potential future credit price increases providing substantial upside.
 *   **Strategic Biomass Sourcing for Hyper-Scaling:** A key de-risking and scaling strategy involves establishing hubs in regions with consistent, surplus biomass waste streams.
     *   **Partnerships with Forestry & Milling:** A single hub can partner with local forestry operations to utilize slash piles from clearcuts or accept waste (e.g., sawdust, bark, off-cuts) from mills. This provides a massive, low-cost feedstock source that can dramatically increase biochar production without requiring more land.
     *   **Operational Impact:** This "hub-and-spoke" model for feedstock allows a project to scale its carbon removal output and revenue by utilizing existing kiln infrastructure beyond its base capacity, requiring only the marginal cost of additional labor and transportation.
     *   **Soil Amendment for Other Waste:** While consistent, dry, woody biomass is ideal for kilns, other organic waste streams (e.g., arborist chips, agricultural residues) can be composted and applied directly to the soils, further enhancing fertility and soil carbon sequestration at minimal cost.
 
-This strategic approach positions Modern Druid not just as a farm, but as a regional resource for waste valorization and carbon-negative industrial symbiosis.
+This approach positions Modern Druid not just as a farm, but as a regional resource for ecologically beneficial industrial waste disposal.
 
 ---
 
 ### **6.3 Startup Capital Requirements (100-Hectare Flagship Hub)**
 
-This table outlines the estimated capital expenditure (CapEx) required to establish a fully functional 100-hectare hub, including land, infrastructure, equipment, and a contingency for unforeseen costs.
+This table outlines the estimated capital expenditure (CapEx) required to establish a fully functional 100-hectare hub, including land, infrastructure, equipment, and a contingency for unforeseen costs. Although having never started a farm, carbon removal project, or any company for that matter, I could easily have missed a few things.
 
 | Category | Details & Items | Estimated Cost (CAD) |
 | :--- | :--- | :--- |
@@ -686,7 +689,7 @@ While the flagship model is based on self-produced biomass, the most significant
 *   **Scalability without Land:** This model allows a single hub to scale its carbon removal output by **200-500% or more** without acquiring more land, requiring only the marginal cost of additional labor, transportation, and possibly a second kiln shift.
 *   **Profitability Catalyst:** Access to low-cost or free feedstock dramatically improves margins on both carbon credits and biochar sales, accelerating the payback period and funding more rapid replication.
 
-**Conclusion:** This strategic approach positions Modern Druid not just as a farm, but as a essential piece of regional industrial ecology—a profitable solution for waste valorization and large-scale carbon drawdown.
+**Conclusion:** This strategic approach positions Modern Druid not just as a farm, but as a essential piece of regional industrial ecology—a profitable and ecologically friendly solution for waste disposal and large-scale carbon drawdown.
 
 ---
 
@@ -705,18 +708,18 @@ The company operates under a constitutional profit-sharing model that is applied
 
 **Clarifications:**
 *   **Employee Pool (50%):** This is a non-negotiable commitment to equitable pay. A strict maximum wage ratio (e.g., 2:1 from newest hire to farm manager) ensures shared prosperity and high morale.
-*   **Local Development Fund (30%):** This covers all non-labour costs for the *existing* farm: MRV, inputs, equipment maintenance, loan payments, and **the purchase of new land** once the current site is fully planted and irrigated.
-*   **Local Replication Fund (10%):** This is the seed capital for the farm's own "spawn." It is used to launch new satellite farms in nearby communities, led by promoted employees. This fund can be used for land down payments, initial seedball packages, and shared use of the parent hub's equipment.
-*   **MDC Royalty (10%):** This funds the global parent company, Modern Druid Central, for its role in R&D, maintaining the open-source knowledge hub, managing carbon market relationships, and most importantly, **installing the first flagship hub in new countries and climate zones.**
+*   **Local Development Fund (30%):** This covers all non-labour costs for the *existing* farm: MRV, inputs, equipment maintenance, loan payments, and **the purchase of new land** once the current site is fully planted and irrigated. Sustainable water harvesting development needs to be part of this budget, but so does buying new land and expanding the farm.
+*   **Local Replication Fund (10%):** This is the seed capital for the farm's own "spawn." It is used to launch new satellite farms in nearby communities, led by promoted employees. This fund can be used for land down payments, initial seedball packages, shared use of the parent hub's equipment, etc. The point is to start new farms that can then grow into hubs of their own, so employees have a path to manage their own farms, to be replaced by new trainees. This lets us reuse costly equipment that otherwise only gets used during initial planting. This is how you get an exponential growth curve, every site needs to self-replicate.
+*   **MDC Royalty (10%):** This funds the global parent company, Modern Druid Central, for its role in R&D, maintaining the open-source knowledge hub, managing carbon market relationships, and most importantly, to expand globally by **installing new regional hubs in new countries and climate zones.**
 
 #### **The Replication Engine: How Every Farm Spawns New Farms**
 
 **At the Local Level (Franchise Model):**
-1.  A profitable "Hub" uses its **Local Replication Fund (10%)** to acquire a new parcel.
+1.  A profitable "Hub" uses its **Local Replication Fund (10%)** to acquire a new parcel, big enough to support at least 3 employees.
 2.  A top employee is promoted to manage the new "Spoke" farm.
 3.  The Hub provides initial equipment sharing, training, and seedballs, drastically reducing the Spoke's startup costs.
-4.  Once the Spoke is profitable, it operates independently under the same constitutional model and begins its own replication cycle.
-5.  **Land Lifecycle:** Each plot of land is managed for a 20-year project period. After this, the land and its improved fertility are transferred to the employees who worked it, prorated based on their tenure. The company then focuses its **Local Development Fund** on new land. If no land is available, the local franchise completes its lifecycle and concludes, leaving behind a legacy of prosperity and restored land.
+4.  Once the Spoke is profitable, it operates independently under the same constitutional model and begins its own replication cycle and the parent farm starts saving up to start another new farm until there's no more land or people to expand with.
+5.  **Land Lifecycle:** Each plot of land is managed for a 20-year project period. After this, the land and its improved fertility are transferred to the employees who worked it, prorated based on their tenure and earnings. The company then focuses its **Local Development Fund** on new land. If no land is available, the local franchise completes its lifecycle and concludes, leaving behind a legacy of prosperity and restored land.
 
 **At the Global Level (Modern Druid Central):**
 1.  The **MDC Royalty (10%)** from all profitable farms worldwide is pooled.
@@ -725,20 +728,20 @@ The company operates under a constitutional profit-sharing model that is applied
 
 #### **The Ultimate Goal: A Planetary Network**
 
-This two-tiered replication model is designed for exponential growth while preventing colonial land acquisition. We are not in the business of perpetual land ownership. We are in the business of **initiating and funding a global transition.**
+This two-tiered replication model is designed for exponential growth while preventing colonial land acquisition. We would not be in the business of perpetual land ownership. We would be in the business of **initiating a transition from an expensive, exploitative and toxic agricultural system to a free and healthy distributed food production system alongside meaningful carbon drawdown.** Train a generation of stewards that improve the life and fertility of their lands instead of degrading them.
 
 *   **We enter a community** to sequester carbon and build prosperity.
 *   **We empower local crews** who become the owners and experts.
 *   **We replicate until the region is saturated** with resilient, community-owned food forests and carbon-removal hubs.
 *   **We leave,** having transferred the land, knowledge, and wealth, and move our catalytic investment to the next region in need.
 
-This is the path to a decentralized, resilient, and owner-operated global network for carbon drawdown and food security—a true alternative to the extractive status quo.
+This is the path to a decentralized, resilient, and owner-operated global network for carbon drawdown and food security—a true alternative to the extractive status quo. The project ends when it is no longer needed, this is not just an idea for how to make a profit, this is a mission with a start (today) and an end (a safely managed atmosphere and climate). Until then, we have work to do.
 
 ---
 
 ### **7. UN Sustainable Development Goals (SDG) Impacts**
 
-The Modern Druid Project is not merely a carbon removal solution; it is a holistic sustainable development platform. Its architecture is uniquely positioned to deliver profound, measurable progress against a majority of the UN's Sustainable Development Goals from its inception, with a clear pathway to achieving all 17 through targeted R&D.
+The Modern Druid Project is not merely a carbon removal solution; it is a holistic sustainable development platform. Its architecture is uniquely positioned to deliver profound, measurable progress against a majority of the UN's Sustainable Development Goals from its inception, with a clear pathway to achieving all 17 through targeted R&D. All by not being greedy, by simply letting people pick their own damn food, we open up all these SDGs, which are very much a part of the marketability and price of our carbon credits.
 
 #### **7.1 Direct SDG Impacts from Launch**
 
@@ -769,7 +772,7 @@ The remaining SDGs are targeted for achievement through the project's dedicated 
 | :--- | :--- | :--- |
 | **4** | **Quality Education** | **Future Development:** The open-source "Modern Druid Academy" will provide free, accessible training in carbon farming, agroforestry, and natural farming, creating a global knowledge commons. |
 | **7** | **Affordable Clean Energy** | **R&D Pathway:** Investigate syngas capture from advanced pyrolysis kilns for on-site energy generation, moving the project towards energy independence and clean power production. |
-| **14** | **Life Below Water** | **R&D Pathway:** Expand into **kelp farming and marine permaculture** for blue carbon sequestration. Use marine biomass for biochar, reducing pressure on terrestrial resources and restoring aquatic ecosystems. |
+| **14** | **Life Below Water** | **R&D Pathway:** Expand into **kelp farming and marine permaculture** for blue carbon sequestration. Use marine biomass for biochar, reducing pressure on terrestrial resources and removing aquatic carbon dioxide. |
 | **16** | **Peace & Justice** | **Scale-Dependent Collaboration:** At scale, partner with transparency NGOs to audit our ethical governance and land-transfer model. Demonstrate a just transition funded by polluters. |
 | **17** | **Partnerships** | **Inherent to the Model:** Achieved through **open-source replication** and global partnership with governments, NGOs, and communities to deploy the "Hub-in-a-Box" model worldwide. |
 
@@ -779,7 +782,7 @@ The remaining SDGs are targeted for achievement through the project's dedicated 
 
 ### **8. Future Growth (Research & Development)**
 
-Modern Druid Central (MDC) will drive a continuous innovation pipeline to increase carbon drawdown rates, expand into new ecosystems, improve efficiency, and unlock new revenue streams. This R&D is funded by the 10% MDC royalty and is focused on solving key bottlenecks to planetary-scale deployment.
+Modern Druid Central (MDC) would drive a continuous innovation pipeline to increase carbon drawdown rates, expand into new ecosystems, improve efficiency, and unlock new revenue streams. This R&D is funded by the 10% MDC royalty and is focused on solving key bottlenecks to planetary-scale deployment.
 
 ---
 
@@ -839,7 +842,9 @@ The Modern Druid Project is a blueprint. Its ultimate objective—to rebalance t
 
 Today, industrial agriculture degrades the soil and environments with pesticides and fertilizers. They've nearly wiped out the bees and other insects we rely on for pollination. Monocrop agriculture is extremely susceptible to complete failure in the face of extremes of weather. The old ways have failed. 
 
-Time to train a generation to produce food by tending the land instead of degrading it. Making people pay for the privilege of eating doesn't have to be a business model anymore. Time for a changing of the guard. Compete with free or go out of business. 
+Time to train a generation to produce food by tending the land instead of degrading it. Making people pay for the privilege of eating doesn't have to be a business model anymore. Time for a changing of the guard. Compete with free or go out of business.
+
+And if we can save communities more on food than we cost in carbon credits, we become a very easy sell to communities worldwide. Providing carbon credit demand to meet our supply, to keep prices from dropping to unsustainably low levels. And, by starting at the bottom, we can do this without the need to coordinate or even consult with global governments or their fossil fuel sponsors. We could start from the local community scale and go up from there instead of going from the top down, building momentumas we go. Meeting that goal would position us as not just as the cheapest solution, but one that solves several crises simultaneaously alongside the climate crisis, and cheaper than paying for food like they do today. A path to global deployment and global repair with or without ethical or effective political leadership. By utilizing voluntary markets funded by private citizens and corporations.
 
 ---
 
@@ -858,8 +863,8 @@ The immediate and singular focus is the successful establishment and operation o
 With a proven model and a well-understood food production curve, the growth engines are activated.
 
 *   **The "Hub-in-a-Box" Service:** Modern Druid Central packages the entire operational model into a deployable, turnkey service for clients (governments, impact investors) with the capital and will to act. The premium charged for this service creates a cross-subsidization fund.
-*   **Strategic Seeding of a Global Network:** The profits from paid "Hub-in-a-Box" installations are used to **strategically seed flagship hubs in underserved regions and every major climate zone.** The goal is to create a global network of living seed banks and adaptation research centers.
-*   **Living Adaptation & Seed Sharing:** This network becomes a resilient, decentralized R&D platform. Hubs will continuously adapt the plant palette to their local climate. **Active trading of seedballs between adjacent climate zones will be encouraged**, accelerating the natural selection and spread of resilient, high-performing varieties for a changing world.
+*   **Strategic Seeding of a Global Network:** The profits from paid "Hub-in-a-Box" installations are used to **strategically seed flagship hubs in underserved regions and in every major climate zone.** The goal is to create a global network of living seed banks and adaptation research centers while providing local food security and carbon drawdown.
+*   **Living Adaptation & Seed Sharing:** This network becomes a resilient, decentralized R&D platform. Hubs will continuously adapt the plant palette to their local climates. **Active trading of seedballs between adjacent climate zones will be encouraged**, accelerating the natural selection and spread of resilient, high-performing varieties for a changing world.
 
 ---
 
@@ -867,9 +872,9 @@ With a proven model and a well-understood food production curve, the growth engi
 
 With a refined, adaptable, and proven model, the focus shifts to the global transition of agriculture.
 
-*   **Driving the Agricultural Transition:** The combined force of the exponential local replication and the global "Hub-in-a-Box" network creates market and social pressure. The model demonstrates it can grow abundant and healthy food without toxic inputs, providing a viable, desirable alternative that can systematically replace chemical-intensive agriculture.
+*   **Driving the Agricultural Transition:** The combined force of the exponential local replication and the global "Hub-in-a-Box" network creates market and social pressure. The model demonstrates it can grow free and abundant healthy food without toxic inputs, providing a viable, desirable alternative that can systematically replace chemical-intensive agriculture.
 *   **Beyond Prime Farmland:** Validated R&D technologies like **Atmospheric Water Generation (AWG)** are deployed to rehabilitate degraded and arid lands, adding billions of hectares of productive land without competing with existing food production.
-*   **The Ocean Frontier:** The "Blue Druid" marine system moves to pilot deployment, providing a new source of food and biomass while sequestering carbon in the ocean.
+*   **The Ocean Frontier:** The "Blue Druid" marine system moves to pilot deployment, providing a new source of food and biomass while sequestering carbon from the ocean.
 
 ---
 
@@ -889,30 +894,37 @@ We are not just building carbon sinks; we are building the next food system. The
 
 ### **10. Funding Pathways: Building the First Hub**
 
-The Modern Druid Project is ready for activation. Our primary goal is to establish the first 100-hectare flagship hub to validate the model and create the open-source "Hub-in-a-Box" package. We are prioritizing the following funding pathways, which best align with our mission to disseminate this solution freely and ethically worldwide.
+The Modern Druid Project is ready for activation. The primary goal is to establish the first 100-hectare flagship hub to validate the model and create the open-source "Hub-in-a-Box" package. We would be prioritizing the following funding pathways, which best align with our mission to disseminate this solution freely and ethically worldwide.
 
 #### **Primary Pathway: The Open-Source Pilot (Philanthropic Grant)**
-*   **Model:** Secure a major grant from a forward-thinking philanthropic foundation to fund the flagship hub as a 5-year open-source pilot and public research project.
+*   **Model:** Secure a major grant from a forward-thinking philanthropic foundation, investor or government to fund the flagship hub as a 5-year open-source pilot and public research project. Alternately, something like KickStarter if the idea caught on, start without obligation to the rich.
 *   **Ask:** **$3.5 Million CAD** to fully fund land, infrastructure, and operations, with deliverables focused on creating a publicly available "Replication Toolkit."
 *   **Why This is the Ideal Path:** This model is the purest expression of our mission. It eliminates commercial pressure, allows us to focus entirely on optimization and rigorous data collection, and ensures all findings are freely available to accelerate global adoption. A successful grant-funded pilot would provide the undeniable proof-of-concept to fuel all subsequent pathways.
 
 #### **Secondary Pathway: The Solutions Provider (Strategic Partner Sale)**
 *   **Model:** We partner with a pioneering government, corporation, or consortium to design and build a turnkey "Carbon Removal & Food Security Hub" in their region.
 *   **Ask:** **$3.5 Million CAD** to cover the complete capital and startup costs for the first hub.
-*   **Why This is a Strong Alternative:** This pathway treats the blueprint as a high-value product. It immediately establishes a revenue model for Modern Druid Central, funded by those with the capital and will to act first. The premium from this initial "Hub-in-a-Box" sale would be directly reinvested once the system is proven to seed hubs in underserved regions, cross-subsidizing global equity. This is the operational model we intend to pursue once the system is proven.
+*   **Why This is a Strong Alternative:** This pathway treats the blueprint as a high-value product. It immediately establishes a revenue model for Modern Druid Central, funded by those with the capital and will to act first. The premium from this initial "Hub-in-a-Box" sale would be directly reinvested once the system is proven to seed hubs in underserved regions, cross-subsidizing global equity. This is the operational model we would intend to pursue once the system is proven.
 
 #### **Tertiary Pathway: The Mission-Locked Venture (Founder-Controlled Equity)**
 *   **Model:** Raise capital from a small circle of deeply mission-aligned impact investors in exchange for a minority equity stake in a specially structured company.
 *   **Ask:** **$3.5 Million CAD** for a non-controlling equity share.
-*   **Important Note:** This is a viable option only under the condition that the corporate charter legally locks in the core ethical principles—the 50/30/10/10 profit-sharing, equitable wages, and land-transfer model—making them unchangeable by any future board or majority shareholder. This ensures the company's mission is protected in perpetuity, with the founder retaining controlling interest to guarantee its execution.
+*   **Important Note:** This is a viable option only under the condition that the corporate charter legally locks in the core ethical principles—the 50/30/10/10 profit-sharing, equitable wages, and land-transfer model—making them unchangeable by any future board or majority shareholder. This ensures the company's mission is protected in perpetuity, with the founder retaining controlling interest to guarantee its execution. At the end of the day, who owns it is less important than starting.
 
 While other funding structures are possible, these three pathways represent our strategic focus. We believe they offer the best balance of mission integrity, scalability, and practical execution to launch this critical work.
 
-**The climate crisis will not wait. Let's build the proof.**
+---
 
-If interested in trying this and you have the resources or supplementary skills, by all means, please contact:<br>
+### **11. Conclusion**
+
+So there's my idea on how to solve this. Some form of Solar Radiation Management to cool us off enough to stop the permafrost melt and this project to restore the atmosphere to its last known stable point, at pre-industrial levels. And provide free high quality food while we're at it, driving extractive agriculture out of business. And provide equitable wages worldwide. And restore soil fertility, turning the world's soils into a modern analog of Terra Preta. And make our ecosystems more resilient with improved water retention and drainage. And reduce indirect emissions from transporting food from all over the world by growing it locally. And make the polluters pay for it.
+
+All by gardening like a boss, having fancy bonfires, and letting people pick their own damn food.
+
+If you have made it this far and are interested in trying this and you have the resources or supplementary skills, by all means, please contact:<br>
+
 Robert McCarthy<br>
-The Modern Druid Project<br>
+Re: Modern Druid Project<br>
 robert.mccarthy.ca@member.mensa.org
 
 I'd be more than happy to try and make gardening like a boss and having fancy bonfires a career option.
@@ -925,15 +937,17 @@ TODO:
 
 
 
-Part 10: build team
+Part 11: 
+build team
 highlight what skills are needed
 which skills are missing?
 what skills do i bring?
 - Software Developer - I design solutions to solve ridiculous problems efficiently, correctly, and scalably
 how many people do we need?
+- who to hire
+- where to hire (mensa)
 how much money will this actually take?
 
-speed up the natural soil carbon cycle and interrupt it on the way back up to the atmosphere, locking it as biochar
 
 add citations and references to the appropriate papers
 

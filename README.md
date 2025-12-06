@@ -74,11 +74,12 @@ At our current committed warming, key planetary tipping points are being activat
 *   **The Permafrost Carbon Feedback:**
     *   **The Stock:** Arctic and boreal permafrost hold a colossal **~1,460–1,600 billion tonnes of organic carbon**—nearly twice the amount currently in the atmosphere.
     *   **The Thaw:** Recent studies show that **~20% of the permafrost zone is already vulnerable to rapid thaw.** This process is not gradual; it creates thermokarst lakes and slumps that expose deep, ancient carbon to decomposition.
-    *   **The Release:** This carbon is being released as CO₂ and, critically, as **methane (CH₄)**. Over a 20-year period, methane is **~84 times more potent than CO₂ at trapping heat** (GWP-20). While it decays in the atmosphere over decades, its impact during that period creates a powerful heating pulse. While in the atmosphere it is about 120 times as powerful as carbon dioxide.
+    *   **The Release:** This carbon is being released as CO₂ and, critically, as **methane (CH₄)**. Over a 20-year period, methane is **~84 times more potent than CO₂ at trapping heat** (GWP-20). While it decays in the atmosphere over decades, its impact during that period creates a powerful heating pulse. While in the atmosphere it is about 120 times as powerful as carbon dioxide, but slowly decays into carbon dioxide over decades and centuries.
     *   **The Scale of the Threat:** To understand the magnitude of this feedback, consider the warming impact of released permafrost carbon, assuming a conservative mix of 60% CO₂ and 40% methane (by carbon weight) released over a century from decomposition:
         *   A **1% release** (~16 Gt C) would have a 20-year warming effect equivalent to **~250 billion tonnes of CO₂**, adding approximately **~0.15°C** to global temperatures.
         *   A **10% release** (~160 Gt C) would be equivalent to **~2,500 billion tonnes of CO₂**, adding **~1.5°C** of warming, effectively doubling our current committed warming, enough to trigger the warming of the rest of it.
         *   A full release is a "Hothouse Earth" scenario of 10+ C, which is comically incompatible with human civilization, something which has happened only a few times in Earth's history, with major extinction events being involved every time.
+        *   Zombie fires, those wildfires that have overwintered and are still burning in the spring do so because the peat itself, the permafrost itself, those ancient carbon stores are literally on fire. We have ignition.
 
 *   **The Clathrate (Methane Hydrate) Instability:**
     *   **The Stock:** Methane hydrates on ocean shelves represent an even larger, more unstable reservoir, holding an estimated **~500 - 2,000 billion tonnes of carbon**.
@@ -127,18 +128,18 @@ In essence, the carbon market provides the capital to heal the planet. Our innov
 
 #### **1.3 The Paradigm Shift: Solving Multiple Crises by Ending Scarcity Economics**
 
-The financial model of carbon credits is the engine, but the soul of the Modern Druid Project is a fundamental paradigm shift: **we can solve more problems by being socialists than by being sociopaths.** By not being greedy, we open up a host of other options and possibilities.
+The financial model of carbon credits is the engine, but the soul of the Modern Druid Project is a fundamental paradigm shift: **we can solve more problems by being socialists than by being sociopaths.** By not being greedy, we open up a host of other options and possibilities. Healthy food shouldn't be a privelege for the wealthy, just because we could make more money by making it so.
 
 The traditional agricultural model is extractive and exploitative. It seeks to maximize profit from every hectare, often at the cost of ecological health and community well-being. Pesticides, herbicides, fungicides all damage our soils and ecosystems. Synthetic fertilizers poison waterways. And it goes to the highest bidder, often far from where it is grown, incurring additional emissions from transportation. Let's see them compete with free, local, fresh, organic and biocide free.
 
 **The "Pick-Your-Own" Principle as a Catalyst**
-The simple act of making food free for the picking is a radical intervention. Healthy food shouldn't be a privelege for the wealthy, just because we could make more money by making it so. By choosing to stop at carbon revenue—by forgoing the profit from food sales—we unlock a cascade of co-benefits that transform the project from a carbon farm into an engine for sustainable development. It immediately and powerfully addresses the root of numerous social and environmental crises, allowing the project to deliver on a stunning number of the UN Sustainable Development Goals from its very inception:
+The simple act of making food free for the picking is a radical intervention. By choosing to stop at carbon revenue—by forgoing the profit from food sales—we unlock a cascade of co-benefits that transform the project from a carbon farm into an engine for sustainable development. It immediately and powerfully addresses the root of numerous social and environmental crises, allowing the project to deliver on a stunning number of the UN Sustainable Development Goals from its very inception:
 
 *   **SDG 1: No Poverty & SDG 2: Zero Hunger:** We directly cut the cost of living and ensure food security by providing a permanent, free source of fresh, nutrient-dense food.
 *   **SDG 3: Good Health and Well-Being:** A diet of chemical-free food from rich soils provides superior nutrition, combating diet-related illnesses.
 *   **SDG 5: Gender Equality & SDG 10: Reduced Inequality:** Our constitutional governance mandates equitable pay scales globally, funded by international carbon markets. This ensures fairness and shared prosperity, regardless of location or gender.
 *   **SDG 6: Clean Water and Sanitation:** With no toxic inputs and biochar's power to filter and retain nutrients, water leaving our sites is cleaner than when it arrived.
-*   **SDG 8: Decent Work and Economic Growth:** We would create dignified, well-paid green jobs and a path to land ownership, fostering local economic resilience.
+*   **SDG 8: Decent Work and Economic Growth:** Create dignified, well-paid green jobs and a path to land ownership, fostering local economic resilience.
 *   **SDG 9: Industry, Innovation and Infrastructure:** We are building a new, decentralized, climate-positive infrastructure for land management and food security.
 *   **SDG 11: Sustainable Cities and Communities:** These farms become green public commons, buffering communities against supply chain shocks and climate disasters.
 *   **SDG 12: Responsible Consumption and Production:** The system is inherently circular, recycling biomass on-site and producing food hyper-locally.
@@ -187,7 +188,7 @@ The design is based on a north-south oriented, repeating 16-meter block to optim
 *   **Path/Herb Strip (3 m):** A public access path doubles as a mulch production zone, planted with high-biomass, mowable perennials (e.g., Comfrey, Chicory, Jerusalem Artichoke).
 *   **Coppice Alley (8 m):** The primary biochar feedstock engine. Densely planted with high-yielding coppice species (e.g., Willow, Black Locust, Hybrid Poplar) on a 2 year harvest rotation offset from the hard pruning schedules for the tree rows.
 *   **Path/Herb Strip (3 m):** A mirror of the first, completing the pattern.
-*   **Wildlife Corridors:** Every 500m, strips of lightly managed vegetation, grown from seedballs with every species we have available densely overplanted, added biochar and irrigated. Any selection process and pruning would be left to nature, these would not be pruned or mowed in any way. All that would happen in these strips is added seedballs when we have new species to add, irrigated when it's dry, and biochar added periodically. This would be to provide for habitat and passage for wildlife and pollinators as well as providing a living seed bank for when existing ecosystems with just native species collapse as conditions change.
+*   **Wildlife Corridors:** Every 500m, strips of lightly managed vegetation, grown from seedballs with every species we have available densely overplanted, added biochar and irrigated. Any selection process and pruning would be left to nature, these would not be pruned or mowed in any way. All that would happen in these strips is added seedballs when we have new species to add, irrigated when it's dry, and biochar added periodically. This would be to provide for habitat and passage for wildlife and pollinators as well as providing a living seed bank for when existing ecosystems with just native species collapse as conditions change while still protecting from drought and improving the soil with biochar.
 
 #### **Phased Implementation**
 
@@ -398,7 +399,7 @@ This output demonstrates a highly scalable, verifiable production system that fo
 
 ### **3.3 Expanded Biochar Sales Strategy**
 
-While carbon credits provide the foundational revenue, biochar product sales represent a significant and growing profit center. This strategy is designed to systematically capture higher margins by moving from bulk commodity to branded, value-added products, creating a powerful, **stacked revenue model**. These revenues are in addition to the carbon credits from making the biochar.
+We are paid for the permanent carbon removal the moment the biochar is produced and verified. Standards like Puro.earth require tracking to ensure the biochar is applied to soil or used in another durable product (not combusted), but credit issuance is not contingent on a sale. This means carbon credit revenue is received promptly, while biochar sales represent pure, additional profit.
 
 #### **Market Context & Certification**
 
@@ -631,7 +632,7 @@ The $75/tCO₂e price used in our model is a conservative baseline for a high-qu
 
 **Our Project's Position:** With a verified **12 out of 17 SDG alignment from launch**, The Modern Druid Project is positioned in the **"Premium" tier**. While we conservatively model $75/tCO₂e, achieving a price of **$100/tCO₂e** is a realistic near-term target, which would add **$12,500** ($25/tCO₂e * 500 tCO₂e) to our annual revenue. A project with this level of SDG integration is exceptionally rare, giving our soil credits a unique and defensible market advantage.
 
-This projection confirms the viability of the Modern Druid model, demonstrating its potential to generate substantial revenue from planetary repair.
+NOTE ON PRICING & FINANCIAL SENSITIVITY: These projections use a forward-looking biochar credit price of ~$200 CAD/tCO₂e. Current spot prices are variable and often lower. A core part of the Phase 1 proof-of-concept will be to validate these financial assumptions. The model's robustness lies in its stacked revenue; the project remains viable at significantly lower credit prices, with product sales and operational efficiency providing critical buffers. Detailed sensitivity analysis is a priority for the first business plan.
 
 ---
 
@@ -719,7 +720,7 @@ The company operates under a constitutional profit-sharing model that is applied
 2.  A top employee is promoted to manage the new "Spoke" farm.
 3.  The Hub provides initial equipment sharing, training, and seedballs, drastically reducing the Spoke's startup costs.
 4.  Once the Spoke is profitable, it operates independently under the same constitutional model and begins its own replication cycle and the parent farm starts saving up to start another new farm until there's no more land or people to expand with.
-5.  **Land Lifecycle:** Each plot of land is managed for a 20-year project period. After this, the land and its improved fertility are transferred to the employees who worked it, prorated based on their tenure and earnings. The company then focuses its **Local Development Fund** on new land. If no land is available, the local franchise completes its lifecycle and concludes, leaving behind a legacy of prosperity and restored land.
+5.  **Land Lifecycle:** Each plot of land is managed for a 20-year project period. After this, the land and its improved fertility are transferred (given or sold at original cost) to the employees who worked it, prorated based on their tenure and earnings. So managing the project wouldn't automatically earn you a farm, accumulated wages earned on the project would. The company then focuses its **Local Development Fund** on new land. If no land is available, the local franchise completes its lifecycle and concludes, leaving behind a legacy of prosperity and restored land.
 
 **At the Global Level (Modern Druid Central):**
 1.  The **MDC Royalty (10%)** from all profitable farms worldwide is pooled.
@@ -897,7 +898,7 @@ We are not just building carbon sinks; we are building the next food system. The
 The Modern Druid Project is ready for activation. The primary goal is to establish the first 100-hectare flagship hub to validate the model and create the open-source "Hub-in-a-Box" package. We would be prioritizing the following funding pathways, which best align with our mission to disseminate this solution freely and ethically worldwide.
 
 #### **Primary Pathway: The Open-Source Pilot (Philanthropic Grant)**
-*   **Model:** Secure a major grant from a forward-thinking philanthropic foundation, investor or government to fund the flagship hub as a 5-year open-source pilot and public research project. Alternately, something like KickStarter if the idea caught on, start without obligation to the rich.
+*   **Model:** Secure a major grant from a forward-thinking philanthropic foundation, investor or government to fund the flagship hub as a 5-year open-source pilot and public research project. Alternately, broad-based public funding through a platform like KickStarter could demonstrate grassroots demand and keep the project accountable to the public mission from day one.
 *   **Ask:** **$3.5 Million CAD** to fully fund land, infrastructure, and operations, with deliverables focused on creating a publicly available "Replication Toolkit."
 *   **Why This is the Ideal Path:** This model is the purest expression of our mission. It eliminates commercial pressure, allows us to focus entirely on optimization and rigorous data collection, and ensures all findings are freely available to accelerate global adoption. A successful grant-funded pilot would provide the undeniable proof-of-concept to fuel all subsequent pathways.
 
@@ -921,33 +922,14 @@ So there's my idea on how to solve this. Some form of Solar Radiation Management
 
 All by gardening like a boss, having fancy bonfires, and letting people pick their own damn food.
 
+At this point, this is just an idea, no company, nothing. If I could do it, if funding was found, I suppose my preferred choice would be to fill a few key skilled positions and thereafter try to find the most diverse and intelligent workforce possible, get every industry's problem solving patterns at work on the project, optimize the process with a diverse set of problem solvers. As for myself, I'm a former software developer, trained in solving ridiculously complex problems in a correct, efficient, elegant, and scalable manner and a gardener, so no special farming or agroforestry skills, just a nerd trying to dare to solve the problem.
+
+As for other key skills, someone with experience with agroforestry, tractors, carbon markets, an engineer for the biochar portion and someone to help with all the administrative nonsense involved in running a company. After that, just give me the smartest people who want to do the work. I'm biased admittedly as a member, but reaching out through Mensa would be my first preference to find initial talent outside that core knowledge set. A diverse selection of some of the brightest minds to look at a ridiculously important problem and improve the solution, minds that are strong enough and arrogant enough to dare to solve the problem, and maybe even succeed.
+
 If you have made it this far and are interested in trying this and you have the resources or supplementary skills, by all means, please contact:<br>
 
 Robert McCarthy<br>
 Re: Modern Druid Project<br>
 robert.mccarthy.ca@member.mensa.org
 
-I'd be more than happy to try and make gardening like a boss and having fancy bonfires a career option.
-
----
-
-
-
-TODO:
-
-
-
-Part 11: 
-build team
-highlight what skills are needed
-which skills are missing?
-what skills do i bring?
-- Software Developer - I design solutions to solve ridiculous problems efficiently, correctly, and scalably
-how many people do we need?
-- who to hire
-- where to hire (mensa)
-how much money will this actually take?
-
-
-add citations and references to the appropriate papers
-
+I'd be more than happy to try and make gardening like a boss and having fancy bonfires a legitimate career option. It's a long shot, a lot of things need to line up for it to work. But, unless I'm mistaken, it's an actual shot. It has a chance of actually working, with or without political leadership.

@@ -929,7 +929,7 @@ True gigatonne scale means a coordinated global pivot across four fronts. Each b
 
 4. **Activate oceans** for food + carbon.  
    Global ocean surface: ~361 million km²; suitable for kelp/marine permaculture: 10–20 million km² (coastal/offshore).  
-   "Blue Druid" deploys floating kelp farms + ocean ERW (basalt dust dispersal) + marine biochar (pyrolysed seaweed). Harvest for food, feed, and biochar while sequestering dissolved CO₂.  
+   Deploy floating kelp farms + ocean ERW (basalt dust dispersal) + marine biochar (pyrolysed seaweed). Harvest for food, feed, and biochar while sequestering dissolved CO₂.  
    Potential: 1–5 Gt CO₂/yr (blue carbon + ocean alkalinity enhancement).  
    Yields: 50–100 t kelp/ha/yr (equiv. food + biomass).  
 
@@ -940,26 +940,42 @@ We are building the food system that fixes the climate. Expansion rate is capped
 
 ---
 
-### **11. Funding Pathways: Building the First Hub**
+### **11. Funding Pathways: Building the First Hub**  
+The Modern Druid Project is ready to pilot. The immediate priority is the first 100-hectare Canadian flagship hub — the living proof that permanent carbon removal, free food abundance, and equitable wealth creation can coexist at scale.
 
-The Modern Druid Project is ready for activation. The primary goal is to establish the first 100-hectare flagship hub to validate the model and create the open-source "Hub-in-a-Box" package. We would be prioritizing the following funding pathways, which best align with our mission to disseminate this solution freely and ethically worldwide.
+We need **$4 million CAD** (updated Dec 2025 estimate) to cover land, full infrastructure, and a 24–36 month runway. Everything — designs, workflows, MRV protocols, legal templates — goes fully open-source the moment the first credits are issued.
 
-#### **Primary Pathway: The Open-Source Pilot (Philanthropic Grant)**
-*   **Model:** Secure a major grant from a forward-thinking philanthropic foundation, investor or government to fund the flagship hub as a 5-year open-source pilot and public research project. Alternately, broad-based public funding through a platform like KickStarter could demonstrate grassroots demand and keep the project accountable to the public mission from day one.
-*   **Ask:** **$3.5 Million CAD** to fully fund land, infrastructure, and operations, with deliverables focused on creating a publicly available "Replication Toolkit."
-*   **Why This is the Ideal Path:** This model is the purest expression of our mission. It eliminates commercial pressure, allows us to focus entirely on optimization and rigorous data collection, and ensures all findings are freely available to accelerate global adoption. A successful grant-funded pilot would provide the undeniable proof-of-concept to fuel all subsequent pathways.
+We are prioritising pathways that preserve mission integrity while maximising speed and global equity.
 
-#### **Secondary Pathway: The Solutions Provider (Strategic Partner Sale)**
-*   **Model:** We partner with a pioneering government, corporation, or consortium to design and build a turnkey "Carbon Removal & Food Security Hub" in their region.
-*   **Ask:** **$3.5 Million CAD** to cover the complete capital and startup costs for the first hub.
-*   **Why This is a Strong Alternative:** This pathway treats the blueprint as a high-value product. It immediately establishes a revenue model for Modern Druid Central, funded by those with the capital and will to act first. The premium from this initial "Hub-in-a-Box" sale would be directly reinvested once the system is proven to seed hubs in underserved regions, cross-subsidizing global equity. This is the operational model we would intend to pursue once the system is proven.
+#### **Primary Pathway: The Open-Source Pilot (Philanthropic or Public Grant)**
+- **Model:** A single major grant from a climate-focused foundation (e.g., Quadrature Climate Foundation, Breakthrough Energy, ClimateWorks) or forward-thinking government program. Alternative: broad-based crowdfunding (Kickstarter + matching challenge) to prove grassroots demand.
+- **Ask:** **$4 million CAD** as a 5-year open-source research pilot.
+- **Deliverables:** Public “Replication Toolkit” (blueprints, BOMs, MRV templates, breeding database) released under Creative Commons.
+- **Why this is ideal:** Zero commercial pressure, maximum transparency, fastest path to global dissemination. A grant-funded flagship becomes the unassailable reference case that unlocks every other pathway.
 
-#### **Tertiary Pathway: The Mission-Locked Venture (Founder-Controlled Equity)**
-*   **Model:** Raise capital from a small circle of deeply mission-aligned impact investors in exchange for a minority equity stake in a specially structured company.
-*   **Ask:** **$3.5 Million CAD** for a non-controlling equity share.
-*   **Important Note:** This is a viable option only under the condition that the corporate charter legally locks in the core ethical principles—the 50/30/10/10 profit-sharing, equitable wages, and land-transfer model—making them unchangeable by any future board or majority shareholder. This ensures the company's mission is protected in perpetuity, with the founder retaining controlling interest to guarantee its execution. At the end of the day, who owns it is less important than starting.
+#### **Secondary Pathway: The Strategic Partner Sale (Turnkey Hub + Credit Commitment)**
+- **Model:** Partner with a corporation, city, province, indigenous nation, or impact consortium that wants its own branded hub immediately. We build it turnkey; they commit to buying the resulting credits at spot price for 5–10 years.
+- **Ask:** **$5 million CAD** upfront (covers our costs) + long-term offtake agreement.
+- **Why this works:** They get a flagship asset, verifiable credits, and massive SDG/PR value. We get funded without diluting mission and generate immediate revenue for Modern Druid Central to seed underserved hubs. This is the model we will scale hardest once proven — but starting with one paying partner accelerates everything.
 
-While other funding structures are possible, these three pathways represent our strategic focus. We believe they offer the best balance of mission integrity, scalability, and practical execution to launch this critical work.
+#### **Tertiary Pathway: Mission-Locked Impact Equity**
+- **Model:** Raise from a tight circle of deeply aligned impact investors (family offices, high-net-worth climate donors) in exchange for minority equity.
+- **Ask:** **$4 million CAD** for <30 % non-controlling stake.
+- **Non-negotiable safeguards:** Corporate charter permanently locks the 50/30/10/10 profit rule, land-transfer commitment, open-source obligation, and founder veto on mission drift. Investors profit only if the world heals. At least until temperatures and carbon levels start going back down.
+- **Why this is viable:** Some donors prefer equity upside over pure grants. We accept it only if the structure is bulletproof.
+
+#### **Additional Outreach Notes**
+We are also open to hybrid structures (e.g., recoverable grants, revenue-sharing loans) and will actively pitch:
+- Canadian federal/provincial climate funds (e.g., SDTC, Low Carbon Economy Fund)
+- Indigenous-led partnerships (land access + co-ownership models)
+- Corporate forward-purchase agreements (Microsoft, Shopify, Frontier buyers seeking premium bundled credits with 12 SDGs)
+
+Ownership is secondary to existence.  
+The goal is to get the first hub in the ground in 2026.  
+Everything else follows.
+
+If you have the capital, conviction, or connections — let’s talk.  
+The atmosphere can’t wait.
 
 ---
 

@@ -548,36 +548,25 @@ Every batch of biochar is tracked and characterized to ensure permanence and cal
 
 ---
 
+#### **5.3 Enhanced Rock Weathering MRV**  
+(Protocol: Puro.earth ERW Methodology v2025 – same registry as our biochar credits)
 
+We ride almost entirely on existing workflows:
+- Application records (weigh-bridge tickets + GPS spreader logs)  
+- One composite sample per quarry batch → grain-size verification (laser diffraction)  
+- Existing 0–100 cm soil cores get three cheap extras: exchangeable Ca & Mg, pH, and alkalinity titration (bicarbonate export check)  
+- Puro runs the geochemical mass-balance model and issues credits 3–6 months after verified spreading
 
+Marginal extra annual cost: <$5,000 for a 100 ha hub.
 
+**Financial Example – Mature 100 ha Hub**  
+15 t verified ERW removal/ha × 100 ha = **1,500 t CO₂e/yr**  
+1,500 t × $212.66 CAD/t = **$319,000 CAD** in ERW credits alone  
+(on top of ~$357,000 CAD from biochar credits at $203.18/t and SOC credits)
 
+One amendment pass. Two permanent removal pathways. Both improve soil fertility.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+That’s the Modern Druid stack.
 
 ---
       
@@ -592,13 +581,30 @@ By investing in this comprehensive MRV framework from the outset, the Modern Dru
 
 ---
 
-### **5. Integrated Workflows**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### **6. Integrated Workflows**
 
 This section details the recurring, on-the-ground tasks that bring the Modern Druid system to life. Workflows are organized chronologically and by function to provide a clear, actionable operational calendar.
 
 ---
 
-#### **5.1 Annually Recurring Workflows**
+#### **6.1 Annually Recurring Workflows**
 
 **A. Winter Season (December to February): Biomass Harvest & Planning**
 *   **Workflow:** Biomass Harvesting
@@ -653,7 +659,7 @@ This section details the recurring, on-the-ground tasks that bring the Modern Dr
 
 ---
 
-#### **5.2 One-Time or Occasional Workflows**
+#### **6.2 One-Time or Occasional Workflows**
 
 *   **Workflow:** Initial Site Survey
 *   **Workflow:** Initial Site Prep
@@ -665,9 +671,9 @@ This refined structure ensures biological effectiveness (pruning during active g
 
 ---
 
-### **6. Financials & Company Structure**
+### **7. Financials & Company Structure**
 
-#### **6.1 Revenue Model & Projections**
+#### **7.1 Revenue Model & Projections**
 
 This financial model for a 100-Hectare flagship hub is based on the operational outputs and assumptions detailed in the Agroforestry and Biochar sections. It presents a conservative estimate of the revenue potential once the system matures enough for sustainable productivity (Year 3-5+). Soil carbon projections are very low due to a lack of research on soil depths below 30cm.
 
@@ -723,7 +729,7 @@ NOTE ON PRICING & FINANCIAL SENSITIVITY: These projections use a forward-looking
 
 ---
 
-#### **6.2 Strategic Financial Notes & De-risking Factors**
+#### **7.2 Strategic Financial Notes & De-risking Factors**
 
 *   **Scalability & Replication:** The 100-hectare model is a flagship template. Once operational and certified, subsequent farms can be established on any available land parcel, leveraging the existing certification and knowledge base for faster rollout at lower cost.
 *   **Market Exposure & Upside Potential:** Revenue is tied to the international voluntary carbon market. Our conservative model uses current prices, but the project has significant exposure to potential price appreciation as climate policy and corporate demand for durable CDR intensify as the world burns. If we can produce more food than the credits cost, we can potentially increase the demand for credits to prevent the price from dropping.
@@ -737,7 +743,7 @@ This approach positions Modern Druid not just as a farm, but as a regional resou
 
 ---
 
-### **6.3 Startup Capital Requirements (100-Hectare Flagship Hub)**
+### **7.3 Startup Capital Requirements (100-Hectare Flagship Hub)**
 
 This table outlines the estimated capital expenditure (CapEx) required to establish a fully functional 100-hectare hub, including land, infrastructure, equipment, and a contingency for unforeseen costs. Although having never started a farm, carbon removal project, or any company for that matter, I could easily have missed a few things.
 
@@ -760,7 +766,7 @@ This table outlines the estimated capital expenditure (CapEx) required to establ
 
 ---
 
-### **6.4 Hyper-Scaling & Strategic Biomass Sourcing**
+### **7.4 Hyper-Scaling & Strategic Biomass Sourcing**
 
 While the flagship model is based on self-produced biomass, the most significant opportunity for rapid scaling and profit amplification lies in leveraging external waste biomass streams. This "hub-and-spoke" model transforms a farm into a regional carbon drawdown center.
 
@@ -781,7 +787,7 @@ While the flagship model is based on self-produced biomass, the most significant
 
 ---
 
-### **6.5 Profit Allocation & Exponential Growth Model**
+### **7.5 Profit Allocation & Exponential Growth Model**
 
 The financial engine of the Modern Druid Project is designed to prioritize people, fuel local replication, and fund global expansion, creating a self-reinforcing cycle for planetary-scale impact.
 
@@ -827,11 +833,11 @@ This is the path to a decentralized, resilient, and owner-operated global networ
 
 ---
 
-### **7. UN Sustainable Development Goals (SDG) Impacts**
+### **8. UN Sustainable Development Goals (SDG) Impacts**
 
 The Modern Druid Project is not merely a carbon removal solution; it is a holistic sustainable development platform. Its architecture is uniquely positioned to deliver profound, measurable progress against a majority of the UN's Sustainable Development Goals from its inception, with a clear pathway to achieving all 17 through targeted R&D. All by not being greedy, by simply letting people pick their own damn food, we open up all these SDGs, which are very much a part of the marketability and price of our carbon credits.
 
-#### **7.1 Direct SDG Impacts from Launch**
+#### **8.1 Direct SDG Impacts from Launch**
 
 The project's core model directly and meaningfully contributes to 12 of the 17 goals, making its carbon credits a premium investment in global sustainability.
 
@@ -852,7 +858,7 @@ The project's core model directly and meaningfully contributes to 12 of the 17 g
 
 ---
 
-#### **7.2 Future SDG Impacts through R&D and Expansion**
+#### **8.2 Future SDG Impacts through R&D and Expansion**
 
 The remaining SDGs are targeted for achievement through the project's dedicated R&D pipeline and strategic scaling.
 
@@ -868,13 +874,13 @@ The remaining SDGs are targeted for achievement through the project's dedicated 
 
 ---
 
-### **8. Future Growth (Research & Development)**
+### **9. Future Growth (Research & Development)**
 
 Modern Druid Central (MDC) would drive a continuous innovation pipeline to increase carbon drawdown rates, expand into new ecosystems, improve efficiency, and unlock new revenue streams. This R&D is funded by the 10% MDC royalty and is focused on solving key bottlenecks to planetary-scale deployment.
 
 ---
 
-#### **8.1 Near-Term R&D (Years 1-5): Enhancing the Core Model**
+#### **9.1 Near-Term R&D (Years 1-5): Enhancing the Core Model**
 
 **1. Directed Plant Breeding & Seedball Optimization**
 *   **Research:** Systematically breed "champion" lines of coppice and food crops for high biomass yield, drought resilience, pest resistance, and synergy with biochar-rich soils.
@@ -890,7 +896,7 @@ Modern Druid Central (MDC) would drive a continuous innovation pipeline to incre
 
 ---
 
-#### **8.2 Medium-Term R&D (Years 3-7): System Expansion & Diversification**
+#### **9.2 Medium-Term R&D (Years 3-7): System Expansion & Diversification**
 
 **4. Atmospheric Water Generation (AWG) Integration**
 *   **Research:** Test and integrate scalable AWG technologies (radiative panels, compressor-based) to provide a reliable irrigation source decoupled from local rainfall.
@@ -906,7 +912,7 @@ Modern Druid Central (MDC) would drive a continuous innovation pipeline to incre
 
 ---
 
-#### **8.3 Long-Term & Frontier R&D (Years 5-15): Next-Generation Platforms**
+#### **9.3 Long-Term & Frontier R&D (Years 5-15): Next-Generation Platforms**
 
 **7. Enhanced Rock Weathering (ERW) Integration**
 *   **Research:** Integrate finely ground basalt or other silicate rocks with biochar soil amendments. Measure the acceleration of mineral carbonation.
@@ -924,7 +930,7 @@ This structured R&D pipeline ensures that The Modern Druid Project not only rema
 
 ---
 
-### **9. Scaling: The Path to a Stabilized Planet**
+### **10. Scaling: The Path to a Stabilized Planet**
 
 The Modern Druid Project is a blueprint. Its ultimate objective—to rebalance the atmospheric carbon cycle at a planetary scale—is predicated on a series of critical, sequential milestones. We need to produce more food than standard croplands, we need to remove meaningful levels of carbon, and we need to earn a profit and a living for our employees, and we need to be able to replciate it, fast.
 
@@ -936,7 +942,7 @@ And if we can save communities more on food than we cost in carbon credits, we b
 
 ---
 
-#### **9.1 Phase 1: The Proof-of-Concept (Years 1-5)**
+#### **10.1 Phase 1: The Proof-of-Concept (Years 1-5)**
 
 The immediate and singular focus is the successful establishment and operation of the **100-Hectare Flagship Hub.**
 
@@ -946,7 +952,7 @@ The immediate and singular focus is the successful establishment and operation o
 
 ---
 
-#### **9.2 Phase 2: Regional Saturation & The "Hub-in-a-Box" Service (Years 3-10)**
+#### **10.2 Phase 2: Regional Saturation & The "Hub-in-a-Box" Service (Years 3-10)**
 
 With a proven model and a well-understood food production curve, the growth engines are activated.
 
@@ -956,7 +962,7 @@ With a proven model and a well-understood food production curve, the growth engi
 
 ---
 
-#### **9.3 Phase 3: Global Transition & Frontier Expansion (Years 5-20+)**
+#### **10.3 Phase 3: Global Transition & Frontier Expansion (Years 5-20+)**
 
 With a refined, adaptable, and proven model, the focus shifts to the global transition of agriculture.
 
@@ -966,7 +972,7 @@ With a refined, adaptable, and proven model, the focus shifts to the global tran
 
 ---
 
-#### **9.4 The Ultimate Integration: A Managed Transition**
+#### **10.4 The Ultimate Integration: A Managed Transition**
 
 The true scale required involves a coordinated, managed transition of our global food and land-use systems:
 
@@ -980,7 +986,7 @@ We are not just building carbon sinks; we are building the next food system. The
 
 ---
 
-### **10. Funding Pathways: Building the First Hub**
+### **11. Funding Pathways: Building the First Hub**
 
 The Modern Druid Project is ready for activation. The primary goal is to establish the first 100-hectare flagship hub to validate the model and create the open-source "Hub-in-a-Box" package. We would be prioritizing the following funding pathways, which best align with our mission to disseminate this solution freely and ethically worldwide.
 
@@ -1003,7 +1009,7 @@ While other funding structures are possible, these three pathways represent our 
 
 ---
 
-### **11. Conclusion**
+### **12. Conclusion**
 
 So there's my idea on how to solve this. Some form of Solar Radiation Management to cool us off enough to stop the permafrost melt and this project to restore the atmosphere to its last known stable point, at pre-industrial levels. And provide free high quality food while we're at it, driving extractive agriculture out of business. And provide equitable wages worldwide. And restore soil fertility, turning the world's soils into a modern analog of Terra Preta. And make our ecosystems more resilient with improved water retention and drainage. And reduce indirect emissions from transporting food from all over the world by growing it locally. And make the polluters pay for it.
 

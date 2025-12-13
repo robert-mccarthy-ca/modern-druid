@@ -18,7 +18,7 @@ Together these should deliver 35–40 t CO₂ removed per hectare per year in Ca
 - Roughly half the biomass is converted on-site into biochar using efficient flame-cap kilns; the other half is chopped-and-dropped or mulched.  
 - Every year we spread a mix of our own biochar + locally sourced crushed basalt — in a single pass.  
 - All fruit, nuts, berries, and perennial vegetables are free pick-your-own for the surrounding community (zero harvest, transport, or sales logistics).  
-- Revenue comes exclusively from verified carbon removal credits (Puro.earth biochar, Isometric ERW, Verra deep-soil carbon) plus modest biochar sales.
+- Revenue comes exclusively from verified carbon removal credits (Puro.earth biochar, Puro.earth ERW, Verra + CCB deep-soil carbon) plus modest biochar sales.
 
 **Why the economics are unstoppable**  
 Once a hub is cash-flow positive, profits are split by constitutional rule:  
@@ -480,7 +480,7 @@ In short: ERW turns our farms into dual-engine carbon machines that heal the lan
 
 ##### **4.2 Methodology**
 **The Process**  
-We spread 10–20 t/ha/yr of <0.5 mm crushed basalt (50/50 mix with our biochar) in early spring or late fall. Rain and soil water dissolve CO₂, which reacts with the rock's calcium and magnesium:
+We spread 10–20 t/ha/yr of <0.5 mm crushed basalt (50/50 mix with our biochar) immediately before a pruning or mowing pass, applying organic material on top of it. Rain and soil water dissolve CO₂, which reacts with the rock's calcium and magnesium:
 
 Mg₂SiO₄ + 4 CO₂ + 4 H₂O → 2 Mg²⁺ + 4 HCO₃⁻ + H₄SiO₄  
 
@@ -493,7 +493,7 @@ The bicarbonate (HCO₃⁻) washes into rivers and oceans as stable, long-term s
 - Co-benefits: Supplies 50+ trace minerals, raises pH gently, boosts yields 8–30 %, reduces runoff pollution
 
 **MRV Integration**  
-We use Isometric Registry's protocol:  
+We use Puro.earth's protocol:  
 - Annual soil sampling (same as SOC checks)  
 - Grain-size tests + geochemical modelling  
 - Credits issued 6–9 months after spreading  

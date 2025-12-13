@@ -981,19 +981,53 @@ The atmosphere can’t wait.
 
 ### **12. Conclusion**
 
-So there's my idea on how to solve this. Some form of Solar Radiation Management to cool us off enough to stop the permafrost melt and this project to restore the atmosphere to its last known stable point, at pre-industrial levels. And provide free high quality food while we're at it, driving extractive agriculture out of business. And provide equitable wages worldwide. And restore soil fertility, turning the world's soils into a modern analog of Terra Preta. And make our ecosystems more resilient with improved water retention and drainage. And reduce indirect emissions from transporting food from all over the world by growing it locally. And make the polluters pay for it.
+This is my answer to the question no one in power is brave enough to ask:  
+**What would a real solution look like if we stopped pretending half-measures were enough?**
 
-All by gardening like a boss, having fancy bonfires, and letting people pick their own damn food.
+The Modern Druid Project is that answer.
 
-At this point, this is just an idea, no company, nothing. If I could do it, if funding was found, I suppose my preferred choice would be to fill a few key skilled positions and thereafter try to find the most diverse and intelligent workforce possible, get every industry's problem solving patterns at work on the project, optimize the process with a diverse set of problem solvers. As for myself, I'm a former software developer, trained in solving ridiculously complex problems in a correct, efficient, elegant, and scalable manner and a gardener, so no special farming or agroforestry skills, just a nerd trying to dare to solve the problem.
+A self-funding, self-replicating engine that pulls permanent carbon from the sky at gigatonne scale, feeds communities for free, pays people well, rebuilds soil, restores biodiversity, and hands the land back to the workers who healed it.
 
-As for other key skills, someone with experience with agroforestry, tractors, carbon markets, an engineer for the biochar portion and someone to help with all the administrative nonsense involved in running a company. After that, just give me the smartest people who want to do the work. I'm biased admittedly as a member, but reaching out through Mensa would be my first preference to find initial talent outside that core knowledge set. A diverse selection of some of the brightest minds to look at a ridiculously important problem and improve the solution, minds that are strong enough and arrogant enough to dare to solve the problem, and maybe even succeed.
+No perpetual corporate empire.  
+No extractive profit from food.  
+No waiting for governments to save us.
 
-If you have made it this far and are interested in trying this and you have the resources or supplementary skills, by all means, please contact:<br>
+Just proven biology, proven geology, proven economics, and a stubborn refusal to be greedy.
 
-Robert McCarthy<br>
-Re: Modern Druid Project<br>
-robert.mccarthy.ca@member.mensa.org
+We are past the era of prevention.  
+We are in the era of survival and repair.
 
-I'd be more than happy to try and make gardening like a boss and having fancy bonfires a legitimate career option. It's a long shot, a lot of things need to line up for it to work. But, unless I'm mistaken, it's an actual shot. It has a chance of actually working, with or without political leadership.
+The tipping points are already tipping.  
+The methane pulse is coming.  
+The old food system is cracking.
 
+But the blueprint is finished.  
+The numbers work today.  
+The first hub can be in the ground in 2026.
+
+All that’s missing is the decision to start.
+
+If you are a philanthropist tired of funding reports instead of results,  
+If you are a corporation that actually wants to hit net-negative,  
+If you are a community that wants food security and jobs that don’t destroy the future,  
+If you are just someone who refuses to watch the world burn without trying everything—
+
+Reach out.  
+Fund the first hub.  
+Partner on the second.  
+Or simply spread the word.
+
+Because when the disasters finally force the world to act, I don’t want us scrambling for ideas. I want to be able to deploy solutions.
+
+I want the Modern Druid hubs already running—feeding people, removing carbon, proving it works—ready to replicate as fast as humanity can say “yes”.
+
+We still have time to choose abundance over collapse.  
+But not much.
+
+Let’s not waste it. Dare to solve the problem.
+
+— Robert McCarthy  
+December 2025  
+robert.mccarthy.ca@member.mensa.org  
+
+Garden like a boss, have fancy bonfires, and don't be greedy.

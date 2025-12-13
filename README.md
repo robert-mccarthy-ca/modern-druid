@@ -61,33 +61,36 @@ Let’s build it now, so we’re ready when they’re desperate.
   - **3.1 Process & Benefits**
   - **3.2 CharHouse & Production Workflow**
   - **3.3 Sales Strategy**
-- **4. MRV Protocols (Monitoring, Reporting and Verification)**
-  - **4.1 Soil Carbon MRV**
-  - **4.2 Biochar MRV**
-  - **4.3 The Integrated MRV Database**
-- **5. Integrated Workflows**
-  - **5.1 Annually Recurring Workflows**
-  - **5.2 One-Time or Occasional Workflows**
-- **6. Financials and Company Structure**
-  - **6.1 Revenue Model & Projections**
-  - **6.2 Strategic Financial Notes & De-risking Factors**
-  - **6.3 Startup Costs**
-  - **6.4 Hyper-Scaling & Strategic Biomass Sourcing**
-  - **6.5 Profit Allocation & Exponential Growth Model**
-- **7. UN Sustainable Development Goal (SDG) Impacts**
-  - **7.1 Direct SDG Impacts from Launch**
-  - **7.2 Future SDG Impacts through R&D and Expansion**
-- **8. Future Growth (Research & Development)**
-  - **8.1 Near-Term R&D (Years 1-5): Enhancing the Core Model**
-  - **8.2 Medium-Term R&D (Years 3-7): System Expansion & Diversification**
-  - **8.3 Long-Term & Frontier R&D (Years 5-15): Next-Generation Platforms**
-- **9. Scaling: The Path to a Stabilized Planet**
-  - **9.1 Phase 1: The Proof-of-Concept (Years 1-5)**
-  - **9.2 Phase 2: Regional Saturation & The "Hub-in-a-Box" Service (Years 3-10)**
-  - **9.3 Phase 3: Global Transition & Frontier Expansion (Years 5-20+)**
-  - **9.4 The Ultimate Integration: A Managed Transition**
-- **10. Funding Pathways: Building the First Hub**
-- **11. Conclusion**
+- **4. Enhanced Rock Weathering (ERW)**
+  - **4.1 Overview**
+  - **4.2 Methodology**
+- **5. MRV Protocols (Monitoring, Reporting and Verification)**
+  - **5.1 Soil Carbon MRV**
+  - **5.2 Biochar MRV**
+  - **5.3 The Integrated MRV Database**
+- **6. Integrated Workflows**
+  - **6.1 Annually Recurring Workflows**
+  - **6.2 One-Time or Occasional Workflows**
+- **7. Financials and Company Structure**
+  - **7.1 Revenue Model & Projections**
+  - **7.2 Strategic Financial Notes & De-risking Factors**
+  - **7.3 Startup Costs**
+  - **7.4 Hyper-Scaling & Strategic Biomass Sourcing**
+  - **7.5 Profit Allocation & Exponential Growth Model**
+- **8. UN Sustainable Development Goal (SDG) Impacts**
+  - **8.1 Direct SDG Impacts from Launch**
+  - **8.2 Future SDG Impacts through R&D and Expansion**
+- **9. Future Growth (Research & Development)**
+  - **9.1 Near-Term R&D (Years 1-5): Enhancing the Core Model**
+  - **9.2 Medium-Term R&D (Years 3-7): System Expansion & Diversification**
+  - **9.3 Long-Term & Frontier R&D (Years 5-15): Next-Generation Platforms**
+- **10. Scaling: The Path to a Stabilized Planet**
+  - **10.1 Phase 1: The Proof-of-Concept (Years 1-5)**
+  - **10.2 Phase 2: Regional Saturation & The "Hub-in-a-Box" Service (Years 3-10)**
+  - **10.3 Phase 3: Global Transition & Frontier Expansion (Years 5-20+)**
+  - **10.4 The Ultimate Integration: A Managed Transition**
+- **11. Funding Pathways: Building the First Hub**
+- **12. Conclusion**
 
 ---
 
@@ -151,7 +154,7 @@ The crisis is planetary; the only funding pool big enough to match it is the int
 The entire operation is built from day one to harvest three of the highest-integrity, highest-price carbon removal streams on Earth, all on the same land, with the same labour and equipment:
 
 1. **Biocharcoal-grade biochar** → Puro.earth CO₂ Removal Certificates (millennial-scale organic carbon)  
-2. **Enhanced rock weathering with crushed basalt** → Isometric Registry ERW credits (geological-scale inorganic carbon)  
+2. **Enhanced rock weathering with crushed basalt** → Puro.earth CO₂ Removal Certificates (geological-scale inorganic carbon)  
 3. **Deep soil organic carbon buildup (0–3 m)** → Verra or Plan Vivo soil carbon credits  
 
 Together these three pathways deliver **35–40 t of permanent, verifiable CO₂ removal per hectare per year in Canadian climates** (50–70+ t/ha/yr in the tropics). The food that comes with it is essentially free to the community and free to us (no harvest, no transport, no sales overhead).
@@ -221,11 +224,8 @@ Because we refuse to be greedy, the project hits **12 of 17 UN Sustainable Devel
 6. Makes the carbon credits politically unbreakable and premium-priced →  
 7. Funds the next farm, then the next, then the next — exponential, unstoppable growth
 
-We are not asking permission to feed people.  
-We are proving that the fastest, cheapest, most permanent way to heal the atmosphere is to stop charging people for food and start charging the polluters instead.
-
-Generosity is not charity here.  
-It is the highest-leverage strategy on Earth.  
+If we can produce more food than conventional farming and save more money in groceries than we cost to operate, we have the opportunity to shift to a system where the responsible thing becomes cheaper than what is done today. Where feeding people is paid for by the polluters cleaning up after themselves. Where chemical laden agriculture gets squeezed out, "compete with free, fresh and organic or go out of business" is hard to beat after all.
+We are not asking permission to feed people.
 
 Here is my blueprint for abundance in an age of collapse.  
 
@@ -259,7 +259,7 @@ Here is my blueprint for abundance in an age of collapse.
   Seedball-bombed chaos strips with biochar and basalt added periodically. No management beyond irrigation — living seed bank and safe passage for everything with wings or paws.
 
 #### **Annual Combined Amendment Pass**  
-One tractor pass per year (early spring or late autumn):
+One tractor pass per year (during a pruning or mowing pass for fresh mulch to cover it):
 - 50/50 mix of fresh biochar + crushed basalt (total 20–40 t/ha)
 - Immediately followed by drenching with Indigenous Microorganisms (IMO), Jadam Microbial Solution (JMS), and Jadam Liquid Fertiliser (JLF) through the irrigation grid)
 - Result: biochar pores are instantly colonised by a massive quantity and diversity of microbes → no leaching, near-instant nutrient cycling, and 30–50 % acceleration of basalt weathering
@@ -288,26 +288,6 @@ This is not conventional farming with carbon added on.
 It is a living, breathing, microbe-powered, permanent-carbon-removal organism that also happens to give away ridiculous amounts of food as a side effect.
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #### **2.2 Advanced Irrigation & Protection**  
 The backbone that keeps the entire system alive and fire-proof in a climate that is rapidly going feral.
@@ -441,7 +421,7 @@ Crew of three is deliberate: two people are always within line-of-sight of an ac
 We get paid the moment the biochar is verifiably locked away — whether we spread it ourselves or someone else does. Selling it is pure bonus cash on top.
 
 #### **How the Credit Timing Actually Works**
-Puro.earth (and Isometric for the ERW portion) issues credits 3–6 months after proof of durable use. Because we either:  
+Puro.earth issues credits 3–6 months after proof of durable use. Because we either:  
 a) apply it on our own farms (100 % under our control), or  
 b) sell only into tracked, non-combustion uses (concrete, asphalt, filtration, soil),  
 we effectively decide when the credits drop. No market risk, no buyer default risk.
@@ -480,19 +460,55 @@ Mature 100 ha hub produces ~600 t biochar/yr
 - 300 t applied on-farm → immediate credits  
 - 200 t sold bulk @ $800/t → $160 k  
 - 100 t sold premium @ avg $1,500/t → $150 k  
-→ **$310 k extra revenue on top of ~$350 k+ in biochar carbon credits**
+→ **$310 k extra revenue on top of ~$350 k+ in biochar carbon credits (Dec. 12, 2025 price is $203.18 CAD)**
 
 Total biochar-related cash flow > $660 k/yr from one hub — and that’s before ERW credits, SOC credits, or food value.
 
 ---
 
-### **4. MRV Protocols (Monitoring, Reporting and Verification)**
+#### **4. Enhanced Rock Weathering (ERW)**
+
+##### **4.1 Overview**
+ERW is the geological powerhouse that completes our permanent carbon removal stack. While biochar locks away organic carbon for millennia, ERW uses finely crushed silicate rock (like local basalt) to permanently convert atmospheric CO₂ into stable bicarbonate ions that flow to the ocean and remain sequestered for 100,000+ years.
+
+This isn't an add-on—it's a perfect synergy with our existing system:
+- Same annual amendment pass as biochar (no extra tractor time)
+- Boosts total removal to **35–40 t CO₂/ha/yr** in Canadian conditions
+- Re-mineralises depleted soils, replacing costly lime and unlocking nutrients for better yields
+
+In short: ERW turns our farms into dual-engine carbon machines that heal the land while printing credits.
+
+##### **4.2 Methodology**
+**The Process**  
+We spread 10–20 t/ha/yr of <0.5 mm crushed basalt (50/50 mix with our biochar) in early spring or late fall. Rain and soil water dissolve CO₂, which reacts with the rock's calcium and magnesium:
+
+Mg₂SiO₄ + 4 CO₂ + 4 H₂O → 2 Mg²⁺ + 4 HCO₃⁻ + H₄SiO₄  
+
+The bicarbonate (HCO₃⁻) washes into rivers and oceans as stable, long-term storage. Our biochar supercharges this: it retains moisture, raises pH, and feeds weathering microbes → **30–50 % faster rates** than rock alone.
+
+**Implementation Details**  
+- Sourced locally (e.g., Ontario Shield quarries) at $15–25/t  
+- One pass with a standard lime spreader → zero added labour  
+- Verified removal: **12–18 t CO₂/ha/yr** (conservative for cold climates)  
+- Co-benefits: Supplies 50+ trace minerals, raises pH gently, boosts yields 8–30 %, reduces runoff pollution
+
+**MRV Integration**  
+We use Isometric Registry's protocol:  
+- Annual soil sampling (same as SOC checks)  
+- Grain-size tests + geochemical modelling  
+- Credits issued 6–9 months after spreading  
+
+At $212.66 CAD/t (Dec 12, 2025 price), that's **~~$2550–$3825/ha/yr** in extra revenue—for a $300–500/ha cost.  
+
+---
+
+### **5. MRV Protocols (Monitoring, Reporting and Verification)**
 
 The integrity and financial value of the Modern Druid Project are grounded in rigorous, transparent, and defensible MRV practices. Our protocols are designed to meet the highest standards of the carbon market, providing indisputable proof of net carbon sequestration.
 
 ---
 
-#### **4.1 Soil Carbon MRV**
+#### **5.1 Soil Carbon MRV**
 
 To capture the full impact of our deep-rooted agroforestry system, we conduct soil monitoring to a depth of 3 meters, far exceeding typical agricultural assessments.
 
@@ -509,7 +525,7 @@ Since we wouldn't get any credits issued until we can demonstrate that we have s
 
 ---
 
-#### **4.2 Biochar MRV**
+#### **5.2 Biochar MRV**
 
 Every batch of biochar is tracked and characterized to ensure permanence and calculate precise credit issuance.
 
@@ -531,10 +547,43 @@ Every batch of biochar is tracked and characterized to ensure permanence and cal
     *   **Particulate Matter (PM)**
 
 ---
-      
-#### **4.3 The Integrated MRV Database**
 
-All data streams—soil, biochar, and emissions—are fed into a central, cloud-backed **MRV Database**. This platform is the single source of truth for:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+      
+#### **5.4 The Integrated MRV Database**
+
+All data streams—soil, biochar, enchanced rock weathering, and emissions—are fed into a central, cloud-backed **MRV Database**. This platform is the single source of truth for:
 *   **Automated Credit Calculations:** Generating the data packages required for verification audits.
 *   **Transparency Reporting:** Publicly publishing all records along with summaries of sequestration results to build trust and demonstrate impact.
 *   **Operational Feedback:** Allowing us to correlate management practices (e.g., biochar application rates) with soil carbon outcomes, creating a continuous improvement loop.

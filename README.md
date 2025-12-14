@@ -1,5 +1,5 @@
 # The Modern Druid Project  
-A complete, open-source, replicable blueprint for permanent carbon drawdown, free community food, and equitable wealth creation — built today so it is ready the day the world finally admits it needs it.
+A complete, open-source, replicable blueprint for permanent carbon drawdown, free community food, and equitable wealth creation — built today so it is ready the day the world finally admits it needs it. 
 
 I believe it is only a matter of time before a climate disaster of sufficient magnitude hits — a summer with no Arctic ice, a permafrost methane pulse, a simultaneous breadbasket failure, wet bulb heatwaves — that suddenly makes governments, corporations, and billionaires desperate for solutions that actually remove carbon at scale while feeding people and building resilience. When that moment comes, I want the answer to already exist, be fully designed, financially de-risked, and ready to deploy with a phone call. This document is my attempt to provide that answer, to dare to solve the problem.
 
@@ -11,7 +11,7 @@ A perpetually expanding network of 100+ hectare carbon-removal hubs that combine
 2. Biochar pyrolysis and soil application (millennial-scale organic carbon)  
 3. Enhanced Rock Weathering with basalt (geological-scale inorganic carbon)
 
-Together these should deliver 35–40 t CO₂ removed per hectare per year in Canadian conditions (50–70+ t/ha/yr in humid tropics) — more permanent removal than the Amazon rainforest achieves per hectare — while producing abundant free food and building generational wealth.
+Together these should deliver 35–40 t CO₂ removed per hectare per year in Canadian conditions once mature (50–70+ t/ha/yr in humid tropics) — more permanent removal than the Amazon rainforest achieves per hectare — while producing abundant free food and building generational wealth.
 
 **How it works**  
 - We grow high-biomass, high-diversity food forests using syntopic principles.  
@@ -37,12 +37,12 @@ Every farm is therefore designed to spawn new farms. Employees graduate into lan
 - Dignified green jobs and a clear path to land ownership for workers  
 
 **What we need to start**  
-$3.5 million CAD seed capital (land + full infrastructure + 24-month runway) for the first 100-hectare flagship hub in Canada. Everything — designs, workflows, MRV protocols, legal templates — will be open-sourced the moment the first credits are issued.
+$4 million CAD seed capital (land + full infrastructure + 24-month runway) for the first 100-hectare flagship hub in Canada. Everything — designs, workflows, MRV protocols, legal templates — will be open-sourced the moment the first credits are issued.
 
 When the inevitable disasters finally force the world to act, the Modern Druid should not be a pitch deck.  
 It should be a turnkey, profitable, tested engine already running — ready to replicate as fast as society can say “yes”.
 
-Let’s build it now, so we’re ready when they’re desperate.
+Let’s build it now, so we’re ready when they’re desperate and finally ready to act.
 
 — Robert McCarthy
 

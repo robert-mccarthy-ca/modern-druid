@@ -1,5 +1,5 @@
 # The Modern Druid Project  
-A complete, open-source, replicable blueprint for permanent carbon drawdown, free community food, and equitable wealth creation — built today so it is ready the day the world finally admits it needs it. 
+A complete, open-source, replicable blueprint for permanent carbon drawdown, free community food, and equitable wealth creation. And do it as a cost saving, allowing expansion with or without political leadership and can scale globally to anywhere that can grow plants.
 
 I believe it is only a matter of time before a climate disaster of sufficient magnitude hits — a summer with no Arctic ice, a permafrost methane pulse, a simultaneous breadbasket failure, wet bulb heatwaves — that suddenly makes governments, corporations, and billionaires desperate for solutions that actually remove carbon at scale while feeding people and building resilience. When that moment comes, I want the answer to already exist, be fully designed, financially de-risked, and ready to deploy with a phone call. This document is my attempt to provide that answer, to dare to solve the problem.
 

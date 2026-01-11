@@ -2,9 +2,9 @@
 
 We face not separate crises, but one unified failure: a climate, food, and economic system built on extraction. The result is a warming atmosphere, fragile food supply chains, and entrenched inequality—all locked in a cycle that isolated solutions cannot break.
 
-The Modern Druid Project is an integrated, self-replicating engine designed to dismantle this cycle. It stacks three permanent carbon removal pathways—biochar, enhanced rock weathering, and deep soil carbon—into a profitable revenue stream. This funds a perennial agroforestry system that produces abundant food, given freely to communities. A constitutional governance model ensures wealth and ownership flow to the stewards doing the work, while a built-in replication fund drives exponential growth.
+The Modern Druid Project is an integrated, self-replicating engine designed to dismantle this cycle. It stacks three permanent carbon removal pathways—biochar, enhanced rock weathering, and deep soil carbon—into a profitable revenue stream using internation voluntary carbon markets. This funds a food forest that produces abundant food, given freely to communities, alongside purpose grown biomass for biochar. A constitutional governance model ensures wealth and ownership flow to the stewards doing the work, while a built-in replication fund drives exponential growth.
 
-This document details a complete blueprint for a 100-hectare flagship hub in Canada—from phased implementation and rigorous MRV to financial viability and UN SDG alignment. We demonstrate how carbon removal can become not a cost, but a profitable service that feeds people, restores land, and creates dignified livelihoods. The model is engineered to cross the gigatonne chasm, offering a scalable, equitable, and politically resilient path to atmospheric repair.
+This document details a complete blueprint for a 100-hectare flagship hub in Canada—from phased implementation and rigorous MRV to financial viability and UN SDG alignment. We demonstrate how carbon removal can become not a cost, but a profitable service that feeds people, restores land, and creates dignified livelihoods. And since the markets are international, wages in the global south can match those in the north. The model is engineered to cross the gigatonne chasm, offering a scalable, equitable, and politically resilient path to atmospheric repair.
 
 ---
 
@@ -138,22 +138,22 @@ All revenue is split **50/50** between:
 **PHASE 2: Post-Profitability (The Replication & Legacy Engine)**
 Once the hub is sustainably funding itself, profits split as follows:
 
-| 50% | **Employee Pool** | Living wages, benefits, performance bonuses. |
-| 30% | **Local Development Fund** | Operating costs, debt repayment, buying adjacent land. |
-| 10% | **Local Replication Fund** | **Seed capital for the next hub, led by promoted employees.** |
-| 10% | **Modern Druid Central Royalty** | Funds global R&D, open-source toolkit, seeds hubs in new climates. |
+- 50% **Employee Pool**: Living wages, benefits, performance bonuses.
+- 30% **Local Development Fund**: Operating costs, debt repayment, buying additional land.
+- 10% **Local Replication Fund**: **Seed capital for the next hub, led by promoted employees.**
+- 10% **Modern Druid Central Royalty**: Funds global R&D, open-source toolkit, seeds hubs in new climates.
 
 #### **The Defined Ownership Pathway: From Stewards to Owners**
 
 The Modern Druid Project has a **clear beginning and a clear end** at both the hub and global levels:
 
-*   **Hub-Level End (20–25 Year Horizon):** Aligned with standard carbon crediting periods (e.g., Verra's 20-year vintages), each hub is designed from inception for **eventual transfer to its workforce.** Upon successful completion of its core carbon removal commitment, the land and improved infrastructure are either transferred to a **local trust or cooperative**, with ownership shares allocated to employees **pro-rata based on their tenure and wages earned on that land**, or simply broken up and given out pro rated as before. The trained stewards become the owners of a fertile, productive, climate-resilient asset.
+*   **Hub-Level End (20–25 Year Horizon):** Aligned with standard carbon crediting periods (e.g., Verra's 20-year vintages), each hub is designed from inception for **eventual transfer to its workforce.** Upon successful completion of its core carbon removal commitment, the land and improved infrastructure are broken up and given out to employees **pro-rata based on their tenure and wages earned on that land**. The trained stewards become the owners of a fertile, productive, climate-resilient asset.
 
-*   **Global-Level End (Mission Completion):** The project as a whole ends when its core objective is met: **when atmospheric CO₂ is safely returned to pre-industrial levels and the climate is re-stabilized.** We are building a network of self-replicating repair engines, not a perpetual corporation. Then we can rest.
+*   **Global-Level End (Mission Completion):** The project as a whole ends when its core objective is met: **when atmospheric CO₂ is safely returned to pre-industrial levels and the climate and permafrost is re-stabilized.** We are building a network of self-replicating repair engines, not a perpetual corporation. Then we can rest.
 
 **This is the antithesis of economic colonialism.** We do not arrive, extract value, and leave. We arrive, **invest in people and land,** build shared wealth, and then **hand over the keys.** Our success is measured by our eventual obsolescence in a given community, leaving behind a legacy of food sovereignty, carbon-sequestering landscapes, and local, land-owning farmers equipped for the future.
 
-The 10% Replication Fund ensures that as one hub completes its journey to local ownership, the model has already seeded the next one elsewhere, propagating this cycle of repair and transfer not just here, but everywhere, focusing on the underserved climates and less developed nations who cannot afford to start these hubs.
+The 10% Replication Fund ensures that as one hub completes its journey to local ownership, the model has already seeded others elsewhere, propagating this cycle of repair and transfer not just here, but everywhere, focusing on the underserved climates and less developed nations who cannot afford to start these hubs.
 
 ---
 
@@ -209,7 +209,7 @@ The theoretical model must be proven under the most demanding real-world conditi
 1.  **Climatic Rigor:** A cold temperate climate with a short growing season, testing biomass accumulation and system resilience.
 2.  **Economic Rigor:** High developed-world labour and operating costs, testing the model's ability to achieve profitability without exploiting low-wage economies.
 
-If the model can succeed here, its replication in more favorable climates is de-risked. This hub is designed to generate the irrefutable, data-driven proof needed to unlock global scaling.
+If the model can succeed here, its replication in more favorable climates is de-risked. The 100 hectare size was chosen as large enough to comfortably meet Puro.Earth's minimum project size in order to access that credit stream. This hub is designed to generate the irrefutable, data-driven proof needed to unlock global scaling.
 
 ---
 
@@ -226,7 +226,7 @@ The first Modern Druid hub will be established in **Canada**, specifically targe
     Northern Ontario represents a **mid-latitude temperate climate** with cold winters and a moderate growing season. It is neither the most productive nor the most challenging environment on Earth. Succeeding here proves the model works under "average" constraints, providing a credible baseline for adaptation to both more favorable (tropics) and more extreme (arid, boreal) climates in later replication, with multiple growing zones in either direction elsewhere in the country.
 
 3.  **Economic Realism in a Developed Economy:**
-    Canada's high cost of living requires the model to support **dignified, developed-world wages** from the outset. Proving financial viability under these cost pressures demonstrates the engine's fundamental strength. If it can be profitable while paying living wages in Canada, its economics become **even more compelling** in regions with lower costs.
+    Canada's high cost of living requires the model to support **dignified, developed-world wages** from the outset. Proving financial viability under these cost pressures demonstrates the engine's fundamental strength. If it can be profitable while paying living wages in Canada, its economics become **even more compelling** in regions with lower costs like the Global South.
 
 4.  **Access to Early-Stage Funding & Support:**
     Initial development will target **Canadian government grants, climate funds, and impact investment programs** (e.g., Sustainable Development Technology Canada, the Low Carbon Economy Fund). Starting within this supportive, accessible funding ecosystem accelerates the path from blueprint to reality.

@@ -153,7 +153,7 @@ The Modern Druid Project has a **clear beginning and a clear end** at both the h
 
 **This is the antithesis of economic colonialism.** We do not arrive, extract value, and leave. We arrive, **invest in people and land,** build shared wealth, and then **hand over the keys.** Our success is measured by our eventual obsolescence in a given community, leaving behind a legacy of food sovereignty, carbon-sequestering landscapes, and local, land-owning farmers equipped for the future.
 
-The 10% Replication Fund ensures that as one hub completes its journey to local ownership, the model has already seeded others elsewhere, propagating this cycle of repair and transfer not just here, but everywhere, focusing on the underserved climates and less developed nations who cannot afford to start these hubs.
+The 10% Replication Fund ensures that as one hub completes its journey to local ownership, the model has already seeded others elsewhere, propagating this cycle of repair and transfer. The Modern Druid Central would prioritize starting hubs in new climatic zones and regions who cannot afford them, such as throughout the global south. The Local Replication Fund from profitable farms would be allocated in whatever locale as the farm's manager sees fit.
 
 ---
 
@@ -165,7 +165,7 @@ The **10% Local Replication Fund** is the masterstroke that solves the **Scale C
 **The Growth Math:**
 1.  **Hub 1** becomes profitable and allocates 10% of profits to its Replication Fund.
 2.  That fund, combined with promoted employees, launches **Hub 2**.
-3.  **Now two hubs** are generating Replication Funds, soon launching **Hubs 3 & 4**.
+3.  Once Hub 2 becomes profitable we have **two hubs** generating Replication Funds, soon launching **Hubs 3 & 4**.
 4.  The process repeats: **1 → 2 → 4 → 8 → 16...**
 
 This is **exponential, asset-based growth**, not linear fundraising. It is powered by the model's own profitability and the ambition of its workforce. Scaling is no longer limited by external capital or political will, but by the rate at which we can train new stewards—a constraint we control.
@@ -176,29 +176,9 @@ This is **exponential, asset-based growth**, not linear fundraising. It is power
 
 ### **3.5 The Integrated Flywheel: How the Model Becomes Unstoppable**
 
-The power of Modern Druid is not in any single component, but in their **synergistic integration**, creating a virtuous cycle that locks in success:
+The power of Modern Druid is not in any single component, but in their **synergistic integration**, creating a positive feedbacl cycle that continues to sequester more and more carbon. Syntropic agroforestry is used to grow biomass for biochar production alongside a food forest while growing soil. The biochar is inocculated using natural farming inputs created from local soils and environments, applied back to the land, increasing water retention, microbial habitat, plant growth, and soil carbon sequestration rates permanently. Crushed rock dust is spread with the biochar, once again increasing plant growth and consequently carbon sequestration rates. This in turn makes the land more fertile, growing more food, more biomass and sequestering more carbon year after year.
 
-```mermaid
-graph TD
-    A[Permanent Carbon Credits] --> B[Primary Revenue];
-    B --> C[Funds Agroforestry Establishment & Wages];
-    C --> D[Produces Biomass + Abundant Free Food];
-    D --> E[Biomass to Biochar, Food to Community];
-    E --> F[Community Saves $ > Credit Cost];
-    F --> G[Political/Social License Fortified];
-    G --> H[Profitability Achieved];
-    H --> I[10% Replication Fund Activated];
-    I --> J[Launches New Hub with Promoted Staff];
-    J --> K[Exponential Network Growth];
-    K --> A[More Carbon Removed, More Food Grown];
-    
-    style A fill:#e1f5e1
-    style D fill:#fff3e0
-    style F fill:#fce4ec
-    style I fill:#e3f2fd
-```
-
-This is the architecture of a solution that is **profitable, politically resilient, socially just, and exponentially scalable.** It is designed not just to work, but to be **impossible to stop.**
+This is the architecture of a solution that is **profitable, politically resilient, socially just, and exponentially scalable.** It is designed not just to work, but to be **impossible to stop.** Compete with free, healthy and organic or go out of business. Making people pay for the privelege of not starving no longer needs to be a valid business model. Time for a changing of the guard.
 
 ---
 
@@ -220,7 +200,7 @@ The first Modern Druid hub will be established in **Canada**, specifically targe
 **Why This Location is an Effective Proof-of-Concept:**
 
 1.  **Operational Practicality & Founder Presence:**
-    This is where the project's founder and initial team are based. Direct, on-the-ground oversight during the critical first years minimizes risk, accelerates iteration, and ensures tight integration between design and execution. Starting where we are is the simplest path to a functional first hub.
+    This is where the project's founder is based. Direct, on-the-ground oversight during the critical first years minimizes risk, accelerates iteration, and ensures tight integration between design and execution. Starting where we are is the simplest path to a functional first hub.
 
 2.  **A Balanced Climate Test:**
     Northern Ontario represents a **mid-latitude temperate climate** with cold winters and a moderate growing season. It is neither the most productive nor the most challenging environment on Earth. Succeeding here proves the model works under "average" constraints, providing a credible baseline for adaptation to both more favorable (tropics) and more extreme (arid, boreal) climates in later replication, with multiple growing zones in either direction elsewhere in the country.
@@ -269,7 +249,7 @@ This approach is **resilient, scalable, and biologically intelligent**. It's a b
 
 ### **B. Task: Convert Biomass into Permanent Carbon & Soil Amendment**
 
-**Objective:** Transform sustainably grown biomass into stable biochar, generating carbon credits and producing a soil amendment that accelerates the entire system—**within local environmental and regulatory constraints.**
+**Objective:** Transform sustainably grown biomass into stable biochar, generating carbon credits and producing a soil amendment that accelerates the entire system.
 
 | Subtask | Goal | Solution Approach 1 (Temperate Launch) | Alternative/Potential Solutions |
 | :--- | :--- | :--- | :--- |
@@ -286,7 +266,7 @@ This approach is **resilient, scalable, and biologically intelligent**. It's a b
 *   **Strategy is Context-Dependent:**  
     - **Rural/Agricultural Zones:** Often more flexible. Flame-cap kilns in an agricultural setting may be permissible as a "farm-scale nutrient recycling operation."  
     - **Urban Fringe/Strict Air Zones:** May require **fully enclosed, permitted pyrolysis systems** with emissions controls, changing the capital and operational model significantly.
-*   **The Business Case Adapts:** A switch to a cleaner, permitted kiln technology (e.g., retort) **increases capital cost but may also increase efficiency, credit yield, and social license.** The financial model must be robust enough to accommodate this potential cost variance.
+*   **The Business Case Adapts:** A switch to a cleaner, permitted kiln technology (e.g., retort) **increases capital cost but may also increase efficiency, credit yield, and social license.** The financial model must be robust enough to accommodate this potential cost variance for farms to operate in those areas.
 
 ---
 
@@ -349,13 +329,13 @@ A scalable model requires a realistic, staged build-out that respects soil biolo
 | **P1.4 – Central Work Building** | Build large insulated pole building (3,000 sq ft) for storage, processing, inputs. | **Contractor:** 30 days + **Support:** 20 days. | **Priority 1.** Provides workspace for P1.1, P1.6, P1.9. |
 | **P1.5 – CharHouse Construction** | Build open-sided pyrolysis barn per engineered fire-safe design. | **Contractor:** 20 days + **Support:** 15 days. | After work building. Needs engineering (A1). |
 | **P1.6 – Seedball Production** | Make seedballs (clay, compost, biochar, IMO, seeds) for sunflowers & perennials. | **30 person-days** | Requires IMO (P1.1) & workspace (P1.4). |
-| **P1.7 – Kiln Fabrication** | Build 4-6 insulated flame-cap kilns with tilting/quench systems. | **Fabricator:** 15 days + **Helper:** 15 days. | During/after CharHouse build. |
+| **P1.7 – Kiln Fabrication** | Build 8 insulated flame-cap kilns with tilting/quench systems. | **Fabricator:** 25 days + **Helper:** 25 days. | During/after CharHouse build. |
 | **P1.8 – Flail Mow & Seedball Spread** | Mow site, immediately broadcast seedballs into fresh mulch. | **10 person-days** | After MRV (P1.3) & seedballs ready (P1.6). |
 | **P1.9 – Inoculation, Rock Dust & Irrigation** | Tow sprayer & spreader: apply IMO/JMS drench + basalt rock dust (1-2 t/ha). | **7 person-days** | Immediately after planting (P1.8). |
 | **P1.10 – Waste-Stream Biochar Start** | Source forestry/ag waste; begin kiln runs when CharHouse ready. | **20 person-days** (ongoing) | Once CharHouse & kilns operational. |
 | **P1.11 – Sunflower Harvest & Bundling** | Cut stalks intact; bundle with twine for Year 2 feedstock. | **15 person-days** | Late fall, Year 1. |
 | **P1.12 – Project Management, PR & Admin** | Coordination, budget, partnerships, public outreach. | **~50 person-days** (ongoing) | Continuous. |
-| **Phase 1 Total Labour** | | **~212–227 person-days** (On-farm) ≈ **1.15–1.25 FTE-years** | Over 9–12 months. |
+| **Phase 1 Total Labour** | | **~222–237 person-days** (On-farm) ≈ **1.2–1.3 FTE-years** | Over 9–12 months. |
 
 ---
 
@@ -418,7 +398,7 @@ A scalable model requires a realistic, staged build-out that respects soil biolo
 ---
 
 ### **Phase 3 Labour & Compensation Model**
-**Core Principle:** 50% of all revenue goes to the **Employee Pool**, distributed under a strict **2:1 max pay ratio**.
+**Core Principle:** 50% of all revenue goes to the **Employee Pool**, distributed under a strict **2:1 max pay ratio** to prevent exploitation. Whatever wage scale used would be made across the company, regardless of location or gender. Modern Druid Central employees would make a higher wage to make up for not being eligible for land ownership transfer, from not having a farm to work on. A basic base pay would need to be decided on, this is just as an example. Basic guaranteed wage plus annual bonus pro rated based on earnings with the remainder of the employee share of revenue.
 
 **Example at $475,000 CAD Employee Pool (Mature Hub with Biochar Sales):**
 
@@ -433,12 +413,12 @@ A scalable model requires a realistic, staged build-out that respects soil biolo
 | **Totals** | **~13,240 hrs** | **Avg: ~$35.85/hr** | **~$474,600** |
 
 **Key Insights:**
-- **Dignified Entry Wage:** Stewards start at **~$25 CAD/hour ($45k/year)**, at least a starting living wage.
+- **Dignified Entry Wage:** Stewards start at **~$25 CAD/hour ($45k/year)**, start with a living wage.
 - **Equity:** The highest earner makes no more than **2×** the lowest.
 - **Growth Path:** As revenue increases (more credits, higher prices, expansion), hourly wages rise **or** hours decrease for same pay.
-- **Promotion:** Stewards can advance to specialized roles or **manage new hubs** at higher pay bands. Hub Manager prioritized highest to incentivize employees to run farms of their own.
+- **Promotion:** Cross training extensively, with the expectation that workers can advance to specialized roles or **manage new hubs** at higher pay bands. Hub Manager prioritized highest wage to incentivize employees to advance and run farms of their own.
 
-This model proves that permanent carbon removal can fund **equitable, year-round, green livelihoods** while healing the planet.
+This model shows that permanent carbon removal can fund **equitable, year-round, green livelihoods** while healing the planet.
 
 ---
 
@@ -446,7 +426,7 @@ This model proves that permanent carbon removal can fund **equitable, year-round
 
 | Phase | FTEs | Approx. Labour (Person-Years) | Total Labour Cost (Est. @ above rates) |
 | :--- | :--- | :--- | :--- |
-| **Phase 1** | 3 | 1.15–1.25 FTE-years | ~$250,000 CAD |
+| **Phase 1** | 3 | 1.2–1.3 FTE-years | ~$250,000 CAD |
 | **Phase 2** | 5 | 3.5–4.5 FTE-years (over 2-3 yrs) | ~$340,000 CAD/year |
 | **Phase 3** | 8 | 6.37 FTE-equivalent (13,240 hrs) | ~$475,000 CAD/year |
 
@@ -506,9 +486,9 @@ A proof-of-concept is only as strong as the data it generates. The flagship hub 
 **The Exponential Growth Proof**
 
 *   **What We Measure:** The **time elapsed** from hub launch to the accumulation of sufficient capital in the **10% Local Replication Fund** to seed the next satellite hub (assuming ~50% of startup costs are covered by the fund, with balance from local financing).
-*   **Validation Threshold:** Local Expansion Fund starts its first new farm, engaging the exponential growth curve.
-*   **Why It Matters:** Validates the **exponential growth model**. Proves the system can fund its own scaling from its own profits, crossing the "Gigatonne Chasm."
-*   **Measurement Protocol:** Tracking of the Replication Fund balance against a pre-defined satellite hub startup cost target.
+*   **Validation Threshold:** Local Expansion Fund starts its first new farm and fosters it to profitability, engaging the exponential growth curve.
+*   **Why It Matters:** Validates the **exponential growth model**. Proves the system can fund its own scaling from its own profits, letting us cross the "Gigatonne Chasm" with exponential growth.
+*   **Measurement Protocol:** The new farm runs profitably and has started to accumulate its own Local Expansion Fund.
 
 ---
 
@@ -533,7 +513,7 @@ Unlike conventional agriculture, which relies on costly synthetic inputs (fertil
 - **Seeds & Plants:** Primarily self-harvested via the on-site breeding program; bulk seed purchases minimal.
 - **Equipment & Fuel:** Routine maintenance and diesel for tractors – a standard agricultural cost.
 
-Consequently, **MRV is the single largest non-labour operational expense** – and it is a **deliberate, value-generating investment**. It is the cost of transforming biological processes into verifiable, high-integrity financial assets (carbon credits) and public scientific knowledge. This cost structure is a feature, not a bug: it shifts spending from **extractive inputs** to **verifiable outcomes**.
+Consequently, **MRV is the single largest non-labour operational expense** – and it is a **deliberate, value-generating investment**. It is the cost of transforming biological processes into verifiable, high-integrity financial assets (carbon credits) and public scientific knowledge.
 
 ---
 
@@ -594,7 +574,7 @@ Consequently, **MRV is the single largest non-labour operational expense** – a
 
 | Component | Protocol & Frequency | Standard / Regulation | Estimated Cost |
 | :--- | :--- | :--- | :--- |
-| **CFIA / Fertilizer Act Registration** | **One-time registration** + annual renewal. | **CFIA** – requires full characterization. | **$5,000 – $10,000** (one-time) + **$1,000/year** |
+| **CFIA (Canadian Food Inspection Agency) / Fertilizer Act Registration** | **One-time registration** + annual renewal. | **CFIA** – requires full characterization. | **$5,000 – $10,000** (one-time) + **$1,000/year** |
 
 ---
 
@@ -620,7 +600,7 @@ Consequently, **MRV is the single largest non-labour operational expense** – a
 
 This investment is not an optional burden; it is the **engine of financial and scientific return**. It enables:
 - **High-Value Credit Sales:** Rigorous MRV justifies premium pricing for bundled, SDG-aligned credits.
-- **Scientific & Public Trust:** The open dataset is a global public good, advancing restoration science.
+- **Scientific & Public Trust:** The open dataset is a global public good, advancing restoration science. No greenwashing, true carbon removal.
 - **Replication De-risking:** Provides a turnkey, proven MRV package for future hubs.
 
 **In summary, while MRV represents the largest non-labour operational cost, it directly generates the revenue and credibility that make the entire model viable. It replaces the conventional cost centre of chemical inputs with an investment in verifying planetary healing.**
@@ -651,7 +631,7 @@ All figures are in **Canadian Dollars (CAD)** unless otherwise stated.
 | **Surplus Biochar Sales** | 300 t × $800/t (avg. bulk) | **$240,000** | Secondary revenue. Pure margin on already-credited biochar. |
 | **Total Annual Revenue** | | **$964,587** | **Rounded to ~$965,000 CAD for modeling.** |
 
-**Conservative Note:** This uses **2025 spot prices**. Demand and regulation are likely to increase prices over the hub's lifetime. Revenue from **waste-stream tip fees** is excluded as a bonus.
+**Conservative Note:** This uses **2025 spot prices**. Demand and regulation are likely to increase prices over the hub's lifetime as climate driven disasters impact more and more of the world's population, but the price of carbon is subject to volatility.
 
 ---
 
@@ -694,7 +674,7 @@ All figures are in **Canadian Dollars (CAD)** unless otherwise stated.
 | **Earthworks & Water** | Swales, ponds, roads, parking. | **$120,000** | Contractor or equipment purchase. |
 | **Central Work Building** | 3,000 sq ft insulated pole building. | **$180,000** | For storage, processing, inputs. |
 | **CharHouse** | 1,500 sq ft open-sided pyrolysis barn. | **$75,000** | Fire-safe engineered design. |
-| **Kiln Fabrication (6 units)** | Insulated flame-cap with tilting/quench. | **$60,000** | Materials & fabrication. |
+| **Kiln Fabrication (8 units)** | Insulated flame-cap with tilting/quench. | **$80,000** | Materials & fabrication. |
 | **Irrigation System** | Frost-proof overhead grid, zones, pump. | **$200,000** | Major infrastructure. |
 | **Tractor & Implements** | 100 HP tractor, flail mower, spreader, etc. | **$120,000** | |
 | **Harvesting Equipment** | Skid-steer w/ shear, energy wood baler. | **$140,000** | Key for biomass handling. |
@@ -703,7 +683,7 @@ All figures are in **Canadian Dollars (CAD)** unless otherwise stated.
 | **MRV Baseline & Setup** | Soil coring rig, drone, lab analysis. | **$25,000** | One-time Year 0 cost. |
 | **Engineering & Design** | CharHouse, kiln, irrigation plans. | **$15,000** | MDC overhead (reusable). |
 | **Contingency (15%)** | | **$285,000** | |
-| **Total Estimated CapEx** | | **$2,150,000 CAD** | |
+| **Total Estimated CapEx** | | **$2,170,000 CAD** | |
 
 #### **Phased Operating Capital (Runway) – Years 0–3**
 Funds labour and OPEX before credit revenue reaches sustainable levels.
@@ -737,7 +717,7 @@ Funds labour and OPEX before credit revenue reaches sustainable levels.
 - **50% Employee Pool:** ~$482,500 (wages)
 - **30% Local Development Fund:** ~$289,500 (covers all OPEX + debt/land expansion)
 - **10% Local Replication Fund:** ~$96,500 (seeds next hub, which can be started cheaper since equipment can be loaned)
-- **10% MDC Royalty:** ~$96,500 (funds global R&D, open-source)
+- **10% MDC Royalty:** ~$96,500 (funds global operations, R&D, open-sourced training)
 
 **Payback Period:** ~7–8 years on the total $4M seed investment, based on profit + replication fund accumulation.
 
@@ -773,7 +753,7 @@ An initial investment of **$4 million CAD** seeds not only a single carbon-remov
 
 The Modern Druid Project is a **holistic sustainable development platform**. Its integrated design delivers measurable progress against the majority of the UN's Sustainable Development Goals from its inception. This alignment is **engineered into the core model** by solving the crises of carbon, food, and inequality simultaneously.
 
-**Impact Summary:** The project directly delivers **12 of the 17 SDGs at launch**. The remaining 5 are targeted through its R&D and scaling pathways. That's right, this project literally intends to target each and every one of the UN SDGs in its long term goals.
+**Impact Summary:** The project directly delivers **12 of the 17 SDGs at launch**. The remaining 5 are targeted through its R&D and scaling pathways. That's right, this project literally intends to target each and every one of the UN SDGs in its long term goals. So many options open up when you just stop being greedy and let people pick their own damn food.
 
 ---
 
@@ -784,19 +764,19 @@ These goals are met as **core, measurable outcomes** of the operational model.
 | SDG | Goal | Modern Druid Contribution (How & Why) |
 | :--- | :--- | :--- |
 | **1. No Poverty** | End poverty. | **Cuts cost of living** via free food. Creates **dignified jobs** with a path to land ownership. |
-| **2. Zero Hunger** | End hunger. | **Permanent, free-access food forests.** "Pick-your-own" ensures food security. |
+| **2. Zero Hunger** | End hunger. | **Free-access food forests.** "Pick-your-own" ensures food security. |
 | **3. Good Health** | Ensure healthy lives. | Chemical-free, nutrient-dense food. Improved air/water quality from drawdown & filtration. |
 | **5. Gender Equality** | Achieve gender equality. | Constitutional **equitable pay scales** enforced by the 2:1 wage ratio regardless of gender. |
 | **6. Clean Water** | Ensure clean water. | **Zero toxic runoff** + biochar filtration → cleaner outflow than inflow. |
 | **8. Decent Work** | Promote economic growth. | **Year-round green jobs** with living wages, benefits, ownership pathways. |
-| **9. Industry & Innovation** | Build resilient infrastructure. | **Open-source, climate-positive infrastructure.** A hub for a new economic model. |
+| **9. Industry & Innovation** | Build resilient infrastructure. | **Open-source, climate-positive infrastructure.** A hub for a new economic model for agriculture. |
 | **10. Reduced Inequality** | Reduce inequality. | **Global living wage** via borderless carbon markets. Strict internal pay ratio. |
 | **11. Sustainable Communities** | Make cities inclusive & resilient. | Food forests as **public green commons, climate refuges, and social hubs**. |
 | **12. Responsible Consumption** | Ensure sustainable consumption. | **Circular, hyper-local system.** Zero food miles, near zero waste. |
 | **13. Climate Action** | Combat climate change. | **Core mission:** 35–40 t CO₂e/ha/yr of **permanent, verified removal**. |
-| **15. Life on Land** | Protect ecosystems. | **Explosive biodiversity**, soil regeneration, dedicated wildlife corridors. |
+| **15. Life on Land** | Protect ecosystems. | **Explosive biodiversity**, soil regeneration, dedicated wildlife corridors, living seed bank. |
 
-**Catalyst for Local Enterprise:** The **abundant free food** explicitly enables local entrepreneurship. Once community food security is met, surplus can be harvested to start value-added businesses (jams, ciders, baked goods, dried fruit). We do not monetize the food ourselves, but we **actively encourage and celebrate** the local economic diversification this abundance makes possible.
+**Catalyst for Local Enterprise:** The **abundant free food** explicitly enables local entrepreneurship. Once community food security is met, surplus can be harvested to start value-added businesses (jams, ciders, baked goods, dried fruit) or sold. We do not monetize the food ourselves, but we **actively encourage and celebrate** the local economic diversification this abundance makes possible.
 
 ---
 
@@ -809,8 +789,8 @@ The remaining goals are targeted through the project's **R&D pipeline, strategic
 | **4. Quality Education** | Inclusive education. | **Modern Druid Academy:** Open-source training in carbon farming, agroforestry, natural farming. |
 | **7. Affordable Clean Energy** | Access to clean energy. | **R&D:** Syngas capture from pyrolysis; solar/wind microgrid integration at hubs. |
 | **14. Life Below Water** | Conserve oceans. | **R&D & Expansion:** "Blue Druid" pilots (kelp farming for biochar, marine permaculture, blue carbon). |
-| **16. Peace & Justice** | Just, peaceful societies. | **Scale-Dependent Collaboration:** Partner with NGOs to audit ethical governance & land-transfer; **demonstrate a just transition funded by polluters, with primary benefits accruing to local populations.** |
-| **17. Partnerships** | Strengthen implementation. | **Inherent & Catalytic:** Achieved through **open-source replication** and global partnerships (governments, NGOs, communities) to deploy the "Hub-in-a-Box" model. |
+| **16. Peace & Justice** | Just, peaceful societies. | **Scale-Dependent Collaboration:** Partner with NGOs to audit ethical governance & land-transfer; **demonstrate a just transition funded by polluters, with primary benefits accruing to local populations, including food security.** |
+| **17. Partnerships** | Strengthen implementation. | **Inherent & Catalytic:** Achieved through **open-source replication**, global partnerships (governments, NGOs, communities), and our own exponential growth rate to deploy the "Hub-in-a-Box" model worldwide. |
 
 ---
 
@@ -834,7 +814,7 @@ The Modern Druid Project is a living system, designed to evolve. **Modern Druid 
 
 | Priority | Research Objective | Expected Outcome & Impact |
 | :--- | :--- | :--- |
-| **1. Directed Plant Breeding & Seedball Optimization** | Systematically select best performing biomass and food crops for high biomass yield, high food yield, best flavour, deep rooting, pest resistance, and synergy with biochar-rich soils. | **Increased biomass/credit yield per hectare.** More resilient genetics for global replication. **Open-source seed library.** |
+| **1. Directed Plant Breeding & Seedball Optimization** | Systematically select best performing biomass and food crops for high biomass yield, high food yield, best flavour, deep rooting, pest resistance, and synergy with biochar-rich soils. To develop locally adapted genetic lines for each of our plants. | **Increased biomass/credit yield per hectare.** More resilient genetics for global replication. **Open-source seed library.** |
 | **2. Advanced Microbial Consortia** | Optimize recipes for JMS, IMO, and Johnson-Su compost to accelerate soil aggregation, suppress pathogens, and boost plant growth/carbon exudation. | **Faster soil development → higher SOC credits.** Reduced plant stress → higher survival/yields. **Public input recipes.** |
 | **3. Kiln Efficiency & Syngas Capture Prototyping** | Improve kiln insulation and design for reduced cycle time/fuel use. Begin R&D into capturing and utilizing syngas for thermal energy (drying biomass, heating buildings). | **Lower operational costs.** First step toward energy independence. **Improved kiln designs for open-source kit.** |
 | **4. Integrated MRV Automation** | Develop drone + AI pipelines for automated biomass tracking, plant health monitoring, and early-stage soil carbon modeling. | **Drastically reduced MRV labour/time cost.** More frequent, cheaper verification. |
@@ -872,7 +852,7 @@ The Modern Druid Project is a living system, designed to evolve. **Modern Druid 
 1.  **Fund:** R&D fund comes from the 10% MDC royalty that funds the Modern Druid Central.
 2.  **Research:** MDC conducts focused R&D in partnership with universities, research institutes, and on-site at hubs.
 3.  **Validate:** All findings are tested and validated in real-world hub conditions.
-4.  **Open-Source:** Successful protocols, designs, and data are added to the **Modern Druid Replication Toolkit**.
+4.  **Open-Source:** Successful protocols, designs, and data are added to the **Modern Druid Replication Toolkit**, which is freely accessible to the public.
 5.  **Deploy:** New knowledge is immediately integrated into the "Hub-in-a-Box" service for partners and the next generation of hubs.
 6.  **Scale:** Improved efficiency and new capabilities accelerate replication and increase total planetary impact.
 
@@ -896,7 +876,7 @@ This section outlines the three-phase scaling strategy designed to cross the **g
     1.  Achieve **Financial Profitability** (Target 2).
     2.  Demonstrate **Food Production Parity** (Target 3) and **Community Net Benefit** (Target 4).
     3.  Generate the **irrefutable, open-source dataset** (yields, MRV, costs) that de-risks replication.
-    4.  Accumulate the first **10% Replication Fund**.
+    4.  Start the first new farm.
 *   **Scalability Output:** The **Modern Druid Replication Toolkit**—a complete open-source package of blueprints, workflows, financial models, and legal templates. This unlocks capital and ambition for Phase 2.
 
 ---
@@ -923,13 +903,13 @@ This section outlines the three-phase scaling strategy designed to cross the **g
 
 ### **8.4 The Ultimate Integration: A Managed Planetary Transition**
 
-True gigatonne scale (billions of tonnes CO₂ per year) means a coordinated global pivot. Our model provides the **profitable, socially-viral unit** needed to orchestrate this transition across four fronts, paced by proven biological ramp-up rates to avoid food supply shocks.
+True gigatonne scale (billions of tonnes CO₂ per year) means a coordinated global pivot. Our model provides the **profitable, socially-viral unit** needed to orchestrate this transition across four fronts, paced by proven biological ramp-up rates to avoid food supply shocks. For a sense of scale, 1 ppm/yr atmospheric reduction requires ~7.8 Gt CO₂/yr removal.
 
 1.  **Convert Existing Farmland (Paced by Proven Yields):**
     *   **Global Cropland:** ~1.6 billion hectares.
     *   **Our Removal Rate:** 35–40 t CO₂/ha/yr.
     *   **Theoretical Max Potential:** ~60 Gt CO₂/yr removed if fully converted.
-    *   **For 1 ppm/yr atmospheric reduction:** Requires ~7.8 Gt CO₂/yr removal → **~208 million hectares** (13% of global cropland).
+    *   **For 1 ppm/yr atmospheric reduction:** ~208 million hectares (**13% of global cropland**).
 
 2.  **Rehabilitate Degraded/Marginal Lands:**
     *   **Global Degraded Land:** ~2 billion hectares (UNCCD).
@@ -955,7 +935,7 @@ But gigaton scale isn't good enough, not any more, we're past that. We need to r
 When global abundance from Modern Druid networks begins to **reduce food costs and address carbon demand**, the economic and political calculus flips.
 
 *   **From Voluntary to Systemic:** As the model proves it is **cheaper for communities than the status quo**, it builds a coalition of the willing—from mayors to finance ministers—that can lobby for **integrated carbon-food policies** and a **guaranteed global carbon price** backed by our proven data.
-*   **The Self-Terminating Vehicle:** The project's goal is **obsolescence at the hub level.** After ~20 years, the land is transferred to its stewards. After ~50 years, the atmosphere is stabilized. **We are building a temporary, self-dissolving scaffold for a just transition, not a perpetual corporation.**
+*   **The Self-Terminating Vehicle:** The project's goal is **obsolescence at the hub level.** After ~20 years, the land is transferred to its stewards. After ~100 years, the atmosphere is stabilized. **We are building a temporary, self-dissolving scaffold for a just transition, not a perpetual corporation.**
 
 **Conclusion: Abundance in an Age of Collapse**
 We are building the food system that fixes the climate. The expansion rate is capped only by how fast we can train stewards and how fast society can say "yes" to a proven, profitable, and generous alternative.
@@ -1050,7 +1030,7 @@ We have moved beyond prevention. We are in the age of **repair and resilience.**
 We have demonstrated that by **inverting the economic logic of scarcity**, we can solve multiple crises at once:
 1.  **Make Carbon Removal Profitable:** By stacking biochar, enhanced rock weathering, and deep soil carbon, we create a **powerful financial engine** from permanent atmospheric repair.
 2.  **Create Abundance by Refusing Scarcity:** By giving all food away for free, we eliminate the most costly part of agriculture, build unbreakable community bonds, and prove that **abundance is a design choice.**
-3.  **Build Justice into the Architecture:** Through the constitutional 50/30/10/10 rule, a strict 2:1 wage ratio, and a defined path to land ownership for stewards, we ensure the wealth generated heals both the planet and its people.
+3.  **Build Justice into the Architecture:** Through the constitutional 50/30/10/10 rule, a strict 2:1 wage ratio, and a defined path to land ownership for stewards, we bring the money from the polluters to the people.
 
 ### **The Proof is in the Plan**
 Sections 4 through 9 provide a **granular, defensible, and actionable plan** to turn this vision into reality:
@@ -1066,7 +1046,7 @@ Sections 4 through 9 provide a **granular, defensible, and actionable plan** to 
 The numbers work. The science is sound. The need is undeniable.
 
 ### **The Call**
-We stand at a rare moment: the convergence of **trillion-tonne need, maturing carbon markets, and proven biological and geological techniques.** All that is missing is the courageous first step to integrate them at scale.
+We stand at a rare moment: the convergence of **trillion-tonne need, maturing carbon markets, and proven biological and geological techniques.** All that is missing is the courageous first step to integrate them at scale. Dare to solve the problem.
 
 We are not asking for permission to fix the world. We are building the lifeboat.
 
@@ -1078,12 +1058,10 @@ We are not asking for permission to fix the world. We are building the lifeboat.
 
 When the inevitable climate disasters intensify and the world finally scrambles for real solutions, let us not be caught with only plans and pitches. **Let us have a hub—already running, already removing carbon, already feeding people—ready to replicate as fast as the world can say "yes."**
 
-The Modern Druid Project is that hub. The blueprint is complete. The team is ready.
-
-**Let's build it.**
+The Modern Druid Project is that hub. Here's the blueprint. Any takers?
 
 Robert McCarthy<br/>
 January 2026  
---Garden like a boss, have fancy bonfires, and share abundance.--
+--Garden like a boss, have fancy bonfires, and share abundance. Saving the world doesn't have to be complicated.--
 
 robert.mccarthy.ca@member.mensa.org

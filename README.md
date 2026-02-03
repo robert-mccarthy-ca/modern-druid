@@ -84,7 +84,72 @@ This isn't intended to be a charity or a niche carbon project. This is meant to 
 
 ---
 
-### **3.0 The Modern Druid Model: An Integrated Engine for Permanent Solutions**
+### **3.0 Constitutional Governance & Corporate Structure: Locking In Equity, Scalability, and the Mission**
+
+The Modern Druid model's integrity depends on a governance architecture that is as engineered and resilient as its agroforestry systems. This section details the legal and financial structures designed to make the project's ethical and ecological goals **legally immutable**, ensuring it remains a self-replicating engine for repair, not a vehicle for extraction.
+
+The structure consists of two interdependent legal entities: the **Hub Cooperatives/Trusts** and **Modern Druid Central (MDC)**.
+
+---
+
+#### **3.1 The Hub Entity: A Time-Bound Stewardship Cooperative**
+
+Each 100-hectare hub is structured as a **for-profit, mission-locked cooperative or community land trust**. Its constitutional rules are designed for a 20-25 year lifecycle, culminating in the transfer of the land asset to its stewards.
+
+**A. The Foundational Rule: The 50/30/10/10 Profit Allocation**
+This rule activates upon the hub achieving operational profitability (revenue > all operational costs).
+*   **50% - Employee Pool:** Distributed as wages and bonuses per the **Unified Compensation Architecture** (see Section 3.2).
+*   **30% - Local Development Fund:** Covers all non-labour operational costs (MRV, inputs, maintenance, taxes, insurance) and services debt. Surplus is used for land expansion or infrastructure improvements.
+*   **10% - Local Replication Fund:** Reserved to seed a new satellite hub, managed by the hub's senior stewards. This is the engine of exponential, asset-based growth. The hub's equipment and infrastructure is used to bootstrap the new sites, which would eventually buy their own equipment and becomes hubs themselves.
+*   **10% - Modern Druid Central Royalty:** Paid to MDC for ongoing R&D, the open-source toolkit, global support, and seeding hubs in underserved regions.
+
+**B. The Defined End-State: From Stewards to Owners**
+The hub entity has a built-in sunset clause. After a period aligned with its core carbon crediting commitment (~20-25 years), the **improved land and fixed infrastructure are transferred** to the employee-stewards. Distribution is pro-rata based on tenure and total wages earned on that land, turning workers into land-owning farmers of a fertile, climate-resilient asset.
+
+**C. Wages & Bonus Structure: The Unified Compensation Architecture**
+*   **Minimum Wage Threshold (MWT):** A regional living wage (e.g., $20 CAD/hour) forms the basis of all calculations.
+*   **Base Wages:** Set as multiples of the MWT based on role and tenure (Steward: 1.0-1.25x; Specialist: 1.5-1.75x; Manager: 2.0x).
+*   **Profit-Sharing Bonus:** Upon profitability, the surplus in the 50% Employee Pool is distributed as a **bonus per "Base Hour."** Each employee's contribution is weighted by their base wage multiplier and actual hours worked. **You must work to share in the success.**
+*   **Equity Cap:** A strict 2:1 ratio is maintained between the highest and lowest total compensation (base + bonus) in the hub.
+
+---
+
+#### **3.2 Modern Druid Central (MDC): The Mission-Holding Support Entity**
+
+MDC would be a **B-Certified for-profit corporation** that holds the blueprint, IP, and global mission. It exists solely to serve, seed, and support the hub network. Its charter includes **legally binding "mission lock" provisions** that cannot be amended without a supermajority vote, protecting the core model from dilution.
+
+**A. MDC's Roles & Funding**
+1.  **R&D & Blueprint Stewardship:** Develops and maintains the open-source replication toolkit.
+2.  **"Hub-in-a-Box" Service Provider:** Offers turnkey development for partners (primary revenue source for growth).
+3.  **Network Support:** Provides carbon market, legal, and operational support to hubs.
+4.  **Global Seeding:** Uses royalties and service profits to fund hubs in disadvantaged regions and new climate zones.
+
+**B. MDC Compensation: Aligned with the Network**
+MDC staff do not receive hub land equity. Their compensation is therefore structured for alignment and fairness:
+*   **Base Wage:** `Individual Hub Base Wage (per role) * 1.5`. A 50% premium acknowledges specialized skills and lack of land equity.
+*   **Performance Bonus:** Tied directly to hub success. MDC employees earn a bonus **equal to the "Base Hour Bonus" earned by employees of profitable hubs.** Their bonus per hour is calculated using their MDC Base Hour Contribution (their base wage multiplier x hours worked).
+*   **Equity Gap Capped:** A strict 2:1 ratio is maintained between the highest and lowest total compensation (base + bonus) same as in the hubs.
+
+**C. MDC's Path to Sustainability & Profit**
+*   **Phase 1 (Years 0-3):** Funded by a **"Development Fee"** included in the seed capital for the first hub.
+*   **Phase 2 (Years 3-5):** Funded by **"Hub-in-a-Box" service fees** from strategic partners and growing **10% royalties** from the first profitable hubs.
+*   **Phase 3 (Year 5+):** Core operations covered by aggregated royalties. "Hub-in-a-Box" profits fund expansion and R&D.
+*   **Dividend Restriction:** MDC's charter prohibits the distribution of profits (dividends) to investors until *after* the core planetary milestone (two consecutive years of declining atmospheric CO₂ and global temperatures) is achieved. Prior retained earnings are reinvested in R&D and seeding more hubs globally.
+
+---
+
+#### **3.3 The Integrated Legal Firewall**
+
+This two-entity structure creates a protective firewall:
+*   **Risk Isolation:** Each hub is its own legal and financial entity. The failure of one does not jeopardize others or MDC.
+*   **Mission Preservation:** MDC's charter locks the core rules (50/30/10/10, land transfer, open-source). Hubs license the model from MDC under agreements that bind them to these principles.
+*   **Scalability:** New hubs can be formed as cooperatives, LLCs, or trusts suitable to their local jurisdiction, all adhering to the constitutional blueprint stewarded by MDC.
+
+**Conclusion:** This governance model is the antithesis of economic colonialism. We do not extract and leave. We **invest, empower, replicate, and transfer ownership.** The structure is designed not for perpetual corporate growth, but for **its own eventual dissolution** upon the successful restoration of a stable climate, food security, and thriving local communities.
+
+---
+
+### **4.0 The Modern Druid Model: An Integrated Engine for Permanent Solutions**
 
 The Modern Druid Project is not a collection of separate sustainability initiatives. It is a single, engineered system designed from first principles to act as an **integrated solution engine**—turning the four interlocking crises of Carbon, Food, Inequality, and Scale into a self-reinforcing cycle of regeneration.
 
@@ -92,7 +157,7 @@ Each component is necessary and mutually reinforcing. Remove one, and the system
 
 ---
 
-### **3.1 The Carbon Removal Engine: Making Atmosphere Repair Profitable**
+### **4.1 The Carbon Removal Engine: Making Atmosphere Repair Profitable**
 **The Core Economic Mechanism**
 
 To solve the **Carbon Crisis**, we must make permanent drawdown more profitable than extraction. We achieve this not with a single method, but with a **stacked, verifiable carbon removal system** that generates the primary revenue for the entire project.
@@ -108,7 +173,7 @@ To solve the **Carbon Crisis**, we must make permanent drawdown more profitable 
 
 ---
 
-### **3.2 The Food Abundance Commons: Ending Scarcity by Refusing to Monetize It**
+### **4.2 The Food Abundance Commons: Ending Scarcity by Refusing to Monetize It**
 **The Social & Logistical Breakthrough**
 
 To solve the **Food System Crisis**, we must decouple nutrition from commodity logistics. Our radical premise: **All fruit, nuts, berries, and perennial vegetables are free, pick-your-own for the community.**
@@ -123,7 +188,7 @@ To solve the **Food System Crisis**, we must decouple nutrition from commodity l
 
 ---
 
-### **3.3 The Stewardship & Ownership Model: A Time-Bound Vehicle for Land Justice**
+### **4.3 The Stewardship & Ownership Model: A Time-Bound Vehicle for Land Justice**
 **The Governance Backbone (B-Corp from Day One)**
 
 To solve the **Inequality Crisis**, wealth and ownership must be hard-coded into the system's DNA. Modern Druid is not structured as a permanent, land-owning corporation. It is a **time-bound transition vehicle** designed to heal land, distribute wealth, and then transfer ownership to the stewards who did the work.
@@ -157,7 +222,7 @@ The 10% Replication Fund ensures that as one hub completes its journey to local 
 
 ---
 
-### **3.4 The Exponential Replication Engine: Closing the Gigatonne Chasm**
+### *4.4 The Exponential Replication Engine: Closing the Gigatonne Chasm**
 **The Built-In Scale Mechanism**
 
 The **10% Local Replication Fund** is the masterstroke that solves the **Scale Crisis**. It transforms each profitable hub from an endpoint into a **node of exponential growth**. If you want an exponential growth curve, make it self-replicate, same as in biology.
@@ -174,7 +239,7 @@ This is **exponential, asset-based growth**, not linear fundraising. It is power
 
 ---
 
-### **3.5 The Integrated Flywheel: How the Model Becomes Unstoppable**
+### **4.5 The Integrated Flywheel: How the Model Becomes Unstoppable**
 
 The power of Modern Druid is not in any single component, but in their **synergistic integration**, creating a positive feedbacl cycle that continues to sequester more and more carbon. Syntropic agroforestry is used to grow biomass for biochar production alongside a food forest while growing soil. The biochar is inocculated using natural farming inputs created from local soils and environments, applied back to the land, increasing water retention, microbial habitat, plant growth, and soil carbon sequestration rates permanently. Crushed rock dust is spread with the biochar, once again increasing plant growth and consequently carbon sequestration rates. This in turn makes the land more fertile, growing more food, more biomass and sequestering more carbon year after year.
 
@@ -182,7 +247,7 @@ This is the architecture of a solution that is **profitable, politically resilie
 
 ---
 
-### **4.0 Proof of Concept: The 100-Hectare Canadian Flagship Hub**
+### **5.0 Proof of Concept: The 100-Hectare Canadian Flagship Hub**
 
 The theoretical model must be proven under the most demanding real-world conditions. The first **Modern Druid Flagship Hub** will be established on **100 hectares (250 acres) in Canada**. This location is a deliberate **extreme stress test** chosen to prove the model's robustness under two specific, significant pressures:
 
@@ -193,7 +258,7 @@ If the model can succeed here, its replication in more favorable climates is de-
 
 ---
 
-### **4.1 Site Rationale: A Strategic First Location**
+### **5.1 Site Rationale: A Strategic First Location**
 
 The first Modern Druid hub will be established in **Canada**, specifically targeting a **100-hectare (250-acre) site in Northern Ontario**. This choice is strategic, not arbitrary; it provides a balanced, rigorous, and pragmatic environment to prove the model's core viability.
 
@@ -218,7 +283,7 @@ The first Modern Druid hub will be established in **Canada**, specifically targe
 
 ---
 
-### **4.2 System Blueprint: A Modular Problem-Solution Framework**
+### **5.2 System Blueprint: A Modular Problem-Solution Framework**
 
 The Modern Druid model is not a fixed prescription. It is a **set of integrated functions** that must be fulfilled. This section defines each core task, its objective, and presents **viable implementation options**—starting with a cost-effective, temperate-climate approach. The goal is to provide a clear framework where any component can be improved or adapted locally without breaking the integrated system.
 
@@ -294,7 +359,7 @@ This approach is **resilient, scalable, and biologically intelligent**. It's a b
 
 ---
 
-# **4.3 Realistic Labour Model & Phased Implementation**
+# **5.3 Realistic Labour Model & Phased Implementation**
 
 A scalable model requires a realistic, staged build-out that respects soil biology, labour capacity, and capital flow. This section outlines the **three distinct phases** of hub development—from degraded/marginal land to a mature, productive system—with detailed labour estimates, staffing progression, and a transparent compensation model.
 
@@ -436,7 +501,7 @@ This phased, quantified labour model demonstrates a **realistic, people-powered 
 
 ---
 
-# **4.4 Empirical Targets for Validation**
+# **5.4 Empirical Targets for Validation**
 
 A proof-of-concept is only as strong as the data it generates. The flagship hub is designed to test the core hypothesis through **five measurable, non-negotiable targets**. Success is defined as meeting or exceeding these thresholds within a defined timeline. All data will be collected, managed in an open-source MRV database, and publicly reported to ensure transparency and replicability.
 
@@ -500,7 +565,7 @@ This rigorous, multi-criteria framework ensures the model is validated not just 
 
 ---
 
-# **4.5 Rigorous MRV Protocol & Associated Costs**
+# **5.5 Rigorous MRV Protocol & Associated Costs**
 
 The financial and environmental integrity of the Modern Druid Project rests on a robust, transparent, and defensible Monitoring, Reporting, and Verification (MRV) framework. This protocol is designed to meet the highest standards of leading carbon registries while providing a public dataset that validates the model's core claims. All MRV data will be managed in an open-source database.
 
@@ -569,7 +634,7 @@ Consequently, **MRV is the single largest non-labour operational expense** – a
 
 ---
 
-### **5. Product Compliance & Safety Testing (Non-MRV, but Essential)**
+### **6. Product Compliance & Safety Testing (Non-MRV, but Essential)**
 **Objective:** Ensure biochar is safe and marketable for agricultural use.
 
 | Component | Protocol & Frequency | Standard / Regulation | Estimated Cost |
@@ -607,7 +672,7 @@ This investment is not an optional burden; it is the **engine of financial and s
 
 ---
 
-# **5.0 Financial Viability & Projections**
+# **6.0 Financial Viability & Projections**
 
 The Modern Druid model is designed not as a charitable endeavor, but as a **profitable, self-replicating engine**. This section provides transparent, conservative financial projections based on the detailed operational model (Section 4), current carbon market prices (December 2025), and realistic cost estimates for a 100-hectare flagship hub in Canada.
 
@@ -615,7 +680,7 @@ All figures are in **Canadian Dollars (CAD)** unless otherwise stated.
 
 ---
 
-### **5.1 Revenue Model – Mature Hub (Year 5+)**
+### **6.1 Revenue Model – Mature Hub (Year 5+)**
 
 **Assumptions:**
 - **Conservative Carbon Prices (Dec 2025 Spot):** Biochar: **$203.18/t**, ERW: **$212.66/t**, Soil Carbon: **$120/t** (premium for SDGs).
@@ -635,7 +700,7 @@ All figures are in **Canadian Dollars (CAD)** unless otherwise stated.
 
 ---
 
-### **5.2 Operational Costs – Mature Hub (Year 5+)**
+### **6.2 Operational Costs – Mature Hub (Year 5+)**
 
 **Core Principle:** The **50% Employee Pool** covers all wages and benefits. The **30% Local Development Fund** covers all other operational costs.
 
@@ -664,7 +729,7 @@ All figures are in **Canadian Dollars (CAD)** unless otherwise stated.
 
 ---
 
-### **5.3 Startup Capital & Phased Investment (Year 0–3)**
+### **6.3 Startup Capital & Phased Investment (Year 0–3)**
 
 **One-Time Capital Expenditure (CapEx) for 100-ha Hub**
 
@@ -703,7 +768,7 @@ Funds labour and OPEX before credit revenue reaches sustainable levels.
 
 ---
 
-### **5.4 Path to Profitability & Key Financial Milestones**
+### **6.4 Path to Profitability & Key Financial Milestones**
 
 | Year | Key Activities | Revenue (CAD) | Costs (CAD) | Net (CAD) | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -723,7 +788,7 @@ Funds labour and OPEX before credit revenue reaches sustainable levels.
 
 ---
 
-### **5.5 Sensitivity & De-Risking Factors**
+### **6.5 Sensitivity & De-Risking Factors**
 
 | Factor | Impact on Model | Mitigation / Upside |
 | :--- | :--- | :--- |
@@ -735,7 +800,7 @@ Funds labour and OPEX before credit revenue reaches sustainable levels.
 
 ---
 
-### **5.6 Conclusion: A Viable, Scalable Financial Engine**
+### **6.6 Conclusion: A Viable, Scalable Financial Engine**
 
 The numbers confirm the hypothesis: a **100-hectare Modern Druid hub can be cash-flow positive by Year 4** and generate **~$965,000 in annual revenue at maturity** under conservative 2025 market conditions.
 
@@ -749,7 +814,7 @@ An initial investment of **$4 million CAD** seeds not only a single carbon-remov
 
 ---
 
-# **6.0 UN Sustainable Development Goal (SDG) Impacts**
+# **7.0 UN Sustainable Development Goal (SDG) Impacts**
 
 The Modern Druid Project is a **holistic sustainable development platform**. Its integrated design delivers measurable progress against the majority of the UN's Sustainable Development Goals from its inception. This alignment is **engineered into the core model** by solving the crises of carbon, food, and inequality simultaneously.
 
@@ -757,7 +822,7 @@ The Modern Druid Project is a **holistic sustainable development platform**. Its
 
 ---
 
-### **6.1 Direct SDG Impacts from Launch (12 Goals)**
+### **7.1 Direct SDG Impacts from Launch (12 Goals)**
 
 These goals are met as **core, measurable outcomes** of the operational model.
 
@@ -780,7 +845,7 @@ These goals are met as **core, measurable outcomes** of the operational model.
 
 ---
 
-### **6.2 Pathway to Achieving the Remaining 5 SDGs**
+### **7.2 Pathway to Achieving the Remaining 5 SDGs**
 
 The remaining goals are targeted through the project's **R&D pipeline, strategic scaling, and inherent partnership model**.
 
@@ -794,7 +859,7 @@ The remaining goals are targeted through the project's **R&D pipeline, strategic
 
 ---
 
-### **6.3 Conclusion: A Sustainable Development Offset**
+### **7.3 Conclusion: A Sustainable Development Offset**
 
 This profound SDG alignment transforms Modern Druid credits into a **Sustainable Development Offset**. Buyers are not just purchasing carbon removal; they are funding **measurable, multi-dimensional progress across the world's most pressing humanitarian and environmental agendas.**
 
@@ -802,13 +867,13 @@ This profound SDG alignment transforms Modern Druid credits into a **Sustainable
 
 ---
 
-# **7.0 Future Growth (Research & Development)**
+# **8.0 Future Growth (Research & Development)**
 
 The Modern Druid Project is a living system, designed to evolve. **Modern Druid Central (MDC)**, funded by the 10% royalty from profitable hubs, drives a continuous innovation pipeline. This R&D is not speculative; it is **mission-directed engineering** focused on increasing carbon drawdown rates, expanding into new ecosystems, improving efficiency, and unlocking new pathways to cross the gigatonne chasm.
 
 ---
 
-### **7.1 Near-Term R&D (Years 1-5): Enhancing the Core Model**
+### **8.1 Near-Term R&D (Years 1-5): Enhancing the Core Model**
 
 *Focus: Optimize the flagship hub's performance and de-risk replication.*
 
@@ -821,7 +886,7 @@ The Modern Druid Project is a living system, designed to evolve. **Modern Druid 
 
 ---
 
-### **7.2 Medium-Term R&D (Years 3-7): System Expansion & Diversification**
+### **8.2 Medium-Term R&D (Years 3-7): System Expansion & Diversification**
 
 *Focus: Adapt the model to more challenging environments and new biomass streams.*
 
@@ -834,7 +899,7 @@ The Modern Druid Project is a living system, designed to evolve. **Modern Druid 
 
 ---
 
-### **7.3 Long-Term & Frontier R&D (Years 5-15): Next-Generation Platforms**
+### **8.3 Long-Term & Frontier R&D (Years 5-15): Next-Generation Platforms**
 
 *Focus: Push the boundaries of land restoration and carbon removal scale.*
 
@@ -847,7 +912,7 @@ The Modern Druid Project is a living system, designed to evolve. **Modern Druid 
 
 ---
 
-### **7.4 The R&D Flywheel: From Knowledge to Global Impact**
+### **8.4 The R&D Flywheel: From Knowledge to Global Impact**
 
 1.  **Fund:** R&D fund comes from the 10% MDC royalty that funds the Modern Druid Central.
 2.  **Research:** MDC conducts focused R&D in partnership with universities, research institutes, and on-site at hubs.
@@ -860,7 +925,7 @@ This R&D pipeline ensures the Modern Druid Project remains at the **forefront of
 
 ---
 
-# **8.0 Scaling: The Path to a Stabilized Planet**
+# **9.0 Scaling: The Path to a Stabilized Planet**
 
 The Modern Druid model is not a pilot to be studied; it is a **blueprint for exponential, self-replicating impact**. Its ultimate mission—to rebalance the atmosphere at a climatically-relevant scale—rests on proving that a profitable unit can out-produce conventional farms in food value, remove carbon at scale via stacked pathways, pay people well, and **replicate without waiting for permission**.
 
@@ -868,7 +933,7 @@ This section outlines the three-phase scaling strategy designed to cross the **g
 
 ---
 
-### **8.1 Phase 1: The Proof-of-Concept (Years 1-5)**
+### **9.1 Phase 1: The Proof-of-Concept (Years 1-5)**
 **Singular Focus: Build and Optimize the First 100-Hectare Canadian Flagship Hub.**
 
 *   **Primary Goal:** Prove the integrated stack works in a **temperate climate under economic rigor**—delivering on the **Five Empirical Targets**.
@@ -881,7 +946,7 @@ This section outlines the three-phase scaling strategy designed to cross the **g
 
 ---
 
-### **8.2 Phase 2: Regional Saturation & The "Hub-in-a-Box" Service (Years 3-10)**
+### **9.2 Phase 2: Regional Saturation & The "Hub-in-a-Box" Service (Years 3-10)**
 **Proven Blueprint in Hand, Activate Exponential Growth.**
 
 *   **The "Hub-in-a-Box" Service:** Modern Druid Central (MDC) offers **turnkey installation** for clients ready to act (corporations, governments, municipalities, Indigenous nations, impact consortia).
@@ -891,7 +956,7 @@ This section outlines the three-phase scaling strategy designed to cross the **g
 
 ---
 
-### **8.3 Phase 3: Global Transition & Frontier Expansion (Years 5-20+)**
+### **9.3 Phase 3: Global Transition & Frontier Expansion (Years 5-20+)**
 **Refined Model Goes Worldwide, Systematically Replacing the Old Logic.**
 
 *   **Agricultural Overhaul:** Exponential replication creates unstoppable momentum. Our hubs prove **free, healthy, perennial food can match or exceed the economic output of toxic monocrops**—phasing out extractive agriculture region by region through sheer economic and social superiority.
@@ -901,7 +966,7 @@ This section outlines the three-phase scaling strategy designed to cross the **g
 
 ---
 
-### **8.4 The Ultimate Integration: A Managed Planetary Transition**
+### **9.4 The Ultimate Integration: A Managed Planetary Transition**
 
 True gigatonne scale (billions of tonnes CO₂ per year) means a coordinated global pivot. Our model provides the **profitable, socially-viral unit** needed to orchestrate this transition across four fronts, paced by proven biological ramp-up rates to avoid food supply shocks. For a sense of scale, 1 ppm/yr atmospheric reduction requires ~7.8 Gt CO₂/yr removal.
 
@@ -930,7 +995,7 @@ But gigaton scale isn't good enough, not any more, we're past that. We need to r
 
 ---
 
-### **8.5 The Political & Economic Endgame**
+### **9.5 The Political & Economic Endgame**
 
 When global abundance from Modern Druid networks begins to **reduce food costs and address carbon demand**, the economic and political calculus flips.
 
@@ -944,7 +1009,7 @@ We are building the food system that fixes the climate. The expansion rate is ca
 
 ---
 
-# **9.0 Funding Pathways: Building the First Hub**
+# **10.0 Funding Pathways: Building the First Hub**
 
 The Modern Druid Project is ready to move from blueprint to reality. The immediate priority is securing **$4 million CAD** in seed capital to establish the **first 100-hectare flagship hub** in Northern Ontario. This hub will serve as the living proof-of-concept, the open-source testbed, and the genesis of the replication network.
 
@@ -1000,6 +1065,24 @@ We prioritize pathways that **preserve mission integrity, ensure open-source dis
 
 ---
 
+### **10.1 The Two-Track Seed Funding Ask**
+
+To launch the Modern Druid engine requires seeding two interdependent components:
+
+1. The First Hub ($3.4M CAD): The physical proof-of-concept, revenue generator, and open-source test bed. This covers all land, infrastructure, and operating costs for the 100-hectare flagship hub through to profitability (Years 0-4).
+
+2. Modern Druid Central - Launch Phase ($0.6M CAD): The development team that will engineer, build, manage, and replicate the hub. This funds a lean 2-3 person MDC team for 3 years to:
+* Serve as general contractor and project manager for the first hub.
+* Establish carbon market listings and MRV protocols.
+* Develop the open-source "Replication Toolkit."
+* Secure the first "Hub-in-a-Box" partnership to ensure MDC's sustainability.
+
+Total Initial Seed Requirement: $4,000,000 CAD
+
+This structure ensures that from day one, there is a dedicated team focused not only on making Hub #1 a success, but on building the systems and partnerships to make Hub #100 inevitable. The MDC portion is an investment in the scalable engine, not just the first instance.
+
+---
+
 ### **Outreach & Partnership Strategy**
 
 We will actively pursue:
@@ -1020,7 +1103,7 @@ The capital required is not a donation; it is a **seed investment in a global pu
 
 ---
 
-# **10.0 Conclusion: A Blueprint for Courage**
+# **11.0 Conclusion: A Blueprint for Courage**
 
 This document is not a speculative proposal. It is a **complete, engineered blueprint for an integrated solution** to the defining crises of our time: a destabilized climate, a fragile and unjust food system, and debilitating economic inequality.
 

@@ -1,6 +1,37 @@
 Shit to add:
 -----------
 add references
-add potential roadblocks
-key hires and hiring strategy
+add potential roadblocks:
+- carbon prices drop substantially
+- biomass yield will be as high as i think it will be
+- biochar production is as scalable as i think it is
+- farm operations take longer than expected and increase labor costs
+- buildout takes longer
+- no approval for kilns
+- registry rejection
+- not starting
+
+key hires and hiring strategy:
+- key hires:
+  - agroforester (for the farming, tractor, and tool experience)
+  - engineer (for the biochar Charhouse and kiln setup)
+  - farm manager (me)
+  - carbon consultant
+  - legal consultant
+  - accountant
+- hiring strategy:
+  - solve initial problems with a skilled team and replicate
+  - Early expansions should focus on hyper-intelligent individuals where possible:
+    - start with the smartest group of people from a wide variety of backgrounds, Mensa
+	- pick a wide variety of backgrounds to give a broader spectrum of problem solving strategies
+	- teach them the basics and have them figure out better ways and share their findings
+	- confident enough to think they can solve the problem
+	- arrogant enough to dare to solve the problem
+	- smart enough to actually solve the problem
 build food system strong enough to last until real global action is taken, 3 C?
+next steps:
+first round of funding for due diligence before starting:
+- find an agroforester that think this workflow and yield is possible and can help teach us how
+- find an engineer who thinks the charhouse and kilns can both be made to work as intended and meet codes
+- hire consultant to go through and make sure everything looks like it would meet the various registry standards and legal frameworks
+- cofounders?

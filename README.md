@@ -63,6 +63,45 @@ To be clear, reaching multiple parts per million per year of methane emissions, 
 
 ---
 
+### **1.1.1 Climate Overshoot and Food System Resilience**
+
+Even if humanity begins aggressively reducing emissions today, the climate system carries enormous inertia. Carbon dioxide persists in the atmosphere for centuries, and the oceans store vast amounts of heat that will continue influencing global temperatures for decades.
+
+As a result, the world is increasingly likely to experience a period of **temperature overshoot** before atmospheric carbon concentrations can be drawn down again.
+
+Current policy trajectories and feedback risks suggest that global temperatures could temporarily reach **~3°C above pre-industrial levels** before large-scale carbon removal brings them back down. Whether that peak occurs briefly or persists for decades will depend on how quickly effective drawdown solutions are deployed.
+
+This reality creates a second, equally urgent challenge alongside carbon removal:
+
+**Our food systems must survive the climate conditions that occur before the atmosphere is restored.**
+
+Modern industrial agriculture was developed under the relatively stable climate of the Holocene. It relies heavily on:
+
+* predictable rainfall patterns
+* narrow crop genetic diversity
+* fragile supply chains
+* large monocultures vulnerable to heat, drought, pests, and storms
+
+These systems are **not designed to operate reliably in a 2–3°C warmer world**.
+
+The Modern Druid Project therefore pursues a dual objective:
+
+1. **Rapid atmospheric carbon removal** to stabilize the climate system.
+2. **Development of resilient agroecosystems capable of producing food under significantly hotter and more volatile climate conditions.**
+
+Syntropic agroforestry systems with deep soils, perennial crops, high biodiversity, and integrated water management have several advantages under extreme climate stress:
+
+* deeper root systems accessing groundwater reserves
+* microclimate buffering through canopy layers
+* higher soil carbon and biochar improving water retention
+* biodiversity reducing systemic crop failure risk
+
+In other words, these systems are not only tools for removing carbon—they are **adaptation infrastructure** for the world we may have to endure while atmospheric restoration is underway.
+
+The goal is not merely to restore a stable climate in the future, but to **build food systems capable of surviving the decades required to reach it.**
+
+---
+
 #### **1.2 The Food System Crisis: Abundance as Scarcity**
 Paradoxically, our agricultural system—designed to produce abundance—creates scarcity, vulnerability, and degradation. It is a **net carbon source**, reliant on extractive inputs that deplete soil, poison waterways, and collapse biodiversity. To be "economically viable," every calorie must be monetized, embedding massive logistical costs, food waste, and nutritional poverty into the system. The result is a populace both overfed and undernourished, utterly dependent on fragile, globalized supply chains that fail under the climate stresses the system itself exacerbates. We grow more than enough calories to feed humanity, yet hunger persists—a pure failure of distribution and economic design.
 
@@ -1524,7 +1563,7 @@ We are not asking for permission to fix the world. We are building the lifeboat.
 
 When the inevitable climate disasters intensify and the world finally scrambles for real solutions, let us not be caught with only plans and pitches. **Let us have a hub—already running, already removing carbon, already feeding people—ready to replicate as fast as the world can say "yes."**
 
-The Modern Druid Project is that hub. Here's the blueprint. Any takers?
+The Modern Druid Project is that hub. Here's the blueprint. Any takers? It's a long shot. A lot of things have to line up for it to work. But if it does work, it could actually make a powerful difference at a global scale.
 
 Robert McCarthy<br/>
 March 2026  

@@ -794,7 +794,7 @@ This rigorous, multi-criteria framework ensures the model is validated not just 
 
 ---
 
-# **5.5 Rigorous MRV Protocol & Associated Costs**
+### **5.5 Rigorous MRV Protocol & Associated Costs**
 
 The financial and environmental integrity of the Modern Druid Project rests on a robust, transparent, and defensible Monitoring, Reporting, and Verification (MRV) framework. Proving that we sequestered the carbon so we can get paid in credits in other words. This protocol is designed to meet the highest standards of leading carbon registries while providing a public dataset that validates the model's core claims. All MRV data will be managed in an open-source database.
 
@@ -898,6 +898,160 @@ This investment is not an optional burden; it is the **engine of financial and s
 - **Replication De-risking:** Provides a turnkey, proven MRV package for future hubs.
 
 **In summary, while MRV represents the largest non-labour operational cost, it directly generates the revenue and credibility that make the entire model viable. It replaces the conventional cost centre of chemical inputs with an investment in verifying planetary healing.**
+
+---
+
+### **5.6 Potential Roadblocks & Risk Management**
+
+No project operating at the intersection of climate science, agriculture, infrastructure, and financial markets is free from uncertainty. The Modern Druid Project is deliberately designed to be resilient, but several potential roadblocks could delay, complicate, or temporarily derail progress.
+
+Identifying these risks early allows the system to be engineered with contingency buffers and alternative pathways.
+
+---
+
+## 1. Carbon Credit Price Stability
+
+The financial engine of the project relies on the sale of high-integrity carbon credits. While durable carbon removal credits have historically commanded strong prices, the voluntary carbon market is still evolving.
+
+Potential risks include:
+
+* temporary oversupply of credits
+* regulatory shifts affecting registries
+* fluctuations in corporate demand
+* broader economic downturns reducing climate spending
+
+**Mitigation Strategy**
+
+The project deliberately stacks **multiple revenue sources**:
+
+* biochar credits
+* enhanced rock weathering credits
+* soil carbon credits
+* potential biochar sales
+* indirect economic value through food production
+
+This diversification reduces dependence on any single credit stream. Additionally, the system is designed to operate profitably even at **conservative credit price assumptions**, providing a built-in buffer against market volatility.
+
+---
+
+## 2. Labour Cost Uncertainty
+
+The project relies on a skilled, motivated workforce. Labour estimates have been carefully modeled, but real-world operations could diverge from projections due to:
+
+* unexpected training requirements
+* regional wage changes
+* operational inefficiencies during early years
+* underestimated maintenance or monitoring tasks
+
+**Mitigation Strategy**
+
+The phased development model allows staffing to scale gradually as the system matures. Many tasks also benefit from increasing efficiency over time as workflows improve and infrastructure stabilizes.
+
+Because the system's primary inputs are **sunlight, biology, and time**, labour intensity should decrease as ecological processes take over more of the work.
+
+---
+
+## 3. Biomass or Food Production Underperformance
+
+Biological systems are inherently variable. Yields may initially fall short of projections due to:
+
+* soil conditions worse than expected
+* extreme weather events
+* pest or disease pressure
+* poor establishment of certain species
+
+**Mitigation Strategy**
+
+The system is intentionally designed with **extreme biodiversity and redundancy**.
+
+* multiple biomass species
+* multiple food species
+* heavy overplanting through seedball strategies
+* natural selection of locally adapted genotypes
+
+This allows the ecosystem itself to identify the most productive species and individuals over time, improving performance with each generation.
+
+---
+
+## 4. Registry Rejection or Methodology Changes
+
+Carbon markets require strict verification. There is always the possibility that:
+
+* a methodology changes
+* a registry rejects a project design
+* verification becomes more expensive or complicated
+
+**Mitigation Strategy**
+
+The system is deliberately **registry-flexible**, using multiple carbon pathways and working with several registries simultaneously (e.g., Puro.earth, Verra, Plan Vivo). If one pathway becomes temporarily unavailable, the others remain viable.
+
+The project also maintains **full open-source MRV data**, allowing rapid adaptation to evolving verification standards.
+
+---
+
+## 5. Regulatory Barriers to Biochar Kilns
+
+Biochar production sits at the intersection of agriculture, waste management, and air quality regulation. In some jurisdictions, regulators may initially classify kilns as open burning or waste incineration.
+
+Potential outcomes include:
+
+* permit delays
+* equipment redesign requirements
+* emissions monitoring obligations
+
+**Mitigation Strategy**
+
+The project anticipates this challenge and maintains several fallback approaches:
+
+* flame-cap kilns (lowest capital cost)
+* TLUD systems with lower emissions
+* retort kilns with full combustion control
+* industrial pyrolysis systems if required
+
+Because the core system is **feedstock-flexible**, kiln technology can evolve without changing the ecological design.
+
+---
+
+## 6. Construction and Bureaucratic Delays
+
+Infrastructure projects frequently face delays due to:
+
+* permitting timelines
+* contractor availability
+* supply chain issues
+* financing approvals
+
+**Mitigation Strategy**
+
+The implementation model is intentionally **modular**. Many early activities—soil biology, seedball production, planting, and ecosystem establishment—can begin before major infrastructure is completed.
+
+This allows progress to continue even if individual construction elements are delayed.
+
+---
+
+## 7. The Real Risk: Failure to Begin
+
+While all the risks above are real, they share one critical characteristic:
+
+**They are solvable engineering, ecological, or financial problems.**
+
+Every major climate solution—renewable energy, electric vehicles, large-scale conservation—faced similar uncertainties during its early development.
+
+The greatest roadblock to climate repair is not technological difficulty, market volatility, or regulatory friction.
+
+**The greatest roadblock is simply not starting.**
+
+Every year of delay allows atmospheric carbon concentrations to rise further, ecosystems to degrade further, and the window for effective intervention to narrow.
+
+The Modern Druid Project is built on a simple premise:
+
+**It does not need to be perfect to begin. It only needs to be good enough to start learning.**
+
+Once the first hub exists, every year improves the model. Data accumulates. ecosystems mature. workers gain experience. new hubs replicate the improvements.
+
+Progress compounds.
+
+The only scenario where this system fails completely is the one in which it is never attempted.
 
 ---
 

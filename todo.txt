@@ -1,19 +1,10 @@
 Shit to add:
 -----------
-add diagram showing the carbon cycle we're interacting with
+add diagrams
 
 make a pitch deck
 
 add references
-
-key hires and hiring strategy:
-- key hires:
-  - agroforester (for the farming, tractor, and tool experience)
-  - engineer (for the biochar Charhouse and kiln setup)
-  - farm manager (me)
-  - carbon consultant
-  - legal consultant
-  - accountant
 
 - hiring strategy:
   - solve initial problems with the core team and replicate
@@ -23,11 +14,3 @@ key hires and hiring strategy:
 	- teach them the basics and have them figure out better ways and share their findings
 	- confident enough to think they can solve the problem
 	- smart enough to solve the problem
-
-next steps:
-----------
-first round of funding for due diligence before starting:
-- find an agroforester that think this workflow and yield is possible and can help teach us how
-- find an engineer who thinks the charhouse and kilns can both be made to work as intended and meet codes
-- hire consultant to go through and make sure everything looks like it would meet the various registry standards and legal frameworks
-- cofounders?

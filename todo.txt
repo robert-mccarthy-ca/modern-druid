@@ -6,16 +6,6 @@ make a pitch deck
 
 add references
 
-add potential roadblocks:
-- carbon prices drop substantially
-- biomass yield will be as high as i think it will be
-- biochar production is as scalable as i think it is
-- farm operations take longer than expected and increase labor costs
-- buildout takes longer
-- no approval for kilns
-- registry rejection
-- not starting
-
 key hires and hiring strategy:
 - key hires:
   - agroforester (for the farming, tractor, and tool experience)
@@ -24,6 +14,7 @@ key hires and hiring strategy:
   - carbon consultant
   - legal consultant
   - accountant
+
 - hiring strategy:
   - solve initial problems with the core team and replicate
   - Early expansions should focus on hiring hyper-intelligent individuals where possible:

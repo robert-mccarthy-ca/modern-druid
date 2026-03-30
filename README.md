@@ -2025,9 +2025,9 @@ To launch the Modern Druid engine requires seeding two interdependent components
 * Develop the open-source "Replication Toolkit."
 * Secure the first "Hub-in-a-Box" partnership to ensure MDC's sustainability.
 
-Total Initial Seed Requirement: $4,000,000 CAD
+Total Initial Seed Requirement: $4,000,000+ CAD
 
-This structure ensures that from day one, there is a dedicated team focused not only on making Hub #1 a success, but on building the systems and partnerships to make Hub #100 inevitable. The MDC portion is an investment in the scalable engine, not just the first instance.
+This structure ensures that from day one, there is a dedicated team focused not only on making Hub #1 a success, but on building the systems and partnerships to make Hub #100 inevitable. The MDC portion is an investment in the scalable engine, not just the first instance. Additional funds beyond the minimum simply give a longer runway for learning.
 
 ---
 
@@ -2045,7 +2045,7 @@ We will actively pursue:
 
 The Modern Druid Project demonstrates a pathway to transform carbon removal from a cost center into a value-generating system that delivers measurable climate, food, and economic outcomes. By combining durable carbon sequestration with regenerative land use and community-level benefits, the model addresses key barriers to scale: financial viability, land-use competition, and social acceptance. Its replication mechanism provides a credible pathway from single-site deployment to network-scale impact.
 
-The system is designed to remain functional under projected climate conditions, including periods of elevated temperatures and increased variability. This dual focus on mitigation and adaptation significantly reduces long-term risk, both environmentally and economically. As carbon markets mature and demand for high-integrity credits increases, models that deliver multiple co-benefits alongside verified sequestration are likely to command both pricing advantages and policy support.
+The system is designed to remain functional under projected climate conditions, including periods of elevated temperatures and increased variability. This dual focus on mitigation and adaptation significantly reduces long-term risk, both environmentally and economically. As carbon markets mature and demand for high-integrity credits increases, models that deliver multiple co-benefits alongside verified sequestration are likely to command both pricing advantages and policy support. As wars interfere with trade and logistics, local food security will likely become a major selling point.
 
 The primary determinant of success is execution at the first site. Demonstrating unit economics, operational feasibility, and measurable outcomes will unlock replication through both capital markets and institutional adoption. The opportunity is not limited to carbon removal—it is the creation of a new category of infrastructure capable of addressing multiple systemic risks simultaneously.
 

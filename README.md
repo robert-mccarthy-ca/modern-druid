@@ -2049,6 +2049,8 @@ The system is designed to remain functional under projected climate conditions, 
 
 The primary determinant of success is execution at the first site. Demonstrating unit economics, operational feasibility, and measurable outcomes will unlock replication through both capital markets and institutional adoption. The opportunity is not limited to carbon removal—it is the creation of a new category of infrastructure capable of addressing multiple systemic risks simultaneously.
 
+This isn’t a finished system — it’s a starting point. Right now it’s just me, one dude and an idea, and that’s not enough to build something at the scale this needs to reach. If you see what this could become and want to help shape it — whether by challenging it, improving it, or just going through it with a fine-toothed comb to make sure the numbers, assumptions, and math actually hold up — I want to hear from you. Especially if you’re thinking about stepping in at a cofounder level.
+
 **Saving the world doesn’t have to be complicated — it just can’t be exploitative.**
 
 Robert McCarthy<br/>

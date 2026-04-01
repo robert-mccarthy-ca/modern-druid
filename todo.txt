@@ -2,15 +2,13 @@ Shit to add:
 -----------
 add diagrams
 
-make a pitch deck
-
 add references
 
-- hiring strategy:
+detail hiring strategy:
   - solve initial problems with the core team and replicate
   - Early expansions should focus on hiring hyper-intelligent individuals where possible:
-    - start with the smartest group of people from a wide variety of backgrounds, Mensa
+    - start with the smartest group of people from a wide variety of backgrounds, ie. Mensa
 	- pick a wide variety of backgrounds to give a broader spectrum of problem solving strategies
 	- teach them the basics and have them figure out better ways and share their findings
 	- confident enough to think they can solve the problem
-	- smart enough to solve the problem
+	- smart enough to actually solve the problem

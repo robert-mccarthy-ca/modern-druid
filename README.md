@@ -67,45 +67,44 @@ The following document details the blueprint for that engine: **The Modern Druid
 
 ---
 
-### **2.0 The Core Hypothesis: The Architecture of an Unstoppable Solution**
+## 2.0 The Core Hypypothesis: The Architecture of an Unstoppable Solution
 
-The climate, food, and inequality crises are locked in a vicious cycle by a single, flawed economic logic: the **extraction of short-term value**. This logic produces three interlocking system failures and one critical barrier:
+The climate, food, and inequality crises are locked in a vicious cycle by a culture of exploitation. This system exploits the environment through fossil fuel combustion and deforestation for farmland. It relies on an increasingly fragile agriculture system that has destroyed soil fertility via tillage, biocides, and monocropping. Simultaneously, it exploits the public to maximize profit, driving up living costs while leaving most farmers poor. By harvesting maximum resources for hoarding by a few, this produces three interlocking system failures and one critical barrier:
 
 1.  **The Carbon Problem:** A Failure of Economic Alignment.
 2.  **The Food Problem:** A Failure of Abundance Distribution.
 3.  **The Inequality Problem:** A Failure of Value Distribution.
 4.  **The Scale Problem:** A Failure of Viral Adoption.
 
-**The Modern Druid Hypothesis:**
+### The Modern Druid Hypothesis
 
-The Modern Druid Project aims to build a global network of regenerative carbon farms that:
+The Modern Druid Project aims to build a global network of regenerative carbon farms designed to:
 
-* Permanently remove atmospheric carbon
-* Produce abundant food for local communities
-* Restore degraded ecosystems
-* Create dignified careers in ecological restoration
-* Replicate rapidly enough to reach gigatonne-scale climate impact
+*   Permanently remove atmospheric carbon.
+*   Produce abundant food for local communities.
+*   Restore degraded ecosystems.
+*   Create dignified careers in ecological restoration.
+*   Replicate rapidly enough to reach gigatonne-scale climate impact.
 
-The system is designed to generate more value for communities than the cost of the carbon credits used to fund it.
+The system is engineered to generate more value for communities than the cost of the carbon credits used to fund it. Success will be measured not by lowering the price of carbon removal, but by maximizing the total social, ecological, and economic value created per dollar spent on carbon credits.
 
-Success is measured not by lowering the price of carbon removal, but by maximizing the total social, ecological, and economic value created per dollar spent on carbon credits.
+#### The Decisive Breakthrough: Economic Inevitability
 
-#### **The Decisive Breakthrough: Economic Inevitability**
+The model's true disruptive power will emerge when three financial targets are met—targets that the design is engineered to hit:
 
-The model's true disruptive power emerges when three financial targets are met—targets our design is engineered to hit:
+1.  **Food Production Parity:** The system will match or exceed the retail-calorie value per hectare of conventional agriculture on the same land. It has to produce at least as much food as conventional farming. The stacked agroforestry, biochar, natural farming, and remineralization system is intended to achieve this within 5–7 years.
+2.  **Community Cost Savings:** The free food value produced will exceed the total cost of carbon credits needed to fund the hub. *Example:* If a mature hub produces ~$1.5M in food and requires ~$700k in credits, the community nets ~$800k in annual savings.
+3.  **Unit Profitability:** Each hub will generate enough carbon credit revenue to cover sustainable living wages, inputs, MRV, and both the 10% Replication Fund and the 10% MDC Royalty.
 
-1.  **Food Production Parity:** The system must **match or exceed the retail-calorie value per hectare** of conventional agriculture on the same land. Our stacked agroforestry + remineralization system is designed to do this within 5-7 years.
-2.  **Community Cost Savings:** The **free food value** produced must **exceed the total cost of carbon credits** needed to fund the hub. *Example:* If a mature hub can produce ~$1.5M in food and requires ~$700k in credits. The community **nets ~$800k in annual savings.**
-3.  **Unit Profitability:** Each hub must generate enough carbon credit and sales revenue to cover sustainable and living wages, inputs, MRV, and both the **10% Global Franchise Fee** and the **10% Replication Fund**.
+When these three targets align, the model becomes politically and economically unstoppable:
 
-**When these three targets align, the model becomes politically and economically unstoppable:**
+*   **It Justifies Land Use:** "Why use good farmland for carbon?" Because it will produce equal or more food while removing 35+ tonnes of CO₂/ha/yr.
+*   **It Bypasses Political Gridlock:** Policy mandates become unnecessary. The model sells a cost-saving service to municipalities, corporations, and nations: *"Pay us to remove carbon, and we'll also solve your food security problem for free, saving your budget."*
+*   **It Creates Its Own Demand:** A project that saves money while solving multiple crises will build a coalition of the willing from local families to corporate CFOs to climate ministers. Opposition becomes irrational.
 
-*   **It Justifies Land Use:** "Why use good farmland for carbon?" Because it produces **equal or more food while removing 35+ tonnes of CO₂/ha/yr.**
-*   **It Bypasses Political Gridlock:** You don't need policy mandates. You sell a **cost-saving service** to municipalities, corporations, and nations: *"Pay us to remove carbon, and we'll also solve your food security problem for free, saving your budget."*
-*   **It Creates Its Own Demand:** A project that **saves money while solving multiple crises** creates a **coalition of the willing** from local families to corporate CFOs to climate ministers. Opposition becomes irrational.
+### The Final Hypothesis
 
-**The Final Hypothesis:**  
-This isn't intended to be a charity or a niche carbon project. This is meant to be a **profitable, self-replicating service** that is **cheaper for communities than the status quo.** By aligning carbon finance with food security and local economics, we can transform climate action from a political burden into an irresistible economic opportunity. This is the architecture of a solution that scales **with or without political leadership**, because it is built on the universal language of **abundance, savings, and pragmatic benefit.**
+This is not intended to be a charity or a niche carbon project. This is designed as a profitable, self-replicating service that is cheaper for communities than the status quo. By aligning carbon finance with food security and local economics, the project aims to transform climate action from a political burden into an irresistible economic opportunity. This is the architecture of a solution that will scale with or without political leadership, because it will be built on the universal language of abundance, savings, and pragmatic benefit.
 
 ---
 

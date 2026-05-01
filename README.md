@@ -108,214 +108,321 @@ This is not intended to be a charity or a niche carbon project. This is designed
 
 ---
 
-### **3.0 Constitutional Governance & Corporate Structure: Locking In Equity, Scalability, and the Mission**
+## **3.0 Constitutional Governance & Corporate Structure: A Mission-Locked System for Scalable, Equitable Climate Repair**
 
-The Modern Druid model's integrity depends on a governance architecture that is as engineered and resilient as its agroforestry systems. This section details the legal and financial structures designed to make the project's ethical and ecological goals **legally immutable**, ensuring it remains a self-replicating engine for repair, not a vehicle for extraction.
+The Modern Druid Project will rely on a governance architecture that is deliberately engineered to be as resilient and self-reinforcing as its ecological systems. This structure will not emerge organically—it will be explicitly designed to ensure that the project cannot drift into extractive or exploitative patterns over time.
 
-The structure consists of two interdependent legal entities: the **Hub Cooperatives/Trusts** and **Modern Druid Central (MDC)**.
+The system will be composed of two tightly coupled layers:
 
----
+1. **Hub-Level Operating Entities** (the farms themselves)
+2. **Modern Druid Central (MDC)** (the mission-holding and support organization)
 
-#### **3.1 The Hub Entity: A Time-Bound Stewardship Cooperative**
-
-Each 100-hectare hub is structured as a **for-profit, mission-locked cooperative or community land trust**. Its constitutional rules are designed for a 20-25 year lifecycle, culminating in the transfer of the land asset to its stewards.
-
-**A. The Foundational Rule: The 50/30/10/10 Profit Allocation**
-This rule activates upon the hub achieving operational profitability (revenue > all operational costs).
-*   **50% - Employee Pool:** Distributed as wages and bonuses per the **Unified Compensation Architecture** (see Section 3.2).
-*   **30% - Local Development Fund:** Covers all non-labour operational costs (MRV, inputs, maintenance, taxes, insurance) and services debt. Surplus is used for land expansion or infrastructure improvements.
-*   **10% - Local Replication Fund:** Reserved to seed a new satellite hub, managed by the hub's senior stewards. This is the engine of exponential, asset-based growth. The hub's equipment and infrastructure is used to bootstrap the new sites, which would eventually buy their own equipment and becomes hubs themselves.
-*   **10% - Modern Druid Central Royalty:** Paid to MDC for ongoing R&D, the open-source toolkit, global support, and seeding hubs in underserved regions.
-
-**B. The Defined End-State: From Stewards to Owners**
-The hub entity has a built-in sunset clause. After a period aligned with its core carbon crediting commitment (~20-25 years), the **improved land and fixed infrastructure are transferred** to the employee-stewards. Distribution is pro-rata based on tenure and total wages earned on that land, turning workers into land-owning farmers of a fertile, climate-resilient asset.
-
-**C. Wages & Bonus Structure: The Unified Compensation Architecture**
-*   **Minimum Wage Threshold (MWT):** A regional living wage (e.g., $20 CAD/hour) forms the basis of all calculations.
-*   **Base Wages:** Set as multiples of the MWT based on role and tenure (Steward: 1.0-1.25x; Specialist: 1.5-1.75x; Manager: 2.0x).
-*   **Profit-Sharing Bonus:** Upon profitability, the surplus in the 50% Employee Pool is distributed as a **bonus per "Base Hour."** Each employee's contribution is weighted by their base wage multiplier and actual hours worked. **You must work to share in the success.**
-*   **Equity Cap:** A strict 2:1 ratio is maintained between the highest and lowest total compensation (base + bonus) in the hub.
+Together, these will form a **replication engine** that distributes value locally while maintaining global coordination, standards, and expansion capacity.
 
 ---
 
-#### **3.2 Modern Druid Central (MDC): The Mission-Holding Support Entity**
+## **3.1 Core Constitutional Principles**
 
-MDC would be a **B-Certified for-profit corporation** that holds the blueprint, IP, and global mission. It exists solely to serve, seed, and support the hub network. Its charter includes **legally binding "mission lock" provisions** that cannot be amended without a supermajority vote, protecting the core model from dilution.
+All governance structures across the network will adhere to the following non-negotiable rules:
 
-**A. MDC's Roles & Funding**
-1.  **R&D & Blueprint Stewardship:** Develops and maintains the open-source replication toolkit.
-2.  **"Hub-in-a-Box" Service Provider:** Offers turnkey development for partners (primary revenue source for growth).
-3.  **Network Support:** Provides carbon market, legal, and operational support to hubs.
-4.  **Global Seeding:** Uses royalties and service profits to fund hubs in disadvantaged regions and new climate zones.
+### **1. Carbon Credit Revenue as the Primary Economic Engine**
 
-**B. MDC Compensation: Aligned with the Network**
-MDC staff do not receive hub land equity. Their compensation is therefore structured for alignment and fairness:
-*   **Base Wage:** `Individual Hub Base Wage (per role) * 1.5`. A 50% premium acknowledges specialized skills and lack of land equity.
-*   **Performance Bonus:** Tied directly to hub success. MDC employees earn a bonus **equal to the "Base Hour Bonus" earned by employees of profitable hubs.** Their bonus per hour is calculated using their MDC Base Hour Contribution (their base wage multiplier x hours worked).
-*   **Equity Gap Capped:** A strict 2:1 ratio is maintained between the highest and lowest total compensation (base + bonus) same as in the hubs.
+All hubs will operate on a **carbon-credit-only revenue model**.
+No reliance on product sales will be required for viability.
 
-**C. MDC's Path to Sustainability & Profit**
-*   **Phase 1 (Years 0-3):** Funded by a **"Development Fee"** included in the seed capital for the first hub.
-*   **Phase 2 (Years 3-5):** Funded by **"Hub-in-a-Box" service fees** from strategic partners and growing **10% royalties** from the first profitable hubs.
-*   **Phase 3 (Year 5+):** Core operations covered by aggregated royalties. "Hub-in-a-Box" profits fund expansion and R&D.
-*   **Dividend Restriction:** MDC's charter prohibits the distribution of profits (dividends) to investors until *after* the core planetary milestone (two consecutive years of declining atmospheric CO₂ and global temperatures) is achieved. Prior retained earnings are reinvested in R&D and seeding more hubs globally.
+This ensures:
+
+* Alignment with climate repair as the core function
+* Simplified operations and logistics
+* Maximum focus on durable carbon sequestration
 
 ---
 
-#### **3.3 The Integrated Legal Firewall**
+### **2. Fixed Revenue Allocation Structure**
 
-This two-entity structure creates a protective firewall:
-*   **Risk Isolation:** Each hub is its own legal and financial entity. The failure of one does not jeopardize others or MDC.
-*   **Mission Preservation:** MDC's charter locks the core rules (50/30/10/10, land transfer, open-source). Hubs license the model from MDC under agreements that bind them to these principles.
-*   **Scalability:** New hubs can be formed as cooperatives, LLCs, or trusts suitable to their local jurisdiction, all adhering to the constitutional blueprint stewarded by MDC.
+Each hub will allocate revenue according to a **constitutionally defined distribution model**, ensuring:
 
-**Conclusion:** This governance model is the antithesis of economic colonialism. We do not extract and leave. We **invest, empower, replicate, and transfer ownership.** The structure is designed not for perpetual corporate growth, but for **its own eventual dissolution** upon the successful restoration of a stable climate, food security, and thriving local communities.
-
----
-
-#### *3.4 Strategic Operating Modes: Flexible Pathways to the Same Outcome**
-
-The Modern Druid Project is designed to function under **multiple institutional structures and financing strategies**. The ecological system remains the same; only the funding and governance pathway changes depending on the type of capital used to launch the project.
-
-This flexibility is intentional. Climate repair at meaningful scale will require participation from **mission-driven investors, philanthropic capital, governments, and community organizations**. A model that only works under one structure would unnecessarily limit adoption.
-
-Three primary institutional pathways are supported.
-
-### 1. Mission-Driven For-Profit (B-Corp Model)
-
-This is the default structure described throughout this document.
-
-A mission-locked **B-Corporation** establishes the first hubs and receives limited royalties to fund global expansion, research, and support infrastructure.
-
-Key characteristics:
-
-* Profit allowed but **mission-locked**
-* Strict wage equity rules (2:1 compensation cap)
-* Land ownership ultimately transferred to stewards
-* Built-in **replication fund** for exponential growth
-* Carbon markets provide primary revenue
-
-The purpose of the for-profit structure is **not wealth extraction**, but **rapid deployment** by attracting capital that would otherwise never fund ecological restoration.
-
-Investors are compensated fairly, but the system is designed so that **the majority of value flows to workers, communities, and land restoration.**
+* Worker compensation is prioritized - 50%
+* Local reinvestment is guaranteed   - 30%
+* Replication is continuously funded - 10%
+* Global coordination remains viable - 10%
 
 ---
 
-### 2. Non-Profit Carbon Restoration Network
+### **3. Wage Equity and Participation**
 
-If the founding capital originates from **philanthropic or public sources**, the project can operate entirely as a **non-profit carbon removal and food security organization**.
+All hubs will implement:
 
-In this configuration:
+* A **minimum living wage baseline**
+* A **strict 2:1 maximum compensation ratio**
+* A **profit-sharing structure tied to participation**
 
-* No shareholder dividends exist
-* All surplus revenue flows to
+This ensures that:
 
-  * worker wages
-  * new farm creation
-  * ecosystem expansion
-* The **replication fund becomes the primary scaling mechanism**
-
-This model prioritizes **maximum ecological impact and community benefit** rather than financial return.
-
-Workers still receive strong wages and bonuses, but the organization functions as a **permanent climate repair utility** rather than a profit-generating corporation.
+* Labour is never exploited
+* Advancement is internal and merit-based
+* Wealth concentration is structurally prevented
 
 ---
 
-### 3. Hybrid Model: Non-Profit Core + For-Profit Deployment
+### **4. Land Transfer at End of Lifecycle**
 
-A third model allows the system to attract both **philanthropic capital and profit-seeking investment simultaneously.**
+Every hub will operate as a **time-bound stewardship entity**.
 
-Structure:
+At the end of each farm's carbon crediting period (~20–25 years):
 
-* **Modern Druid Foundation (non-profit)** holds the mission, research, and open-source blueprint.
-* **For-profit farm operators** could create franchises by providing the up front capital plus a premium that helps fund other sites rather than paying ongoing royalties.
-* These operators keep profits generated by their farms but must adhere to the **constitutional operating rules**.
+> **The land will transfer to the people who worked it, prorated based on total wages earned.** The workers will own the means of their production in our wake.
 
-Meanwhile:
+This ensures:
 
-* Farms created through the **replication fund** remain **non-profit hubs** that pay their royalties to the parent company.
-
-This hybrid approach:
-
-* attracts traditional investors
-* maintains mission integrity
-* ensures expansion funds continue the exponential growth
-
-It is a practical compromise that enables rapid deployment without compromising the project's long-term goals.
+* Long-term incentives are aligned with restoration and long term development
+* Workers become landowners, these will be their farms one day
+* The system produces productive land which is handed over to trained stewards
 
 ---
 
-#### **3.5 Carbon Strategy Modes**
+## **3.2 Hub Typologies: Three Pathways to Deployment**
 
-The Modern Druid system supports **two distinct carbon strategies** depending on local market conditions and project goals.
-
-Both approaches maintain the same ecological design.
-
-The difference lies in **how the biochar is used.**
+The Modern Druid system will support multiple entry points for different types of participants, while maintaining identical ecological and economic rules.
 
 ---
 
-## Strategy A: Mixed Carbon Revenue Model
+### **A. Standard Hub (Community Resource)**
 
-This is the baseline model used in the financial projections.
+**Purpose:**
+A publicly oriented climate and food system commissioned for community benefit.
 
-Biochar produced on the farm is split between:
+**Funding Source:**
+Grants, public climate funds, or community-backed financing (e.g., land trusts).
 
-* **On-site soil application**
-* **External sale**
+**Revenue Allocation:**
 
-Typical split (example):
+* **50% Employee Pool**
+  Distributed as wages and bonuses prorated based on wages earned.
 
-50% retained on-site
-50% sold
+* **30% Local Development Fund**
+  Covers all operational costs (MRV, inputs, maintenance, irrigation).
+  Surplus will fund:
 
-Benefits:
+  * Land expansion, adding new farms to the hub, or
+  * Other local infrastructure improvements (water harvesting systems, energy production, greenhouses, public facilities, etc.)
 
-* Generates immediate cash flow
-* Accelerates hub profitability
-* Improves soil fertility and ecosystem productivity
+* **10% Local Replication Fund**
+  Used to launch new hubs.
+  Priority: promote existing workers into management roles at new hubs, providing a career path to hub manager for all stewards.
 
-However, the exact split is intentionally flexible.
+* **10% MDC Royalty**
+  Funds global R&D, support systems, and expansion into underserved regions.
 
-Market conditions, soil development goals, and community needs may change the optimal ratio.
+**Outcome:**
+At project completion, land will transfer to workers.
+The hub will leave behind a **community-owned, climate-resilient asset base**.
 
 ---
 
-## Strategy B: Pure Carbon Sequestration Model
+### **B. For-Profit Franchise**
 
-In the **pure carbon model**, **100% of biochar is retained on-site**.
+**Purpose:**
+An investment-driven pathway for private capital participation seeking profit.
 
-No biochar is sold.
+**Funding Source:**
+Fully funded by the franchise owner(s), who assume all startup risk.
 
-Instead, all produced carbon becomes part of the farm's soil ecosystem.
+**Revenue Allocation:**
 
-This creates several advantages:
+* **50% Employee Pool**
+  Living wages and bonuses guaranteed.
 
-### Maximum Carbon Permanence
+* **30% Local Development / Owner Profit**
+  Covers operations, improvements, and profit-taking.
 
-Every tonne of biochar becomes a permanent soil carbon reservoir.
+* **5% Local Expansion Fund**
+  Used to expand the owner’s portfolio of hubs.
 
-### Terra Preta Soil Development
+* **5% Expansion Fund Deferred (to MDC)**
+  Redirected to fund hubs in regions lacking capital or operators.
 
-Over time the farm develops **deep, biochar-rich soils similar to the legendary Terra Preta systems of the Amazon**, among the most fertile and carbon-dense soils on Earth.
+* **10% MDC Royalty**
+  Ensures all franchises contribute to global scaling.
 
-### Radical Transparency
+**Outcome:**
+Owners generate returns through carbon credits.
+At end of lifecycle, land still transfers to workers.
 
-Visitors can literally **see, touch, and even taste the carbon being removed from the atmosphere**.
+> Even profit-driven hubs ultimately convert into **worker-owned land**, ensuring long-term equity and continued stewardship.
 
-This dramatically increases public trust and verification credibility.
+---
 
-### Scientific Value
+### **C. Family Farm Franchise**
 
-The farm becomes a living laboratory for:
+**Purpose:**
+Allows existing landowners (individual or group) to integrate into the network without adopting a rotating workforce model. Whether these are traditional farmers and landowners, or any other group of individuals who want to start a farm together, this provides an entry path for private equity. The key distinction from the For-Profit variety is that any taken profits go to the Employee Pool instead of the Franchisee's profits.
 
-* soil carbon research
-* microbial ecosystem development
-* long-term sequestration studies
+**Funding Source:**
+Farmer(s) provides land and capital.
 
-### Stronger Carbon Credits
+**Revenue Allocation:**
 
-Credits generated from fully retained biochar may command **higher trust and potentially higher prices** in the future.
+* **50% Employee Pool**
+  Distributed to workers as wages and bonuses in the same manner as every other hub.
+
+* **30% Local Development / Profit Sharing**
+  Retained for operations, reinvestment, or employee bonuses.
+
+* **10% Expansion Fund Deferred (to MDC)**
+  Supports global expansion into new regions.
+
+* **10% MDC Royalty**
+  Funds system-wide R&D and infrastructure.
+
+**Outcome:**
+Farmers gain access to carbon revenue while restoring their land.
+They participate in global scaling without managing replication locally.
+
+---
+
+## **3.3 The Universal End-State: Stewardship to Ownership**
+
+Across all hub types, the end condition is identical:
+
+> **The people who restore the land will own the land.**
+
+Ownership will be distributed:
+
+* Proportionally to wages earned
+* Over the full operational lifetime of the site
+
+This ensures:
+
+* Long-term commitment to land health
+* Fair allocation based on contribution
+* Permanent decentralization of land ownership and food production
+
+---
+
+## **3.4 Modern Druid Central (MDC): The Mission Anchor**
+
+Modern Druid Central will function as the **non-local coordinating entity** responsible for maintaining integrity and enabling scale.
+
+### **Primary Roles**
+
+1. **Blueprint Stewardship**
+
+   * Maintain and evolve the open-source system design, made freely available to all
+
+2. **Carbon Market Integration**
+
+   * Handle registry alignment, MRV frameworks, and verification support
+
+3. **Global Expansion Engine**
+
+   * Deploy capital into underserved regions using pooled funds
+
+4. **Training & Replication Systems**
+
+   * Develop and distribute standardized online training programs free to all
+
+---
+
+### **Funding Model**
+
+MDC will be funded through:
+
+* **10% royalties from all hubs**
+* **Deferred expansion funds**
+* **Optional development/service fees (early-stage)**
+
+---
+
+### **Compensation Model**
+
+To offset lack of land ownership:
+
+* MDC staff will receive **higher base compensation (≈1.5× hub equivalents)**
+* Bonuses will be tied to **hub network performance** proportionally
+
+A **2:1 compensation cap** will also apply within MDC to prevent exploitation.
+
+---
+
+### **Mission Lock**
+
+MDC will operate under legally binding constraints:
+
+* Core rules (revenue splits, land transfer, wage caps) **cannot be altered without supermajority approval**
+* No deviation toward extractive or shareholder-first models
+
+---
+
+## **3.5 Structural Advantages of the System**
+
+This governance model is intentionally designed to solve the primary failure modes of climate and agricultural systems:
+
+### **1. Anti-Extraction by Design**
+
+Value cannot be siphoned upward indefinitely.
+
+### **2. Built-In Replication**
+
+Expansion is funded internally through:
+
+* Local replication funds
+* Deferred expansion capital
+
+### **3. Risk Isolation**
+
+Each hub operates as an independent entity:
+
+* Failure of one does not affect others
+* System resilience increases with scale
+
+### **4. Alignment of Incentives**
+
+Workers benefit from:
+
+* Immediate living wages
+* Long-term land ownership
+
+### **5. Eventual Dissolution**
+
+The system is not designed to persist indefinitely as a centralized entity.
+
+It is designed to:
+
+* Restore land
+* Train stewards
+* Transfer ownership
+* Repeatedly
+
+---
+
+## **3.6 Strategic Outcome**
+
+This governance structure will transform the project from:
+
+* A centralized organization
+  **into**
+* A distributed network of locally owned, carbon-sequestering ecosystems
+
+It will ensure that:
+
+* Carbon removal is profitable
+* Food systems are abundant and resilient
+* Wealth is distributed
+* Polluters pay for the food
+* Land is returned to stewards for safekeeping
+
+---
+
+## **Conclusion**
+
+The Modern Druid governance model will not merely support the project—it will define it.
+
+It will ensure that scaling climate repair does not recreate the very systems that caused the crisis.
+
+> This is not a model designed to accumulate wealth and power for a select few.
+> It is a model designed to **distribute it**, from food to the people to land for the stewards.
+> It is designed to **grow exponentially** through self-replication, and eventually make itself unnecessary.
 
 ---
 

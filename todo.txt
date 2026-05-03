@@ -4,11 +4,20 @@ add diagrams
 
 add references
 
+purchase agreements:
+- buy what we produce
+- buy more from other people to spur market
+- % of value produced spent on credits
+- how much is community food forest installation worth per square kilometer?
+  - could we charge $5+ million/square kilometer plus guaranteed credit purchases if we exceed credit value spent by food value by year X milestone?
+
 detail hiring strategy:
-  - solve initial problems with the core team and replicate
+  - solve initial problems with the core team of experts and consultants and replicate
   - Early expansions should focus on hiring hyper-intelligent individuals where possible:
     - start with the smartest group of people from a wide variety of backgrounds, ie. Mensa
 	- pick a wide variety of backgrounds to give a broader spectrum of problem solving strategies
 	- teach them the basics and have them figure out better ways and share their findings
 	- confident enough to think they can solve the problem
 	- smart enough to actually solve the problem
+
+At the end of the day, this was designed by a software developer trained to solve ridiculuous problems effectively, efficiently and scalably. And who happens to be a gardening and climate nerd. I want all the thought patterns on this weilded by the strongest minds. I want this optimized by the best.

@@ -428,130 +428,85 @@ It will ensure that scaling climate repair does not recreate the very systems th
 
 ### **4.0 The Modern Druid Model: An Integrated Engine for Permanent Solutions**
 
-The Modern Druid Project is not a collection of separate sustainability initiatives. It is a single, engineered system designed from first principles to act as an **integrated solution engine**—turning the four interlocking crises of Carbon, Food, Inequality, and Scale into a self-reinforcing cycle of regeneration.
-
-Each component is necessary and mutually reinforcing. Remove one, and the system fails to achieve its goals of profitability, abundance, justice, and exponential growth.
+The **Modern Druid Project** is designed as a single, engineered system that will function as an **integrated solution engine**. It will attempt to address the interlocking crises of carbon, food, inequality, and scale with a self-reinforcing cycle of ecological and social regeneration combining the benefits of positive feedback loops and exponential growth.
 
 ---
 
-### **4.1 The Carbon Removal Engine: Making Atmosphere Repair Profitable**
-**The Core Economic Mechanism**
+### **4.1 The Carbon Removal Engine: Stacked Atmospheric Repair**
 
-To solve the **Carbon Crisis**, we must make permanent drawdown more profitable than extraction. We achieve this not with a single method, but with a **stacked, verifiable carbon removal system** that generates the primary revenue for the entire project.
+To address the carbon crisis, the project will ensure that permanent drawdown can compete economically with extraction. The primary revenue for each hub will be generated through a **stacked, verifiable carbon removal system**. 
 
-| Pathway | Mechanism & Registry | Annual Removal (Mature 100-ha Hub) | Economic Role |
-| :--- | :--- | :--- | :--- |
-| **Biochar** | Pyrolysis of on-site biomass → stable carbon. *(Puro.earth)* | ~1,760 t CO₂e | **Primary Revenue Driver.** High-value, durable credits. |
-| **Enhanced Rock Weathering (ERW)** | Spreading crushed basalt → mineral carbonation. *(Puro.earth)* | ~1,500 t CO₂e | **Synergistic Multiplier.** Leverages same labour/equipment as biochar application. |
-| **Deep Soil Carbon** | Syntropic agroforestry builds stable SOC to 3m depth. *(Verra + CCB)* | ~400 t CO₂e | **Premium Crediting.** Bundled with 12+ SDGs for price premium. |
-| **TOTAL** | **Stacked, Permanent Removal** | **~3,660 t CO₂e/yr** | **Funds the entire operation.** |
+By focusing exclusively on a **carbon-credit-only revenue model**, the project will simplify logistics and maintain a strict alignment with its core mission of climate repair.
 
-**Financial Implication:** This stack generates **~$724,000 CAD/year in credit revenue alone** at conservative 2025 prices, before any biochar sales. It provides the dependable income stream that de-risks the entire enterprise and funds wages, inputs, and replication.
+| Pathway | Mechanism & Registry | Role in the Engine |
+| :--- | :--- | :--- |
+| **Biochar** | Pyrolysis of on-site biomass into stable carbon *(Puro.earth)*. | **Primary Revenue Driver:** Provides high-value, durable credits. |
+| **Enhanced Rock Weathering (ERW)** | Spreading crushed basalt to trigger mineral carbonation *(Puro.earth)*. | **Synergistic Multiplier:** Uses the same labor and equipment as biochar application. |
+| **Deep Soil Carbon** | Syntropic agroforestry building stable soil organic carbon (SOC) *(Verra + CCB)* alongside food and biomass. | **Premium Crediting:** Bundled with UN Sustainable Development Goals (SDGs) for price premiums. |
 
----
-
-### **4.2 The Food Abundance Commons: Ending Scarcity by Refusing to Monetize It**
-**The Social & Logistical Breakthrough**
-
-To solve the **Food System Crisis**, we must decouple nutrition from commodity logistics. Our radical premise: **All fruit, nuts, berries, and perennial vegetables are free, pick-your-own for the community.**
-
-**How It Works & Why It's Genius:**
-1.  **Zero Harvest, Transport, or Sales Costs:** We eliminate ~40% of a conventional farm's operating expenses—the most complex and costly part of the food system.
-2.  **Creates Instant, Unassailable Value:** A mature hub produces food with a retail-equivalent value of **$1.5–2.5 million CAD/year**. This value is delivered directly to the community, creating a net economic benefit far greater than the cost of the carbon credits that fund it.
-3.  **Builds Political and Social Resilience:** It is politically impossible to oppose a project that feeds families for free while fixing the climate. The community becomes its staunchest defender.
-4.  **Enables a Local Value-Add Economy:** While we do not monetize food, we encourage entrepreneurs to use the abundance to start businesses (jams, ciders, baked goods), fostering local economic diversification.
-
-**This is not charity; it is strategic system design.** By giving away the food, we solve distribution, build a massive public good, and slash our own costs, making the carbon venture more profitable and scalable.
+**Total Impact:** This stack is projected to generate approximately **3,660 tonnes of carbon dioxide per year** for a mature 100-hectare (1 square kilometer) hub, providing the dependable income stream required to fund wages, operations, and expansion. This lets us extract carbon at a profit.
 
 ---
 
-### **4.3 The Stewardship & Ownership Model: A Time-Bound Vehicle for Land Justice**
-**The Governance Backbone (B-Corp from Day One)**
+### **4.2 The Food Abundance Commons: Decoupling Nutrition from Profit**
 
-To solve the **Inequality Crisis**, wealth and ownership must be hard-coded into the system's DNA. Modern Druid is not structured as a permanent, land-owning corporation. It is a **time-bound transition vehicle** designed to heal land, distribute wealth, and then transfer ownership to the stewards who did the work.
+The project will address food system fragility by refusing to monetize the yields of the agroecosystem. All perennial and annual produce—including fruits, nuts, and vegetables—will be made available as a **free, pick-your-own resource** for the local community.
 
-Our constitutional, B-Corp-ready governance model has a **two-phase profit allocation rule** and a **defined end-state for land ownership**:
+*   **Logistical Efficiency:** By eliminating harvesting, transport, packaging, and retail overhead, the system will remove approximately **40% of the operating expenses** associated with conventional farming. Grow for production, not for harvest efficiency, people can pick their own damn food.
+*   **Economic Value:** A mature hub is expected to produce food with a retail-equivalent value of **$1.5M – $2.5M+ CAD/year**, delivering a net economic benefit to the community that far exceeds the cost of the carbon credits funding the site.
+*   **Social Resilience:** This model will transform climate action into an unassailable public good, building deep local support and fostering a secondary "value-add" economy (e.g., local artisanal food businesses).
+*   **Competitive Advantage:** Forcing people to pay not to starve doesn't have to be a valid business model any longer. Compete with free, organic, and pesticide free or go out of business. 
 
-**PHASE 1: Pre-Profitability (Years 1–4)**
-All revenue is split **50/50** between:
-*   **Employee Pool** (Living wages, benefits, bonuses; strict 2:1 max pay ratio).
-*   **Local Development Fund** (Covers all ops, inputs, debt, MRV—survival first).
+How do you topple an economic behemoth like industrial agriculture? By making them compete with free, fresh, and organic or go out of business. And since we should be profitable based on carbon credits alone, we would still do it at a profit. By giving up those potential profits, we rob the exploitative and input based agricultural systems of any economic lifeblood, of any profits. Hard to pay for seed, fertilizer, poison and labour if you can't sell your crops to people who picked their own for free.
 
-**PHASE 2: Post-Profitability (The Replication & Legacy Engine)**
-Once the hub is sustainably funding itself, profits split as follows:
-
-- 50% **Employee Pool**: Living wages, benefits, performance bonuses.
-- 30% **Local Development Fund**: Operating costs, debt repayment, buying additional land.
-- 10% **Local Replication Fund**: **Seed capital for the next hub, led by promoted employees.**
-- 10% **Modern Druid Central Royalty**: Funds global R&D, open-source toolkit, seeds hubs in new climates.
-
-#### **The Defined Ownership Pathway: From Stewards to Owners**
-
-The Modern Druid Project has a **clear beginning and a clear end** at both the hub and global levels:
-
-*   **Hub-Level End (20–25 Year Horizon):** Aligned with standard carbon crediting periods (e.g., Verra's 20-year vintages), each hub is designed from inception for **eventual transfer to its workforce.** Upon successful completion of its core carbon removal commitment, the land and improved infrastructure are broken up and given out to employees **pro-rata based on their tenure and wages earned on that land**. The trained stewards become the owners of a fertile, productive, climate-resilient asset.
-
-*   **Global-Level End (Mission Completion):** The project as a whole ends when its core objective is met: **when atmospheric CO₂ is safely returned to pre-industrial levels and the climate and permafrost is re-stabilized.** We are building a network of self-replicating repair engines, not a perpetual corporation. Then we can rest.
-
-**This is the antithesis of economic colonialism.** We do not arrive, extract value, and leave. We arrive, **invest in people and land,** build shared wealth, and then **hand over the keys.** Our success is measured by our eventual obsolescence in a given community, leaving behind a legacy of food sovereignty, carbon-sequestering landscapes, and local, land-owning farmers equipped for the future.
-
-The 10% Replication Fund ensures that as one hub completes its journey to local ownership, the model has already seeded others elsewhere, propagating this cycle of repair and transfer. The Modern Druid Central would prioritize starting hubs in new climatic zones and regions who cannot afford them, such as throughout the global south. The Local Replication Fund from profitable farms would be allocated in whatever locale as the farm's manager sees fit.
+Pick your food yourself, we're busy with the carbon.
 
 ---
 
-### **4.4 The Exponential Replication Engine: Closing the Gigatonne Chasm**
-**The Built-In Scale Mechanism**
+### **4.3 Stewardship & Ownership: The Transition to Land Justice**
 
-The **10% Local Replication Fund** is the masterstroke that solves the **Scale Crisis**. It transforms each profitable hub from an endpoint into a **node of exponential growth**. If you want an exponential growth curve, make it self-replicate, same as in biology.
+Modern Druid is proposed as a **time-bound transition vehicle**. It will not function as a permanent land-owning corporation but as a mechanism to heal land and distribute wealth before transferring ownership to the workers. **This is the antithesis of economic colonialism.** We do not arrive, extract value, and leave. We arrive, **invest in people and land,** build shared wealth, and then **hand over the keys.** Our success is measured by our eventual obsolescence in a given community, leaving behind a legacy of food sovereignty, carbon-sequestering landscapes, and local, prosperous, land-owning farmers equipped for the future, of sustainable human populations. To convert farmland from the old system to the new and move on to the next patch, leaving trained stewards in our wake, no matter what becomes of the druids themselves after that.
 
-**The Growth Math:**
-1.  **Hub 1** becomes profitable and allocates 10% of profits to its Replication Fund.
-2.  That fund, combined with promoted employees, launches **Hub 2**.
-3.  Once Hub 2 becomes profitable we have **two hubs** generating Replication Funds, soon launching **Hubs 3 & 4**.
-4.  The process repeats: **1 → 2 → 4 → 8 → 16...**
+#### **The Constitutional Revenue Split**
+In alignment with the project's governance principles, revenue will be allocated to ensure equity and growth:
+*   **50% Employee Pool:** Will fund living wages, benefits, and bonuses under a **strict 2:1 maximum compensation ratio** where the highest paid employee makes no more than double the lowest paid employee hourly including bonuses.
+*   **30% Local Development Fund:** Will cover all operational costs, MRV, inputs, and infrastructure maintenance. Excess funds after full deployment can go to adding additional land to the hub, ensuring its growth
+*   **10% Local Replication Fund:** Will provide the seed capital for the next hub, creating a career path for promoted employees to become managers of their own hubs.
+*   **10% Modern Druid Central (MDC) Royalty:** Will fund global R&D, the open-source toolkit, and expansion into underserved regions.
 
-This is **exponential, asset-based growth**, not linear fundraising. It is powered by the model's own profitability and the ambition of its workforce. Scaling is no longer limited by external capital or political will, but by the rate at which we can train new stewards—a constraint we control.
-
-**Crossing the Gigatonne Chasm:** This replication model, combined with the **universal economic appeal** of cost-saving, food-secure hubs, is designed to achieve viral adoption. We are not asking the world to adopt an austerity program. We are offering a **profitable service** that saves money, feeds people, and creates jobs—a proposition that builds its own coalition of the willing, from municipal governments to corporate boards.
+#### **The Ownership Pathway**
+At the end of a hub’s carbon crediting period (approximately **20–25 years**), the land and infrastructure will be transferred to the stewards who worked it. Ownership will be distributed **pro-rata based on total wages earned**, ensuring that the people who restore the land inherit the land. that they and their communities continue to prosper long after we have moved on.
 
 ---
 
-### **4.5 The Integrated Flywheel: How the Model Becomes Unstoppable**
+### **4.4 The Exponential Replication Engine: Viral Scaling**
 
-The power of Modern Druid is not in any single component, but in their **synergistic integration**, creating a positive feedbacl cycle that continues to sequester more and more carbon. Syntropic agroforestry is used to grow biomass for biochar production alongside a food forest while growing soil. The biochar is inocculated using natural farming inputs created from local soils and environments, applied back to the land, increasing water retention, microbial habitat, plant growth, and soil carbon sequestration rates permanently. Crushed rock dust is spread with the biochar, once again increasing plant growth and consequently carbon sequestration rates. This in turn makes the land more fertile, growing more food, more biomass and sequestering more carbon year after year.
+To bridge the "gigatonne chasm," the project will utilize a biological growth model. Each profitable hub will function as a node capable of seeding new sites through its **10% Replication Fund**. Each hub starts additional hubs with a fixed portion of its revenue. Exponential growth. It just needs the initial hub to start it all off.
 
-This is the architecture of a solution that is **profitable, politically resilient, socially just, and exponentially scalable.** It is designed not just to work, but to be **impossible to stop.** Compete with free, healthy and organic or go out of business. Making people pay for the privilege of not starving no longer needs to be a valid business model. Time for a changing of the guard.
+This will create an **exponential growth curve**, where scaling is driven by the project’s own internal profitability rather than a dependency on external capital or political whim. The model is designed to reach viral adoption by offering a service that is cheaper, more secure, and more beneficial for communities than the status quo. Each paid adoption becomes self-replicating in its own right, growing and spreading from there.
+
+For those who need a refresher on exponential growth curves, you need only look back to the COVID era spread. That's what we need right now. Eventually this will require a global price on carbon, but if we reach that threshold we should have the data to show we can do it.
+
+---
+
+### **4.5 The Integrated Flywheel: Synergistic Regeneration**
+
+The system’s technical components will operate in a continuous positive feedback loop to accelerate carbon sequestration:
+
+1.  **Agroforestry** will produce the biomass required for biochar and soil growth.
+2.  **Biochar** will be inoculated with local microbes and mixed with **crushed rock dust (ERW)**.
+3.  This **Biochar-Basalt blend** will be applied back to the land, increasing water retention, microbial habitat, and soil fertility.
+4.  Enhanced fertility will lead to **faster biomass growth** and **increased carbon exudation** into the soil, further accelerating the drawdown rate year after year.
+
+Positive feedbacks combined with exponential growth is what we hope to use to expand this fast enough to be relevant. Each hub both grows in size and spawns new self-spawning hubsand so forth. 
 
 ---
 
 ### **4.6 Abundance by Design**
 
-The Modern Druid system is not designed around scarcity economics.
+The project will replace scarcity-based economics with a model of **ecological abundance**. By converting ecological productivity directly into community wealth, the system will offer a pragmatic alternative to industrial agriculture. Deflation, not inflation. Decrease the costs of living, improving buying power. The ultimate goal is to demonstrate a "changing of the guard"—moving from a model that exploits land and people to one that feeds the world as a natural side effect of healing the atmosphere. By providing more savings than we cost in credits to the communities we operate in, by being a cost saving measure that provides greater food security alongside jobs and local landownership, while drawing down meaningful levels of carbon dioxide, we can target potentially local communities and corporate sponsors right on up to national and international governments and UN level organizations for that matter.
 
-It is designed around **ecological abundance**.
-
-Food production is intentionally **not monetized**, allowing the system to bypass the most expensive and complicated parts of the modern agricultural supply chain:
-
-* harvesting
-* transport
-* packaging
-* distribution
-* retail overhead
-
-By removing these costs and logistics, the project converts ecological productivity directly into **community wealth.**
-
-A mature hub can generate **millions of dollars worth of food annually**, delivered freely to the surrounding community.
-
-This abundance is not charity.
-
-It is an **engineered public good** that:
-
-* strengthens local food security
-* builds political support
-* reduces community cost of living
-* enables local entrepreneurs to create value-added businesses
-
-The goal is to replace the existing "pay us to destroy the land to grow poison covered food so you don't starve" model of agriculture with one that feeds everybody without poisons or fertilizers. And do it as a side effect of our actual goal, removing carbon from the atmosphere.
+Food should be free.
 
 ---
 

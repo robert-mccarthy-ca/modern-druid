@@ -108,14 +108,14 @@ This is not intended to be a charity or a niche carbon project. This is designed
 
 ---
 
-## **3.0 Constitutional Governance & Corporate Structure: A Mission-Locked System for Scalable, Equitable Climate Repair**
+# **3.0 Constitutional Governance & Corporate Structure: A Mission-Locked System for Scalable, Equitable Climate Repair**
 
 The Modern Druid Project will rely on a governance architecture that is deliberately engineered to be as resilient and self-reinforcing as its ecological systems. This structure will not emerge organically—it will be explicitly designed to ensure that the project cannot drift into extractive or exploitative patterns over time.
 
 The system will be composed of two tightly coupled layers:
 
-1. **Hub-Level Operating Entities** (the farms themselves)
-2. **Modern Druid Central (MDC)** (the mission-holding and support organization)
+1.  **Hub-Level Operating Entities** (the farms themselves)
+2.  **Modern Druid Central (MDC)** (the mission-holding and support organization)
 
 Together, these will form a **replication engine** that distributes value locally while maintaining global coordination, standards, and expansion capacity.
 
@@ -132,9 +132,9 @@ No reliance on product sales will be required for viability.
 
 This ensures:
 
-* Alignment with climate repair as the core function
-* Simplified operations and logistics
-* Maximum focus on durable carbon sequestration
+*   Alignment with climate repair as the core function
+*   Simplified operations and logistics
+*   Maximum focus on durable carbon sequestration
 
 ---
 
@@ -142,10 +142,13 @@ This ensures:
 
 Each hub will allocate revenue according to a **constitutionally defined distribution model**, ensuring:
 
-* Worker compensation is prioritized - 50%
-* Local reinvestment is guaranteed   - 30%
-* Replication is continuously funded - 10%
-* Global coordination remains viable - 10%
+*   Worker compensation is prioritized - 50%
+*   Local reinvestment is guaranteed   - 30%
+*   Replication is continuously funded - 10%
+*   Global coordination remains viable - 10%
+
+**Post-Establishment Cost Structure:**
+Once the site infrastructure (CharHouse, irrigation, earthworks) is established, the bulk of non-labour expenses shifts from capital-intensive construction to operational inputs. The primary ongoing costs will be **new seeds, nursery supplies, and equipment maintenance**. Because these recurring costs are relatively low compared to initial CapEx, any revenue remaining after covering wages and essential inputs becomes surplus available for distribution or reinvestment.
 
 ---
 
@@ -153,15 +156,15 @@ Each hub will allocate revenue according to a **constitutionally defined distrib
 
 All hubs will implement:
 
-* A **minimum living wage baseline**
-* A **strict 2:1 maximum compensation ratio**
-* A **profit-sharing structure tied to participation**
+*   A **minimum living wage baseline**
+*   A **strict 2:1 maximum compensation ratio**
+*   A **profit-sharing structure tied to participation**
 
 This ensures that:
 
-* Labour is never exploited
-* Advancement is internal and merit-based
-* Wealth concentration is structurally prevented
+*   Labour is never exploited
+*   Advancement is internal and merit-based
+*   Wealth concentration is structurally prevented
 
 ---
 
@@ -175,9 +178,9 @@ At the end of each farm's carbon crediting period (~20–25 years):
 
 This ensures:
 
-* Long-term incentives are aligned with restoration and long term development
-* Workers become landowners, these will be their farms one day
-* The system produces productive land which is handed over to trained stewards
+*   Long-term incentives are aligned with restoration and long term development
+*   Workers become landowners, these will be their farms one day
+*   The system produces productive land which is handed over to trained stewards
 
 ---
 
@@ -193,26 +196,25 @@ The Modern Druid system will support multiple entry points for different types o
 A publicly oriented climate and food system commissioned for community benefit.
 
 **Funding Source:**
-Grants, public climate funds, or community-backed financing (e.g., land trusts).
+Grants, public climate funds, or community-backed financing (e.g., land trusts). This is the public or philanthropic funding pathway.
 
 **Revenue Allocation:**
 
-* **50% Employee Pool**
-  Distributed as wages and bonuses prorated based on wages earned.
+*   **50% Employee Pool**
+    Distributed as wages and bonuses prorated based on wages earned.
 
-* **30% Local Development Fund**
-  Covers all operational costs (MRV, inputs, maintenance, irrigation).
-  Surplus will fund:
+*   **30% Local Development Fund**
+    Covers all operational costs (MRV, inputs, maintenance, irrigation).
+    *Surplus Distribution:* Any excess funds remaining after full deployment are split between:
+    1.  **Local Improvements:** Funding other local infrastructure improvements (water harvesting systems, energy production, greenhouses, public facilities, etc.).
+    2.  **Local Expansion:** Added to the Local Replication Fund below for local expansion and employee promotion.
 
-  * Land expansion, adding new farms to the hub, or
-  * Other local infrastructure improvements (water harvesting systems, energy production, greenhouses, public facilities, etc.)
+*   **10% Local Replication Fund**
+    Used to launch new standard hubs locally.
+    Priority: promote existing workers into management roles at new hubs, providing a career path to hub manager for all stewards.
 
-* **10% Local Replication Fund**
-  Used to launch new hubs.
-  Priority: promote existing workers into management roles at new hubs, providing a career path to hub manager for all stewards.
-
-* **10% MDC Royalty**
-  Funds global R&D, support systems, and expansion into underserved regions.
+*   **10% MDC Royalty**
+    Funds global R&D, support systems, and expansion into underserved regions.
 
 **Outcome:**
 At project completion, land will transfer to workers.
@@ -226,24 +228,25 @@ The hub will leave behind a **community-owned, climate-resilient asset base**.
 An investment-driven pathway for private capital participation seeking profit.
 
 **Funding Source:**
-Fully funded by the franchise owner(s), who assume all startup risk.
+Fully funded by the franchise owner(s), who assume all startup risk. This is the investor funding pathway.
 
 **Revenue Allocation:**
 
-* **50% Employee Pool**
-  Living wages and bonuses guaranteed.
+*   **50% Employee Pool**
+    Distributed as wages and bonuses prorated based on wages earned.
 
-* **30% Local Development / Owner Profit**
-  Covers operations, improvements, and profit-taking.
+*   **30% Local Development / Owner Profit**
+    Covers all operational costs (MRV, inputs, maintenance, irrigation).
+    *Surplus Distribution:* Any excess funds remaining after full deployment are split between:
+    1.  **Profit Taking:** Franchisee profit taking.
+    2.  **Local Expansion:** Added to the Local Replication Fund below for local expansion and employee promotion.
 
-* **5% Local Expansion Fund**
-  Used to expand the owner’s portfolio of hubs.
+*   **10% Local Replication Fund**
+    Used to launch new standard hubs locally.
+    Priority: promote existing workers into management roles at new hubs, providing a career path to hub manager for all stewards.
 
-* **5% Expansion Fund Deferred (to MDC)**
-  Redirected to fund hubs in regions lacking capital or operators.
-
-* **10% MDC Royalty**
-  Ensures all franchises contribute to global scaling.
+*   **10% MDC Royalty**
+    Funds global R&D, support systems, and expansion into underserved regions.
 
 **Outcome:**
 Owners generate returns through carbon credits.
@@ -256,28 +259,31 @@ At end of lifecycle, land still transfers to workers.
 ### **C. Family Farm Franchise**
 
 **Purpose:**
-Allows existing landowners (individual or group) to integrate into the network without adopting a rotating workforce model. Whether these are traditional farmers and landowners, or any other group of individuals who want to start a farm together, this provides an entry path for private equity. The key distinction from the For-Profit variety is that any taken profits go to the Employee Pool instead of the Franchisee's profits.
+Allows a group of landowners to integrate into the network without adopting a rotating workforce model. Whether these are traditional farmers or just a group of individuals who want to start a farm together. The key distinction from the For-Profit variety is that any taken profits go to the Employee Pool instead of the Franchisee's profits. This is the funding pathway for people who have the land, money, and desire to start a farm.
 
 **Funding Source:**
 Farmer(s) provides land and capital.
 
 **Revenue Allocation:**
 
-* **50% Employee Pool**
-  Distributed to workers as wages and bonuses in the same manner as every other hub.
+*   **50% Employee Pool**
+    Distributed as wages and bonuses prorated based on wages earned.
 
-* **30% Local Development / Profit Sharing**
-  Retained for operations, reinvestment, or employee bonuses.
+    *   **30% Local Development / Owner Profit**
+    Covers all operational costs (MRV, inputs, maintenance, irrigation).
+    *Surplus Distribution:* Any excess funds remaining after full deployment are split between:
+    1.  **Employee Bonuses:** Added to the Employee Pool above, increasing wages and bonuses.
+    2.  **Local Expansion:** Added to the Local Replication Fund below for local expansion and employee promotion.
 
-* **10% Expansion Fund Deferred (to MDC)**
-  Supports global expansion into new regions.
+*   **10% Expansion Fund Deferred (to MDC)**
+    Instead of starting new local hubs from promoted employees, the funds are sent to MDC for expansion into new regions around the globe.
 
-* **10% MDC Royalty**
-  Funds system-wide R&D and infrastructure.
+*   **10% MDC Royalty**
+    Funds global R&D, support systems, and expansion into underserved regions.
 
 **Outcome:**
-Farmers gain access to carbon revenue while restoring their land.
-They participate in global scaling without managing replication locally.
+The land transfers to the people who worked it, so it could be kept in te family for example, but who owns how much would be based on wages earned same as the other hubs.
+They participate in global scaling without managing replication locally, with excess value flowing to the workers and the global parent company for replication elsewhere.
 
 ---
 
@@ -289,14 +295,14 @@ Across all hub types, the end condition is identical:
 
 Ownership will be distributed:
 
-* Proportionally to wages earned
-* Over the full operational lifetime of the site
+*   Proportionally to wages earned
+*   Over the full operational lifetime of the site
 
 This ensures:
 
-* Long-term commitment to land health
-* Fair allocation based on contribution
-* Permanent decentralization of land ownership and food production
+*   Long-term commitment to land health
+*   Fair allocation based on contribution
+*   Permanent decentralization of land ownership and food production
 
 ---
 
@@ -306,21 +312,21 @@ Modern Druid Central will function as the **non-local coordinating entity** resp
 
 ### **Primary Roles**
 
-1. **Blueprint Stewardship**
+1.  **Blueprint Stewardship**
 
-   * Maintain and evolve the open-source system design, made freely available to all
+    *   Maintain and evolve the open-source system design, made freely available to all
 
-2. **Carbon Market Integration**
+2.  **Carbon Market Integration**
 
-   * Handle registry alignment, MRV frameworks, and verification support
+    *   Handle registry alignment, MRV frameworks, and verification support
 
-3. **Global Expansion Engine**
+3.  **Global Expansion Engine**
 
-   * Deploy capital into underserved regions using pooled funds
+    *   Deploy capital into underserved regions using pooled funds
 
-4. **Training & Replication Systems**
+4.  **Training & Replication Systems**
 
-   * Develop and distribute standardized online training programs free to all
+    *   Develop and distribute standardized online training programs free to all
 
 ---
 
@@ -328,9 +334,9 @@ Modern Druid Central will function as the **non-local coordinating entity** resp
 
 MDC will be funded through:
 
-* **10% royalties from all hubs**
-* **Deferred expansion funds**
-* **Optional development/service fees (early-stage)**
+*   **10% royalties from all hubs**
+*   **Deferred expansion funds** (specifically from Family Farm Franchises)
+*   **Standard Hub deployment fees** (pay to go to the front of the line for hub installs, profits to support underserved regions)
 
 ---
 
@@ -338,8 +344,8 @@ MDC will be funded through:
 
 To offset lack of land ownership:
 
-* MDC staff will receive **higher base compensation (≈1.5× hub equivalents)**
-* Bonuses will be tied to **hub network performance** proportionally
+*   MDC staff will receive **higher base compensation (≈1.5× hub equivalents)**
+*   Bonuses will be tied to **hub network performance** proportionally
 
 A **2:1 compensation cap** will also apply within MDC to prevent exploitation.
 
@@ -349,8 +355,8 @@ A **2:1 compensation cap** will also apply within MDC to prevent exploitation.
 
 MDC will operate under legally binding constraints:
 
-* Core rules (revenue splits, land transfer, wage caps) **cannot be altered without supermajority approval**
-* No deviation toward extractive or shareholder-first models
+*   Core rules (revenue splits, land transfer, wage caps) **cannot be altered without supermajority approval**
+*   No deviation toward extractive or shareholder-first models
 
 ---
 
@@ -366,22 +372,27 @@ Value cannot be siphoned upward indefinitely.
 
 Expansion is funded internally through:
 
-* Local replication funds
-* Deferred expansion capital
+*   Local replication funds
+*   Deferred expansion capital (from Family Farms)
+
+And externally though:
+
+*   Franchisees, whether For-Profit or Family Farm
+*   Deployment fees, where communities interested in a hub can commission one, which in time should become self-sufficient and self-expanding
 
 ### **3. Risk Isolation**
 
 Each hub operates as an independent entity:
 
-* Failure of one does not affect others
-* System resilience increases with scale
+*   Failure of one does not affect others
+*   System resilience increases with scale
 
 ### **4. Alignment of Incentives**
 
 Workers benefit from:
 
-* Immediate living wages
-* Long-term land ownership
+*   Immediate living wages
+*   Long-term land ownership
 
 ### **5. Eventual Dissolution**
 
@@ -389,10 +400,10 @@ The system is not designed to persist indefinitely as a centralized entity.
 
 It is designed to:
 
-* Restore land
-* Train stewards
-* Transfer ownership
-* Repeatedly
+*   Restore land
+*   Train stewards
+*   Transfer ownership
+*   Repeatedly
 
 ---
 
@@ -400,17 +411,17 @@ It is designed to:
 
 This governance structure will transform the project from:
 
-* A centralized organization
+*   A centralized organization
   **into**
-* A distributed network of locally owned, carbon-sequestering ecosystems
+*   A distributed network of locally owned, carbon-sequestering ecosystems
 
 It will ensure that:
 
-* Carbon removal is profitable
-* Food systems are abundant and resilient
-* Wealth is distributed
-* Polluters pay for the food
-* Land is returned to stewards for safekeeping
+*   Carbon removal is profitable
+*   Food systems are abundant and resilient
+*   Wealth is redistributed
+*   Polluters pay for all of it
+*   Land is returned to stewards for safekeeping
 
 ---
 

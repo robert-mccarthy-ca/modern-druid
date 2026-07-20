@@ -521,151 +521,202 @@ Food should be free.
 
 ---
 
-### **5.0 Proof of Concept: The First 100-Hectare Flagship Hub**
+# 5.0 Proof of Concept: The First 100‑Hectare Flagship Hub
 
-The theoretical framework will require validation under rigorous, real-world conditions. The first **Modern Druid Flagship Hub** will be a 100-hectare (1 km²) site established in Canada. This location will serve as a deliberate stress-test, chosen to prove the model’s viability under two specific, significant pressures:
+The theoretical framework will require validation under rigorous, real‑world conditions. The first **Modern Druid Flagship Hub** will be a 100‑hectare (1 km²) site established in Canada. This location will serve as a deliberate stress‑test, chosen to prove the model’s viability under two specific, significant pressures:
 
-1.  **Climatic Rigor:** A cold temperate climate with a short growing season, challenging biomass accumulation and system resilience.
-2.  **Economic Rigor:** High developed-world labour and operating costs, testing the ability to achieve profitability without exploiting low-wage economies.
+1. **Climatic Rigor:** A cold temperate climate with a short growing season, challenging biomass accumulation and system resilience.
+2. **Economic Rigor:** High developed‑world labour and operating costs, testing the ability to achieve profitability without exploiting low‑wage economies.
 
-Success under these constraints will de-risk replication in more favorable climates globally. The 100-hectare size is selected to meet the minimum project area for registries like Puro.earth, ensuring access to essential carbon credit streams from the outset.
+Success under these constraints will de‑risk replication in more favourable climates globally. The 100‑hectare size provides a statistically robust area for rigorous Monitoring, Reporting and Verification (MRV) and achieves the economies of scale required to make the replication fund financially meaningful from the outset. It comfortably exceeds the typical issuance thresholds for biochar credits (e.g., Puro.earth’s ~200 t CO₂ minimum), ensuring access to essential carbon credit streams from day one.
 
 ---
 
-### **5.1 Site Rationale: A Strategic First Location**
+## 5.1 Site Rationale: A Strategic First Location
 
 The flagship hub will be sited in **Northern Ontario**, a choice driven by strategic, practical, and scientific considerations:
 
-1.  **Founder Presence & Operational Control:** Direct, on-the-ground oversight by the project’s founder during the critical first years will minimize risk, accelerate iterative learning, and ensure tight integration between design and execution. Starting where the lead architect is based is the simplest path to a functional first hub.
-2.  **A Balanced Climate Test:** Northern Ontario represents a mid-latitude temperate zone with cold winters and a moderate growing season. It represents an “average” constraint, providing a credible baseline for later adaptation to more productive (tropical) or more extreme (arid, boreal) environments.
-3.  **Economic Realism in a Developed Economy:** Canada’s high cost of living mandates that the model support dignified, developed-world wages from day one. Proving profitability under these cost pressures will demonstrate the engine’s fundamental strength and make its economics even more compelling in lower-cost regions.
-4.  **Access to Early-Stage Funding:** Initial development will target Canadian government grants, climate funds, and impact investment programs (e.g., Sustainable Development Technology Canada, the Low Carbon Economy Fund). This would be in addition to the usual private equity possibilities.
-5.  **Strategic Land Availability:** Target regions in Northern Ontario offer lower-cost, marginal, or underutilized agricultural land. Demonstrating regeneration on such land will address the “food vs. carbon” concern directly, proving the system can enhance productivity without displacing high-value staple crops until we can meet or exceed food production parity.
+1. **Founder Presence & Operational Control:** Direct, on‑the‑ground oversight by the project’s founder during the critical first years will minimise risk, accelerate iterative learning, and ensure tight integration between design and execution. Starting where the lead architect is based is the simplest path to a functional first hub.
+2. **A Balanced Climate Test:** Northern Ontario represents a mid‑latitude temperate zone with cold winters and a moderate growing season. It provides a credible baseline for later adaptation to more productive (tropical) or more extreme (arid, boreal) environments.
+3. **Economic Realism in a Developed Economy:** Canada’s high cost of living mandates that the model support dignified, developed‑world wages from day one. Proving profitability under these cost pressures will demonstrate the engine’s fundamental strength and make its economics even more compelling in lower‑cost regions.
+4. **Access to Early‑Stage Funding:** Initial development will target Canadian government grants, climate funds, and impact investment programs (e.g., Sustainable Development Technology Canada, the Low Carbon Economy Fund).
+5. **Strategic Land Availability:** Target regions in Northern Ontario offer lower‑cost, marginal, or underutilised agricultural land. Demonstrating regeneration on such land addresses the “food vs. carbon” concern directly, proving the system can enhance productivity without displacing high‑value staple crops.
 
-This site will be the initial calibration point for a globally deployable, climate-agnostic network.
-
----
-
-### **5.2 System Blueprint: A Modular Problem-Solution Framework**
-
-The Modern Druid model is not a fixed prescription but a set of integrated functions. This section will define each core task, its objective, and the primary implementation approaches for a temperate launch, while clearly identifying alternatives for global adaptation. Any component can be improved or replaced locally without disrupting the integrated whole.
-
-#### **A. Task: Establish a Permanent, Productive Agroforestry System**
-
-| Subtask | Goal | Primary Approach (Temperate Launch) | Alternative/Potential Solutions |
-| :--- | :--- | :--- | :--- |
-| **1. System Layout & Water** | Optimize light, access, yield, and **capture all precipitation**. | **Water First Design:** Begin with a **swale & pond network** on contour, informed by satellite/topographic survey. Then implement a **16 m repeating grid (N‑S rows)** integrated into the water-harvesting layout. | Keyline design integration; subsurface drainage for high-rainfall sites; atmospheric water generation for arid expansion or groundwater positive farming. |
-| **2. Biomass Production** | Maximize woody biomass for biochar feedstock. | **Tree Rows:** Pollarded trees (poplar, paulownia). **Coppice Alleys:** Dense willow/locust established from seedballs or cuttings. | Bamboo (tropics), mesquite (arid), tagasaste (Mediterranean). |
-| **3. Food Production** | Provide diverse perennial food as a free public good. | **Tree Rows:** Apple, pear, hazelnut, chestnut, sea buckthorn. **Understory:** Berries, perennial greens. **Alley Groundcover:** Shade-tolerant edible perennials. | Breadfruit, avocado, moringa, perennial brassicas. |
-| **4. Soil Biology & Fertility** | Create a self-sustaining soil food web. | **Korean Natural Farming (KNF)/Jadam:** Weekly applications of IMO, JMS, FPJ, JLF via irrigation. Biochar pre-charged in JMS/JLF. **Biochar + basalt mix** applied annually. | Johnson-Su compost, vermicompost, local fungal inoculants. |
-| **5. Implementation** | Low-cost, diverse, resilient establishment using seedballs and precision placement. | **Primary Method: Hand-sowing with AR Guidance.**<br>- **Seedball Composition:** Biochar, clay, compost, mycorrhizae, KNF inputs, diverse seed mix (heavily overplanted).<br>- **Placement:** Workers use AR glasses displaying the grid layout for precise seedball placement.<br>- **Philosophy:** Let nature select – overplant, then thin and promote the best performers. | Drone sowing for large/remote alleys; mechanical transplanters for high-value tree whips; fully manual broadcast (low-tech). |
-
-#### **B. Task: Convert Biomass into Permanent Carbon & Soil Amendment**
-
-The objective will be to transform sustainably grown biomass into stable biochar, generating carbon credits and producing a soil amendment that accelerates the entire system. All biochar will be used on-site to maximize soil performance and carbon sequestration; none will be sold as a product.
-
-| Subtask | Goal | Primary Approach (Temperate Launch) | Alternative/Potential Solutions |
-| :--- | :--- | :--- | :--- |
-| **1. Harvest & Process Biomass** | Efficiently produce uniform, dry feedstock for pyrolysis. | **Shear + In-Field Baling.**<br>- **Cut:** Skid-steer with forestry shear.<br>- **Bale:** Energy wood baler (dense, 0.5–0.8 odt bales).<br>- **Handle:** Telehandler moves bales to covered storage for air-drying. | Forage harvester + baling (high-speed, high-capital); manual harvest + bundling (ultra-low-capital, high-labour). |
-| **2. Pyrolyze to Biochar** | Safely convert biomass to high-quality biochar **in compliance with all regulations**. | **Insulated, batch flame-cap kilns** housed in a **well-ventilated, open-sided pole barn (CharHouse).**<br>- **Regulatory Strategy:** Position as agricultural waste management; use continuous emissions monitoring (CO, PM) to demonstrate low impact; maintain safe setbacks. | Top-Lit UpDraft (TLUD) units for lower emissions; retort kilns for cleaner, more efficient conversion; mobile/containerized units to bypass certain “fixed facility” rules; fully permitted industrial pyrolysis plants for strict jurisdictions. |
-| **3. Charge & Integrate Biochar** | Maximize biochar’s agronomic and carbon-sequestration benefits. | Pre-charge raw biochar in JMS/JLF for 7–14 days before field application. Apply as part of an **integrated biochar/basalt mix**. | Direct inoculation with mycorrhizal fungi; blending with compost tea at the spreader. |
-| **4. Scale & Safety** | Achieve production targets safely, repeatably, and legally. | **Compliance-led design:** Open-air CharHouse for natural dispersion; fire department-approved layout with on-site water; documented batch logs for regulators and MRV. **Contingency:** A permitted TLUD or retort design will be ready if flame-cap kilns face regulatory challenge. | Fully automated, enclosed pyrolysis with integrated emissions control (scrubbers, filters) for the strictest jurisdictions. |
-
-#### **C. Task: Accelerate Geological Carbon Removal & Remineralization**
-
-The objective will be to deploy Enhanced Rock Weathering (ERW) to remove CO₂ geologically and add soil minerals, leveraging existing workflows.
-
-| Subtask | Goal | Primary Approach (Temperate Launch) | Alternative/Potential Solutions |
-| :--- | :--- | :--- | :--- |
-| **1. Source & Apply Basalt** | Apply finely ground silicate rock to soils at agronomic rates. | Source **crushed basalt** (<0.5 mm) from a local quarry on the Canadian Shield. Spread using a lime/fertilizer spreader in the same pass as biochar. | Other silicate rocks (wollastonite, olivine); manual broadcasting (small scale); drone spreading (inaccessible terrain). |
-| **2. Maximize Weathering Rate** | Accelerate the carbonation reaction to increase credit yield. | **Leverage biochar synergy:** Apply the biochar/basalt mix together. Biochar retains moisture, raises pH, and hosts weathering microbes, targeting a **30–50% faster weathering** rate. | Microbial and fungal inoculation with silicate-weathering species; organic acid priming with humic acids or low-dose JLF. |
-
-#### **D. Task: Ensure Climate Resilience & Operational Security**
-
-The objective will be to guarantee survival and productivity through drought, frost, fire, and winterkill, using a multipurpose irrigation backbone.
-
-| Subtask | Goal | Primary Approach (Temperate Launch) | Alternative/Potential Solutions |
-| :--- | :--- | :--- | :--- |
-| **1. Water Security & Harvesting** | Capture and store all precipitation for year-round resilience. | **Primary:** Build a **swale & pond network** on contour during site prep. Water will be pumped to the irrigation system. **Secondary:** A well will serve as backup. | Keyline plowing for broad infiltration; atmospheric water generators (for arid/off-grid/sustainable expansion); rainwater catchment from buildings. |
-| **2. Multipurpose Overhead Irrigation Grid** | Deliver water, foliar nutrients/microbes, frost protection, and fire suppression via a single system. | **Full overhead grid** (impact sprinklers on risers):<br>- Zoned for trees, alleys, and corridors.<br>- **Frost-proof** (buried below frost line, with drains).<br>- Integrated dosing pumps for JMS/JLF/IMO foliar feeds.<br>- **Modes:** Drought supplement, foliar feeding, frost protection, fire deluge, **snowpack generation.** | Mobile irrigation reels (lower capital, more labour); non-frost-proof overhead (for warm climates). |
-| **3. Frost & Winterkill Defense** | Protect perennial crops from spring frosts and winter thaws that destroy insulating snowpack. | **Frost Mode:** Run irrigation before radiative frost events to form a protective ice layer.<br>**Snowpack Mode:** During winter droughts or thaw events, use irrigation to generate and maintain an artificial snowpack over perennial crops to prevent root/crown damage. | Wind machines for frost (low water use); row covers/low tunnels for high-value crops; selecting ultra-hardy cultivars. |
-| **4. Wildfire Defense** | Protect carbon stocks (soil, biomass, biochar) and infrastructure from fire. | **Fire Suppression Mode:** One-button activation turns the entire grid to full capacity, saturating the site and raising local humidity, acting as a giant, wet firebreak. | Perimeter grazing for fuel reduction; defensible space clearing around infrastructure; on-site firefighting water tanks and pumps. |
-| **5. Energy Autonomy** | Maintain critical operations (irrigation, kiln fans) during grid outages. | **Renewables + batteries**, sized to run irrigation pumps, dosing system, kiln ventilation, and basic facility power for 3–5 days without sun. | Syngas generator from advanced pyrolysis (future R&D); wind turbine complement in windy sites; tool and EV charging. |
+This site will be the initial calibration point for a globally deployable, climate‑agnostic network.
 
 ---
 
-### **5.3 Phased Implementation & Labour Model**
+## 5.2 System Blueprint: A Modular Problem‑Solution Framework
 
-A scalable model will require a realistic, staged build-out that respects soil biology, labour capacity, and capital flow. The hub’s development will proceed through three distinct phases, from degraded land to a mature, productive system.
+The Modern Druid model is not a fixed prescription but a set of integrated functions. This section defines each core task, its objective, and the primary implementation approaches for a temperate launch, while clearly identifying alternatives for global adaptation. Any component can be improved or replaced locally without disrupting the integrated whole.
+
+### A. Task: Establish a Permanent, Productive Agroforestry System
+
+| Subtask | Goal | Primary Approach (Temperate Launch) | Alternative/Potential Solutions |
+| :--- | :--- | :--- | :--- |
+| **1. System Layout & Water** | Optimise light, access, yield, and **capture all precipitation**. | **Water First Design:** Begin with a **swale & pond network** on contour, informed by satellite/topographic survey. Then implement a **16 m repeating grid (N‑S rows)** integrated into the water‑harvesting layout. | Keyline design integration; subsurface drainage for high‑rainfall sites; atmospheric water generation for arid expansion. |
+| **2. Biomass Production** | Maximise woody biomass for biochar feedstock. | **Tree Rows:** High-pollarded trees (poplar, paulownia) as upper canopy layer. **Coppice Alleys:** Dense willow/locust established from seedballs or cuttings. | Bamboo (tropics), mesquite (arid), tagasaste (Mediterranean). |
+| **3. Food Production** | Provide diverse perennial food as a free public good. | **Tree Rows:** Apple, pear, hazelnut, chestnut, sea buckthorn. **Understory:** Berries, perennial greens. **Alley Groundcover:** Shade‑tolerant edible perennials. | Breadfruit, avocado, moringa, perennial brassicas. |
+| **4. Soil Biology & Fertility** | Create a self‑sustaining soil food web. | **Korean Natural Farming (KNF)/Jadam:** Weekly applications of IMO, JMS, FPJ, JLF via irrigation. Biochar pre‑charged in JMS/JLF. **Biochar + basalt mix** applied annually. | Johnson‑Su compost, vermicompost, local fungal inoculants. |
+| **5. Implementation** | Low‑cost, diverse, resilient establishment using seedballs and precision placement. | **Primary Method: Hand‑sowing with AR Guidance.**<br>- **Seedball Composition:** Biochar, clay, compost, mycorrhizae, KNF inputs, diverse seed mix (heavily overplanted).<br>- **Placement:** Workers use AR glasses displaying the grid layout for precise seedball placement.<br>- **Philosophy:** Let nature select – overplant, then thin and promote the best performers. | Drone sowing for large/remote alleys; mechanical transplanters for high‑value tree whips; fully manual broadcast (low‑tech). |
+
+---
+
+### B. Task: Convert Biomass into Permanent Carbon & Soil Amendment
+
+The objective is to transform sustainably grown biomass into stable biochar, generating carbon credits and producing a soil amendment that accelerates the entire system. **All biochar produced will be used on‑site** to maximise soil performance and carbon sequestration; **none will be sold as a product** – the revenue model relies exclusively on carbon credits, as mandated by the constitutional governance framework (Section 3.1).
+
+| Subtask | Goal | Primary Approach (Temperate Launch) | Alternative/Potential Solutions |
+| :--- | :--- | :--- | :--- |
+| **1. Harvest & Process Biomass** | Efficiently produce uniform, dry feedstock for pyrolysis. | **Shear + In‑Field Baling.**<br>- **Cut:** Skid‑steer with forestry shear.<br>- **Bale:** Energy wood baler (dense, 0.5–0.8 odt bales).<br>- **Handle:** Telehandler moves bales to covered storage for air‑drying. | Forage harvester + baling (high‑speed, high‑capital); manual harvest + bundling (ultra‑low‑capital, high‑labour). |
+| **2. Pyrolyse to Biochar** | Safely convert biomass to high‑quality biochar **in compliance with all regulations**. | **Insulated, batch flame‑cap kilns** housed in a **well‑ventilated, open‑sided pole barn (CharHouse).**<br>- **Regulatory Strategy:** Position as agricultural waste management; use continuous emissions monitoring (CO, PM) to demonstrate low impact; maintain safe setbacks. | Top‑Lit UpDraft (TLUD) units for lower emissions; retort kilns for cleaner, more efficient conversion; mobile/containerised units to bypass certain “fixed facility” rules. |
+| **3. Charge & Integrate Biochar** | Maximise biochar’s agronomic and carbon‑sequestration benefits. | Pre‑charge raw biochar in JMS/JLF for 7–14 days before field application. Apply as part of an **integrated biochar/basalt mix**. | Direct inoculation with mycorrhizal fungi; blending with compost tea at the spreader. |
+| **4. Scale & Safety** | Achieve production targets safely, repeatably, and legally. | **Compliance‑led design:** Open‑air CharHouse for natural dispersion; fire department‑approved layout with on‑site water; documented batch logs for regulators and MRV. | Fully automated, enclosed pyrolysis with integrated emissions control for the strictest jurisdictions. |
+
+---
+
+### C. Task: Accelerate Geological Carbon Removal & Remineralisation
+
+The objective is to deploy Enhanced Rock Weathering (ERW) to remove CO₂ geologically and add soil minerals, leveraging existing workflows.
+
+| Subtask | Goal | Primary Approach (Temperate Launch) | Alternative/Potential Solutions |
+| :--- | :--- | :--- | :--- |
+| **1. Source & Apply Basalt** | Apply finely ground silicate rock to soils at agronomic rates. | Source **crushed basalt** (<0.5 mm) from a local quarry. Spread using a lime/fertiliser spreader in the same pass as biochar. | Other silicate rocks (wollastonite, olivine); manual broadcasting (small scale); drone spreading (inaccessible terrain). |
+| **2. Maximise Weathering Rate** | Accelerate the carbonation reaction to increase credit yield. | **Leverage biochar synergy:** Apply the biochar/basalt mix together. Biochar retains moisture, raises pH, and hosts weathering microbes, targeting a **30–50% faster weathering** rate. | Microbial and fungal inoculation with silicate‑weathering species; organic acid priming with humic acids or low‑dose JLF. |
+
+---
+
+### D. Task: Ensure Climate Resilience & Operational Security
+
+The objective is to guarantee survival and productivity through drought, frost, fire, and winterkill, using a multipurpose irrigation backbone.
+
+| Subtask | Goal | Primary Approach (Temperate Launch) | Alternative/Potential Solutions |
+| :--- | :--- | :--- | :--- |
+| **1. Water Security & Harvesting** | Capture and store all precipitation for year‑round resilience. | **Primary:** Build a **swale & pond network** on contour during site prep. Water will be pumped to the irrigation system. **Secondary:** A well will serve as backup. | Keyline plowing for broad infiltration; atmospheric water generators; rainwater catchment from buildings. |
+| **2. Multipurpose Overhead Irrigation Grid** | Deliver water, foliar nutrients/microbes, frost protection, and fire suppression via a single system. | **Full overhead grid** (impact sprinklers on risers):<br>- Zoned for trees, alleys, and corridors.<br>- **Frost‑proof** (buried below frost line, with drains).<br>- Integrated dosing pumps for JMS/JLF/IMO foliar feeds.<br>- **Modes:** Drought supplement, foliar feeding, frost protection, fire deluge, **snowpack generation.** | Mobile irrigation reels (lower capital, more labour); non‑frost‑proof overhead (for warm climates). |
+| **3. Frost & Winterkill Defence** | Protect perennial crops from spring frosts and winter thaws that destroy insulating snowpack. | **Frost Mode:** Run irrigation before radiative frost events to form a protective ice layer.<br>**Snowpack Mode:** During winter droughts or thaw events, use irrigation to generate and maintain an artificial snowpack over perennial crops. | Wind machines for frost; row covers/low tunnels for high‑value crops; selecting ultra‑hardy cultivars. |
+| **4. Wildfire Defence** | Protect carbon stocks and infrastructure from fire. | **Fire Suppression Mode:** One‑button activation turns the entire grid to full capacity, saturating the site and raising local humidity, acting as a giant, wet firebreak. | Perimeter grazing for fuel reduction; defensible space clearing; on‑site firefighting water tanks. |
+| **5. Energy Autonomy** | Maintain critical operations during grid outages. | **Renewables + batteries**, sized to run irrigation pumps, dosing system, kiln ventilation, and basic facility power for 3–5 days without sun. | Syngas generator from advanced pyrolysis; wind turbine complement; tool and EV charging. |
+
+---
+
+## 5.3 Phased Implementation & Labour Model
+
+A scalable model requires a realistic, staged build‑out that respects soil biology, labour capacity, and capital flow. The hub’s development will proceed through three distinct phases, from degraded land to a mature, productive system.
 
 *Note: The numbers below are preliminary modelling estimates used to test viability. All figures, including wages, will be refined once the founding team is assembled and a specific site is secured.*
 
-#### **Phase 1: Site Preparation, CharHouse Build, & Pioneer Ecology (Year 0–1)**
+---
+
+### 5.3.0 Strategic Ambition: Investment Scale & Experimental Latitude
+
+The **$4M CAD seed target** (detailed in Section 10.0) is the *minimum viable threshold* to build a functional, profitable 100‑hectare hub and reach breakeven by Year 4. Any capital raised **above** that amount is not merely a risk buffer – it is an **acceleration and optimisation fund** that directly increases the project’s ultimate potential.
+
+**How excess funding expands the target:**
+
+- **Larger Pilot Network:** Additional capital allows us to establish **satellite trial plots** (1–2 hectares each) testing radically different species mixes, seedball recipes, and biochar application rates concurrently – rather than sequencing experiments over years. This parallel testing collapses the timeline to identify the best‑performing genotype for the site.
+- **Advanced Soil Baseline:** We can fund a **high‑density soil carbon map** (one core per hectare instead of one per 5 ha) before planting, giving us a far more precise MRV baseline and increasing confidence in credit issuance.
+- **Early Mechanisation:** Surplus funds allow purchase of specialised planting equipment or a second energy‑wood baler, reducing labour bottlenecks in the critical establishment years (Years 1–2).
+- **Extended Experimentation Runway:** With a larger operating reserve, the hub can afford to run **3–5 years of cultivar trials** before locking in the final permanent grid layout, ensuring the mature system is built on the most productive, climate‑resilient genetics available.
+
+**Strategic Principle:** The first hub is not just a farm – it is a **living laboratory**. Every additional dollar above the minimum increases the number of variables we can test simultaneously, shortens the learning curve for global replication, and reduces the long‑term risk of choosing a suboptimal path. The “success target” scales with the available resource; more funding means we aim not just for viability, but for **peak performance convergence** as rapidly as possible.
+
+---
+
+### 5.3.1 Phase 1: Site Preparation, CharHouse Build, & Pioneer Ecology (Year 0–1)
 
 **Goal:** Establish the microbial base, water infrastructure, build the CharHouse, conduct MRV baselining, and begin biochar production from imported forestry/agricultural waste while the pioneer ecology establishes.
-**Staffing:** 3 Core FTEs (Hub Manager, Infrastructure Lead, Nursery & Soil Life Manager), plus specialized contractors.
-**Estimated On-Farm Labour:** ~222–237 person-days (≈1.2–1.3 FTE-years).
+
+**Staffing:** 3 Core FTEs (Hub Manager, Infrastructure Lead, Nursery & Soil Life Manager), plus specialised contractors. *Note: The core team’s time in Year 0‑1 is split between direct on‑farm labour, planning, procurement, and MDC coordination; the person‑day estimate below reflects only direct field operations.*
+
+**Estimated On‑Farm Labour:** ~222–237 person‑days (≈1.2–1.3 FTE‑years).
 
 | Task | Method & Rationale | Labour Estimate |
 | :--- | :--- | :--- |
-| **P1.1 – Microbial Start** | Collect IMO from Crown Land; culture on grains; brew JMS. | 10 person-days |
+| **P1.1 – Microbial Start** | Collect IMO from Crown Land; culture on grains; brew JMS. | 10 person‑days |
 | **P1.2 – Earthworks & Infrastructure** | Excavate swales/ponds; grade roads/parking. | Contractor: 15–20 days + Support: 5 days |
-| **P1.3 – Initial MRV Baseline** | Post-earthworks, pre-planting: 3 m soil cores, drone survey, full documentation. | 10 person-days |
+| **P1.3 – Initial MRV Baseline** | Post‑earthworks, pre‑planting: 3 m soil cores, drone survey, full documentation. | 10 person‑days |
 | **P1.4 – Central Work Building** | Build a large insulated pole building (3,000 sq ft) for storage, processing, and inputs. | Contractor: 30 days + Support: 20 days |
-| **P1.5 – CharHouse Construction** | Build the open-sided pyrolysis barn per engineered fire-safe design. | Contractor: 20 days + Support: 15 days |
-| **P1.6 – Seedball Production** | Make seedballs (clay, compost, biochar, IMO, seeds) for sunflowers and perennials. | 30 person-days |
-| **P1.7 – Kiln Fabrication** | Build 8 insulated flame-cap kilns with tilting/quench systems. | Fabricator: 25 days + Helper: 25 days |
-| **P1.8 – Flail Mow & Seedball Spread** | Mow site, immediately broadcast seedballs into fresh mulch. | 10 person-days |
-| **P1.9 – Inoculation, Rock Dust & Irrigation** | Tow sprayer & spreader: apply IMO/JMS drench + basalt rock dust (1–2 t/ha). | 7 person-days |
-| **P1.10 – Waste-Stream Biochar Start** | Source forestry/ag waste; begin kiln runs once CharHouse is ready. | 20 person-days (ongoing) |
-| **P1.11 – Sunflower Harvest & Bundling** | Cut stalks intact; bundle with twine for Year 2 feedstock. | 15 person-days |
-| **P1.12 – Project Management, PR & Admin** | Coordination, budget, partnerships, public outreach. | ~50 person-days (ongoing) |
+| **P1.5 – CharHouse Construction** | Build the open‑sided pyrolysis barn per engineered fire‑safe design. | Contractor: 20 days + Support: 15 days |
+| **P1.6 – Seedball Production** | Make seedballs (clay, compost, biochar, IMO, seeds) for sunflowers and perennials. | 30 person‑days |
+| **P1.7 – Kiln Fabrication** | Build 8 insulated flame‑cap kilns with tilting/quench systems. | Fabricator: 25 days + Helper: 25 days |
+| **P1.8 – Flail Mow & Seedball Spread** | Mow site, immediately broadcast seedballs into fresh mulch. | 10 person‑days |
+| **P1.9 – Inoculation, Rock Dust & Irrigation** | Tow sprayer & spreader: apply IMO/JMS drench + basalt rock dust (1–2 t/ha). | 7 person‑days |
+| **P1.10 – Waste‑Stream Biochar Start** | Source forestry/ag waste; begin kiln runs once CharHouse is ready. | 20 person‑days (ongoing) |
+| **P1.11 – Sunflower Harvest & Bundling** | Cut stalks intact; bundle with twine for Year 2 feedstock. | 15 person‑days |
+| **P1.12 – Project Management, PR & Admin** | Coordination, budget, partnerships, public outreach. | ~50 person‑days (ongoing) |
 
-#### **Phase 2: Permanent System Establishment (Year 1–3)**
+---
 
-**Goal:** Install the permanent agroforestry grid, scale on-site biomass, and integrate waste-stream and on-site biochar production.
+### 5.3.2 Phase 2: Permanent System Establishment (Year 1–3)
+
+**Goal:** Install the permanent agroforestry grid, scale on‑site biomass, and integrate waste‑stream and on‑site biochar production.
+
 **Staffing:** 5 FTEs (Adds 2 Agroforestry Stewards).
-**Estimated Labour:** ~3.5–4.5 FTE-years over Years 2–3.
+
+**Estimated Labour:** ~3.5–4.5 FTE‑years over Years 2–3.
 
 | Task | Method & Rationale | Labour Estimate |
 | :--- | :--- | :--- |
-| **P2.1 – Grid & Buffer Strip Marking** | Mark 16 m N‑S rows & 10 m/20 m biodiversity buffers every ~250 m. | 5 person-days |
-| **P2.2 – Permanent Irrigation Install** | Install the frost-proof overhead grid. **Must be done before planting** to avoid root damage. | Contractor: 15 days + Support: 10 days |
-| **P2.3 – Sunflower Termination & Replant** | Flail mow rows each spring; replant sunflowers in fallow areas via seedball, wherever we haven't completed the plantings from P2.4. | 5 person-days/year |
-| **P2.4 – Tree Row Planting** | Plant pollard whips (poplar, willow) + seedball understory (thyme, mint, etc.). | 20 person-days |
-| **P2.5 – Coppice Alley Planting** | Plant cuttings/seedballs of willow/locust + shade-tolerant edible understory. | 15 person-days |
-| **P2.6 – Herbaceous Strip Planting** | Sow seedballs of fast-growing, deep taproot mulch species (comfrey, chicory). | 5 person-days |
-| **P2.7 – Biodiversity Buffer Planting** | Broadcast diverse native seedballs (non-food) into buffer strips. | 5 person-days |
-| **P2.8 – Inoculation, Biochar/Basalt & Mulch** | Apply IMO/JMS drench; spread biochar+basalt; mulch with wood chips. | 10 person-days (annual) |
-| **P2.9 – Annual MRV Sampling** | Soil cores to 3 m, biomass sampling, drone survey, public documentation. | 10 person-days (annual) |
-| **P2.10 – Winter Coppice/Pollard Harvest** | Shear + bale biomass after leaf drop/ground freeze; store to air-dry. | 20 person-days |
-| **P2.11 – Biochar Production Scaling** | Increase kiln runs using dried waste streams and on-site biomass. | Part of ongoing ops |
+| **P2.1 – Grid & Buffer Strip Marking** | Mark 16 m N‑S rows & 10 m/20 m biodiversity buffers every ~250 m. | 5 person‑days |
+| **P2.2 – Permanent Irrigation Install** | Install the frost‑proof overhead grid. **Must be done before planting** to avoid root damage. | Contractor: 15 days + Support: 10 days |
+| **P2.3 – Sunflower Termination & Replant** | Flail mow rows each spring; replant sunflowers in fallow areas via seedball wherever we haven't completed P2.4. | 5 person‑days/year |
+| **P2.4 – Tree Row Planting** | Plant pollard whips (poplar, willow) + seedball understory (thyme, mint, etc.). | 20 person‑days |
+| **P2.5 – Coppice Alley Planting** | Plant cuttings/seedballs of willow/locust + shade‑tolerant edible understory. | 15 person‑days |
+| **P2.6 – Herbaceous Strip Planting** | Sow seedballs of fast‑growing, deep taproot mulch species (comfrey, chicory). | 5 person‑days |
+| **P2.7 – Biodiversity Buffer Planting** | Broadcast diverse native seedballs (non‑food) into buffer strips. | 5 person‑days |
+| **P2.8 – Inoculation, Biochar/Basalt & Mulch** | Apply IMO/JMS drench; spread biochar+basalt; mulch with wood chips. | 10 person‑days (annual) |
+| **P2.9 – Annual MRV Sampling** | Soil cores to 3 m, biomass sampling, drone survey, public documentation. | 10 person‑days (annual) |
+| **P2.10 – Winter Coppice/Pollard Harvest** | Shear + bale biomass after leaf drop/ground freeze; store to air‑dry. | 20 person‑days |
+| **P2.11 – Biochar Production Scaling** | Increase kiln runs using dried waste streams and on‑site biomass. | Part of ongoing ops |
 | **P2.12 – Ongoing Maintenance** | Irrigation management, foliar feeds, monitoring, seedball production. | ~1 FTE continuous |
 | **P2.13 – Project Management & Admin** | Coordination, data, community relations. | ~0.5 FTE continuous |
 
-#### **Phase 3: Mature Operations (Year 4–20+)**
+---
 
-**Goal:** Optimize the established system for maximum carbon removal, food yield, and open-source replication.
-**Staffing:** 8‑Person Core Team (Adds a 3rd Agroforestry Steward, Data & MRV Coordinator, and Community & Outreach Lead).
+### 5.3.3 Phase 3: Mature Operations (Year 4–20+)
 
-**Annual Workflow – Seasonal Breakdown**
-*Hours are modelled to reflect seasonal intensity, not uniform 2,080-hour years.*
+**Goal:** Optimise the established system for maximum carbon removal, food yield, and open‑source replication.
+
+**Staffing:** 8‑Person Core Team (adds a 3rd Agroforestry Steward, Data & MRV Coordinator, and Community & Outreach Lead).
+
+**Annual Workflow – Seasonal Breakdown**  
+*Hours are modelled to reflect seasonal intensity, not uniform 2,080‑hour years.*
 
 | Season | Key Tasks | Team Focus | Weekly Load (Hours) |
 | :--- | :--- | :--- | :--- |
 | **Winter** | Harvest & baling; seedball production; maintenance; admin/planning. | Stewards, Nursery, Infra, Admin | ~85 hrs/wk |
 | **Spring** | Biochar/basalt spread; community launch; planting; foliar feeds; irrigation startup. | All hands | ~85 hrs/wk |
 | **Summer** | Biochar production begins; pruning; mowing; breeding selections; MRV; tours. | Stewards (kilns), Nursery, Data, Community | ~90 hrs/wk |
-| **Autumn** | Biochar peak; late harvest; input brewing; final MRV & open-source release; winter prep. | Stewards (kilns), Nursery, Data, Infra | ~105 hrs/wk |
-| **Admin (Year-Round)** | Financials, credit sales, content creation, community relations. | Admin, Data, Community | ~23 hrs/wk |
+| **Autumn** | Biochar peak; late harvest; input brewing; final MRV & open‑source release; winter prep. | Stewards (kilns), Nursery, Data, Infra | ~105 hrs/wk |
+| **Admin (Year‑Round)** | Financials, credit sales, content creation, community relations. | Admin, Data, Community | ~23 hrs/wk |
 
 **Total Annual Team Hours:** ~13,240 hours (equivalent to ~6.37 FTEs). This reflects a humane, seasonal workload.
 
-#### **Phase 3 Labour & Compensation Model**
+---
+
+#### Operational Flexibility: In‑Season Coppicing & Pollarding (Alternative Strategy)
+
+The default model schedules coppice/pollard harvest for winter (post‑leaf‑drop) to maximise feedstock density, simplify drying, and minimise physiological stress on the trees. However, the system supports an **alternate operational strategy** where hard pruning occurs during the **active growing season (late spring to mid‑summer)** .
+
+**Why This Matters:**  
+A heavy prune during peak photosynthetic activity triggers an intense compensatory growth pulse – the root system responds by exuding more carbon‑rich compounds into the soil, while the canopy re‑sprouts with exceptional vigour. This can increase annual woody biomass regeneration by **20–40%** compared to dormant‑season cutting, accelerating the carbon cycling rate and potentially boosting biochar feedstock availability in the same calendar year.
+
+**Staffing & Logistics Shifts Required:**  
+- **Higher Summer Labour Load:** Instead of winter baling, crews cut and bundle green biomass in the field during warmer months. This shifts workload away from winter (often constrained by snow and frozen ground) and into the extended daylight of summer.  
+- **Drying Management:** Green biomass (~50% moisture) requires immediate processing or forced‑air drying under cover to prevent mould, unlike winter‑harvested dry stalks. The CharHouse and covered storage become critical for in‑season throughput.  
+- **Staggered Zoning:** Rather than clear‑cutting a coppice block in winter, the team harvests **1/4 to 1/3 of the coppice alleys per year** in rotation across the growing season, ensuring the site always maintains active canopy cover while still producing consistent feedstock flow.  
+- **Labour Hours Increase:** This alternative increases annual team hours by roughly **300–400 hours** (due to faster turn‑around and handling of wetter material), but may yield proportionally higher biochar credit volumes if the compensatory growth hypothesis holds.
+
+**Decision Framework:** The in‑season strategy will be trialled on a **5‑hectare test block** in Years 2–3. If it outperforms the winter baseline on biomass accumulation per hectare, the team will progressively adopt it across the hub during Years 4–5. This choice does not alter the constitutional revenue split – it simply reallocates labour seasonality to chase higher yield density.
+
+---
+
+#### Phase 3 Labour & Compensation Model
 
 **Core Principle:** 50% of all carbon credit revenue will go to the **Employee Pool**, distributed under a strict **2:1 maximum pay ratio** (highest hourly rate including bonuses is no more than double the lowest). The following table illustrates a viable wage structure based on preliminary revenue projections from carbon credits alone.
 
-*Example at ~$362,000 CAD Employee Pool (Projected Carbon Credit Revenue Before Waste Streams):*
+*Example at ~$482,500 CAD Employee Pool (50% of the ~$965,000 total carbon credit revenue – see Section 6.1 for the full revenue model, which excludes biochar product sales):*
 
 | Role | Est. Annual Hours | Example Hourly Wage | Annual Earnings |
 | :--- | :--- | :--- | :--- |
@@ -677,83 +728,91 @@ A scalable model will require a realistic, staged build-out that respects soil b
 | **Agroforestry Steward (x3)** | 1,800 each | $19.00 | $34,200 each |
 | **Totals** | **~13,240 hrs** | **Max Ratio 2:1** | **~$362,360** |
 
+*Note on Hours:* The 1,800‑hour annual load for Stewards, Coordinators, and the Community Lead reflects the seasonal, non‑administrative nature of these roles and allows for flexible scheduling to match farm workflow. Should overtime be required, or should team members choose to equalise to a 2,080‑hour full‑time equivalent, total compensation would scale proportionally, always maintaining the 2:1 ratio.
+
 **Key Insights:**
 - **Dignified Entry Wage:** Stewards will start at a living wage.
-- **Equity:** The highest earner will make exactly 2× the lowest hourly rate.
-- **Growth Path:** As revenue increases (higher credit prices, volume, or new pathways), hourly wages will rise or hours will decrease for the same pay.
-- **Promotion:** Extensive cross-training will allow workers to advance to specialized roles or manage new hubs at higher pay bands.
+- **Equity:** The highest earner makes exactly 2× the lowest hourly rate. Everyone benefits when the project succeeds.
+- **Growth Path:** As revenue increases (higher credit prices or new pathways), hourly wages will rise, or hours will decrease for the same pay.
+- **Promotion:** Extensive cross‑training allows workers to advance to specialised roles or manage new hubs at higher pay bands.
 
 ---
 
-### **5.4 Empirical Targets for Validation**
+## 5.4 Empirical Targets for Validation
 
-The proof-of-concept will be measured against five non-negotiable, publicly reported targets. “Proof of Concept” will be formally declared when **all five targets are met and sustained for two consecutive years**.
+The proof‑of‑concept will be measured against five non‑negotiable, publicly reported targets. **“Proof of Concept”** will be formally declared when **all five targets are met and sustained for two consecutive years**.
 
-1.  **Target 1: Carbon Removal Rate (≥ 35 t CO₂e/ha/yr).** The aggregated, verified removal from biochar, ERW, and soil carbon pathways in a temperate Canadian climate. This metric will prove the system can generate the revenue density required to fund itself.
-2.  **Target 2: Financial Profitability (> $0 CAD/ha/yr).** Net revenue from carbon credits after **all operational costs**, including dignified wages, inputs, maintenance, MRV, and amortized capital costs. This will prove the model is a self-sustaining business, activating the 10% Replication Fund.
-3.  **Target 3: Food Production Parity.** The retail-calorie value of food produced per hectare will **match or exceed** the average gross revenue per hectare of conventional staple crops in the region. This will answer the “food vs. carbon” question decisively.
-4.  **Target 4: Community Net Economic Benefit (> $0 CAD/yr).** The total value of free food to the community will exceed the total cost of the carbon credits required to fund the hub. This will transform the project from a climate cost into a net-positive economic service, creating an irresistible value proposition.
-5.  **Target 5: Replication Feasibility.** The 10% Local Replication Fund will successfully seed and foster a new, profitable satellite hub, formally establishing the exponential growth curve and proving the model can actually scale to a meaningful level.
+1. **Target 1: Carbon Removal Rate (≥ 35 t CO₂e/ha/yr).** The aggregated, verified removal from biochar, ERW, and soil carbon pathways in a temperate Canadian climate. This metric proves the system can generate the revenue density required to fund itself.
 
-An open-source MRV dashboard will report progress annually against these targets.
+2. **Target 2: Financial Profitability (> $0 CAD/ha/yr).** Net revenue from carbon credits after **all operational costs**, including dignified wages, inputs, maintenance, MRV, and amortised capital costs. This proves the model is a self‑sustaining business, activating the 10% Replication Fund.
+
+3. **Target 3: Food Production Parity.** The retail‑calorie value of food produced per hectare will **match or exceed** the average gross revenue per hectare of conventional staple crops in the region. *Benchmark:* Ontario corn/soy averages ~$1,500–$1,800 CAD/ha in gross revenue. Our model targets exceeding this threshold by Year 6–7, using the yield and species diversity outlined in Section 5.2.A. This decisively answers the “food vs. carbon” question.
+
+4. **Target 4: Community Net Economic Benefit (> $0 CAD/yr).** The total value of free food to the community (modelled at $1.5M–$2.5M+ CAD/year at maturity) will exceed the total cost of the carbon credits required to fund the hub. This transforms the project from a climate cost into a net‑positive economic service.
+
+5. **Target 5: Replication Feasibility.** The 10% Local Replication Fund will successfully seed and foster a new, profitable satellite hub, formally establishing the exponential growth curve and proving the model can scale to a meaningful level.
+
+An open‑source MRV dashboard will report progress annually against these targets.
 
 ---
 
-### **5.5 Pre-Deployment Validation & Next Steps**
+## 5.5 Pre‑Deployment Validation & Next Steps
 
-Before committing full seed capital, the project will undergo a structured **pre-deployment validation phase**. This phase will answer a single question: *“Is the system, as designed, actually buildable, verifiable, and operationally realistic under real-world constraints?”*
+Before committing full seed capital, the project will undergo a structured **pre‑deployment validation phase**. This phase answers a single question: *“Is the system, as designed, actually buildable, verifiable, and operationally realistic under real‑world constraints?”*
 
-The goal is high-confidence validation of critical assumptions, representing the first funding milestone—a focused due diligence round to eliminate avoidable failure modes.
+The goal is high‑confidence validation of critical assumptions, representing the first funding milestone – a focused due diligence round to eliminate avoidable failure modes.
 
-1.  **Agroforestry System Validation:** An experienced syntropic agroforester will be engaged to confirm biomass and food yield assumptions, establishment strategy, and labour requirements for a temperate climate.
-2.  **Engineering & Infrastructure Feasibility:** A qualified engineer will review the CharHouse, kiln designs, and core infrastructure for safety, regulatory compliance, and constructability.
-3.  **Carbon Registry & Legal Compliance Review:** A carbon market consultant will confirm eligibility under Puro.earth and Verra/Plan Vivo methodologies, validate the MRV design, and provide a clear roadmap to credit issuance.
-4.  **Founding Team Formation:** A core team of 2–3 committed co-founders or operators will be assembled, covering the domains of ecology, engineering, and business operations.
+1. **Agroforestry System Validation:** An experienced syntropic agroforester will be engaged to confirm biomass and food yield assumptions, establishment strategy, and labour requirements for a temperate climate.
+2. **Engineering & Infrastructure Feasibility:** A qualified engineer will review the CharHouse, kiln designs, and core infrastructure for safety, regulatory compliance, and constructability.
+3. **Carbon Registry & Legal Compliance Review:** A carbon market consultant will confirm eligibility under Puro.earth and Verra/Plan Vivo methodologies, validate the MRV design, and provide a clear roadmap to credit issuance.
+4. **Founding Team Formation:** A core team of 2–3 committed co‑founders or operators will be assembled, covering the domains of ecology, engineering, and business operations.
 
 **Decision Gate:** At the conclusion of this phase, the project will proceed to full deployment only if no fatal technical, ecological, or regulatory barriers are identified, core assumptions remain intact, and a capable founding team is in place.
 
 ---
 
-### **5.6 Rigorous MRV Protocol & Associated Costs**
+## 5.6 Rigorous MRV Protocol & Associated Costs
 
-The financial and environmental integrity of the hub will rest on a robust, transparent Monitoring, Reporting and Verification (MRV) framework. MRV is expected to be the single largest non-labour operational expense, replacing the chemical inputs of conventional agriculture with an investment in verifying planetary healing. MRV is the proof of carbon sequestration we need to provide in order to be issued the carbon removal credits.
+The financial and environmental integrity of the hub rests on a robust, transparent Monitoring, Reporting and Verification (MRV) framework. MRV is expected to be the single largest non‑labour operational expense, replacing the chemical inputs of conventional agriculture with an investment in verifying planetary healing. MRV is the proof of carbon sequestration required to be issued carbon removal credits.
 
-**Annual MRV Cost Estimate (Mature 100-ha Hub):**
+**Annual MRV Cost Estimate (Mature 100‑ha Hub):**
 
 | Category | Annual Estimate (CAD) |
 | :--- | :--- |
-| **Biochar MRV** (feedstock tracking, characterization, emissions, quench water) | $13,000 – $19,500 |
-| **Enhanced Rock Weathering MRV** (application records, basalt characterization, soil/leachate) | $4,000 – $6,500 |
+| **Biochar MRV** (feedstock tracking, characterisation, emissions, quench water) | $13,000 – $19,500 |
+| **Enhanced Rock Weathering MRV** (application records, basalt characterisation, soil/leachate) | $4,000 – $6,500 |
 | **Soil Carbon MRV** (annual 3 m coring, lab analysis) | $10,000 – $18,000 |
-| **Database, Platform & Third-Party Verification** | $18,000 – $30,000 |
-| **Product Compliance (CFIA)** | $1,000 (annualized) |
+| **Database, Platform & Third‑Party Verification** | $18,000 – $30,000 |
+| **Product Compliance (CFIA)** | $1,000 (annualised) |
 | **Total Annual MRV Budget** | **$46,000 – $75,000** |
 
-All MRV data will be managed in an open-source database, providing a public good and allowing for rapid adaptation to evolving verification standards.
+*Note:* The cost range will be narrowed once formal quotes are obtained from MRV service providers. The high end reflects a fully independent third‑party audit; the low end assumes in‑house sampling with external lab analysis, which will be the default for the first hub.
+
+All MRV data will be managed in an open‑source database, providing a public good and allowing rapid adaptation to evolving verification standards.
 
 ---
 
-### **5.7 Risk Management: Roadblocks and Critical Failure Thresholds**
+## 5.7 Risk Management: Roadblocks and Critical Failure Thresholds
 
-The project will face real uncertainties, but they are quantifiable, monitorable, and engineerable. Risks will be managed through modular design, diversified pathways, and built-in contingency buffers.
+The project faces real uncertainties, but they are quantifiable, monitorable, and engineerable. Risks are managed through modular design, diversified pathways, and built‑in contingency buffers.
 
 **Key Roadblocks and Mitigations:**
-- **Carbon Credit Price Volatility:** Mitigated by stacking three diversified credit streams and pursuing long-term offtake agreements. The model is designed to remain profitable at conservative price assumptions.
-- **Regulatory Barriers to Biochar Kilns:** Mitigated by maintaining multiple kiln technology pathways (flame-cap, TLUD, retort) and engaging regulators early with a compliance-first agricultural nutrient cycling framing.
-- **Biomass/Food Underperformance:** Addressed through extreme biodiversity, overplanting, waste-stream partnerships for backup feedstock, and cumulative soil fertility improvement.
-- **Labour Efficiency:** Continuous workflow optimization, mechanization where appropriate, and seasonal workload balancing will be used to maintain cost targets.
-- **Construction Delays:** The modular build-out strategy allows soil biology, seedball production, and early planting to begin before major infrastructure is completed.
+- **Carbon Credit Price Volatility:** Mitigated by stacking three diversified credit streams and pursuing long‑term offtake agreements. The model is designed to remain profitable at conservative price assumptions (see Section 6.5 for sensitivity scenarios).
+- **Regulatory Barriers to Biochar Kilns:** Mitigated by maintaining multiple kiln technology pathways (flame‑cap, TLUD, retort) and engaging regulators early with a compliance‑first agricultural nutrient‑cycling framing.
+- **Biomass/Food Underperformance:** Addressed through extreme biodiversity, overplanting, waste‑stream partnerships for backup feedstock, and cumulative soil fertility improvement.
+- **Labour Efficiency:** Continuous workflow optimisation, mechanisation where appropriate, and seasonal workload balancing will be used to maintain cost targets.
+- **Construction Delays:** The modular build‑out strategy allows soil biology, seedball production, and early planting to begin before major infrastructure is completed.
 
-**Critical Failure Thresholds:**
-If sustained, these conditions would stall the model’s scaling. Each will be actively monitored and has specific pre-planned response strategies.
+**Critical Failure Thresholds:**  
+If sustained, these conditions would stall the model’s scaling. Each will be actively monitored and has specific pre‑planned response strategies.
 
-- **Carbon Price:** Sustained price below $75–100 CAD/tCO₂e (blended average) would stress wage and replication capacity.
-- **Biomass Yield:** Sustained yield below 15 oven-dry tonnes/ha/yr would materially reduce carbon output and revenue.
-- **Food Production Parity:** Sustained food value below $2,500 CAD/ha/year would make the land-use justification vulnerable.
-- **Community Net Benefit:** If the value of free food does not exceed the cost of credits funding the hub, the model loses its economic dominance and political unassailability.
+- **Carbon Price:** Sustained blended price below $75–100 CAD/tCO₂e would stress wage and replication capacity. This is well below the 2025 spot prices used in our base model (~$200/t) and represents a >50% market crash scenario – a risk mitigated by diversified credit streams and offtake agreements.
+- **Biomass Yield:** Sustained yield below 15 oven‑dry tonnes/ha/yr would materially reduce carbon output and revenue, making the project reliant on waste streams.
+- **Food Production Parity:** Sustained food value below the regional conventional benchmark would make the land‑use justification vulnerable.
+- **Community Net Benefit:** If the value of free food does not exceed the cost of credits funding the hub, the model loses its economic dominance.
 - **Replication:** Failure to seed a second profitable hub within 5–7 years would represent a failure to cross the gigatonne chasm, regardless of local success.
 
-**Conclusion on Risk:** The system does not require perfection to succeed—it only requires maintaining performance above these thresholds long enough for soil fertility to compound, ecosystems to mature, and replication to begin. The greatest roadblock is not any of these individual risks; it is simply not starting. The first hub will transform theoretical resilience into a proven, improving reality.
+**Conclusion on Risk:** The system does not require perfection to succeed – it only requires maintaining performance above these thresholds long enough for soil fertility to compound, ecosystems to mature, and replication to begin. The greatest roadblock is not any of these individual risks; it is simply not starting. The first hub will transform theoretical resilience into a proven, improving reality.
 
 ---
 

@@ -908,7 +908,7 @@ Funds labour and OPEX before credit revenue reaches sustainable levels.
 - **Runway (OpEx Years 0-3):** $1,380,000
 - **Total Seed Capital:** **$3,530,000 CAD**
 
-**Rounded Safety Buffer:** **$4,000,000 CAD** seed capital provides a ~12-month contingency on the runway, covering delays or unforeseen costs.
+**Rounded Safety Buffer:** **$4,000,000 CAD** seed capital provides a ~12-month contingency on the runway, covering delays or unforeseen costs. More if we wanted to start with a trial section before planting everything as it would extend the development plans by another growing season.
 
 ---
 
@@ -920,7 +920,7 @@ Funds labour and OPEX before credit revenue reaches sustainable levels.
 | **2** | Plant perennial grid, first waste-stream biochar. | ~$150,000 | ~$520,000 | -$370,000 | First credits issued (Puro). |
 | **3** | First coppice harvest, scale biochar. | ~$450,000 | ~$520,000 | -$70,000 | Approaching breakeven. |
 | **4** | System matures, full credit streams. | ~$800,000 | ~$750,000 | **+$50,000** | **Breakeven achieved.** |
-| **5+** | Mature, optimized production. | **~$965,000** | **~$750,000** | **+$215,000** | **Sustainable profit.** |
+| **5+** | Maturity and yields improve, optimized production. | **~$965,000** | **~$750,000** | **+$215,000** | **Sustainable profit.** |
 
 **At Year 5+, with ~$215,000 annual profit:** The constitutional **50/30/10/10** split activates as soon as the project crosses the breakeven point:
 - **50% Employee Pool:** ~$482,500 (wages)
@@ -928,7 +928,9 @@ Funds labour and OPEX before credit revenue reaches sustainable levels.
 - **10% Local Replication Fund:** ~$96,500 (seeds next hub, which can be started cheaper since equipment can be loaned)
 - **10% MDC Royalty:** ~$96,500 (funds global operations, R&D, open-sourced training)
 
-**Payback Period:** ~7–8 years on the total $4M seed investment, based on profit + replication fund accumulation.
+Being perennial in nature, the site is expected to continue to grow in both food productivity and in rate of carbon sequestration. Once the infrastructure is built, labour needs drop, allowing either a decrease in hours for the same pay or other improvements that increase productivity.
+
+**Payback Period:** ~7–8 years on the total $4M seed investment, based on profit + replication fund accumulation. Less if grants can be found.
 
 ---
 
@@ -946,7 +948,7 @@ Funds labour and OPEX before credit revenue reaches sustainable levels.
 
 ### **6.6 Conclusion: A Viable, Scalable Financial Engine**
 
-The numbers confirm the hypothesis: a **100-hectare Modern Druid hub can be cash-flow positive by Year 4** and generate **~$965,000 in annual revenue at maturity** under conservative 2025 market conditions.
+The numbers confirm the hypothesis: a **100-hectare Modern Druid hub can be cash-flow positive by Year 4** and generate **~$965,000+ in annual revenue once established** under conservative 2026 market conditions.
 
 **The financial model is resilient because:**
 1.  **Revenue is diversified** across three permanent carbon pathways and biochar sales.
@@ -954,7 +956,9 @@ The numbers confirm the hypothesis: a **100-hectare Modern Druid hub can be cash
 3.  **The constitutional profit split** ensures sustainability, fairness, and exponential growth.
 4.  **The community receives more value in free food than the project costs in credits,** making it politically and socially unassailable.
 
-An initial investment of **$4 million CAD** seeds not only a single carbon-removal hub, but the **first node in an open-source, exponentially growing network** designed to heal the atmosphere, feed communities, and create equitable wealth—profitably.
+An initial investment of **$4 million CAD** seeds not only a single carbon-removal hub, but the **first node in an open-source, exponentially growing network** designed to heal the atmosphere, feed communities, and create equitable wealth—profitably. One path would be to find an initial philanthropic private or corporate investor with deep pockets. Another would be to sell the project directly to communities, reducing startup costs, but requires project sales, probably easier if you can show that it works first. Larger investments would allow for a larger target to hit, having more money for rapid development, R&D, or parallel deployments in multiple parts of the country or world.
+
+An initial investment of $4 million CAD seeds not only a single carbon-removal hub, but the first node in an open-source, exponentially growing network designed to heal the atmosphere, feed communities, and create equitable wealth—profitably. This could take several forms. The most direct is a philanthropic or corporate investor with deep pockets funding the first hub outright. A second path is to sell the model directly to communities, which lowers startup costs but requires active project sales—likely easier once the first hub proves itself. Either way, a larger initial investment simply widens the target: more capital for faster development, deeper R&D, or parallel deployments across multiple regions or countries.
 
 ---
 

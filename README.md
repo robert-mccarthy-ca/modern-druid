@@ -1027,7 +1027,7 @@ The Modern Druid Project is a living system, designed to evolve. **Modern Druid 
 
 | Priority | Research Objective | Expected Outcome & Impact |
 | :--- | :--- | :--- |
-| **1. Directed Plant Breeding & Seedball Optimization** | Systematically select best performing biomass and food crops for high biomass yield, high food yield, best flavour, deep rooting, pest resistance, and synergy with biochar-rich soils. To develop locally adapted genetic lines for each of our plants. | **Increased biomass/credit yield per hectare.** More resilient genetics for global replication. **Open-source seed library.** |
+| **1. Directed Plant Breeding & Seedball Optimization** | Systematically select the best-performing biomass and food crops for high biomass yield, high food yield, best flavour, deep rooting, pest resistance, and synergy with biochar-rich soils, while developing locally adapted genetic lines for each species. | **Increased biomass/credit yield per hectare.** More resilient genetics for global replication. **Open-source seed library.** |
 | **2. Advanced Microbial Consortia** | Optimize recipes for JMS, IMO, and Johnson-Su compost to accelerate soil aggregation, suppress pathogens, and boost plant growth/carbon exudation. | **Faster soil development → higher SOC credits.** Reduced plant stress → higher survival/yields. **Public input recipes.** |
 | **3. Kiln Efficiency & Syngas Capture Prototyping** | Improve kiln insulation and design for reduced cycle time/fuel use. Begin R&D into capturing and utilizing syngas for thermal energy (drying biomass, heating buildings). | **Lower operational costs.** First step toward energy independence. **Improved kiln designs for open-source kit.** |
 | **4. Integrated MRV Automation** | Develop drone + AI pipelines for automated biomass tracking, plant health monitoring, and early-stage soil carbon modeling. | **Drastically reduced MRV labour/time cost.** More frequent, cheaper verification. |
@@ -1040,10 +1040,10 @@ The Modern Druid Project is a living system, designed to evolve. **Modern Druid 
 
 | Priority | Research Objective | Expected Outcome & Impact |
 | :--- | :--- | :--- |
-| **5. Atmospheric Water Generation (AWG) Integration** | Test and integrate scalable AWG tech (radiative panels, compressor-based) to provide irrigation decoupled from rainfall. | **Unlocks deployment on arid/non-arable land.** Critical for drought-proofing and global scaling. |
-| **6. "Blue Druid": Marine Biomass & Kelp Systems** | Develop systems for offshore kelp cultivation, harvest, and use as feedstock for biochar, food, and feed. | **Taps into vast ocean carbon sink.** Achieves **SDG 14.** Provides new biomass without farmland. |
+| **5. Atmospheric Water Generation (AWG) Integration** | Test and integrate scalable AWG tech (metal organic frameworks, radiative panels, compressor-based) to provide irrigation decoupled from rainfall. | **Unlocks deployment on arid/non-arable land.** Critical for drought-proofing and global scaling. |
+| **6. "Blue Druid": Marine Biomass & Kelp Systems** | Develop systems for offshore kelp cultivation, harvest, and use as feedstock for biochar, food, and feed. | **Taps into vast ocean carbon sink.** Achieves **SDG 14 (Life Below Water).** Provides new biomass without farmland. |
 | **7. Halophyte Crops & Saline Agriculture** | Identify and breed salt-tolerant plants (halophytes) for food, fodder, and biomass. Develop irrigation strategies using brackish/sea water. | **Greens saline-degraded coastal lands.** Turns another "wasteland" category into a carbon sink. |
-| **8. Enhanced Rock Weathering (ERW) Optimization** | Field-test different silicate rocks, particle sizes, and application methods with biochar to maximize weathering rates. | **Increases credit yield from ERW pathway.** Creates premium "Biochar+ERW" amendment blend. |
+| **8. Enhanced Rock Weathering (ERW) Optimization** | Field-test different silicate rocks, particle sizes, and application methods with biochar to maximize weathering rates. | **Increases credit yield from ERW pathway.** Optimizes "Biochar+ERW" amendment recipe, further boosting sequestration rates. |
 
 ---
 
@@ -1062,7 +1062,7 @@ The Modern Druid Project is a living system, designed to evolve. **Modern Druid 
 
 ### **8.4 The R&D Flywheel: From Knowledge to Global Impact**
 
-1.  **Fund:** R&D fund comes from the 10% MDC royalty that funds the Modern Druid Central.
+1.  **Fund:** The R&D budget comes from the 10% MDC royalty collected from every profitable hub.
 2.  **Research:** MDC conducts focused R&D in partnership with universities, research institutes, and on-site at hubs.
 3.  **Validate:** All findings are tested and validated in real-world hub conditions.
 4.  **Open-Source:** Successful protocols, designs, and data are added to the **Modern Druid Replication Toolkit**, which is freely accessible to the public.

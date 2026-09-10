@@ -836,7 +836,7 @@ All figures are in **Canadian Dollars (CAD)** unless otherwise stated.
 | :--- | :--- | :--- | :--- |
 | **Biochar Credits** | 1,760 t CO₂e × $203.18/t | **$357,597** | Puro.earth. Primary revenue driver. |
 | **ERW Credits** | 1,500 t CO₂e × $212.66/t | **$318,990** | Puro.earth. Synergistic with biochar application. |
-| **Soil Carbon Credits** | 400 t CO₂e × $120/t | **$48,000** | Verra/Plan Vivo + CCB Gold. Premium for 12+ SDGs. |
+| **Soil Carbon Credits** | 400 t CO₂e × $120/t | **$48,000** | Verra/Plan Vivo + CCB Gold. Premium for 11+ SDGs. |
 | **Surplus Biochar Sales** | 300 t × $800/t (avg. bulk) | **$240,000** | Secondary revenue. Pure margin on already-credited biochar. |
 | **Total Annual Revenue** | | **$964,587** | **Rounded to ~$965,000 CAD for modeling.** |
 
@@ -966,11 +966,11 @@ An initial investment of $4 million CAD seeds not only a single carbon-removal h
 
 The Modern Druid Project is a **holistic sustainable development platform**. Its integrated design delivers measurable progress against the majority of the UN's Sustainable Development Goals from its inception. This alignment is **engineered into the core model** by solving the crises of carbon, food, and inequality simultaneously.
 
-**Impact Summary:** The project directly delivers **12 of the 17 SDGs at launch**. The remaining 5 are targeted through its R&D and scaling pathways. That's right, this project literally intends to target each and every one of the UN SDGs in its long term goals. And none of them are a stretch, the project simply aims high enough to hit them all. So many options open up when you just stop being greedy and let people pick their own damn food.
+**Impact Summary:** The project directly delivers **11 of the 17 SDGs at launch**. The remaining 6 are targeted through its R&D and scaling pathways. This project genuinely intends to work toward every UN SDG over the long term, and none of them are a stretch — the model simply aims high enough to hit them all. So many options open up when you stop hoarding and let people pick their own damn food.
 
 ---
 
-### **7.1 Direct SDG Impacts from Launch (12 Goals)**
+### **7.1 Direct SDG Impacts from Launch (11 Goals)**
 
 These goals are met as **core, measurable outcomes** of the operational model.
 
@@ -979,11 +979,10 @@ These goals are met as **core, measurable outcomes** of the operational model.
 | **1. No Poverty** | End poverty. | **Cuts cost of living** via free food. Creates **dignified jobs** with a path to land ownership. |
 | **2. Zero Hunger** | End hunger. | **Free-access food forests.** "Pick-your-own" ensures food security. |
 | **3. Good Health** | Ensure healthy lives. | Chemical-free, nutrient-dense food. Improved air/water quality from drawdown & filtration. |
-| **5. Gender Equality** | Achieve gender equality. | Constitutional **equitable pay scales** enforced by the 2:1 wage ratio regardless of gender. |
 | **6. Clean Water** | Ensure clean water. | **Zero toxic runoff** + biochar filtration → cleaner outflow than inflow. |
 | **8. Decent Work** | Promote economic growth. | **Year-round green jobs** with living wages, benefits, ownership pathways. |
 | **9. Industry & Innovation** | Build resilient infrastructure. | **Open-source, climate-positive infrastructure.** A hub for a new economic model for agriculture. |
-| **10. Reduced Inequality** | Reduce inequality. | **Global living wage** via borderless carbon markets. Strict internal pay ratio. |
+| **10. Reduced Inequality** | Reduce inequality. | **Global living wage** via borderless carbon markets. Strict internal pay ratio, applied equally to every worker regardless of background. |
 | **11. Sustainable Communities** | Make cities inclusive & resilient. | Food forests as **public green commons, climate refuges, and social hubs**. |
 | **12. Responsible Consumption** | Ensure sustainable consumption. | **Circular, hyper-local system.** Zero food miles, near zero waste. |
 | **13. Climate Action** | Combat climate change. | **Core mission:** 35–40 t CO₂e/ha/yr of **permanent, verified removal**. |
@@ -993,13 +992,14 @@ These goals are met as **core, measurable outcomes** of the operational model.
 
 ---
 
-### **7.2 Pathway to Achieving the Remaining 5 SDGs**
+### **7.2 Pathway to Achieving the Remaining 6 SDGs**
 
 The remaining goals are targeted through the project's **R&D pipeline, strategic scaling, and inherent partnership model**.
 
 | SDG | Goal | Pathway to Achievement |
 | :--- | :--- | :--- |
 | **4. Quality Education** | Inclusive education. | **Modern Druid Academy:** Open-source training in carbon farming, agroforestry, natural farming. |
+| **5. Gender Equality** | Achieve gender equality. | **Targeted Deployment in High-Exclusion Regions:** The 2:1 pay ratio guarantees equal pay by design everywhere, but that alone isn't a meaningful claim in jurisdictions where it's already law. As hubs expand into regions with severe structural exclusion of women from stable, well-paid work, MDC will build deliberate hiring and leadership pipelines for women into hub management and skilled roles — addressing the barrier directly simply by hiring women. |
 | **7. Affordable Clean Energy** | Access to clean energy. | **R&D:** Syngas capture from pyrolysis; solar/wind microgrid integration at hubs. |
 | **14. Life Below Water** | Conserve oceans. | **R&D & Expansion:** "Blue Druid" pilots (kelp farming for biochar, marine permaculture, blue carbon). |
 | **16. Peace & Justice** | Just, peaceful societies. | **Scale-Dependent Collaboration:** Partner with NGOs to audit ethical governance & land-transfer; **demonstrate a just transition funded by polluters, with primary benefits accruing to local populations, including food security.** |
@@ -1009,7 +1009,7 @@ The remaining goals are targeted through the project's **R&D pipeline, strategic
 
 ### **7.3 Conclusion: A Sustainable Development Offset**
 
-This profound SDG alignment transforms Modern Druid credits into a **Sustainable Development Offset**. Buyers are not just purchasing carbon removal; they are funding **measurable, multi-dimensional progress across the world's most pressing humanitarian and environmental agendas.** This is important as 12 SDG projects simply don't exist today, much less a full 17 SDG project, and we would be relying on that to get a premium price for our credits.
+This profound SDG alignment transforms Modern Druid credits into a **Sustainable Development Offset**. Buyers are not just purchasing carbon removal; they are funding **measurable, multi-dimensional progress across the world's most pressing humanitarian and environmental agendas.** This matters commercially too: 11-SDG carbon projects are rare, a full 17-SDG project essentially doesn't exist yet, and that scarcity is part of what should support a premium price for our credits.
 
 **In essence:** We leverage the demand for carbon drawdown to fund the **simultaneous delivery of virtually the entire UN Sustainable Development framework**, while creating the conditions for **local economic innovation and resilience.** This is the blueprint for an **abundant, equitable, and post-carbon future.**
 

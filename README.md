@@ -1120,26 +1120,26 @@ True gigatonne scale (billions of tonnes CO₂ per year) means a coordinated glo
 
 1.  **Convert Existing Farmland (Paced by Proven Yields):**
     *   **Global Cropland:** ~1.6 billion hectares.
-    *   **Our Removal Rate:** 35–40 t CO₂/ha/yr.
-    *   **Theoretical Max Potential:** ~60 Gt CO₂/yr removed if fully converted.
-    *   **For 1 ppm/yr atmospheric reduction:** ~208 million hectares (**13% of global cropland**).
+    *   **Our Removal Rate:** 35–40 t CO₂/ha/yr (the flagship hub's target — not yet demonstrated beyond the pilot scale).
+    *   **For 1 ppm/yr atmospheric reduction:** ~208 million hectares (**13% of global cropland**) — the credible near-to-medium-term target.
+    *   **Full-conversion ceiling:** Converting all 1.6B ha at this rate would nominally imply ~60 Gt CO₂/yr. This assumes our target rate holds as a global average across every soil, climate, and logistics context — a significant assumption we haven't yet validated beyond the pilot hub. We treat the 60 Gt figure as a directional ceiling only, not a modeled projection; a dedicated chapter unpacks the full assumptions and sensitivities behind this and every other figure in this document.
 
 2.  **Rehabilitate Degraded/Marginal Lands:**
     *   **Global Degraded Land:** ~2 billion hectares (UNCCD).
     *   **Our Stack (high-dose ERW + biochar)** can restore fertility in 3–5 years, yielding 20–30 t CO₂/ha/yr while enabling food production.
-    *   **Potential:** 20–40 Gt CO₂/yr at scale.
+    *   **Potential:** 40–60 Gt CO₂/yr at scale.
 
 3.  **Expand to Non-Agricultural Zones (Boreal, Urban Fringes):**
     *   In forests, use **pollarding, coppicing, or daisugi** to harvest lumber indefinitely while interplanting edibles. ERW + biochar remineralizes acidic soils.
     *   Urban fringes become public food forests with vertical stacking.
-    *   **Potential:** 50–100 Gt CO₂/yr (forests alone).
+    *   **Potential:** Contingent on the flagship hub's dual food-and-carbon yield model replicating at forest-margin scale — a pathway not yet proven beyond the pilot hub. We treat this as directional upside rather than a modeled figure until that validation exists.
 
 4.  **Activate Oceans for Food + Carbon:**
-    *   Deploy floating kelp farms + ocean ERW + marine biochar.
+    *   Deploy floating kelp farms + ocean ERW + marine biochar + food and biomass.
     *   **Suitable Area:** 10–20 million km².
     *   **Potential:** 1–5 Gt CO₂/yr (blue carbon + ocean alkalinity enhancement).
 
-But gigaton scale isn't good enough, not any more, we're past that. We need to remove 2.5 to 3 teratons to return to pre-industrial levels, or 2500 to 3000 gigatons. Fortunately, this solution has the potential to bring us to the ppm/year of Carbon Dioxide scale we need to be at to eventually hit that target, with a theoretical limit in the ppm/month range.
+But gigaton scale isn't good enough, not any more, we're past that. Using our own conversion factor above, closing the roughly 150 ppm gap between today's atmosphere and pre-industrial levels requires on the order of **1.2–1.5 teratons of CO₂** — call it 1,200 to 1,500 gigatons, allowing some margin for the ocean releasing back a share of what we remove as the system re-equilibrates. Fortunately, this solution has the potential to bring us to the ppm/year of carbon dioxide scale we need to be at to eventually hit that target, with a theoretical limit — summing the quantified frontiers above — in the ppm/month range.
 
 ---
 

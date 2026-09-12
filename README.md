@@ -1161,6 +1161,8 @@ We are building the food system that fixes the climate. The expansion rate is ca
 
 The Modern Druid Project is ready to move from blueprint to reality. The immediate priority is securing at least **$4 million CAD** in seed capital to establish the **first 100-hectare flagship hub** in Northern Ontario. This hub will serve as the living proof-of-concept, the open-source testbed, and the genesis of the replication network. Anything above the $4 million CAD would be additional insurance against unexpected costs and delays, and later invested in the first expansion farms with any remainder.
 
+A note on that $4 million figure: it includes a planning estimate of $800,000 for the land itself. Land cost is one of the most location-dependent line items in this entire model — it could run substantially lower (Crown land, donated or leased land, a community land contribution) or substantially higher (higher-value regions, competitive acquisition). Several pathways below treat land access as a lever on the total cash ask, not a fixed cost.
+
 We prioritize pathways that **preserve mission integrity, ensure open-source dissemination, and maximize the speed of deployment.**
 
 ---
@@ -1204,12 +1206,29 @@ We prioritize pathways that **preserve mission integrity, ensure open-source dis
 
 ---
 
-### **Pathway 4: Hybrid & Non-Dilutive Structures**
+### **Pathway 4: Carbon Removal Purchase Marketplaces & Advance Market Commitments**
+**For Accessing Buyers a Bilateral Deal Never Would.**
+
+*   **Model:** Rather than one bespoke partner, list with specialized carbon removal marketplaces and advance market commitments — Frontier (the Stripe/Google/Shopify/Meta-backed AMC), Isometric, or Puro.earth — that aggregate demand from many buyers and are specifically structured to fund and de-risk first-of-a-kind projects before construction is complete.
+*   **Structure:** Apply for listing or an advance purchase agreement; capital or binding offtake commitments can flow ahead of the hub's first credit issuance, based on the MRV protocol and projected yields established in Section 5.
+*   **Why This Works:** Spreads buyer risk and commitment across a marketplace instead of depending on a single counterparty, and reaches serious carbon-removal buyers who don't do bespoke bilateral deals but do participate in aggregated programs. Complements Pathway 2 rather than competing with it — a hub can pursue both.
+
+---
+
+### **Pathway 5: Community-Owned Capital**
+**For Communities Who Want to Own Their Hub, Not Just Host It.**
+
+*   **Model:** Local residents buy in directly through a community bond or co-op share structure, the same mechanism many Canadian renewable energy co-ops use to fund wind and solar projects. A Canadian equity/debt crowdfunding platform (e.g., FrontFundr) can handle the regulatory compliance.
+*   **Land as In-Kind Capital:** A community can contribute land itself — instead of or alongside cash — directly reducing the cash portion of the raise. Since land is one of the largest single line items in the startup cost (see the note above), a community land contribution measurably lowers the ask rather than simply changing where the money comes from.
+*   **Why This Works:** It's the funding pathway that most directly embodies the model's stated commitment against economic colonialism — the people who will eventually inherit the land as stewards (Section 4.3) can also be the people who capitalized it in the first place. It also mirrors the "sell directly to communities" pathway raised in Section 6.6, giving it an actual financial structure rather than leaving it as a sales-channel aside.
+
+---
+
+### **Pathway 6: Hybrid & Non-Dilutive Structures**
 **Flexible, Creative Approaches to Match Partner Needs.**
 
 *   **Recoverable Grant:** A foundation provides the capital as a grant that is repayable only if the hub achieves a certain profitability threshold, after which funds recycle to the next project.
 *   **Revenue-Sharing Loan:** Debt financing where repayments are a percentage of hub revenue, preserving cash flow during early years.
-*   **Corporate Forward Purchase Agreement:** A consortium of credit buyers (e.g., Microsoft, Shopify, Frontier members) commits to **pre-purchase** a multi-year stream of future credits, providing the capital needed for construction.
 
 ---
 
@@ -1227,7 +1246,7 @@ To launch the Modern Druid engine requires seeding two interdependent components
 
 Total Initial Seed Requirement: $4,000,000+ CAD
 
-This structure ensures that from day one, there is a dedicated team focused not only on making Hub #1 a success, but on building the systems and partnerships to make Hub #100 inevitable. The MDC portion is an investment in the scalable engine, not just the first instance. Additional funds beyond the minimum simply give a longer runway for learning.
+This structure ensures that from day one, there is a dedicated team focused not only on making Hub #1 a success, but on building the systems and partnerships to make Hub #100 inevitable. The MDC portion is an investment in the scalable engine, not just the first instance. Additional funds beyond the minimum simply give a longer runway for learning. As above, a community land contribution under Pathway 5 would reduce the First Hub figure directly, since land represents a substantial share of that $3.4M.
 
 ---
 
@@ -1235,9 +1254,10 @@ This structure ensures that from day one, there is a dedicated team focused not 
 
 We will actively pursue:
 *   **Canadian Federal & Provincial Funds:** SDTC, Low Carbon Economy Fund, Agricultural Clean Tech Program.
+*   **Carbon Removal Marketplaces:** Frontier, Isometric, Puro.earth, and similar advance-market-commitment programs.
 *   **Indigenous-Led Partnerships:** Consulting and training only, enough land use has been dictated to indigenous communities already. This is not meant to be another form of colonialism.
 *   **Corporate Climate Leaders:** Direct outreach to those with advanced carbon removal procurement strategies.
-*   **Land & Community Partnerships:** Municipalities with underutilized land seeking climate resilience and economic development.
+*   **Land & Community Partnerships:** Municipalities with underutilized land seeking climate resilience and economic development, and communities interested in the co-op/bond ownership model above.
 
 ---
 

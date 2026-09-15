@@ -928,6 +928,7 @@ The goal is high‑confidence validation of critical assumptions, representing t
 2. **Engineering & Infrastructure Feasibility:** A qualified engineer will review the CharHouse, kiln designs, and core infrastructure for safety, regulatory compliance, and constructability.
 3. **Carbon Registry & Legal Compliance Review:** A carbon market consultant will confirm eligibility under Puro.earth and Verra/Plan Vivo methodologies, validate the MRV design, and provide a clear roadmap to credit issuance.
 4. **Founding Team Formation:** A core team of 2–3 committed co‑founders or operators will be assembled, covering the domains of ecology, engineering, and business operations.
+5. **Regulatory Pathway Validation for Waste-Stream Biochar Sales:** Budget 18 months for full registration. Sequence bulk sales ahead of packaged retail sales, since bulk fertilizer/supplement products currently sit on a lighter CFIA compliance track than consumer-packaged products — this allows waste-stream bulk revenue to begin before the packaged-product registration clears.
 
 **Decision Gate:** At the conclusion of this phase, the project will proceed to full deployment only if no fatal technical, ecological, or regulatory barriers are identified, core assumptions remain intact, and a capable founding team is in place.
 
@@ -973,8 +974,9 @@ If sustained, these conditions would stall the model’s scaling. Each will be a
 - **Food Production Parity:** Sustained food value below the regional conventional benchmark would make the land‑use justification vulnerable.
 - **Community Net Benefit:** If the value of free food does not exceed the cost of credits funding the hub, the model loses its economic dominance.
 - **Replication:** Failure to seed a second profitable hub within 5–7 years would represent a failure to cross the gigatonne chasm, regardless of local success.
+- **On-Site Biochar Soil Loading:** Field research on single-amendment systems suggests a productive soil-loading ceiling of roughly 20–30 t/ha, above which agronomic benefit plateaus or reverses (e.g., pH-driven micronutrient deficiency), even though the carbon itself remains durably stored and Puro-eligible regardless of loading level — durability and agronomic benefit are governed by different mechanisms. On-farm biochar production (600 t/yr across 100 ha, ~6 t/ha/yr average) would reach the low end of that generic range within ~3.5 years of mature-hub operation. The hub's actual ceiling is expected to be higher than this generic range, given the buffering capacity of a diverse, deep-rooted syntropic system and the altered mineral balance from ERW-supplied calcium and magnesium — but the elevated threshold has not been established for this specific combination and should not be assumed without site-specific monitoring. Response strategy: MRV soil monitoring (already budgeted under Section 5.6) will track crop response and soil chemistry against loading level from Year 1, rather than waiting for Year 5. If monitoring indicates the site is approaching or has crossed the point of negative agronomic return, the on-farm biochar fraction that would otherwise be soil-applied is redirected into the same CFIA-registered sale channels being built for waste-stream biochar (Section 6.1) — effectively converting on-farm biochar from a pure carbon play into a dual-monetized product at that point, mirroring the waste-stream model. This is a monitoring-triggered pivot, not a scheduled one, and should not be built into the base-case financial model until triggered.
 
-**Conclusion on Risk:** The system does not require perfection to succeed – it only requires maintaining performance above these thresholds long enough for soil fertility to compound, ecosystems to mature, and replication to begin. The greatest roadblock is not any of these individual risks; it is simply not starting. The first hub will transform theoretical resilience into a proven, improving reality.
+**Conclusion on Risk:** The system does not require perfection to succeed – it only requires maintaining performance above these thresholds long enough for soil fertility to compound, ecosystems to mature, and replication to begin. The greatest roadblock is not any of these individual risks; it is simply not starting. The first hub needs to transform theoretical resilience into a proven, improving reality.
 
 ---
 
@@ -989,20 +991,25 @@ All figures are in **Canadian Dollars (CAD)** unless otherwise stated.
 ### **6.1 Revenue Model – Mature Hub (Year 5+)**
 
 **Assumptions:**
-- **Conservative Carbon Prices (Dec 2025 Spot):** Biochar: **$203.18/t**, ERW: **$212.66/t**, Soil Carbon: **$120/t** (premium for SDGs).
-- **Stacked Removal Rates (Canadian Temperate):** Biochar: 17.6 t/ha, ERW: 15 t/ha, Soil C: 4 t/ha.
-- **Food is not monetized.** Its value is captured in **Community Net Benefit (Target 4)**.
-- **Biochar Sales:** Conservative volume assumption (300 t sold of 600 t produced).
+- **Conservative Carbon Prices (Dec 2025 Spot):** Biochar: $203.18/t, ERW: $212.66/t, Soil Carbon: $120/t.
+- **On-Farm Biochar (kept on-site):** 17.6 t CO₂e/ha × 100 ha = 1,760 t CO₂e/yr, applied entirely to the hub's own soil for carbon credits — a pure carbon play, no bulk sale of this material.
+- **ERW (revised):** 20 t/ha basalt application, ~2.5 t CO₂e/ha/yr — an estimate pending pilot trial validation (Section 5.5), not a measured result.
+- **Waste-Stream Biochar (new):** Sourced from regional sawmill/forestry residue, processed through spare kiln capacity. Modeled at a **placeholder target of 1,200 oven-dry tonnes/yr secured feedstock** — pending offtake agreements. Assumes 30% char yield.
+- **Dual Monetization (waste-stream only):** Biochar can be sold as a physical product *and* separately credited, provided buyers are contractually informed they may not claim the associated carbon removal themselves and the product will stored durably.
+- **Food is not monetized;** captured in Community Net Benefit (Target 4).
 
 | Revenue Stream | Calculation (100 ha) | Annual Revenue (CAD) | Notes |
-| :--- | :--- | :--- | :--- |
-| **Biochar Credits** | 1,760 t CO₂e × $203.18/t | **$357,597** | Puro.earth. Primary revenue driver. |
-| **ERW Credits** | 1,500 t CO₂e × $212.66/t | **$318,990** | Puro.earth. Synergistic with biochar application. |
-| **Soil Carbon Credits** | 400 t CO₂e × $120/t | **$48,000** | Verra/Plan Vivo + CCB Gold. Premium for 11+ SDGs. |
-| **Surplus Biochar Sales** | 300 t × $800/t (avg. bulk) | **$240,000** | Secondary revenue. Pure margin on already-credited biochar. |
-| **Total Annual Revenue** | | **$964,587** | **Rounded to ~$965,000 CAD for modeling.** |
+|---|---|---|---|
+| **On-Farm Biochar Credits** | 1,760 t CO₂e × $203.18/t | **$357,597** | Puro.earth. Applied on-site; see 5.7 loading-limit note. |
+| **ERW Credits (revised)** | 250 t CO₂e × $212.66/t | **$53,165** | Pending pilot trial calibration at 20 t/ha. |
+| **Soil Carbon Credits** | 400 t CO₂e × $120/t | **$48,000** | Verra/Plan Vivo + CCB Gold. Price source to be confirmed against a live listing. |
+| **Waste-Stream Biochar — Bulk Product Sales** | 360 t biochar × $800/t | **$288,000** | 1,200 odt feedstock × 30% yield. Pending CFIA bulk-track compliance and offtake agreements. |
+| **Waste-Stream Biochar — Carbon Credits** | 360 t × 2.93 t CO₂e/t × $203.18/t | **$214,315** | Same physical tonnage as above, dual-monetized per Puro guidelines — not double-counted, since the product sale and the credit are two distinct rights. |
+| **Total Annual Revenue** | | **~$961,077** |  |
 
-**Conservative Note:** This uses **2025 spot prices**. Demand and regulation are likely to increase prices over the hub's lifetime as climate driven disasters impact more and more of the world's population, but the price of carbon is subject to volatility.
+**Upside not included above:** A portion of waste-stream biochar could be sold in small (1 cu ft) packaging direct or through retailers at an estimated 2–5x per-tonne premium over the $800/t bulk price. Achievable volume and net margin (after packaging, labor, and retailer discounts) require market testing and are not yet in the base case. Should land saturation be reached, surplus could be sold as well.
+
+**Contingency — On-Farm Biochar Redirect:** If MRV monitoring (Section 5.7) indicates the site has reached its productive soil-loading ceiling, some or all of the 1,760 t CO₂e/yr on-farm biochar credit line would need to be sold using the same channels and CFIA registration built for the waste-stream stream. The threshold at which this becomes necessary is currently unknown and will be determined by ongoing monitoring rather than assumed in advance.
 
 ---
 
@@ -1053,6 +1060,8 @@ All figures are in **Canadian Dollars (CAD)** unless otherwise stated.
 | **Tools & Shop Equipment** | Welder, tools, scales, safety gear. | **$40,000** | |
 | **MRV Baseline & Setup** | Soil coring rig, drone, lab analysis. | **$25,000** | One-time Year 0 cost. |
 | **Engineering & Design** | CharHouse, kiln, irrigation plans. | **$15,000** | MDC overhead (reusable). |
+| **CFIA Registration** | Product safety dossier, bilingual labeling, application fees | **$5,000 – $8,000** | **Timeline: budget 18 months** (CFIA guidance has cited 12–16 months average). Start via free IQ inquiry in Year 0; check "me-too" pathway against existing registered biochar products before committing to a full novel submission. |
+| **Waste-Stream Feedstock Offtake Agreements** | ~1,200 odt/yr target, 1–2 regional suppliers | — (no direct capex; contracting/relationship cost) | Prioritize slabs/edgings/off-cuts to avoid pelletizing cost; pelletizing equipment only needed if sawdust becomes the primary feedstock. |
 | **Contingency (15%)** | | **$285,000** | |
 | **Total Estimated CapEx** | | **$2,170,000 CAD** | |
 

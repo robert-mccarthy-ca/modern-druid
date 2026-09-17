@@ -35,49 +35,27 @@ The Modern Druid Project proposes that these problems can be addressed together 
 
 ### **1.1 The Carbon Crisis: A Climate System with Inertia**
 
-The climate system does not respond instantaneously to changes in atmospheric greenhouse-gas concentrations.
+The climate system does not respond instantaneously to changes in atmospheric greenhouse-gas concentrations. Even if we reached net zero today (and to be clear, we are at record high levels, further than ever before from net zero), we won't level off until we hit about 2.3C according to the IPCC (Environmental Climate Senstivity = 3C), 3.4 if you listen to the later work of Dr. Hansen (ECS = 4.5C).
 
-Carbon dioxide remains in the climate system for centuries to millennia, while the oceans absorb and redistribute enormous amounts of heat. Ice sheets, ecosystems, soils, and permafrost also respond on timescales that can extend well beyond the moment when atmospheric temperatures appear to stabilize.
+Recent modelling of a 1.5°C stabilization scenario estimated an eventual loss of approximately **4.6 million km² of Northern Hemisphere permafrost**, roughly **27% of the pre-industrial area represented in that study**, accompanied by approximately **54 gigatonnes of carbon loss** from the modelled permafrost carbon pool, an equivalent of nearly 200 gigatons of carbon dioxide. A 2°C stabilization scenario produced substantially greater losses. Even at 2.3C locked in, far more permafrost melts and goes back into the atmosphere to continue the warming. based on the IPCC's estimate, and that's if we went net zero today. That's **a lot** more carbon that's going to thaw in those temperatures. And we're still pushing those numbers higher every year. Faster than ever in fact.
 
-This creates an important distinction:
+We cost the planet it's ability to draw down enough carbon dioxide to keep our atmosphere stable 250 years ago. Now it's up to us to rebuild and maintain the atmosphere.
 
-> **Stabilizing atmospheric temperature is not necessarily the same thing as stabilizing the entire Earth system.**
+Permafrost provides one of the clearest examples. The arctic used to be a carbon sink, accumulating carbon in the permafrost year after year. Now it's a net emitter, with the equivalent of 1-2 gigatons of carbon dioxide equivalent per year (7.8 gigatons = 1 ppm of atmosphere).
 
-Permafrost provides one of the clearest examples.
+Northern Hemisphere permafrost contains roughly **1,400–1,600 gigatonnes of organic carbon** in frozen soils, equivalent to 650-750 ppm. That can be of carbon dioxide, or of methane, depending on if was digested aerobically (carbon dioxide) or anaerobically (methane). Unlike carbon dioxide, methane breaks down in the atmosphere, with a half-life of about 6-9 years. Unfortunately it starts that process at about 120x as potent as carbon dioxide before slowly decaying. Much of this carbon accumulated over thousands to tens of thousands of years. It is not an inert block of carbon, however: permafrost exists within a climate system and responds to changes in temperature, snow cover, vegetation, hydrology, and fire.
 
-Northern Hemisphere permafrost contains roughly **1,400–1,600 gigatonnes of organic carbon** in frozen soils. Much of this carbon accumulated over thousands to tens of thousands of years. It is not an inert block of carbon, however: permafrost exists within a climate system and responds to changes in temperature, snow cover, vegetation, hydrology, and fire.
-
-As permafrost warms, the seasonally thawed **active layer** can deepen. Where previously frozen ground thaws permanently, microorganisms can gain access to previously protected organic matter and convert some of that carbon into greenhouse gases, primarily **carbon dioxide and methane**.
+As permafrost warms, the seasonally thawed **active layer** can deepen. Where previously frozen ground thaws permanently, microorganisms can gain access to previously protected organic matter and convert some of that carbon into greenhouse gases, primarily **carbon dioxide and methane**. This is happening in about half of the world's permafrost regions.
 
 The process is therefore capable of creating a reinforcing feedback:
 
 **warming → permafrost degradation → carbon mobilization → additional greenhouse gases → additional warming**
 
-The existence of this feedback is well established. Its ultimate magnitude and timing are much less certain.
+The existence of this feedback is well established. Its ultimate magnitude and timing are much less certain, but what it does tell us is:
 
-Importantly, this does **not** mean that reaching 1.5°C would suddenly melt the entire permafrost zone. Nor does it mean that permafrost thaw inevitably produces uncontrollable climate runaway.
+**The world does not stabilize at 1.5°C. It will continue to warm until the permafrost is no longer emitting carbon. There is no bus stop at 1.5C, this bus isn't stopping until we have 0% permafrost thaw. That can be because we cooled the planet, or because it finished melting.**
 
-What it does mean is more consequential for long-term climate planning:
-
-**A world that stabilizes at 1.5°C is still likely to experience substantial additional permafrost change because the ground responds slowly to atmospheric warming.**
-
-Recent modelling of a 1.5°C stabilization scenario estimated an eventual loss of approximately **4.6 million km² of Northern Hemisphere permafrost**, roughly **27% of the pre-industrial area represented in that study**, accompanied by approximately **54 gigatonnes of carbon loss** from the modelled permafrost carbon pool. A 2°C stabilization scenario produced substantially greater losses.
-
-These numbers are model-dependent and should not be interpreted as a precise prediction of future emissions. They demonstrate something more fundamental: **the climate system has committed responses that continue after atmospheric warming is stabilized.**
-
-Abrupt thaw processes such as thermokarst, ground collapse, wildfire, and changes in hydrology can further accelerate the exposure and decomposition of previously frozen organic matter. These processes remain an important source of uncertainty in projections because they are difficult to represent fully at global scale.
-
-Permafrost is therefore not an argument that climate stabilization is impossible.
-
-It is an argument for taking stabilization seriously.
-
-**The longer atmospheric warming continues, the more natural carbon reservoirs are exposed to conditions that can reduce their ability to remain carbon stores.**
-
-This is one reason the Modern Druid Project treats atmospheric carbon removal as more than an offsetting exercise. The objective is not simply to reduce future emissions. It is to actively reduce atmospheric CO₂ concentrations and, over the long term, move the climate system back toward conditions in which natural carbon reservoirs can recover.
-
-The project does not depend on any particular permafrost feedback occurring at a particular rate. Even without assuming catastrophic feedbacks, the fundamental case for atmospheric carbon removal remains:
-
-**The climate system responds slowly, damage and adaptation requirements accumulate, and returning atmospheric CO₂ toward safer levels requires physically removing carbon from the atmosphere.**
+This is one reason the Modern Druid Project treats atmospheric carbon removal as more than an offsetting exercise. The objective is not simply to reduce future emissions. It is to actively reduce atmospheric CO₂ concentrations and, over the long term, move the climate system back toward conditions in which natural carbon reservoirs can recover. And keep people fed until we can rebuild our climate system.
 
 ---
 
@@ -722,6 +700,8 @@ The Modern Druid model is not a fixed prescription but a set of integrated funct
 | **4. Soil Biology & Fertility** | Create a self‑sustaining soil food web. | **Korean Natural Farming (KNF)/Jadam:** Weekly applications of IMO, JMS, FPJ, JLF via irrigation. Biochar pre‑charged in JMS/JLF. **Biochar + basalt mix** applied annually. | Johnson‑Su compost, vermicompost, local fungal inoculants. |
 | **5. Implementation** | Low‑cost, diverse, resilient establishment using seedballs and precision placement. | **Primary Method: Hand‑sowing with AR Guidance.**<br>- **Seedball Composition:** Biochar, clay, compost, mycorrhizae, KNF inputs, diverse seed mix (heavily overplanted).<br>- **Placement:** Workers use AR glasses displaying the grid layout for precise seedball placement.<br>- **Philosophy:** Let nature select – overplant, then thin and promote the best performers. | Drone sowing for large/remote alleys; mechanical transplanters for high‑value tree whips; fully manual broadcast (low‑tech). |
 
+> *Biomass yield is targeted at 16–18 odt/ha/yr, the upper end of the best-performing clones in the closest available regional trial (Labrecque & Teodorescu, 2005, "Field performance and biomass production of 12 willow and poplar clones in short-rotation coppice in southern Quebec (Canada)," Biomass & Bioenergy 29:1–9). This target is justified by irrigation, biochar, and ERW-supplied nutrients directly addressing the water and nutrient limitations present in that unfertilized, unirrigated baseline trial. This remains a target, not a validated result: it has not been tested in combination, and Northern Ontario's shorter growing season (relative to southern Quebec) is a factor the input stack does not address. The pre-deployment agroforestry validation (Section 5.5, item 1) should include clone selection specifically suited to local conditions, from which seeds would be bred, and the base-case financial model should retain a lower sensitivity case (10–12 odt/ha/yr, the typical commercial SRC range per broader Eastern Canada and UK/IEA Bioenergy literature) alongside this target.*
+
 ---
 
 ### B. Task: Convert Biomass into Permanent Carbon & Soil Amendment
@@ -741,10 +721,7 @@ The objective is to transform sustainably grown biomass into stable biochar, gen
 
 The objective is to deploy Enhanced Rock Weathering (ERW) to remove CO₂ geologically and add soil minerals, leveraging existing workflows.
 
-| Subtask | Goal | Primary Approach (Temperate Launch) | Alternative/Potential Solutions |
-| :--- | :--- | :--- | :--- |
-| **1. Source & Apply Basalt** | Apply finely ground silicate rock to soils at agronomic rates. | Source **crushed basalt** (<0.5 mm) from a local quarry. Spread using a lime/fertiliser spreader in the same pass as biochar. | Other silicate rocks (wollastonite, olivine); manual broadcasting (small scale); drone spreading (inaccessible terrain). |
-| **2. Maximise Weathering Rate** | Accelerate the carbonation reaction to increase credit yield. | **Leverage biochar synergy:** Apply the biochar/basalt mix together. Biochar retains moisture, raises pH, and hosts weathering microbes, targeting a **30–50% faster weathering** rate. | Microbial and fungal inoculation with silicate‑weathering species; organic acid priming with humic acids or low‑dose JLF. |
+The combination of irrigation, biochar, microbial inoculants, ERW-supplied minerals, and syntropic successional design is expected to produce synergistic effects beyond what any single intervention would achieve alone — for example, biochar and irrigation both address water availability through different mechanisms, while ERW-supplied calcium and magnesium interact with biochar's cation exchange capacity in ways not yet characterized for this combination. These interactions are a hypothesis motivating the system design, not a quantified or measured effect. No study has tested this specific combination, and the pre-deployment validation phase (Section 5.5) and ongoing MRV monitoring (Section 5.6) are the mechanisms by which any real synergistic effect — positive or negative — will be identified and quantified.
 
 ---
 
@@ -908,7 +885,7 @@ The proof‑of‑concept will be measured against five non‑negotiable, publicl
 
 2. **Target 2: Financial Profitability (> $0 CAD/ha/yr).** Net revenue from carbon credits after **all operational costs**, including dignified wages, inputs, maintenance, MRV, and amortised capital costs. This proves the model is a self‑sustaining business, activating the 10% Replication Fund.
 
-3. **Target 3: Food Production Parity.** The retail‑calorie value of food produced per hectare will **match or exceed** the average gross revenue per hectare of conventional staple crops in the region. *Benchmark:* Ontario corn/soy averages ~$1,500–$1,800 CAD/ha in gross revenue. Our model targets exceeding this threshold by Year 6–7, using the yield and species diversity outlined in Section 5.2.A. This decisively answers the “food vs. carbon” question.
+3. **Target 3: Food Production Parity.** The retail‑calorie value of food produced per hectare will match or exceed the average gross revenue per hectare of conventional staple crops in the region. Benchmark: Ontario corn/soy averages ~$1,500–$1,800 CAD/ha in gross revenue. For context, dedicated commercial orchards typically generate $12,000–37,000+ CAD/ha in gross revenue — 8–20x the field-crop benchmark — though this system's diversified, wider-spaced food-forest design will produce well below dedicated-orchard yields per hectare. Given the scale of this gap, exceeding the field-crop benchmark is a comparatively low bar for an orchard-structured system, even after accounting for the yield discount from polyculture design. Our model targets exceeding this threshold by Year 6–7, using the yield and species diversity outlined in Section 5.2.A. This decisively answers the "food vs. carbon" question.                              The retail‑calorie value of food produced per hectare will match or exceed the average gross revenue per hectare of conventional staple crops in the region. Benchmark: Ontario corn/soy averages ~$1,500–$1,800 CAD/ha in gross revenue. For context, dedicated commercial orchards typically generate $12,000–37,000+ CAD/ha in gross revenue — 8–20x the field-crop benchmark — even if we only hit moderate production for an orchard, we will have far exceeded field crops. Our model targets exceeding this threshold by Year 6–7, using the yield and species diversity outlined in Section 5.2.A. This should decisively answer the "food vs. carbon" question in our favour.
 
 4. **Target 4: Community Net Economic Benefit (> $0 CAD/yr).** The total value of free food to the community (modelled at $1.5M–$2.5M+ CAD/year at maturity) will exceed the total cost of the carbon credits required to fund the hub. This transforms the project from a climate cost into a net‑positive economic service.
 

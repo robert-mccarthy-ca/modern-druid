@@ -24,7 +24,7 @@ Please treat this as a hypothesis and a starting point, not a feasibility study.
 
 ## Abstract
 
-The Modern Druid Project is a blueprint for building self-replicating carbon farms that simultaneously remove atmospheric carbon, produce abundant free food, restore degraded ecosystems, and create dignified, well-paid work. Designed as an integrated system where climate repair, food security, and economic viability are not competing priorities, but mutually reinforcing outcomes. The project proposes a future where carbon markets provide the primary revenue stream for food production through soil carbon, biochar, and enhanced rock weathering carbon removal credits, letting us give the food away for free to whoever wants to pick it.
+The Modern Druid Project is a blueprint for building self-replicating carbon farms that simultaneously remove atmospheric carbon, produce abundant free food, restore degraded ecosystems, and create dignified, well-paid work. Designed as an integrated system where climate repair, food security, and economic viability are not competing priorities, but mutually reinforcing outcomes. The project proposes a future where carbon markets provide the primary revenue stream for food production through soil carbon, biochar, and enhanced rock weathering carbon removal credits, letting us give the food away for free to whoever wants to pick it. Credits are sold first to polluting companies, then to community governments once the model is proven cost-saving, and ultimately under a global price on carbon.
 
 This model is designed for the climate we are entering — not the one we lost. It addresses critical failures in carbon removal scalability, industrial food fragility, wealth concentration, and funding dependency. By aligning economic incentives with ecological restoration and community benefit, the project aims to transform climate action from a cost into a self-sustaining system capable of expanding to and operating at global scale.
 
@@ -54,6 +54,10 @@ The Modern Druid Project proposes that these problems can be addressed together 
 ## 1.1 The Carbon Crisis: A Climate System with Inertia
 
 The climate system does not respond instantaneously to changes in atmospheric greenhouse-gas concentrations. The carbon we have already emitted will shape the climate for centuries, and the Earth is committed to a period of continued warming regardless of how quickly we act from this point forward. This inertia is not a reason for despair — it is the defining constraint within which any serious climate response must operate.
+
+**Reductions Alone Are Not Enough**
+
+Cutting emissions is necessary, but we are far far too late for it to be sufficient on its own. Too many planetary tipping points have already been crossed for a world that merely stops adding carbon to hold the line. The goal is therefore not zero emissions per year but **net zero cumulative emissions**: the legacy carbon already in the atmosphere has to be removed as well, not just stopped from growing (the scale of that task is sized in Section 9.4). Removal is the second half of the job, not a substitute for the first. That is why selling removal credits to companies that are still emitting is not a licence to pollute: those companies still need to reduce, and Modern Druid removes the legacy carbon that reduction alone can never reach.
 
 **Atmospheric Content**
 
@@ -234,9 +238,23 @@ The model depends on reliable carbon prices, but does not depend on far-fetched 
 * **High-integrity** — methodologies that recognize stacked removal pathways (biochar, ERW, soil carbon) and issue credits accordingly.
 * **Accessible** — participation pathways that do not exclude community-scale projects in the Global South, where the model's economics may be most compelling.
 
-Until that market fully exists, the project scales as far as voluntary markets, offtake agreements, and community demand will carry it. The current carbon market — fragmented, volatile, and concentrated in voluntary buyers — is sufficient to prove the model. It is not sufficient to scale it globally.
+Until that market fully exists, the project scales as far as voluntary markets, offtake agreements, and community demand will carry it. The current carbon market — fragmented, volatile, and concentrated in voluntary buyers — is sufficient to prove the model. It is not sufficient to scale it globally. Who pays at each stage is set out in the next section.
 
 This is why the project's open-source obligation (Section 3.7) matters for scaling. Every data point the first hub produces — every verified tonne, every cost figure, every yield measurement — is a brick in the case for the carbon market infrastructure the world still lacks. The project cannot build that market alone. But it can provide the proof that makes building it politically and economically irresistible.
+
+---
+
+## Who Pays: The Customer Sequence
+
+Modern Druid sells to different buyers at different stages, and the argument changes with each one.
+
+**Stage 1: Polluting companies (now).** The first hub is sold to the emitters whose emissions the credits answer for, through bilateral offtake agreements and carbon removal marketplaces (Section 10.0, Pathways 2 and 4). They are the only buyers today with budgets, procurement processes, and an existing obligation or target to pay for removal. They buy on credit price, durability, and MRV integrity, and the model has to win on those first. Removal does not replace their own reductions (Section 1.1); it covers the legacy carbon that reductions cannot reach.
+
+*Why buy ours in particular:* a Modern Druid credit carries verified co-benefits that a standard removal credit does not. The model targets 11 of the 17 UN Sustainable Development Goals from launch (Section 7.1) and the remaining 6 through R&D and scaling (Section 7.2). A buyer retiring one credit funds permanent removal together with free local food (SDG 2), living-wage jobs with an ownership pathway (SDG 8), cleaner water (SDG 6), restored biodiversity (SDG 15), and reduced inequality (SDG 10), all publicly measured and reported. For a company that must show its sustainability reporting is more than a carbon number, and that wants social licence in the communities where it operates, that is a reason to pay a premium for this credit over another (Section 7.3).
+
+**Stage 2: Community governments (once proven).** When a hub has met Target 3 (Section 5.4), with free-food value exceeding credit cost, the pitch changes from offsetting to cost saving. Local governments come first, then regional and provincial governments, then national governments. These buyers are not discharging a liability; they are purchasing a service that is cheaper than the status quo (Section 4.2, *The Pricing Argument*).
+
+**Stage 3: A global price on carbon (to scale).** Gigatonne- and ppm-scale removal requires a globally administered price and payment for carbon, run by the UN or a similar overarching body (Section 9.5). Until that exists, the project scales as far as Stages 1 and 2 will carry it. The goal is that our success by stages 1 and 2 would help make the argument for a global carbon price.
 
 ---
 
@@ -298,11 +316,7 @@ The answer to the second question is measurable, local, and repeatable. A single
 
 ## The Enabling Condition: A Functioning Global Carbon Market
 
-This integrated system has one external prerequisite: **a robust, financially viable international price on carbon.**
-
-The model does not depend on premium prices. The sensitivity analysis (Section 6.5) shows viability at credit prices well below current spot rates. But it does depend on carbon markets that are durable enough to support 20–25 year crediting periods, international enough to reach every region where a hub could operate, and high-integrity enough to recognize stacked removal pathways and issue credits accordingly.
-
-Until that market fully exists, the project scales as far as voluntary markets, offtake agreements, and community demand will carry it. The current carbon market is sufficient to prove the model. It is not sufficient to scale it globally. The project's open-source data and demonstrated economics are designed to provide the evidence base that makes building that market politically and economically irresistible.
+This integrated system has one external prerequisite: **a robust, financially viable international price on carbon**, ultimately administered by the UN or a similar overarching body. The requirements are set out in full under *The Requirement: A Functioning Global Carbon Market* (Section 1.4), and the sequence of buyers who carry the model up to that point — polluting companies, then community governments, then a global price — under *Who Pays: The Customer Sequence*. Until that market fully exists, the project scales as far as voluntary markets, offtake agreements, and community demand will carry it. The sensitivity analysis (Section 6.5) shows viability at credit prices well below current spot rates, so the model does not depend on premium prices.
 
 ---
 
@@ -354,7 +368,7 @@ The model's disruptive potential will emerge when three financial targets are me
 When these three targets align, the model would become politically and economically difficult to oppose:
 
 * **It Justifies Land Use:** "Why use good farmland for carbon?" Because it aims to produce equal or more food while removing 20+ tonnes of CO₂/ha/yr.
-* **It Bypasses Political Gridlock:** Policy mandates become unnecessary. The model could sell a cost-saving service to municipalities, corporations, and nations: *"Pay us to remove carbon, and we'll also work on your food security problem, saving your community's budget."*
+* **It Bypasses Political Gridlock:** Policy mandates become unnecessary. The model sells credits to polluting companies first, then a cost-saving service to governments from local to national once the first hub has proven it (Section 1.4, *Who Pays*): *"Pay us to remove carbon, and we'll also work on your food security problem, saving your community's budget."*
 * **It Creates Its Own Demand:** A project that saves money while solving multiple crises could build a coalition of the willing from local families to corporate CFOs to climate ministers. Opposition becomes harder to sustain.
 
 #
@@ -679,6 +693,8 @@ Pick it yourself; we're busy with the carbon.
 
 The economic relationship between food value and credit cost is central to the model's negotiating position. The design target is that the retail-equivalent value of food provided to the community exceeds the total cost of the carbon credits funding the hub. When that holds, every credit sold is not merely a carbon transaction — it is a net economic gain for the community hosting the hub, delivered as food security, local employment, and restored land.
 
+Different buyers hear different parts of this argument. Polluting companies, the first customers, are persuaded mainly by verified removal and the SDG co-benefits (Section 7.0). The food-savings case is the argument for community governments, once Target 3 is proven (Section 1.4).
+
 This is the basis for a premium-pricing argument: a Modern Druid credit delivers verified removal plus food security plus dignified work, and the food savings alone exceed the credit's cost. That argument is a strategy for achieving higher credit prices through offtake negotiations and marketplace listings — not an assumption of the base-case financial model. The base case prices credits at prevailing market rates. The premium is pursued where buyers explicitly pay for verified co-benefits, and it is never relied upon for viability, but as a strategy for higher wages and profitability. What carbon price can we justify? We don't need to drive down the price of carbon if we can drive up the benefits. If successful, we can potentially raise carbon prices and encourage better wages and profitability, speeding adoption while still being a huge cost savings to people.
 
 The money is already there for wide-scale deployment. More is already being spent today on food. We would end up as a long-term savings for communities, not just an additional taxpayer expense. The transition, the building of the food forests will be an expense certainly, but long-term it is designed to be a cost savings for basically everybody in the local population with additional benefits thrown in for good measure.
@@ -847,7 +863,7 @@ A scalable model requires a realistic, staged build-out that respects soil biolo
 
 ### 5.3.0 Strategic Ambition: Investment Scale & Experimental Latitude
 
-The **$4M CAD seed target** (detailed in Section 10.0) is the *minimum viable threshold* to build a functional, profitable 100-hectare hub and reach breakeven by Year 4. Any capital raised **above** that amount is not merely a risk buffer – it is an **acceleration and optimisation fund** that directly increases the project's ultimate potential.
+The **minimum funding requirement of at least $4.2M CAD** (detailed in Section 10.1; at least $3.4M cash plus 100+ hectares of land) is the *minimum viable threshold* to build a functional, profitable 100-hectare hub, stand up the MDC team, and reach breakeven by Year 4. Any capital raised **above** that amount is not merely a risk buffer – it is an **acceleration and optimisation fund** that directly increases the project's ultimate potential.
 
 **How excess funding expands the target:**
 
@@ -1237,12 +1253,14 @@ Funds labour and OPEX before credit revenue reaches sustainable levels.
 
 #
 
-### Total Seed Capital Required
-- **CapEx:** $2,185,000
+### Minimum Capital Required
+- **CapEx:** $2,185,000 (includes the $800,000 land planning estimate)
 - **Runway (OpEx Years 0-3):** $1,440,000
-- **Total Seed Capital:** **$3,625,000 CAD**
+- **First Hub Total:** **$3,625,000 CAD**, of which **$2,825,000** is cash excluding land and **$800,000** is the land planning estimate
+- **Modern Druid Central, Launch Phase (3 years):** $600,000 (Section 10.1)
+- **Minimum Total:** **$4,225,000 CAD**, or roughly **$3.4M cash plus 100+ hectares of land**; **at least $4.2M** in total project value at the land planning estimate
 
-**Rounded Safety Buffer:** **$4,000,000 CAD** seed capital provides a ~12-month contingency on the runway, covering delays or unforeseen costs. More if we wanted to start with a trial section before planting everything, as it would extend the development plans by another growing season.
+**This is a floor, not a target.** It is the least that funds a complete attempt: construction, runway to breakeven, and the MDC team, with only the 15% CapEx contingency as a buffer. Funding above it buys runway against delays or unforeseen costs, or a trial section before planting everything, which would extend the development plans by another growing season.
 
 ---
 
@@ -1270,7 +1288,7 @@ With surplus redirection, the effective replication allocation is ~$134,000/year
 
 Being perennial in nature, the site is expected to continue to grow in both food productivity and rate of carbon sequestration. Once the infrastructure is built, labour needs drop, allowing either a decrease in hours for the same pay or other improvements that increase productivity.
 
-**Payback Period:** ~7–8 years on the total $4M seed investment, based on profit + replication fund accumulation. Less if grants can be found.
+**Payback Period:** ~7–8 years on the hub's seed investment, based on profit + replication fund accumulation. This was calculated against the original rounded $4M figure and has not been recomputed for the revised minimum. Less if grants can be found.
 
 ---
 
@@ -1318,7 +1336,7 @@ The numbers suggest that a **100-hectare Modern Druid hub can be cash-flow posit
 3. **The constitutional profit split** ensures sustainability, fairness, and expansion funding.
 4. **The community receives more value in free food than the project costs in credits,** making it politically and socially defensible.
 
-An initial investment of **$4 million CAD** seeds not only a single carbon-removal hub, but the first node in an open-source, growing network designed to heal the atmosphere, feed communities, and create equitable wealth — if the first hub proves the numbers hold. One path would be to find an initial philanthropic private or corporate investor with deep pockets. Another would be to sell the project directly to communities, reducing startup costs, but that requires project sales — likely easier if you can show that it works first. Larger investments would allow for a larger target to hit, having more money for rapid development, R&D, or parallel deployments in multiple parts of the country or world.
+An initial investment of **at least $4.2 million CAD** (at least $3.4 million cash plus 100+ hectares of land) seeds not only a single carbon-removal hub, but the first node in an open-source, growing network designed to heal the atmosphere, feed communities, and create equitable wealth — if the first hub proves the numbers hold. One path would be to find an initial philanthropic private or corporate investor with deep pockets. Another would be to sell the project directly to community governments, reducing startup costs, but that requires project sales — Stage 2 of the customer sequence (Section 1.4), and likely easier once the first hub has shown that it works. Larger investments would allow for a larger target to hit, having more money for rapid development, R&D, or parallel deployments in multiple parts of the country or world.
 
 ---
 
@@ -1375,7 +1393,7 @@ The remaining goals are targeted through the project's **R&D pipeline, strategic
 
 ## 7.3 Conclusion: Toward a Sustainable Development Offset
 
-This SDG alignment has the potential to transform Modern Druid credits into a **Sustainable Development Offset**. Buyers would not just be purchasing carbon removal; they would be funding **measurable, multi-dimensional progress across the world's most pressing humanitarian and environmental agendas.** This matters commercially too: 11-SDG carbon projects are rare, much less a full 17, and that scarcity is part of what should support a premium price for our credits. The premium-pricing argument (Section 4.2) is pursued where buyers explicitly pay for verified co-benefits; it is never relied upon for viability.
+This SDG alignment has the potential to transform Modern Druid credits into a **Sustainable Development Offset**. Buyers would not just be purchasing carbon removal; they would be funding **measurable, multi-dimensional progress across the world's most pressing humanitarian and environmental agendas.** This matters commercially too: 11-SDG carbon projects are rare, much less a full 17, and that scarcity is part of what should support a premium price for our credits. The premium-pricing argument (Section 4.2) is pursued where buyers explicitly pay for verified co-benefits; it is never relied upon for viability. These co-benefits are also the main reason polluting companies, the first customers, would choose Modern Druid credits over a standard removal credit (Section 1.4).
 
 **In essence:** We aim to leverage the demand for carbon drawdown to fund the **simultaneous delivery of virtually the entire UN Sustainable Development framework**, while creating the conditions for **local economic innovation and resilience.** This is the blueprint for an **abundant, equitable, and post-carbon future** — if the first hub proves the numbers hold.
 
@@ -1477,7 +1495,7 @@ This section outlines the three-phase scaling strategy designed to cross the **g
 ## 9.2 Phase 2: Regional Saturation & The "Hub-in-a-Box" Service (Years 3-10)
 **Proven Blueprint in Hand, Activate Growth.**
 
-* **The "Hub-in-a-Box" Service:** Modern Druid Central (MDC) offers **turnkey installation** for clients ready to act (corporations, governments, municipalities, Indigenous nations, impact consortia). Installs a new hub in a region.
+* **The "Hub-in-a-Box" Service:** Modern Druid Central (MDC) offers **turnkey installation** for clients ready to act (polluting companies first; then, once Target 3 is proven, community governments from local to national, Indigenous nations, and impact consortia). Installs a new hub in a region.
  * **Model:** Client pays full startup costs (~$3.5–4M CAD). In return, they receive a fully built, operational hub and a **long-term commitment to purchase its credits at market price.** This guarantees revenue for the hub and ensures real, sustained removal.
 * **Cross-Subsidisation for Equity:** Profits from paid "Hub-in-a-Box" installations are used by MDC to **fund free or subsidised hubs in underserved regions and every major climate zone.** This builds a global network of adaptation labs, seed banks, and carbon engines **with minimal dependence on government grants.**
 * **The Living Adaptation Network:** Hubs become nodes in a **global living database**. Seedball trading and genetic material exchange between zones accelerate the development of climate-resilient plant varieties, creating a distributed, open-source breeding network for a chaotic world.
@@ -1531,14 +1549,14 @@ But gigaton scale isn't good enough, not any more, we're past that. Using our ow
 
 When global abundance from Modern Druid networks begins to **reduce food costs and address carbon demand**, the economic and political calculus could flip.
 
-* **From Voluntary to Systemic:** As the model proves it is **cheaper for communities than the status quo**, it builds a coalition of the willing — from mayors to finance ministers — that can lobby for **integrated carbon-food policies** and a **guaranteed global carbon price** backed by our proven data.
+* **From Voluntary to Systemic:** As the model proves it is **cheaper for communities than the status quo**, it builds a coalition of the willing — from mayors to finance ministers (the Stage 2 buyers in Section 1.4) — that can lobby for **integrated carbon-food policies** and a **guaranteed global carbon price** backed by our proven data.
 * **The Self-Terminating Vehicle:** The project's goal is **obsolescence at the hub level.** After ~20 years, the land is transferred to its stewards. After ~100 years, the atmosphere is stabilized. **We are building a temporary, self-dissolving scaffold for a just transition, not a perpetual corporation.** A mission, not an empire.
 
 #
 
 ### The Governance Ceiling: Global Carbon Administration
 
-Reaching parts-per-million scale of atmospheric drawdown is beyond the capacity of any single organization or network. At that scale, carbon removal becomes a global public utility, requiring coordinated administration — effectively a UN-level framework with a globally administered price on carbon, under which people anywhere in the world can reliably earn a respectable living restoring land and feeding communities. The Modern Druid Project is designed to be ready for that world: a proven, open-source system that can be deployed wherever the price signal makes it viable. Until that framework exists, the project scales as far as voluntary markets, offtake agreements, and community demand will carry it — and publishes everything it learns along the way.
+This is Stage 3 of the customer sequence (Section 1.4, *Who Pays*). Reaching parts-per-million scale of atmospheric drawdown is beyond the capacity of any single organization or network. At that scale, carbon removal becomes a global public utility, requiring coordinated administration — effectively a UN-level framework (or a similar overarching body) with a globally administered price and payment for carbon, under which people anywhere in the world can reliably earn a respectable living restoring land and feeding communities. The Modern Druid Project is designed to be ready for that world: a proven, open-source system that can be deployed wherever the price signal makes it viable. Until that framework exists, the project scales as far as voluntary markets, offtake agreements, and community demand will carry it — and publishes everything it learns along the way.
 
 **Conclusion: Abundance in an Age of Collapse**
 We are building the food system that fixes the climate. The expansion rate is capped only by how fast we can train stewards and how fast society can say "yes" to a proven, profitable, and generous alternative.
@@ -1549,9 +1567,9 @@ We are building the food system that fixes the climate. The expansion rate is ca
 
 # 10.0 Funding Pathways: Building the First Hub
 
-The Modern Druid Project is ready to move from blueprint to reality. The immediate priority is securing at least **$4 million CAD** in seed capital to establish the **first 100-hectare flagship hub** in Northern Ontario. This hub will serve as the living proof-of-concept, the open-source testbed, and the genesis of the replication network. Anything above the $4 million CAD would be additional insurance against unexpected costs and delays, and later invested in the first expansion farms with any remainder.
+The Modern Druid Project is ready to move from blueprint to reality. The minimum cost of attempting this is **at least $3.4 million CAD in cash plus 100+ hectares of land** — **at least $4.2 million CAD** in total project value at the planning estimate for land. That is the least that funds the **first 100-hectare flagship hub** in Northern Ontario together with the Modern Druid Central team that builds and replicates it. This hub will serve as the living proof-of-concept, the open-source testbed, and the genesis of the replication network. Anything above the minimum would be additional insurance against unexpected costs and delays, and later invested in the first expansion farms with any remainder.
 
-A note on that $4 million figure: it includes a planning estimate of $800,000 for the land itself. Land cost is one of the most location-dependent line items in this entire model — it could run substantially lower (Crown land, donated or leased land, a community land contribution) or substantially higher (higher-value regions, competitive acquisition). Several pathways below treat land access as a lever on the total cash ask, not a fixed cost.
+A note on land: it is listed separately from the cash minimum, with a planning estimate of $800,000 if purchased. Land cost is one of the most location-dependent line items in this entire model — it could run substantially lower (Crown land, donated or leased land, a community land contribution) or substantially higher (higher-value regions, competitive acquisition). Donated or contributed land satisfies the land requirement directly, so the cash needed stays at the $3.4 million rather than the total. Several pathways below treat land access as a lever on the cash ask, not a fixed cost.
 
 We prioritize pathways that **preserve mission integrity, ensure open-source dissemination, and maximize the speed of deployment.**
 
@@ -1563,7 +1581,7 @@ We prioritize pathways that **preserve mission integrity, ensure open-source dis
 **The Ideal Scenario: Maximum Impact, Zero Mission Drift.**
 
 * **Model:** A single major grant from a climate-focused foundation (e.g., Quadrature Climate Foundation, Breakthrough Energy, ClimateWorks), forward-thinking government program (e.g., Sustainable Development Technology Canada, Low Carbon Economy Fund), or simply a sufficiently wealthy philanthropist.
-* **Ask: $4 million CAD** as a 5-year, open-source research and demonstration pilot.
+* **Minimum ask: at least $4.2 million CAD** (or at least $3.4 million plus 100+ hectares of land) as a 5-year, open-source research and demonstration pilot.
 * **Deliverables:**
  * A fully operational, profitable 100-ha hub hitting the **Four Empirical Targets**.
  * The complete **Modern Druid Replication Toolkit** released under Creative Commons.
@@ -1577,12 +1595,12 @@ We prioritize pathways that **preserve mission integrity, ensure open-source dis
 ## Pathway 2: The Strategic Partner Sale (Turnkey Hub + Credit Commitment)
 **For Partners Who Want Immediate Action and Lasting Impact.**
 
-* **Model:** Partner with a corporation, city, province, Indigenous nation, or impact consortium that wants its own **branded, operational hub** and a long-term, high-integrity carbon removal offtake.
+* **Model:** Partner with a polluting company that wants its own **branded, operational hub** and a long-term, high-integrity carbon removal offtake. Once the first hub has met Target 3 (Section 5.4), the same offer extends to community governments (city, province, or nation), Indigenous nations, and impact consortia.
 * **Structure:**
- 1. Partner provides **$5 million CAD** upfront (covers our costs + MDC royalty for future seeding).
+ 1. Partner provides **at least $5 million CAD** upfront (covers our costs + MDC royalty for future seeding).
  2. We build the hub turnkey on their designated land (or source it).
  3. Partner commits to a **10-year offtake agreement** to purchase the hub's carbon credits at market price.
-* **Why This Works:** The partner gets a flagship ESG asset, verifiable long-term removal, and massive SDG/PR value. **We get funded without dilution** and generate immediate revenue for MDC to seed underserved hubs. This is the **primary scaling model once proven.**
+* **Why This Works:** The partner gets a flagship ESG asset, verifiable long-term removal, and massive SDG/PR value: each credit carries verified co-benefits across 11 SDGs from launch (Section 7.1) that a standard removal credit cannot offer. **We get funded without dilution** and generate immediate revenue for MDC to seed underserved hubs. This is the **primary scaling model once proven.**
 
 ---
 
@@ -1592,7 +1610,7 @@ We prioritize pathways that **preserve mission integrity, ensure open-source dis
 **For Aligned Investors Who Believe in the Upside of Healing the Planet.**
 
 * **Model:** Raise capital from a tight circle of deeply aligned impact investors (family offices, high-net-worth individuals, climate-focused funds) in exchange for **non-controlling, minority equity** in Modern Druid Central.
-* **Ask: $4 million CAD** for **<30% equity.**
+* **Minimum ask: at least $4.2 million CAD** (or at least $3.4 million plus 100+ hectares of land) for **<30% equity.**
 * **Non-Negotiable Safeguards (B-Corp Charter Locked):**
  * Permanent lock on the **50/30/10/10 profit allocation rule**.
  * Permanent lock on the **land-transfer commitment** to workers after ~20 years.
@@ -1619,7 +1637,7 @@ We prioritize pathways that **preserve mission integrity, ensure open-source dis
 **For Communities Who Want to Own Their Hub, Not Just Host It.**
 
 * **Model:** Local residents buy in directly through a community bond or co-op share structure, the same mechanism many Canadian renewable energy co-ops use to fund wind and solar projects. A Canadian equity/debt crowdfunding platform (e.g., FrontFundr) can handle the regulatory compliance.
-* **Land as In-Kind Capital:** A community can contribute land itself — instead of or alongside cash — directly reducing the cash portion of the raise. Since land is one of the largest single line items in the startup cost (see the note above), a community land contribution measurably lowers the ask rather than simply changing where the money comes from.
+* **Land as In-Kind Capital:** A community can contribute land itself — instead of or alongside cash — directly reducing the cash portion of the raise. Land is listed separately from the cash minimum (Section 10.1), so a community land contribution satisfies the land requirement outright rather than simply changing where the money comes from.
 * **Why This Works:** It's the funding pathway that most directly embodies the model's stated commitment against economic colonialism — the people who will eventually inherit the land as stewards (Section 4.3) can also be the people who capitalized it in the first place. It also mirrors the "sell directly to communities" pathway raised in Section 6.6, giving it an actual financial structure rather than leaving it as a sales-channel aside.
 
 ---
@@ -1636,21 +1654,21 @@ We prioritize pathways that **preserve mission integrity, ensure open-source dis
 
 #
 
-## 10.1 The Two-Track Seed Funding Ask
+## 10.1 Minimum Funding Requirement: Two Tracks
 
-To launch the Modern Druid engine requires seeding two interdependent components:
+The minimum cost of launching the Modern Druid engine is two interdependent components, plus land:
 
-1. The First Hub ($3.4M CAD): The physical proof-of-concept, revenue generator, and open-source test bed. This covers all land, infrastructure, and operating costs for the 100-hectare flagship hub through to profitability (Years 0-4).
+1. The First Hub (at least $2.8M CAD, plus 100+ hectares of land): The physical proof-of-concept, revenue generator, and open-source test bed. This covers all infrastructure and operating costs for the 100-hectare flagship hub through to profitability (Years 0-4). Land is listed separately, with a planning estimate of $0.8M if purchased (Section 6.3).
 
-2. Modern Druid Central - Launch Phase ($0.6M CAD): The development team that will engineer, build, manage, and replicate the hub. This funds a lean 2-3 person MDC team for 3 years to:
+2. Modern Druid Central - Launch Phase (at least $0.6M CAD): The development team that will engineer, build, manage, and replicate the hub. This funds a lean 2-3 person MDC team for 3 years to:
 * Serve as general contractor and project manager for the first hub.
 * Establish carbon market listings and MRV protocols.
 * Develop the open-source "Replication Toolkit."
 * Secure the first "Hub-in-a-Box" partnership to ensure MDC's sustainability.
 
-Total Initial Seed Requirement: $4,000,000+ CAD
+Total Minimum Requirement: at least $3.4M CAD plus 100+ hectares of land (at least $4.2M CAD in total project value at the $0.8M land planning estimate)
 
-This structure ensures that from day one, there is a dedicated team focused not only on making Hub #1 a success, but on building the systems and partnerships to make Hub #100 inevitable. The MDC portion is an investment in the scalable engine, not just the first instance. Additional funds beyond the minimum simply give a longer runway for learning. As above, a community land contribution under Pathway 5 would reduce the First Hub figure directly, since land represents a substantial share of that $3.4M.
+This structure ensures that from day one, there is a dedicated team focused not only on making Hub #1 a success, but on building the systems and partnerships to make Hub #100 inevitable. The MDC portion is an investment in the scalable engine, not just the first instance. Additional funds beyond the minimum simply give a longer runway for learning. As above, donated land, Crown land, or a community land contribution under Pathway 5 satisfies the land requirement directly, and the cash minimum stays at $3.4M.
 
 ---
 
@@ -1662,8 +1680,10 @@ We will actively pursue:
 * **Canadian Federal & Provincial Funds:** SDTC, Low Carbon Economy Fund, Agricultural Clean Tech Program.
 * **Carbon Removal Marketplaces:** Frontier, Isometric, Puro.earth, and similar advance-market-commitment programs.
 * **Indigenous-Led Partnerships:** Consulting and training only; enough land use has been dictated to Indigenous communities already. This is not meant to be another form of colonialism.
-* **Corporate Climate Leaders:** Direct outreach to those with advanced carbon removal procurement strategies.
+* **Polluting Companies and High Emitters (first customers):** Direct outreach to emitters with carbon removal procurement strategies or obligations, leading with the SDG co-benefits that a standard removal credit lacks (Section 7.0).
+* **Community Governments (once proven):** Local, then regional and provincial, then national governments, approached once the first hub has met Target 3 (Section 5.4). The pitch is cost savings.
 * **Land & Community Partnerships:** Municipalities with underutilized land seeking climate resilience and economic development, and communities interested in the co-op/bond ownership model above.
+* **A Global Carbon Price (long term):** Evidence and advocacy toward a globally administered price and payment for carbon, run by the UN or a similar overarching body (Section 9.5).
 
 ---
 

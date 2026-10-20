@@ -1,3 +1,19 @@
+## Foreword: Please Read This First
+
+Please note that my background is in software development and gardening, I solve ridiculously complex problems efficiently and scalably, and I grow a food forest in my front lawn. What I am not is a specialist in agroforestry, pyrolysis engineering, carbon-market methodologies, or project finance, and no one who is has reviewed it yet.
+
+This document came about from asking myself "How would you solve climate change? What would you do differently if you had the money? Can you come up with something that can scale big enough to matter?" A question that everyone these days should ask themselves, because we need a good answer and we need it soon. What started as a thought experiment and AI tinkering project has led to this document.
+
+**What that means:**
+- Every yield, production figure, labour estimate, cost, and revenue number here is a planning estimate, and any of them could be off substantially, in either direction.
+- AI-assisted research can produce plausible-sounding numbers, imprecise sources, and confident claims that don't hold up. I have flagged the most uncertain figures in the text, but I have not independently verified all of them.
+- Carbon prices reflect December 2025 spot values and will have moved.
+- The arithmetic and cross-references have been checked only by me and by AI, so errors likely remain.
+- This is as far as I've been able to get on my own.
+
+Please treat this as a hypothesis and a starting point, not a feasibility study. The most useful thing a reader can do is try to break it. I am especially looking for people with expertise in syntropic agroforestry and short-rotation coppice yields, pyrolysis engineering and air-quality regulation, carbon registries and MRV (Puro.earth, Verra), project finance, co-op/governance law, and labour economics. If your review invalidates part of the model, that is a successful outcome. Section 5.5 describes the formal validation phase this document is meant to lead into.
+
+
 # The Modern Druid Project: A Blueprint for Integrated Climate Repair
 
 **Status:** Concept Phase 

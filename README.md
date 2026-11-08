@@ -1,34 +1,34 @@
 ## Foreword: Please Read This First
 
-Please note that my background is in software development and gardening, I solve ridiculously complex problems efficiently and scalably, and I grow a food forest in my front lawn. What I am not is a specialist in agroforestry, pyrolysis engineering, carbon-market methodologies, or project finance, and no one who is has reviewed it yet.
+Please note that my background is in software development and gardening. So while I can solve ridiculously complex problems efficiently and scalably, and I can grow a food forest in my front lawn, I am not a specialist in agroforestry, pyrolysis engineering, carbon-market methodologies, or project finance, and no one who is has reviewed it yet. Further review is definitely required before attempting to implement anything found below.
 
-This document came about from asking myself "How would you solve climate change? What would you do differently if you had the money? Can you come up with something that can scale big enough to matter?" A question that everyone these days should ask themselves, because we need a good answer and we need it soon. What started as a thought experiment and AI tinkering project has led to this document.
+This document came about from asking myself "How would you solve or fight climate change? If money wasn't an issue, how would I do it? What would I do, and could it actually be effective enough to be worth doing?" My first thought was to go be a carbon farmer, to grow biomass for the sole purpose of taking it out of our atmosphere and turning it into plants and soil, go garden like a boss for a living. I knew carbon markets existed, but didn't know much about them, so being the curious sort I looked into them. That's exactly what I'm looking for I thought ... if the price of carbon is high enough at least. It turns out that different types of carbon credits can have very different prices. There was one class of carbon credits that were worth actual money though. Biochar and Enhanced Rock Weathering caught my eye in particular. Next up was to run the numbers ... and down the rabbit-hole it went. What started as a thought experiment and project for tinkering with AI has eventually led to this document. I've called it the Modern Druid Project because I thought it encapsulated the idea well and more people today speak geek than nerd. So ... I thought speaking in D&D was more effective than science for the general public.
 
 **What that means:**
 - Every yield, production figure, labour estimate, cost, and revenue number here is a planning estimate, and any of them could be off substantially, in either direction.
 - AI-assisted research can produce plausible-sounding numbers, imprecise sources, and confident claims that don't hold up. I have flagged the most uncertain figures in the text, but I have not independently verified all of them.
-- Carbon prices reflect December 2025 spot values and will have moved.
+- Carbon prices reflect December 2025 spot values and have moved since, as of November 2026 they are at approximately $210 per tonne.
 - The arithmetic and cross-references have been checked only by me and by AI, so errors likely remain.
 - This is as far as I've been able to get on my own.
 
-Please treat this as a hypothesis and a starting point, not a feasibility study. The most useful thing a reader can do is try to break it. I am especially looking for people with expertise in syntropic agroforestry and short-rotation coppice yields, pyrolysis engineering and air-quality regulation, carbon registries and MRV (Puro.earth, Verra), project finance, co-op/governance law, and labour economics. If your review invalidates part of the model, that is a successful outcome. Section 5.5 describes the formal validation phase this document is meant to lead into.
+Please treat this as a hypothesis and a starting point, not a feasibility study. If you have expertise in any of this and can say why it would or would not be possible, or whether there was a better way to do it, I'd love to hear it. I am especially looking for people with expertise in syntropic agroforestry and short-rotation coppice yields, pyrolysis engineering and air-quality regulation, carbon registries and MRV (Puro.earth, Verra), project finance or anyone else who has relevant expertise for that matter. If your review invalidates part of the model, that too is a successful outcome. This is by no means the first draft of this document. Section 5.5 describes the formal validation phase this document is meant to lead into.
 
 
 # The Modern Druid Project: A Blueprint for Integrated Climate Repair
 
-**Status:** Concept Phase 
-**Lead Architect:** Robert McCarthy 
-**Current Stage:** One person, one idea, ready for validation and collaboration.
+**Status:** Concept Phase </br>
+**Lead Architect:** Robert McCarthy </br>
+**Current Stage:** One guy and an idea
 
 ---
 
 ## Abstract
 
-The Modern Druid Project is a blueprint for building self-replicating carbon farms that simultaneously remove atmospheric carbon, produce abundant free food, restore degraded ecosystems, and create dignified, well-paid work. Designed as an integrated system where climate repair, food security, and economic viability are not competing priorities, but mutually reinforcing outcomes. The project proposes a future where carbon markets provide the primary revenue stream for food production through soil carbon, biochar, and enhanced rock weathering carbon removal credits, letting us give the food away for free to whoever wants to pick it. Credits are sold first to polluting companies, then to community governments once the model is proven cost-saving, and ultimately under a global price on carbon.
+The Modern Druid Project is a blueprint for building self-replicating carbon farms that simultaneously remove atmospheric carbon, produce abundant free food, restore degraded ecosystems, and create dignified, well-paid work. The project proposes a future where carbon markets provide the primary revenue stream for food production through soil carbon, biochar, and enhanced rock weathering carbon removal credits. Shifting the financial revenue stream from consumers to polluters lets us give the food away for free to whoever wants to pick it while displacing industrial chemical agriculture from the local food supply. The goal would be to start by selling credits to polluting companies or individuals looking to offset their carbon emissions, followed by community governments once the model is proven to be a net cost-savings for the community, but ultimately would require a global price on carbon if we ever want it to scale to ppm per year levels. There's only so much scale the voluntary carbon markets can absorb.
 
-This model is designed for the climate we are entering — not the one we lost. It addresses critical failures in carbon removal scalability, industrial food fragility, wealth concentration, and funding dependency. By aligning economic incentives with ecological restoration and community benefit, the project aims to transform climate action from a cost into a self-sustaining system capable of expanding to and operating at global scale.
+This model is designed for the climate we are entering — not the one we lost. It addresses critical failures in carbon removal scalability, industrial food fragility, wealth concentration, and funding dependency. By aligning economic incentives with ecological restoration and community benefit, the project aims to transform climate action from a cost into a self-sustaining system capable of expanding to and operating at global scale. Agriculture should be part of the solution, not the problem.
 
-None of this is claimed as assured; it is a hypothesis to be tested.
+Once again, none of this is proven; it is a hypothesis to be tested.
 
 ---
 

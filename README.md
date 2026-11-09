@@ -666,6 +666,8 @@ By focusing exclusively on a **carbon only revenue model**, the project will sim
 
 **Total Impact (Reference Case):** At target yields, the on-farm stack is projected to generate approximately **2,410 tonnes of CO₂ per year** for a mature 100-hectare hub (1,760 t from biochar, 250 t from ERW, 400 t from soil carbon). Additional credits from processing regional waste-stream feedstock through spare kiln capacity are modelled separately in Section 6.1. Importantly, these figures are targets, not validated results; they would need to be tested at the flagship hub before being relied upon.
 
+**Operational emissions are deducted from the credit claim.** A hub that burns diesel in tractors, trucks, or skid-steers must subtract those combustion emissions from its gross removal before issuance. The electrified fleet (Section 5.2E) is designed to eliminate this deduction, protecting the full value of the carbon removal.
+
 ---
 
 #
@@ -732,7 +734,7 @@ To bridge the "gigatonne chasm," the project will utilize a biological growth mo
 
 The replication timeline is honest about its limits. A hub that seeds one new site every several years produces exponential growth only in the long arithmetic of decades — reaching global significance through internal replication alone would take many decades, if not centuries. That is why the model's scaling strategy rests on demand-driven adoption: communities that observe a working hub and decide to commission their own, multiplying the network orders of magnitude faster than any single hub's replication fund could. The project is a mission with a goal and an endpoint, not a long-term wealth-diversion vehicle. Its success condition is eventual obsolescence — hubs transferred to workers, knowledge released into the commons, and the organization dissolving once its work is done. A deadline centuries in the future most likely, but designed from the beginning as a transient entity.
 
-The pilot site is critical for that — it needs to show that installing our forests is the cheaper, healthier, and tastier option. Then it needs local adoption, not from our expansion, but because people want us to start hubs in their area. Ideally, Modern Druid Central becomes a service provider that produces new hubs and can charge enough to pay for expansion into underserved regions, usually the poorer ones.
+The pilot site is critical for that — it needs to show that installing our hubs is the cheaper, healthier, and tastier option. Then it needs wider adoption, not from our expansion, but because people want us to start hubs in their area and would be willing to pay for them. Ideally, Modern Druid Central becomes a service provider that produces new hubs and can charge enough to pay for expansion into underserved regions, usually the poorer ones.
 
 As far as aspirational goals: if we can secure a profitable global price on carbon, we could eventually replace a sizable portion of conventional agriculture by undermining its core pillar of profitability. Take sales out of their business model. Hard to compete with free. Make agriculture a carbon sink, not a source, reversing one of our largest global emission sources. The crazy thing is that that's just a bonus, it's just a beneficial side effect of making carbon removal projects self-supporting. Food security amid a collapsing ecosystem. A path forward, a path out, a path to both reversing carbon emissions and to surviving long enough to succeed. But first, it has to be proven, and for that to happen, it needs to be built.
 
@@ -748,6 +750,7 @@ The system's technical components are designed to operate in a continuous positi
 2. **Biochar** will be inoculated with cultured local microbes (Natural Farming) and mixed with **crushed rock dust (ERW)**.
 3. This **Biochar-Basalt blend** will be applied back to the land, increasing water retention, microbial habitat and populations, and soil fertility.
 4. Enhanced fertility will lead to **faster biomass growth** and **increased carbon exudation** into the soil, further accelerating the drawdown rate year after year.
+5. **The electrified fleet** moves biomass, biochar, basalt, and water around the site without adding combustion emissions, keeping the flywheel fossil-free.
 
 These synergistic effects are a hypothesis motivating the system design, not a quantified or measured result. No study has tested this specific combination, and the pre-deployment validation phase (Section 5.5) and ongoing MRV monitoring (Section 5.6) are the mechanisms by which any real synergistic effect — positive or negative — will be identified and quantified.
 

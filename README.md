@@ -394,9 +394,11 @@ All governance structures across the network will adhere to the following non-ne
 
 ### 1. Carbon Revenue as the Primary Economic Engine
 
-All hubs will operate on a **carbon-only revenue model**. No reliance on food sales will be required for viability.
+All hubs will operate on a **carbon-only revenue model**. No reliance on food sales will be required for viability. Subsidies and industry cooperation may be possible, either as funding or waste streams, and should absolutely be pursued if deployed, but the model is designed to survive with or without that.
 
-The various carbon streams are soil organic carbon, enhanced rock weathering, biochar carbon removal credits. Secondary sales would be industrial waste feedstock biochar and excess on-site grown biochar if the land becomes saturated.
+The various carbon streams are soil organic carbon, enhanced rock weathering, biochar carbon removal credits. Secondary biochar sales, which would be from industrial waste feedstocks or excess on-site grown biochar if the land becomes saturated. Until biochar saturation is hit, we can keep adding it to the land. Eventually there will be a limit of how much more can be applied per year before we see negative impacts.
+
+All hub equipment shall be battery-electric or otherwise fossil-fuel-free wherever commercially and technically feasible, to prevent on-site combustion emissions from reducing net carbon removal and to make deployments independant of the grid. The electrified fleet is part of the design, not intended as a later upgrade.
 
 This ensures:
 
@@ -415,7 +417,7 @@ Each hub will allocate revenue according to a **constitutionally defined distrib
 * Local replication is continuously funded — 10%
 * Global coordination remains viable — 10%
 
-**Post-Establishment Cost Structure:** Once the site infrastructure (CharHouse, irrigation, earthworks) is established, the bulk of non-labour expenses shifts from capital-intensive construction to operational inputs. The primary ongoing costs will be **new seeds, nursery supplies, and equipment maintenance**. Because these recurring costs are relatively low compared to initial CapEx, any revenue remaining without covering wages (50% of revenue goes to wages, so it doesn't come out of this budget) and essential inputs becomes surplus available for distribution or reinvestment depending on the hub type.
+**Post-Establishment Cost Structure:** Once the site infrastructure (CharHouse, irrigation, earthworks) is established, the bulk of non-labour expenses shifts from capital-intensive construction to operational inputs. The primary ongoing costs will be **new seeds, nursery supplies, equipment maintenance, and electricity for the electrified fleet**. Because these recurring costs are relatively low compared to initial CapEx, any revenue remaining without covering wages (50% of revenue goes to wages, so it doesn't come out of this budget) and essential inputs becomes surplus available for distribution or reinvestment depending on the hub type.
 
 #
 
@@ -631,6 +633,8 @@ This governance structure will transform the project from a centralized organiza
 ## 3.7 Total Transparency & Open-Source Obligation
 
 Everything the Modern Druid Project produces is public property. Engineering designs, kiln plans, irrigation layouts, financial models, MRV data, grant applications, regulatory filings, training materials, standard operating procedures, legal templates, and lessons learned — all published openly and free of charge under open licences. The goal is that a motivated person anywhere in the world can learn the system from public materials alone — documents, video, data — and implement it themselves, with or without Modern Druid Central's involvement. Whether a community hires us to build their hub or builds it themselves is immaterial to the mission. The project succeeds when the knowledge spreads faster than the organisation does.
+
+**Fleet designs are part of the open-source package.** Trailer specifications, charging station layouts, implement power requirements, and the electrified fleet architecture are published alongside the agroforestry and pyrolysis designs. A community that wants to build an electrified Modern Druid hub should be able to do so from public materials alone.
 
 #
 

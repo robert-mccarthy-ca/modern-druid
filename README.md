@@ -344,7 +344,7 @@ The Modern Druid Project aims to build a global network of regenerative carbon f
 * Create dignified careers in ecological restoration.
 * Replicate rapidly enough to reach gigatonne-scale climate impact.
 
-The system is engineered to generate more value for communities than the cost of the carbon credits used to fund it. Success will be measured not by lowering the price of carbon removal, but by maximizing the total social, ecological, and economic value created per dollar spent on carbon credits. Ideally we could argue for a higher carbon price once we start saving communities a lot more. Encourage more people into doing it as a career.
+The system is engineered to generate more value for communities than the cost of the carbon credits used to fund it. Success will be measured not by lowering the price of carbon removal, but by maximizing the total social, ecological, and economic value created per dollar spent on carbon credits. Ideally we could argue for a higher carbon price once we start saving communities a lot more. Encourage and enable more people to do it as a career.
 
 #
 
@@ -359,8 +359,9 @@ The model's disruptive potential will emerge when three financial targets are me
 When these three targets align, the model would become politically and economically difficult to oppose:
 
 * **It Justifies Land Use:** "Why use good farmland for carbon?" Because it aims to produce equal or more food while removing 20+ tonnes of CO₂/ha/yr.
-* **It Bypasses Political Gridlock:** Policy mandates become unnecessary. The model sells credits to polluting companies first, then a cost-saving service to governments from local to national once the first hub has proven it (Section 1.4, *Who Pays*): *"Pay us to remove carbon, and we'll also work on your food security problem, saving your community's budget."*
+* **It Bypasses Political Gridlock:** Policy mandates become unnecessary. The model sells credits to polluting companies first, then as a cost-saving service to governments from local to national once the first hub has proven it.
 * **It Creates Its Own Demand:** A project that saves money while solving multiple crises could build a coalition of the willing from local families to corporate CFOs to climate ministers. Opposition becomes harder to sustain.
+* **It Protects Its Own Credibility:** A fossil-free equipment fleet means the carbon credits are not undermined by on-site diesel combustion or supply.
 
 #
 

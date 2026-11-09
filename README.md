@@ -49,8 +49,6 @@ The Modern Druid Project proposes that these problems be addressed together rath
 
 ---
 
-#
-
 ## 1.1 The Carbon Crisis: A Climate System with Inertia
 
 The climate system does not respond instantaneously to changes in atmospheric greenhouse-gas concentrations. The carbon we have already emitted will shape the climate for centuries, and the Earth is committed to a period of continued warming regardless of how quickly we act from this point forward. This inertia is not a reason for despair — it is the defining constraint within which any serious climate response must operate.
@@ -91,8 +89,6 @@ This is one reason the Modern Druid Project treats atmospheric carbon removal as
 
 ---
 
-#
-
 ## 1.2 Food System Resilience: Building for the Climate Between Now and Then
 
 Even if humanity begins aggressively reducing greenhouse-gas emissions, atmospheric carbon concentrations and the thermal state of the oceans will not immediately return to pre-industrial conditions. Restoring the climate to a safe state is a task of many decades if not centuries. The fight just to get ppm going back down at all could still take decades to see.
@@ -132,20 +128,17 @@ Potential resilience advantages include:
 * greater crop and genetic diversity
 * perennial production that does not depend entirely on annual establishment
 * distributed production rather than dependence on a single crop
+* fossil-free equipment fleet means renewable deployments insulate operations from diesel supply-chain disruptions while also making off-grid deployments possible
 
-These characteristics do not make an agricultural system immune to climate change, just far more resilient. They are intended to **reduce the probability that a single climatic disturbance produces systemic failure.**
+These characteristics do not make an agricultural system immune to climate change, just far more resilient. They are intended to **reduce the probability that a single climatic disturbance produces systemic failure.** As our climate destabilizes, not all sites will survive, but we can stack the odds in our favour.
 
 The goal is therefore not simply to restore a stable climate sometime in the future.
 
 **The goal is to build food systems capable of feeding everyone locally for free as a side effect of restoring the climate.** This project relies on carbon sales in the form of carbon removal credits and biochar sales. Carbon pays the bills, not the people. Through carbon credits, polluters pay the price for restoring the health of communities and the planet. Healthy food should not be a privilege. Food shouldn't be sprayed with poisons. Food should be free. And through carbon markets we can do that, we can switch income streams and give the food away for free. We can snap that chain, the chain around society's neck that makes not starving a financial transaction that not all can pay.
 
-**Free organic food, but pick it yourself. We're busy with the carbon.**
-
-How do you bring down industrial chemical agriculture? By growing without chemicals and not charging money for food. By forcing them to compete with free and organic or go out of business.
+How do you bring down industrial agriculture? By forcing them to compete with free and organic.
 
 ---
-
-#
 
 ## 1.3 The Inequality Crisis: Concentrated Wealth, Distributed Suffering
 
@@ -170,8 +163,6 @@ The project is therefore designed around a different end state:
 
 ---
 
-#
-
 ## 1.4 The Scale Crisis: Adoption as the Engine
 
 The final problem is scale — but not in the way it is usually framed.
@@ -184,7 +175,7 @@ Scaling is constrained by:
 * land access
 * labour availability
 * infrastructure
-* monitoring, reporting and verification
+* monitoring, reporting, and verification
 * carbon-credit prices
 * regulatory approval
 * ecological establishment time
@@ -195,9 +186,9 @@ These constraints are real. But they share a common root: **adoption.** No techn
 
 The Modern Druid Project is therefore designed around a single scaling insight:
 
-> **If a hub saves a community more money in free food than the carbon credits cost to fund it, the community will want one. And if each hub can help build the next, the network will grow without waiting for permission.**
+> **If a hub saves a community more money in free food than the carbon credits cost to fund it, other communities will want one. Mature hubs that have been fully built out will have a dedicated budget for expanding new farms, and each hub that replicates itself opens up the possibility of exponential growth. Combined with the market demand for a cost-saving infrastructure project, that would let us grow the solution without waiting for permission.**
 
-This is the mechanism that could cross the gigatonne chasm — not a breakthrough in pyrolysis chemistry, but a cost-saving service that communities choose to adopt because it makes their lives materially better.
+This is the mechanism that could cross the gigatonne chasm — not a breakthrough in pyrolysis chemistry, but a cost-saving service that communities choose to adopt because it makes their lives materially better and saves them money. Scaling to ppm-per-year levels of impact would require an international carbon price guaranteed by something like the United Nations — but a successful deployment would help make the case for one.
 
 ---
 
@@ -250,7 +241,7 @@ Modern Druid sells to different buyers at different stages, and the argument cha
 
 **Stage 1: Polluting companies (now).** The first hub is sold to the emitters whose emissions the credits answer for, through bilateral offtake agreements and carbon removal marketplaces (Section 10.0, Pathways 2 and 4). They are the only buyers today with budgets, procurement processes, and an existing obligation or target to pay for removal. They buy on credit price, durability, and MRV integrity, and the model has to win on those first. Removal does not replace their own reductions (Section 1.1); it covers the legacy carbon that reductions cannot reach.
 
-*Why buy ours in particular:* a Modern Druid credit carries verified co-benefits that a standard removal credit does not. The model targets 11 of the 17 UN Sustainable Development Goals from launch (Section 7.1) and the remaining 6 through R&D and scaling (Section 7.2). A buyer retiring one credit funds permanent removal together with free local food (SDG 2), living-wage jobs with an ownership pathway (SDG 8), cleaner water (SDG 6), restored biodiversity (SDG 15), and reduced inequality (SDG 10), all publicly measured and reported. For a company that must show its sustainability reporting is more than a carbon number, and that wants social licence in the communities where it operates, that is a reason to pay a premium for this credit over another (Section 7.3).
+*Why buy ours in particular:* a Modern Druid credit carries verified co-benefits that a standard removal credit does not. The model targets 11 of the 17 UN Sustainable Development Goals from launch (Section 7.1) and the remaining 6 through R&D and scaling (Section 7.2). A buyer retiring one credit funds permanent removal together with free local food (SDG 2), living-wage jobs with an ownership pathway (SDG 8), cleaner water (SDG 6), restored biodiversity (SDG 15), and reduced inequality (SDG 10), all publicly measured and reported. For a company that must report on its sustainability efforts or that wants social licence in the communities where it operates, that is worth more than just a ton of carbon dioxide. That is a reason to pay a premium for this credit over another (Section 7.3).
 
 **Stage 2: Community governments (once proven).** When a hub has met Target 3 (Section 5.4), with free-food value exceeding credit cost, the pitch changes from offsetting to cost saving. Local governments come first, then regional and provincial governments, then national governments. These buyers are not discharging a liability; they are purchasing a service that is cheaper than the status quo (Section 4.2, *The Pricing Argument*).
 
@@ -296,7 +287,7 @@ The Modern Druid Project proposes an integrated model built around four objectiv
 
 3. **Distribute ownership and economic value to the people doing the work.** Use structural rules governing wages, compensation, reinvestment, and eventual land ownership to prevent the system from becoming extractive. This is the social architecture that ensures long-term legitimacy and prevents the project from recreating the inequalities it exists to address. The bulk of the revenue stays in the community that generated it. If we can get the same carbon price in the global south, those could be game-changing wages for the stewards.
 
-4. **Design every successful hub to enable replication.** Create a pathway in which ecological productivity generates both the climate benefit and some of the resources required for expansion. This is the growth mechanism that turns a single proof-of-concept into a network.
+4. **Design every successful hub to enable replication.** Create a pathway in which ecological productivity generates both the climate benefit and some of the resources required for expansion. This is the growth mechanism that turns a single proof-of-concept into a network. Electrified equipment when combined with renewables allows hubs to be deployed with or without electrical grids or diesel supply lines.
 
 Each objective reinforces the others. Carbon revenue funds food production. Free food drives community adoption. Fair ownership structures build durable local support. And replication funding ensures that success in one place becomes capacity in the next.
 

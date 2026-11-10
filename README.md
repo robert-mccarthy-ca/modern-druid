@@ -785,9 +785,8 @@ The flagship hub will be sited in **Northern Ontario**, a choice driven by strat
 
 1. **Founder Presence & Operational Control:** Direct, on-the-ground oversight by the project's founder during the critical first years will minimize risk, accelerate iterative learning, and ensure tight integration between design and execution. Starting where the lead architect is based is the simplest path to a functional first hub.
 2. **A Balanced Climate Test:** Northern Ontario represents a mid-latitude temperate zone with cold winters and a moderate growing season. It provides a credible baseline for later adaptation to more productive (tropical) or more extreme (arid, boreal) environments.
-3. **Economic Realism in a Developed Economy:** Canada's high cost of living mandates that the model support dignified, developed-world wages from day one. Proving profitability under these cost pressures would demonstrate the engine's fundamental strength and make its economics even more compelling in lower-cost regions.
-4. **Access to Early-Stage Funding:** Initial development will target Canadian government grants, climate funds, and impact investment programs (e.g., Sustainable Development Technology Canada, the Low Carbon Economy Fund).
-5. **Strategic Land Availability:** Target regions in Northern Ontario offer lower-cost, marginal, or underutilised agricultural land. Demonstrating regeneration on such land addresses the "food vs. carbon" concern directly, proving the system can enhance productivity without displacing high-value staple crops.
+3. **Economic Realism in a Developed Economy:** Canada's high cost of living mandates that the model support dignified, developed-world wages from day one. Proving profitability under these cost pressures would demonstrate the engine's fundamental strength and make its economics even more compelling in lower-cost regions. It also stress-tests the electrified fleet in cold-weather conditions — the hardest environment for battery-electric equipment — so that success de-risks replication in milder climates.
+4. **Strategic Land Availability:** Target regions in Northern Ontario offer lower-cost, marginal, or underutilised agricultural land. Demonstrating regeneration on such land addresses the "food vs. carbon" concern directly, proving the system can enhance productivity without displacing high-value staple crops.
 
 This site will be the initial calibration point for a globally deployable, climate-agnostic network.
 
@@ -811,7 +810,7 @@ The Modern Druid model is not a fixed prescription but a set of integrated funct
 | **4. Soil Biology & Fertility** | Create a self-sustaining soil food web. | **Korean Natural Farming (KNF)/Jadam:** Weekly applications of IMO, JMS, FPJ, JLF via irrigation. Biochar pre-charged in JMS/JLF. **Biochar + basalt mix** applied annually. | Johnson-Su compost, vermicompost, local fungal inoculants. |
 | **5. Implementation** | Low-cost, diverse, resilient establishment using seedballs and precision placement. | **Primary Method: Hand-sowing with AR Guidance.**<br>- **Seedball Composition:** Biochar, clay, compost, mycorrhizae, KNF inputs, diverse seed mix (heavily overplanted).<br>- **Placement:** Workers use AR glasses displaying the grid layout for precise seedball placement.<br>- **Philosophy:** Let nature select – overplant, then thin and promote the best performers. | Drone sowing for large/remote alleys; mechanical transplanters for high-value tree whips; fully manual broadcast (low-tech). |
 
-> *Biomass yield is targeted at 16–18 odt/ha/yr, the upper end of the best-performing clones in the closest available regional trial (Labrecque & Teodorescu, 2005, "Field performance and biomass production of 12 willow and poplar clones in short-rotation coppice in southern Quebec (Canada)," Biomass & Bioenergy 29:1–9). This target is justified by irrigation, biochar, and ERW-supplied nutrients directly addressing the water and nutrient limitations present in that unfertilized, unirrigated baseline trial. This remains a target, not a validated result: it has not been tested in combination, and Northern Ontario's shorter growing season (relative to southern Quebec) is a factor the input stack does not address. The pre-deployment agroforestry validation (Section 5.5, item 1) should include clone selection specifically suited to local conditions, from which seeds would be bred, and the base-case financial model should retain a lower sensitivity case (10–12 odt/ha/yr, the typical commercial SRC range per broader Eastern Canada and UK/IEA Bioenergy literature) alongside this target.*
+> *Biomass yield is targeted at 16–18 odt/ha/yr, the upper end of the best-performing clones in the closest available regional trial (Labrecque & Teodorescu, 2005, "Field performance and biomass production of 12 willow and poplar clones in short-rotation coppice in southern Quebec (Canada)," Biomass & Bioenergy 29:1–9). This target is justified by irrigation, biochar, and ERW-supplied nutrients directly addressing the water and nutrient limitations present in that unfertilized, unirrigated baseline trial. This remains a target, not a validated result: it has not been tested in combination, and Northern Ontario's shorter growing season (relative to southern Quebec) is a factor the input stack does not address.*
 
 #
 
@@ -821,10 +820,12 @@ The objective is to transform sustainably grown biomass into stable biochar, gen
 
 | Subtask | Goal | Primary Approach (Temperate Launch) | Alternative/Potential Solutions |
 | :--- | :--- | :--- | :--- |
-| **1. Harvest & Process Biomass** | Efficiently produce uniform, dry feedstock for pyrolysis. | **Shear + In-Field Baling.**<br>- **Cut:** Skid-steer with forestry shear.<br>- **Bale:** Energy wood baler (dense, 0.5–0.8 odt bales).<br>- **Handle:** Telehandler moves bales to covered storage for air-drying. | Forage harvester + baling (high-speed, high-capital); manual harvest + bundling (ultra-low-capital, high-labour). |
+| **1. Harvest & Process Biomass** | Produce **large, firewood-sized feedstock** (20–50 cm long, 5–15 cm diameter) that stacks with airflow in the kiln. | **Manual cut-and-carry.**<br>- **Cut:** Battery chainsaws and pole saws.<br>- **Transport:** EV UTV + flatbed/dump trailer.<br>- **Process at CharHouse:** Sawbuck + battery chainsaw for bucking; 10–16 ton electric log splitter for oversized pieces.<br>- **Dry:** Forced-air drying floor/racks in CharHouse, using kiln waste heat. | Electric firewood processor (e.g., Bilke S3 Electric, 15 kW, 3-phase) added in Year 2–3 if manual labor becomes a bottleneck. No chipping — chips smother kiln airflow. |
 | **2. Pyrolyse to Biochar** | Safely convert biomass to high-quality biochar **in compliance with all regulations**. | **Insulated, batch flame-cap kilns** housed in a **well-ventilated, open-sided pole barn (CharHouse).**<br>- **Regulatory Strategy:** Position as agricultural waste management; use continuous emissions monitoring (CO, PM) to demonstrate low impact; maintain safe setbacks. | Top-Lit UpDraft (TLUD) units for lower emissions; retort kilns for cleaner, more efficient conversion; mobile/containerised units to bypass certain "fixed facility" rules. |
 | **3. Charge & Integrate Biochar** | Maximise biochar's agronomic and carbon-sequestration benefits. | Pre-charge raw biochar in JMS/JLF for 7–14 days before field application. Apply as part of an **integrated biochar/basalt mix**. | Direct inoculation with mycorrhizal fungi; blending with compost tea at the spreader. |
-| **4. Scale & Safety** | Achieve production targets safely, repeatably, and legally. | **Compliance-led design:** Open-air CharHouse for natural dispersion; fire department-approved layout with on-site water; documented batch logs for regulators and MRV. | Fully automated, enclosed pyrolysis with integrated emissions control for the strictest jurisdictions. |
+| **4. Scale & Safety** | Achieve production targets safely, repeatably, and legally. | **Compliance-led design:** Open-air CharHouse for natural dispersion; build a fire department-approved layout with on-site water; documented batch logs for regulators and MRV. | Fully automated, enclosed pyrolysis with integrated emissions control for the strictest jurisdictions. |
+
+**Feedstock size rationale:** Firewood-sized pieces stack with voids between them, allowing air to move through the fuel bed and the pyrolysis front to propagate evenly. Chips pack tightly, restrict airflow, and can smother the burn or create uneven conversion. The manual workflow is slower than a chipper but produces better feedstock and requires no 3-phase power. If volume justifies mechanisation, an electric firewood processor (not a chipper) is the upgrade path.
 
 #
 
@@ -846,7 +847,29 @@ The objective is to improve survival and productivity through drought, frost, fi
 | **2. Multipurpose Overhead Irrigation Grid** | Deliver water, foliar nutrients/microbes, frost protection, and fire suppression via a single system. | **Full overhead grid** (impact sprinklers on risers):<br>- Zoned for trees, alleys, and corridors.<br>- **Frost-proof** (buried below frost line, with drains).<br>- Integrated dosing pumps for JMS/JLF/IMO foliar feeds.<br>- **Modes:** Drought supplement, foliar feeding, frost protection, fire deluge, **snowpack generation.** | Mobile irrigation reels (lower capital, more labour); non-frost-proof overhead (for warm climates). |
 | **3. Frost & Winterkill Defence** | Protect perennial crops from spring frosts and winter thaws that destroy insulating snowpack. | **Frost Mode:** Run irrigation before radiative frost events to form a protective ice layer.<br>**Snowpack Mode:** During winter droughts or thaw events, use irrigation to generate and maintain an artificial snowpack over perennial crops. | Wind machines for frost; row covers/low tunnels for high-value crops; selecting ultra-hardy cultivars. |
 | **4. Wildfire Defence** | Protect carbon stocks and infrastructure from fire. | **Fire Suppression Mode:** One-button activation turns the entire grid to full capacity, saturating the site and raising local humidity, acting as a giant, wet firebreak. | Perimeter grazing for fuel reduction; defensible space clearing; on-site firefighting water tanks. |
-| **5. Energy Autonomy** | Maintain critical operations during grid outages. | **Renewables + batteries**, sized to run irrigation pumps, dosing system, kiln ventilation, and basic facility power for 3–5 days without sun. | Syngas generator from advanced pyrolysis; wind turbine complement; tool and EV charging. |
+| **5. Energy Autonomy** | Maintain critical operations during grid outages. | **Renewables + batteries**, sized to run irrigation pumps, dosing system, kiln ventilation, and basic facility power for 3–5 days without sun. **EV fleet charging is included in the critical load calculation.** | Syngas generator from advanced pyrolysis; wind turbine complement; tool and EV charging. |
+
+#
+
+### E. Task: Operate a Fossil-Free Equipment Fleet
+
+**Objective:** Replace diesel tractors, skid-steers, balers, and trucks with battery-electric prime movers and self-powered implements, eliminating on-site combustion emissions and protecting the carbon credit claim.
+
+**Design principle:** The fleet is built around a "tool-carrier" architecture. A small number of electric prime movers provide traction and transport. Each trailer carries its own task-specific components — a mower deck, a spreader spinner, a sprayer pump — and, where the power demand is high, its own battery and motor. The prime mover tows; the trailer works. This keeps the prime movers simple and preserves their range for transport.
+
+| Subtask | Goal | Primary Approach (Temperate Launch) | Alternative/Potential Solutions |
+| :--- | :--- | :--- | :--- |
+| **1. In-Field Prime Mover** | Tow trailers, transport materials, provide mobile power. | **Electric UTV** (e.g., Can-Am Traxter EV or Hisun Stryker EV).<br>- Towing capacity: ~1,000–1,150 kg.<br>- 4WD, low-range, 12+ inches ground clearance.<br>- LiFePO4 battery for cold-weather performance. | Used electric SUV or truck if higher towing capacity is needed for heavy trailers; keep the UTV for light in-field work. |
+| **2. Road Transport** | Haul waste-stream feedstock from regional sources (50–150 km). | **Electric truck** (e.g., Ford F-150 Lightning Pro or Rivian R1T).<br>- V2L capability for backup power.<br>- 300 km round-trip range is sufficient for regional feedstock. | Used electric SUV with 2,200+ kg braked towing capacity (e.g., Kia EV9) if a full truck is not justified. |
+| **3. Material Handling & Kiln Loading** | Load firewood-sized feedstock, biochar, and basalt into kilns; move materials; clear snow. | **EcoTrack EL 1430 electric loader** (~$13,400).<br>- 650 kg lift, 0.25 m³ bucket.<br>- Articulated wheel loader; quick-attach.<br>- **Kiln floor or loading platform designed to match the loader's lift height** (~10–11 ft). | Firstgreen Elise 900 (~$55,000) if the EcoTrack proves too light or unreliable; verify parts and dealer support before committing to either. |
+| **4. Mowing** | Maintain alleys, control vegetation, reduce fire fuel. | **Self-powered electric flail mower trailer** (e.g., Kellfri VKMATV105E).<br>- 5 kW motor, 5.4 kWh battery.<br>- 2–3 hours runtime.<br>- Towed by UTV; operated via vehicle-mounted control. | Petrol-powered tow-behind mower as a transitional fallback; do not attempt to power a 5 kW mower from the UTV's 12V accessory circuit (45 W limit) or main traction battery (range penalty is severe). |
+| **5. Spreading (Biochar/Basalt)** | Apply biochar and basalt evenly across alleys and rows. | **Spreader trailer** with its own electric spinner motor (12–48V DC). Towed by UTV. | PTO-driven spreader if a tractor is retained for other reasons; not recommended for a fossil-free fleet. |
+| **6. Spraying (Foliar Feed)** | Apply JMS/JLF/IMO foliar feeds via the irrigation grid or directly. | **Sprayer trailer** with its own 12V electric pump. Towed by UTV. | Integrate dosing into the overhead irrigation grid (Section 5.2D) to reduce the need for a separate sprayer. |
+| **7. Fire Suppression** | Provide initial response water supply. | **Water trailer** with its own 12V electric pump. Towed by UTV. | Rely on the overhead irrigation grid's fire-suppression mode (Section 5.2D.4) as the primary response; water trailer as backup. |
+| **8. Handheld Tools** | Cut coppice/pollard stems, prune, clear brush. | **Battery chainsaws, pole saws, and brush cutters.**<br>- No gas cans, no two-stroke mixing.<br>- Charged from the UTV's 12V system or the CharHouse. | Petrol tools as transitional fallback; not recommended. |
+| **9. Feedstock Processing** | Convert cut poles into firewood-sized kiln feedstock. | Sawbuck + battery chainsaw for bucking; 10–16 ton electric log splitter for oversized pieces.<br>- Throughput: 3–5 odt/day with a two-person crew.<br>- Labor: ~150 person-days/year at 600 t/yr. | **Electric firewood processor** (e.g., Bilke S3 Electric, 15 kW, 3-phase, 10–30 m³/h) in Year 2–3 if labor becomes a bottleneck. Requires 3-phase power at the CharHouse. |
+| **10. Drying** | Dry firewood-sized feedstock to <20% moisture before pyrolysis. | **Forced-air drying floor or racks** in the CharHouse, using waste heat recovered from the kilns. | Air-drying only (slower, weather-dependent); solar-thermal drying (R&D). |
+| **11. Charging** | Keep the fleet charged without diesel generators. | **Dedicated Level 2 charging stations** for UTV, truck, and loader.<br>- Grid-powered for now.<br>- Solar/battery expansion deferred to a polishing pass after irrigation is complete. | Solar-powered charging (Section 5.2D.5) once the renewables expansion is done. |
 
 ---
 
@@ -879,23 +902,23 @@ The **minimum funding requirement of at least $4.2M CAD** (detailed in Section 1
 
 **Goal:** Establish the microbial base, water infrastructure, build the CharHouse, conduct MRV baselining, and begin biochar production from imported forestry/agricultural waste while the pioneer ecology establishes.
 
-**Staffing:** 3 Core FTEs (Hub Manager, Infrastructure Lead, Nursery & Soil Life Manager), plus specialised contractors. *Note: The core team's time in Year 0–1 is split between direct on-farm labour, planning, procurement, and MDC coordination; the person-day estimate below reflects only direct field operations.*
+**Staffing:** 3 Core FTEs (Hub Manager, Infrastructure Lead, Nursery & Soil Life Manager), plus specialised contractors.
 
 **Estimated On-Farm Labour:** ~222–237 person-days (≈1.2–1.3 FTE-years).
 
 | Task | Method & Rationale | Labour Estimate |
 | :--- | :--- | :--- |
 | **P1.1 – Microbial Start** | Collect IMO from Crown Land; culture on grains; brew JMS. | 10 person-days |
-| **P1.2 – Earthworks & Infrastructure** | Excavate swales/ponds; grade roads/parking. | Contractor: 15–20 days + Support: 5 days |
+| **P1.2 – Earthworks & Infrastructure** | Excavate swales/ponds; grade roads/parking. Contractor only — earthworks are not an EV fleet task. | Contractor: 15–20 days + Support: 5 days |
 | **P1.3 – Initial MRV Baseline** | Post-earthworks, pre-planting: 3 m soil cores, drone survey, full documentation. | 10 person-days |
-| **P1.4 – Central Work Building** | Build a large insulated pole building (3,000 sq ft) for storage, processing, and inputs. | Contractor: 30 days + Support: 20 days |
-| **P1.5 – CharHouse Construction** | Build the open-sided pyrolysis barn per engineered fire-safe design. | Contractor: 20 days + Support: 15 days |
+| **P1.4 – Central Work Building** | Build a large insulated pole building (3,000 sq ft) for storage, processing, and inputs. Includes heated EV parking and charging stations. | Contractor: 30 days + Support: 20 days |
+| **P1.5 – CharHouse Construction** | Build the open-sided pyrolysis barn per engineered fire-safe design. Includes drying floor/racks and kiln waste-heat recovery ducting. | Contractor: 20 days + Support: 15 days |
 | **P1.6 – Seedball Production** | Make seedballs (clay, compost, biochar, IMO, seeds) for sunflowers and perennials. | 30 person-days |
-| **P1.7 – Kiln Fabrication** | Build 8 insulated flame-cap kilns with tilting/quench systems. | Fabricator: 25 days + Helper: 25 days |
-| **P1.8 – Flail Mow & Seedball Spread** | Mow site, immediately broadcast seedballs into fresh mulch. | 10 person-days |
-| **P1.9 – Inoculation, Rock Dust & Irrigation** | Tow sprayer & spreader: apply IMO/JMS drench + basalt rock dust (1–2 t/ha). | 7 person-days |
-| **P1.10 – Waste-Stream Biochar Start** | Source forestry/ag waste; begin kiln runs once CharHouse is ready. | 20 person-days (ongoing) |
-| **P1.11 – Sunflower Harvest & Bundling** | Cut stalks intact; bundle with twine for Year 2 feedstock. | 15 person-days |
+| **P1.7 – Kiln Fabrication** | Build 8 insulated flame-cap kilns with tilting/quench systems. Kiln height or loading platform designed to match the EcoTrack loader's lift height. | Fabricator: 25 days + Helper: 25 days |
+| **P1.8 – Flail Mow & Seedball Spread** | Mow site with EV UTV + electric flail mower trailer; immediately broadcast seedballs into fresh mulch. | 10 person-days |
+| **P1.9 – Inoculation, Rock Dust & Irrigation** | EV UTV + sprayer trailer for IMO/JMS drench; EV UTV + spreader trailer for basalt rock dust (1–2 t/ha). | 7 person-days |
+| **P1.10 – Waste-Stream Biochar Start** | Source forestry/ag waste; begin kiln runs once CharHouse is ready. EcoTrack loader loads feedstock into kilns. | 20 person-days (ongoing) |
+| **P1.11 – Sunflower Harvest & Processing** | Cut stalks with battery chainsaws; haul to CharHouse with EV UTV + trailer; buck to firewood length with sawbuck + electric splitter; dry on forced-air racks. | 15 person-days |
 | **P1.12 – Project Management, PR & Admin** | Coordination, budget, partnerships, public outreach. | ~50 person-days (ongoing) |
 
 #
@@ -912,16 +935,16 @@ The **minimum funding requirement of at least $4.2M CAD** (detailed in Section 1
 | :--- | :--- | :--- |
 | **P2.1 – Grid & Buffer Strip Marking** | Mark 16 m N-S rows & 10 m/20 m biodiversity buffers every ~250 m. | 5 person-days |
 | **P2.2 – Permanent Irrigation Install** | Install the frost-proof overhead grid. **Must be done before planting** to avoid root damage. | Contractor: 15 days + Support: 10 days |
-| **P2.3 – Sunflower Termination & Replant** | Flail mow rows each spring; replant sunflowers in fallow areas via seedball wherever we haven't completed P2.4. | 5 person-days/year |
+| **P2.3 – Sunflower Termination & Replant** | Flail mow rows each spring with **EV UTV + flail mower trailer**; replant sunflowers in fallow areas via seedball wherever we haven't completed P2.4. | 5 person-days/year |
 | **P2.4 – Tree Row Planting** | Plant pollard whips or seeds (poplar, willow, paulownia) + seedball understory (thyme, mint, etc.). | 20 person-days |
 | **P2.5 – Coppice Alley Planting** | Plant cuttings/seedballs of willow/locust + shade-tolerant edible understory. | 15 person-days |
 | **P2.6 – Herbaceous Strip Planting** | Sow seedballs of fast-growing, deep taproot mulch species (comfrey, chicory). | 5 person-days |
-| **P2.7 – Biodiversity Buffer Planting** | Broadcast diverse seedballs (non-food) into buffer strips. Everything non-edible that will grow there. | 5 person-days |
-| **P2.8 – Inoculation, Biochar/Basalt & Mulch** | Apply IMO/JMS drench; spread biochar+basalt; mulch with wood chips. | 10 person-days (annual) |
+| **P2.7 – Biodiversity Buffer Planting** | Broadcast diverse seedballs (non-food) into buffer strips. | 5 person-days |
+| **P2.8 – Inoculation, Biochar/Basalt & Mulch** | Apply IMO/JMS drench with **sprayer trailer**; spread biochar+basalt with **spreader trailer**; mulch with wood chips. | 10 person-days (annual) |
 | **P2.9 – Annual MRV Sampling** | Soil cores to 3 m, biomass sampling, drone survey, public documentation. | 10 person-days (annual) |
-| **P2.10 – Winter Coppice/Pollard Harvest** | Shear + bale biomass after leaf drop/ground freeze; store to air-dry. | 20 person-days |
-| **P2.11 – Biochar Production Scaling** | Increase kiln runs using dried waste streams and on-site biomass. | Part of ongoing ops |
-| **P2.12 – Ongoing Maintenance** | Irrigation management, foliar feeds, monitoring, seedball production. | ~1 FTE continuous |
+| **P2.10 – Winter Coppice/Pollard Harvest** | **Battery chainsaw cut** after leaf drop/ground freeze; **EV UTV + trailer** haul to CharHouse; **buck to firewood length** with sawbuck + electric splitter; **forced-air dry** on racks. No baling, no chipper. | 20 person-days (annual, plus ~150 person-days/year manual processing at maturity) |
+| **P2.11 – Biochar Production Scaling** | Increase kiln runs using dried waste streams and on-site biomass. **EcoTrack loader handles feedstock.** | Part of ongoing ops |
+| **P2.12 – Ongoing Maintenance** | Irrigation management, foliar feeds, monitoring, seedball production, **EV fleet charging and maintenance**. | ~1 FTE continuous |
 | **P2.13 – Project Management & Admin** | Coordination, data, community relations. | ~0.5 FTE continuous |
 
 #

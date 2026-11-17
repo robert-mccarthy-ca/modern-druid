@@ -953,20 +953,18 @@ The **minimum funding requirement of at least $4.2M CAD** (detailed in Section 1
 
 **Goal:** Optimise the established system for maximum carbon removal, food yield, and open-source replication.
 
-**Staffing:** 8-Person Core Team (adds a 3rd Agroforestry Steward, Data & MRV Coordinator, and Community & Outreach Lead).
+**Staffing:** 9-Person Core Team (adds a 3rd and 4th Agroforestry Steward, a Data & MRV Coordinator, and a Community & Outreach Lead).
 
 **Annual Workflow – Seasonal Breakdown** 
 *Hours are modelled to reflect seasonal intensity, not uniform 2,080-hour years.*
 
 | Season | Key Tasks | Team Focus | Weekly Load (Hours) |
 | :--- | :--- | :--- | :--- |
-| **Winter** | Harvest & baling; seedball production; maintenance; admin/planning. | Stewards, Nursery, Infra, Admin | ~85 hrs/wk |
-| **Spring** | Biochar/basalt spread; community launch; planting; foliar feeds; irrigation startup. | All hands | ~85 hrs/wk |
-| **Summer** | Biochar production begins; pruning; mowing; breeding selections; MRV; tours. | Stewards (kilns), Nursery, Data, Community | ~90 hrs/wk |
-| **Autumn** | Biochar peak; late harvest; input brewing; final MRV & open-source release; winter prep. | Stewards (kilns), Nursery, Data, Infra | ~105 hrs/wk |
-| **Admin (Year-Round)** | Financials, credit sales, content creation, community relations. | Admin, Data, Community | ~23 hrs/wk |
-
-**Total Annual Team Hours:** ~13,240 hours (equivalent to ~6.37 FTEs). This version reflects a humane, seasonal workload. More productivity could probably be squeezed out with seasonal workers, but this is intended to be long term stable employment. A sustainable career.
+| **Winter** | Harvest & firewood processing (cut, haul, buck, split, dry); seedball production; maintenance; admin/planning; EV fleet winter maintenance. | Stewards, Nursery, Infra, Admin | ~95 hrs/wk (up from ~85 due to manual processing) |
+| **Spring** | Biochar/basalt spread; community launch; planting; foliar feeds; irrigation startup; EV fleet spring check. | All hands | ~85 hrs/wk |
+| **Summer** | Biochar production begins; pruning; mowing with EV UTV + flail mower trailer; breeding selections; MRV; tours. | Stewards (kilns), Nursery, Data, Community | ~90 hrs/wk |
+| **Autumn** | Biochar peak; late harvest & firewood processing; input brewing; final MRV & open-source release; winter prep; EV fleet winterization. | Stewards (kilns), Nursery, Data, Infra | ~105 hrs/wk |
+| **Admin (Year-Round)** | Financials, credit sales, content creation, community relations, EV fleet charging scheduling. | Admin, Data, Community | ~23 hrs/wk |
 
 #
 
@@ -974,15 +972,14 @@ The **minimum funding requirement of at least $4.2M CAD** (detailed in Section 1
 
 The default model schedules coppice/pollard harvest for winter (post-leaf-drop) to maximise feedstock density, simplify drying, and minimise physiological stress on the trees. However, the system supports an **alternate operational strategy** where hard pruning occurs during the **active growing season (late spring to mid-summer)**.
 
-**Why This Matters:** A heavy prune during peak photosynthetic activity triggers an intense compensatory growth pulse – the root system responds by exuding more carbon-rich compounds into the soil, while the canopy re-sprouts with exceptional vigour. This can increase annual woody biomass regeneration by **20–40%** compared to dormant-season cutting, accelerating the carbon cycling rate and potentially boosting biochar feedstock availability in the same calendar year.
+**Why This Matters:** A heavy prune during peak photosynthetic activity triggers an intense compensatory growth pulse – the root system responds by exuding more carbon-rich compounds into the soil, while the canopy re-sprouts with exceptional vigour. This can increase annual woody biomass regeneration by **20–40%** compared to dormant-season cutting, accelerating the carbon cycling rate and potentially boosting biochar feedstock availability in the same calendar year. Logistics get more complicated since the leaves are still on the trees and unfrozen land is softer and more susceptible to tire damage. But that remains an alternative option.
 
-**Staffing & Logistics Shifts Required:** 
-- **Higher Summer Labour Load:** Instead of winter baling, crews cut and bundle green biomass in the field during warmer months. This shifts workload away from winter (often constrained by snow and frozen ground) and into the extended daylight of summer. 
-- **Drying Management:** Green biomass (~50% moisture) requires immediate processing or forced-air drying under cover to prevent mould, unlike winter-harvested dry stalks. The CharHouse and covered storage become critical for in-season throughput. 
-- **Staggered Zoning:** Rather than clear-cutting a coppice block in winter, the team harvests **1/4 to 1/3 of the coppice alleys per year** in rotation across the growing season, ensuring the site always maintains active canopy cover while still producing consistent feedstock flow. 
+**Staffing & Logistics Shifts Required:**
+- **Higher Summer Labour Load:** Instead of winter harvest, crews cut green biomass in the field during warmer months. This shifts workload away from winter and into the extended daylight of summer.
+- **Drying Management:** Green biomass (~50% moisture) requires immediate processing or forced-air drying under cover to prevent mould, unlike winter-harvested dry poles. The CharHouse drying floor and kiln waste-heat recovery become critical for in-season throughput. Firewood-sized pieces dry more slowly than chips but more evenly; plan for 2–4 weeks of forced-air drying.
 - **Labour Hours Increase:** This alternative increases annual team hours by roughly **300–400 hours** (due to faster turn-around and handling of wetter material), but may yield proportionally higher biochar credit volumes if the compensatory growth hypothesis holds.
 
-**Decision Framework:** The in-season strategy will be trialled on a **5-hectare test block** in Years 2–3. If it sufficiently outperforms the winter baseline on biomass accumulation per hectare, review wether to deploy across the hub during Years 4–5. This choice does not alter the constitutional revenue split – it simply reallocates labour seasonality to chase higher yield density.
+**Decision Framework:** The in-season strategy will be trialled on a **5-hectare test block** in Years 2–3. If it sufficiently outperforms the winter baseline on biomass accumulation per hectare, review whether to deploy across the hub during Years 4–5. This choice does not alter the constitutional revenue split – it simply reallocates labour seasonality to chase higher yield density.
 
 #
 
@@ -999,8 +996,8 @@ The default model schedules coppice/pollard harvest for winter (post-leaf-drop) 
 | **Nursery & Soil Life Manager** | 2,080 | $27.00 | $56,160 |
 | **Data & MRV Coordinator** | 1,800 | $19.00 | $34,200 |
 | **Community & Outreach Lead** | 1,800 | $19.00 | $34,200 |
-| **Agroforestry Steward (x3)** | 1,800 each | $19.00 | $34,200 each |
-| **Totals** | **~13,240 hrs** | **Max Ratio 2:1** | **~$362,360** |
+| **Agroforestry Steward (x4)** |1, 800 each | $19.00 | $34,200 each |
+| **Totals** | **~13,240 hrs** | **Max Ratio 2:1** | **~$396,560** |
 
 *Note on Hours:* The 1,800-hour annual load for Stewards, Coordinators, and the Community Lead reflects the seasonal, non-administrative nature of these roles and allows for flexible scheduling to match farm workflow. Should overtime be required, or should team members choose to equalise to a 2,080-hour full-time equivalent, total compensation would scale proportionally, always maintaining the 2:1 ratio.
 
@@ -1018,7 +1015,7 @@ The default model schedules coppice/pollard harvest for winter (post-leaf-drop) 
 
 The proof-of-concept will be measured against four non-negotiable, publicly reported targets. **"Proof of Concept"** will be formally declared when **all four targets are met and sustained for two consecutive years**.
 
-1. **Target 1: Financial Profitability (> $0 CAD/ha/yr).** Net revenue from carbon credits after **all operational costs**, including dignified wages, inputs, maintenance, MRV, and amortised capital costs. This proves the model is a self-sustaining business, activating the 10% Replication Fund.
+1. **Target 1: Financial Profitability (> $0 CAD/ha/yr).** Net revenue from carbon credits after **all operational costs**, including dignified wages, inputs, maintenance, MRV, electricity for the fleet, and amortised capital costs. This proves the model is a self-sustaining business, activating the 10% Replication Fund.
 
 2. **Target 2: Food Provision Capacity.** The potential food value produced per hectare — measured at retail-equivalent value — will match or exceed the average gross revenue per hectare of conventional staple crops in the region. Benchmark: Ontario corn/soy averages ~$1,500–$1,800 CAD/ha in gross revenue. Dedicated commercial orchards typically generate $12,000–37,000+ CAD/ha — 8–20× the field-crop benchmark — and polyculture food-forests generally outperform dedicated-orchard yields, the field-crop benchmark is a deliberately low bar to err on the conservative side. The purpose is to settle the "food vs. carbon" land-use question in our favour: even a modest food-forest yield exceeds what conventional field crops produce for sale.
 

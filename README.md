@@ -1015,7 +1015,7 @@ The default model schedules coppice/pollard harvest for winter (post-leaf-drop) 
 
 The proof-of-concept will be measured against four non-negotiable, publicly reported targets. **"Proof of Concept"** will be formally declared when **all four targets are met and sustained for two consecutive years**.
 
-1. **Target 1: Financial Profitability (> $0 CAD/ha/yr).** Net revenue from carbon credits after **all operational costs**, including dignified wages, inputs, maintenance, MRV, electricity for the fleet, and amortised capital costs. This proves the model is a self-sustaining business, activating the 10% Replication Fund.
+1. **Target 1: Financial Profitability (> $0 CAD/ha/yr).** Net revenue from carbon credits after **all operational costs**, including dignified wages, inputs, maintenance, MRV, electricity for the fleet, and amortised capital costs. This proves the model is a self-sustaining business, activating the 10% Replication Fund.**
 
 2. **Target 2: Food Provision Capacity.** The potential food value produced per hectare — measured at retail-equivalent value — will match or exceed the average gross revenue per hectare of conventional staple crops in the region. Benchmark: Ontario corn/soy averages ~$1,500–$1,800 CAD/ha in gross revenue. Dedicated commercial orchards typically generate $12,000–37,000+ CAD/ha — 8–20× the field-crop benchmark — and polyculture food-forests generally outperform dedicated-orchard yields, the field-crop benchmark is a deliberately low bar to err on the conservative side. The purpose is to settle the "food vs. carbon" land-use question in our favour: even a modest food-forest yield exceeds what conventional field crops produce for sale.
 
@@ -1037,10 +1037,10 @@ The goal is high-confidence validation of critical assumptions, representing the
 
 1. **Agroforestry System Validation:** An experienced syntropic agroforester will be engaged to confirm biomass and food yield assumptions, establishment strategy, and labour requirements for a temperate climate.
 2. **Engineering & Infrastructure Feasibility:** A qualified engineer will review the CharHouse, kiln designs, and core infrastructure for safety, regulatory compliance, and constructability.
-3. **Carbon Registry & Legal Compliance Review:** A carbon market consultant will confirm eligibility under Puro.earth and Verra/Plan Vivo methodologies, validate the MRV design, and provide a clear roadmap to credit issuance.
-4. **Founding Team Formation:** A core team of 2–3 committed co-founders or operators will be assembled, covering the domains of ecology, engineering, and business operations.
-5. **Regulatory Pathway Validation for Waste-Stream Biochar Sales:** Budget 18 months for full registration. Sequence bulk sales ahead of packaged retail sales, since bulk fertilizer/supplement products currently sit on a lighter CFIA compliance track than consumer-packaged products — this allows waste-stream bulk revenue to begin before the packaged-product registration clears.
-6. **Feedstock Landscape Mapping:** Build a feedstock map of the hub's economic radius (typically 50–150 km) — sawmills, pallet recyclers, arborists, agricultural processors, and municipal depots — identifying volumes, quality, price points, and avoided-disposal values. The economics of any waste-stream partnership are location-specific and must be negotiated against this local landscape.
+3. **Carbon Registry & Legal Compliance Review:** A carbon market consultant will confirm eligibility under Puro.earth and Verra/Plan Vivio methodologies, validate the MRV design, and provide a clear roadmap to credit issuance.
+4. **Founding Team Formation:** A core team of 2–3 committed co-founders or operators will be assembled, ideally covering at least the domains of ecology, engineering, and business operations.
+5. **Regulatory Pathway Validation for Waste-Stream Biochar Sales:** Budget 18 months for full registration. Sequence bulk sales ahead of packaged retail sales.
+6. **Feedstock Landscape Mapping:** Build a feedstock map of the hub's economic radius (typically 50–150 km).
 
 **Decision Gate:** At the conclusion of this phase, the project will proceed to full deployment only if no fatal technical, ecological, or regulatory barriers are identified, core assumptions remain intact, and a capable founding team is in place.
 

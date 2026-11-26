@@ -1328,6 +1328,7 @@ Being perennial in nature, the site is expected to continue to grow in both food
 | **Higher MRV or Verification Costs** | Increases OPEX. | **Scale economies** across multiple hubs. **Open-source MRV tools** reduce future costs. |
 | **Faster Success** | Earlier profitability. | **Wage increases, faster replication, or land expansion.** |
 | **Policy or Grant Support** | Reduces CapEx or provides carbon price floor. | **Canadian climate grants** sought. Model designed to thrive without, but welcomes acceleration. |
+| **EV Fleet Underperformance** | Higher OpEx or lower uptime. | **Fossil fuel powered tractors and saws.** Use legacy farm equipment technology until electric versions mature. Reduces creditable carbon. |
 
 #
 
@@ -1361,7 +1362,7 @@ The numbers suggest that a **100-hectare Modern Druid hub can be cash-flow posit
 3. **The constitutional profit split** ensures sustainability, fairness, and expansion funding.
 4. **The community receives more value in free food than the project costs in credits,** making it politically and socially defensible.
 
-An initial investment of **at least $4.2 million CAD** (at least $3.4 million cash plus 100+ hectares of land) seeds not only a single carbon-removal hub, but the first node in an open-source, growing network designed to heal the atmosphere, feed communities, and create equitable wealth — if the first hub proves the numbers hold. One path would be to find an initial philanthropic private or corporate investor with deep pockets. Another would be to sell the project directly to community governments, reducing startup costs, but that requires project sales — Stage 2 of the customer sequence (Section 1.4), and likely easier once the first hub has shown that it works. Larger investments would allow for a larger target to hit, having more money for rapid development, R&D, or parallel deployments in multiple parts of the country or world.
+Without anything major going wrong, that would put the cost of building and running a pilot hub somewhere around $4 million. That should seed not only a single carbon-removal hub, but the first node in an open-source, growing network designed to heal the atmosphere, feed communities, and create equitable wealth — if the first hub proves the numbers hold.
 
 ---
 
@@ -1386,7 +1387,7 @@ These goals are addressed as **core, measurable outcomes** of the operational mo
 | **3. Good Health** | Ensure healthy lives. | Chemical-free, nutrient-dense food. Improved air/water quality from drawdown & filtration. |
 | **6. Clean Water** | Ensure clean water. | **Zero toxic runoff** + biochar filtration → cleaner outflow than inflow. |
 | **8. Decent Work** | Promote economic growth. | **Year-round green jobs** with living wages, benefits, ownership pathways. |
-| **9. Industry & Innovation** | Build resilient infrastructure. | **Open-source, climate-positive infrastructure.** A hub for a new economic model for agriculture. |
+| **9. Industry & Innovation** | Build resilient infrastructure. | **Open-source, climate-positive infrastructure.** A hub for a new economic model for agriculture, independant of utility grids or fossil fuel logistic chains. |
 | **10. Reduced Inequality** | Reduce inequality. | **Global living wage** via borderless carbon markets. Strict internal pay ratio, applied equally to every worker regardless of background. |
 | **11. Sustainable Communities** | Make cities inclusive & resilient. | Food forests as **public green commons, climate refuges, and social hubs**. |
 | **12. Responsible Consumption** | Ensure sustainable consumption. | **Circular, hyper-local system.** Zero food miles, near zero waste. |
@@ -1407,7 +1408,7 @@ The remaining goals are targeted through the project's **R&D pipeline, strategic
 | :--- | :--- | :--- |
 | **4. Quality Education** | Inclusive education. | **Modern Druid Academy:** Open-source training in carbon farming, agroforestry, natural farming. In poorly educated regions of the world, additional hours should be set aside for online schooling. |
 | **5. Gender Equality** | Achieve gender equality. | **Targeted Deployment in High-Exclusion Regions:** The 2:1 pay ratio guarantees equal pay by design everywhere, but that alone isn't a meaningful claim in jurisdictions where it's already law. As hubs expand into regions with severe structural exclusion of women from stable, well-paid work, MDC will build deliberate hiring and leadership pipelines for women into hub management and skilled roles — addressing the barrier directly simply by hiring more women in these regions. |
-| **7. Affordable Clean Energy** | Access to clean energy. | **R&D:** Syngas capture from pyrolysis; solar/wind microgrid integration at hubs. |
+| **7. Affordable Clean Energy** | Access to clean energy. | **R&D:** Syngas capture from pyrolysis; solar/wind microgrid integration at hubs. EV fleet charged from on-site renewables where possible; V2L backup from electric truck. |
 | **14. Life Below Water** | Conserve oceans. | **R&D & Expansion:** "Blue Druid" pilots (kelp farming for biochar, marine permaculture, blue carbon). |
 | **16. Peace & Justice** | Just, peaceful societies. | **Scale-Dependent Collaboration:** Partner with NGOs to audit ethical governance & land-transfer; **demonstrate a just transition funded by polluters, with primary benefits accruing to local populations, including food security and sovereignty.** |
 | **17. Partnerships** | Strengthen implementation. | **Inherent & Catalytic:** Achieved through **open-source replication**, global partnerships (governments, NGOs, communities), and our own growth to deploy the "Hub-in-a-Box" model worldwide. |
@@ -1456,7 +1457,7 @@ The Modern Druid Project is a living system, designed to evolve. **Modern Druid 
 
 | Priority | Research Objective | Expected Outcome & Impact |
 | :--- | :--- | :--- |
-| **6. Atmospheric Water Generation (AWG) Integration** | Test and integrate scalable AWG tech (metal organic frameworks, radiative panels, compressor-based) to provide irrigation decoupled from rainfall. | **Unlocks deployment on arid/non-arable land.** Critical for drought-proofing and global scaling. |
+| **6. Atmospheric Water Generation (AWG) Integration** | Test and integrate scalable AWG tech (metal organic frameworks, radiative panels, compressor-based) to provide irrigation decoupled from rainfall and groundwater. | **Unlocks deployment on arid/non-arable land.** Critical for drought-proofing and global scaling. |
 | **7. "Blue Druid": Marine Biomass & Kelp Systems** | Develop systems for offshore kelp cultivation, harvest, and use as feedstock for biochar, food, and feed. | **Taps into vast ocean carbon sink.** Achieves **SDG 14 (Life Below Water).** Provides new biomass without farmland. |
 | **8. Halophyte Crops & Saline Agriculture** | Identify and breed salt-tolerant plants (halophytes) for food, fodder, and biomass. Develop irrigation strategies using brackish/sea water. | **Greens saline-degraded coastal lands.** Turns another "wasteland" category into a carbon sink. |
 | **9. Enhanced Rock Weathering (ERW) Optimization** | Field-test different silicate rocks, particle sizes, and application methods with biochar to maximize weathering rates. | **Increases credit yield from ERW pathway.** Optimizes "Biochar+ERW" amendment recipe, further boosting sequestration rates. |

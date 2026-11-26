@@ -1137,6 +1137,8 @@ All figures are in **Canadian Dollars (CAD)** unless otherwise stated.
 
 Understanding the relationship between kiln capacity, feedstock quality, and revenue is essential for evaluating waste-stream opportunities. This section provides a transparent model for estimating the economics of processing external biomass — and a reminder that every figure below must be validated against local prices before being relied upon.
 
+**Feedstock is constrained by airflow.** Firewood-sized pieces (20–50 cm long, 5–15 cm diameter) stack with airflow and pyrolyse evenly. Chips and sawdust both smother airflow and create uneven burns and cannot be used without further processing. The manual workflow produces firewood-sized pieces; the electric processor (if added) produces the same size class. **No chipper is used at any stage.**
+
 #
 
 ### Kiln Capacity
@@ -1209,7 +1211,7 @@ A feedstock map of the hub's economic radius (typically 50–150 km) should be p
 
 ### A. Labour Costs (50% Employee Pool)
 - **Total Pool:** 50% of $965,000 = **$482,500 CAD**
-- **Allocation:** As detailed in Section 4.3, this funds **8 team members** with dignified wages under a 2:1 ratio.
+- **Allocation:** As detailed in Section 4.3, this funds **9 team members** with dignified wages under a 2:1 ratio.
 
 #
 
@@ -1222,15 +1224,14 @@ A feedstock map of the hub's economic radius (typically 50–150 km) should be p
 | :--- | :--- | :--- |
 | **MRV & Verification** | $65,000 | As per Section 5.6 (mid-range). Largest non-labour OPEX. |
 | **Inputs & Materials** | $25,000 | Natural farming inputs (grains, salt, potatoes), seeds, twine, minor amendments. |
-| **Fuel, Lubricants & Vehicle Op** | $35,000 | Diesel for tractor, skid-steer, trucks until electric versions can be bought. |
-| **Equipment Maintenance & Repair** | $40,000 | Parts, servicing, contingencies for all machinery. |
-| **Utilities & Insurance** | $25,000 | Electricity (minimal, mostly solar), property & liability insurance. |
+| **Electricity & Charging** | $8,000 | EV UTV, truck, loader, and handheld tool charging. Replaces ~$22,000/yr diesel. |
+| **Equipment Maintenance & Repair** | $32,000 | Electric drivetrains have fewer moving parts than diesel; lower routine maintenance. Battery amortization included. |
+| **Utilities & Insurance** | $25,000 | Electricity covered above, property & liability insurance. |
 | **Property Taxes** | $20,000 | Based on rural agricultural land rates. |
 | **Admin, Office, Misc.** | $15,000 | Software, supplies, bank fees, etc. |
-| **Contingency Buffer (10%)** | $29,000 | Built into the 30% fund for unexpected costs. |
-| **Total Non-Labour OPEX** | **$254,000** | **Well within the $289,500 Local Development Fund.** |
+| **Total Non-Labour OPEX** | **$190,000** | **Well within the $289,500 Local Development Fund.** |
 
-**Surplus in Local Development Fund:** ~$35,500/year. Under the Surplus Allocation Priority (Section 3.2), the default use of this surplus is expansion — redirected to the Local Replication Fund to accelerate new hub establishment
+**Surplus in Local Development Fund:** ~$99,500/year. Under the Surplus Allocation Priority (Section 3.2), the default use of this surplus is expansion — redirected to the Local Replication Fund to accelerate new hub establishment. Other maintenance costs or improvements needed on-site also draw from this budget.
 
 ---
 
@@ -1238,48 +1239,54 @@ A feedstock map of the hub's economic radius (typically 50–150 km) should be p
 
 ## 6.3 Startup Capital & Phased Investment (Year 0–3)
 
-**One-Time Capital Expenditure (CapEx) for 100-ha Hub**
+**One-Time Capital Expenditure (CapEx) for 100-ha Hub (Revised — Electrified Fleet)**
 
 | Item | Specification / Quantity | Estimated Cost (CAD) | Notes |
 | :--- | :--- | :--- | :--- |
 | **Land (100 ha)** | Marginal agricultural land, Northern Ontario. | **$800,000** | Mid-range estimate; may be substantially lower via lease, donation, or community land contribution. |
-| **Earthworks & Water** | Swales, ponds, roads, parking. | **$120,000** | Contractor or equipment purchase. |
-| **Central Work Building** | 3,000 sq ft insulated pole building. | **$180,000** | For storage, processing, inputs. |
-| **CharHouse** | 1,500 sq ft open-sided pyrolysis barn. | **$75,000** | Fire-safe engineered design. |
-| **Kiln Fabrication (8 units)** | Insulated flame-cap with tilting/quench. | **$80,000** | Materials & fabrication. |
+| **Earthworks & Water** | Swales, ponds, roads, parking. | **$120,000** | Contractor or equipment purchase. **Contractor only; not an EV fleet task.** |
+| **Central Work Building** | 3,000 sq ft insulated pole building. | **$180,000** | For storage, processing, inputs. **Includes heated EV parking and charging stations.** |
+| **CharHouse** | 1,500 sq ft open-sided pyrolysis barn. | **$75,000** | Fire-safe engineered design. **Includes drying floor/racks and kiln waste-heat recovery ducting.** |
+| **Kiln Fabrication (8 units)** | Insulated flame-cap with tilting/quench. | **$80,000** | Materials & fabrication. **Kiln height or loading platform matched to EcoTrack lift height.** |
 | **Irrigation System** | Frost-proof overhead grid, zones, pump. | **$200,000** | Major infrastructure. |
-| **Tractor & Implements** | 100 HP tractor, flail mower, spreader, etc. | **$120,000** | |
-| **Harvesting Equipment** | Skid-steer w/ shear, energy wood baler. | **$140,000** | Key for biomass handling. |
-| **Trucks & Trailers** | 1-ton truck, flatbed, water trailer. | **$90,000** | |
+| **EV UTV** | Can-Am Traxter EV or Hisun Stryker EV. | **$25,000** | ~1,000–1,150 kg towing capacity. |
+| **Trailers (5)** | Flatbed/dump, spreader, sprayer, flail mower, water. | **$49,000** | Flail mower is self-powered (e.g., Kellfri VKMATV105E, ~$15k). Spreader/sprayer/water have electric motors/pumps. |
+| **Battery Handheld Tools** | Chainsaws (2–3), pole saws (1–2), brush cutters (2). | **$6,500** | Replaces all gas-powered handheld tools. |
+| **EcoTrack EL 1430 Electric Loader** | 650 kg lift, 0.25 m³ bucket. | **$13,400** | Budget electric loader; verify lift height, attachments, and parts support. |
+| **Manual Firewood Processing** | Sawbuck + 10–16 ton electric log splitter. | **$3,500** | Option A. Electric firewood processor is a Year 2–3 upgrade if needed. |
+| **Drying Floor / Forced-Air Racks** | In CharHouse; kiln waste-heat recovery. | **$20,000** | Sized for 2–4 weeks of firewood drying inventory. |
+| **EV Truck** | Ford F-150 Lightning Pro or Rivian R1T. | **$70,000** | Road transport; V2L backup. |
+| **Dedicated Charging Stations (3)** | UTV, truck, loader. | **$7,500** | ~$2,500 each installed; assume existing panel capacity. Add $5k–$15k if panel upgrade needed. |
+| **Kiln/Floor Design Adjustment** | Lower kilns or raise loading platform. | **$4,000** | To match EcoTrack lift height. |
 | **Tools & Shop Equipment** | Welder, tools, scales, safety gear. | **$40,000** | |
 | **MRV Baseline & Setup** | Soil coring rig, drone, lab analysis. | **$25,000** | One-time Year 0 cost. |
 | **Engineering & Design** | CharHouse, kiln, irrigation plans. | **$15,000** | MDC overhead (reusable). |
-| **CFIA Registration** | Product safety dossier, bilingual labeling, application fees | **$5,000 – $8,000** | **Timeline: budget 18 months** (CFIA guidance has cited 12–16 months average). Start via free IQ inquiry in Year 0; check "me-too" pathway against existing registered biochar products before committing to a full novel submission. |
-| **Waste-Stream Feedstock Offtake Agreements** | ~1,200 odt/yr target, 1–2 regional suppliers | — (no direct capex; contracting/relationship cost) | Prioritize slabs/edgings/off-cuts to avoid pelletizing cost; pelletizing equipment only needed if sawdust becomes the primary feedstock. |
-| **Contingency (15%)** | | **$285,000** | |
-| **Total Estimated CapEx** | | **$2,185,000 CAD** | |
+| **CFIA Registration** | Product safety dossier, bilingual labeling, application fees. | **$5,000–$8,000** | Budget 18 months. Start via free IQ inquiry in Year 0. |
+| **Waste-Stream Feedstock Offtake Agreements** | ~1,200 odt/yr target, 1–2 regional suppliers. | — (no direct capex) | Prioritize slabs/edgings/off-cuts. |
+| **Contingency (15%)** | | **$261,000** | On $1,740,000 pre-contingency subtotal (excl. land? No — same method as original: 15% of all line items including land. Pre-contingency total = $1,740,400; contingency = $261,060; total = $2,001,460, rounded to $2,001,000.) |
+| **Total Estimated CapEx** | | **~$2,001,000 CAD** | **Down from $2,185,000 in the conventional plan — a ~$184,000 reduction.** |
 
-#
+---
 
 ### Phased Operating Capital (Runway) – Years 0–3
-Funds labour and OPEX before credit revenue reaches sustainable levels.
 
 | Phase | Years | Est. Annual Cash Burn (CAD) | Total Phase Burn | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **Phase 1** | 0-1 | ~$340,000 | $340,000 | 3 FTEs + contractors + early OPEX. |
-| **Phase 2** | 2-3 | ~$550,000 | $1,100,000 | 5 FTEs + scaling OPEX. Some credit revenue begins late Y2/Y3. |
-| **Total Runway Needed** | | | **$1,440,000** | To reach near breakeven (Year 4). |
+| **Phase 1** | 0-1 | ~$335,000 | $335,000 | 3 FTEs + contractors + early OPEX. Slightly lower than conventional due to reduced fuel. |
+| **Phase 2** | 2-3 | ~$540,000 | $1,080,000 | 5 FTEs + scaling OPEX. Some credit revenue begins late Y2/Y3. |
+| **Total Runway Needed** | | | **$1,415,000** | To reach near breakeven (Year 4). |
 
-#
+---
 
-### Minimum Capital Required
-- **CapEx:** $2,185,000 (includes the $800,000 land planning estimate)
-- **Runway (OpEx Years 0-3):** $1,440,000
-- **First Hub Total:** **$3,625,000 CAD**, of which **$2,825,000** is cash excluding land and **$800,000** is the land planning estimate
+### Minimum Capital Required (Revised)
+
+- **CapEx:** ~$2,001,000 (includes the $800,000 land planning estimate)
+- **Runway (OpEx Years 0-3):** ~$1,415,000
+- **First Hub Total:** **~$3,416,000 CAD**, of which **~$2,616,000** is cash excluding land and **$800,000** is the land planning estimate
 - **Modern Druid Central, Launch Phase (3 years):** $600,000 (Section 10.1)
-- **Minimum Total:** **$4,225,000 CAD**, or roughly **$3.4M cash plus 100+ hectares of land**; **at least $4.2M** in total project value at the land planning estimate
+- **Minimum Total:** **~$4,016,000 CAD**, or roughly **$3.2M cash plus 100+ hectares of land**; **~$4.0M** in total project value at the land planning estimate
 
-**This is a floor, not a target.** It is the least that funds a complete attempt: construction, runway to breakeven, and the MDC team, with only the 15% CapEx contingency as a buffer. Funding above it buys runway against delays or unforeseen costs, or a trial section before planting everything, which would extend the development plans by another growing season.
+**This is a floor, not a target.** It is the least that funds a complete attempt: construction, runway to breakeven, and the MDC team. Trying this without an additional buffer would be foolhardy.
 
 ---
 
@@ -1289,10 +1296,10 @@ Funds labour and OPEX before credit revenue reaches sustainable levels.
 
 | Year | Key Activities | Revenue (CAD) | Costs (CAD) | Net (CAD) | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **0-1** | Site prep, build, pioneer planting. | $0 | (High CapEx + OpEx) | -$340,000 | Pure investment. |
-| **2** | Plant perennial grid, first waste-stream biochar. | ~$190,000 | ~$560,000 | -$370,000 | First credits issued (Puro). |
-| **3** | First coppice harvest, scale biochar. | ~$490,000 | ~$570,000 | -$80,000 | Approaching breakeven. |
-| **4** | System matures, full credit streams. | ~$840,000 | ~$780,000 | **+$60,000** | **Breakeven achieved.** |
+| **0-1** | Site prep, build, pioneer planting. | $0 | (High CapEx + OpEx) | -$335,000 | Pure investment. |
+| **2** | Plant perennial grid, first waste-stream biochar. | ~$190,000 | ~$555,000 | -$365,000 | First credits issued (Puro). |
+| **3** | First coppice harvest, scale biochar. | ~$490,000 | ~$565,000 | -$75,000 | Approaching breakeven. |
+| **4** | System matures, full credit streams. | ~$840,000 | ~$775,000 | **+$65,000** | **Breakeven achieved.** |
 | **5+** | Maturity and yields improve, optimized production. | **~$985,000** | **~$770,000** | **+$215,000** | **Sustainable profit.** |
 
 *Note: Revenue and cost figures in Years 2–4 are interpolated between the Year 0–1 burn and the mature Year 5+ model, adjusted for the phased staffing build-out. They are planning estimates, not predictions.*
@@ -1302,12 +1309,11 @@ Funds labour and OPEX before credit revenue reaches sustainable levels.
 - **30% Local Development Fund:** ~$295,500 (covers all OPEX + surplus redirected to expansion per Section 3.2)
 - **10% Local Replication Fund:** ~$98,500 (seeds next hub, which can be started cheaper since equipment can be loaned)
 - **10% MDC Royalty:** ~$98,500 (funds global operations, R&D, open-sourced training)
-
-With surplus redirection, the effective replication allocation is ~$134,000/year — still modest in absolute terms, which is why demand-driven adoption (communities commissioning hubs directly) is the primary scaling mechanism rather than internal replication funds alone (Section 4.4).
+- Surplus in Local Development Fund: ~$80,500/year
+- Effective replication allocation: ~$179,000/year (10% base + ~$80,500 surplus)
+With surplus redirection, the effective replication allocation is ~$179,000/year — still modest in absolute terms, which is why demand-driven adoption (communities commissioning hubs directly) is intended to be the primary scaling mechanism rather than internal replication funds and companies voluntarily offsetting carbon alone (Section 4.4).
 
 Being perennial in nature, the site is expected to continue to grow in both food productivity and rate of carbon sequestration. Once the infrastructure is built, labour needs drop, allowing either a decrease in hours for the same pay or other improvements that increase productivity.
-
-**Payback Period:** ~7–8 years on the hub's seed investment, based on profit + replication fund accumulation. This was calculated against the original rounded $4M figure and has not been recomputed for the revised minimum. Less if grants can be found.
 
 ---
 

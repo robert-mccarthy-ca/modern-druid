@@ -1521,9 +1521,9 @@ This section outlines the three-phase scaling strategy designed to cross the **g
 ## 9.2 Phase 2: Regional Saturation & The "Hub-in-a-Box" Service (Years 3-10)
 **Proven Blueprint in Hand, Activate Growth.**
 
-* **The "Hub-in-a-Box" Service:** Modern Druid Central (MDC) offers **turnkey installation** for clients ready to act (polluting companies first; then, once Target 3 is proven, community governments from local to national, Indigenous nations, and impact consortia). Installs a new hub in a region.
- * **Model:** Client pays full startup costs (~$3.5–4M CAD). In return, they receive a fully built, operational hub and a **long-term commitment to purchase its credits at market price.** This guarantees revenue for the hub and ensures real, sustained removal.
-* **Cross-Subsidisation for Equity:** Profits from paid "Hub-in-a-Box" installations are used by MDC to **fund free or subsidised hubs in underserved regions and every major climate zone.** This builds a global network of adaptation labs, seed banks, and carbon engines **with minimal dependence on government grants.**
+* **The "Hub-in-a-Box" Service:** Modern Druid Central (MDC) offers **turnkey installation** for clients ready to act (polluting companies first; then, once Target 3, Food Provision Capacity is proven, community governments from local to national, Indigenous nations, and impact consortia). Installs a new hub in a region, which if successful, becomes self-sustaining.
+ * **Model:** Client pays full startup costs (~$5M CAD). In return, they receive a fully built, operational hub and a **long-term commitment to purchase its credits at market price.** This guarantees revenue for the hub and ensures real, sustained removal.
+* **Cross-Subsidisation for Equity:** Profits from paid "Hub-in-a-Box" installations are used by MDC to **fund free or subsidised hubs in underserved regions and climate zones.** This builds a global network of adaptation labs, seed banks, and carbon engines **with minimal dependence on government grants, permissions, or schedules, much less political favour.**
 * **The Living Adaptation Network:** Hubs become nodes in a **global living database**. Seedball trading and genetic material exchange between zones accelerate the development of climate-resilient plant varieties, creating a distributed, open-source breeding network for a chaotic world.
 
 ---
@@ -1544,7 +1544,7 @@ This section outlines the three-phase scaling strategy designed to cross the **g
 
 ## 9.4 The Ultimate Integration: A Managed Planetary Transition
 
-True gigatonne scale (billions of tonnes CO₂ per year) means a coordinated global pivot. Our model provides the **profitable, socially-viral unit** needed to orchestrate this transition across four fronts, paced by proven biological ramp-up rates to avoid food supply shocks. For a sense of scale, 1 ppm/yr atmospheric reduction requires ~7.8 Gt CO₂/yr removal.
+True gigatonne scale (billions of tonnes CO₂ per year) means a coordinated global pivot. Our model provides the **profitable, socially-viral unit** needed to orchestrate this transition across four fronts, paced by proven biological ramp-up rates to avoid food supply shocks. For a sense of scale, 1 ppm/yr atmospheric reduction requires ~7.8 Gt CO₂/yr removal, or about 13% of global cropland at the targetted sequestration rates.
 
 1. **Convert Existing Farmland (Paced by Proven Yields):**
  * **Global Cropland:** ~1.6 billion hectares.
@@ -1565,7 +1565,7 @@ True gigatonne scale (billions of tonnes CO₂ per year) means a coordinated glo
  * Deploy floating kelp farms + ocean ERW + marine biochar + food and biomass.
  * **Suitable Area:** 10–20 million km².
 
-But gigaton scale isn't good enough, not any more, we're past that. Using our own conversion factor above, closing the roughly 150 ppm gap between today's atmosphere and pre-industrial levels requires on the order of **1,200 to 1,500 gigatonss of CO₂**, allowing some margin for the ocean releasing back a share of what we remove as the system re-equilibrates. Fortunately, this solution has the potential to bring us to the ppm/year of carbon dioxide scale we need to be at to eventually hit that target, with a theoretical limit — summing the quantified frontiers above — in the ppm/month range. These are directional ceilings, not projections: they describe what the system could theoretically reach if every assumption holds and global adoption follows. This has the potential to make a real dent in that problem. We'll still need other solutions, SRM in particular to buy us time, but it's a path forward that doesn't result in our extinction.
+But gigaton scale isn't good enough, not any more, we're past that. Using our own conversion factor above, closing the roughly 150 ppm gap between today's atmosphere and pre-industrial levels requires on the order of **1,200 to 1,500 gigatonss of CO₂**, allowing some margin for the ocean releasing back a share of what we remove as the system re-equilibrates. Fortunately, this solution has the potential to bring us to the ppm/year of carbon dioxide scale we need to be at to eventually hit that target, with a theoretical limit — summing the quantified frontiers above — in the ppm/month range. These are directional ceilings, not projections: they describe what the system could theoretically reach if every assumption holds and global adoption follows. This has the potential to make a real dent in that problem. We'll still need other solutions, Solar Radiation Management in particular to buy us time, but it's a path forward that doesn't result in humanity's extinction.
 
 ---
 
@@ -1573,7 +1573,7 @@ But gigaton scale isn't good enough, not any more, we're past that. Using our ow
 
 ## 9.5 The Political & Economic Endgame
 
-When global abundance from Modern Druid networks begins to **reduce food costs and address carbon demand**, the economic and political calculus could flip.
+When global abundance from Modern Druid networks begins to **reduce food costs and address carbon demand**, the economic and political calculus could flip. Especially as the people in the communities that these sites feed are now aware of carbon removal projects every visit.
 
 * **From Voluntary to Systemic:** As the model proves it is **cheaper for communities than the status quo**, it builds a coalition of the willing — from mayors to finance ministers (the Stage 2 buyers in Section 1.4) — that can lobby for **integrated carbon-food policies** and a **guaranteed global carbon price** backed by our proven data.
 * **The Self-Terminating Vehicle:** The project's goal is **obsolescence at the hub level.** After ~20 years, the land is transferred to its stewards. After ~100 years, the atmosphere is stabilized. **We are building a temporary, self-dissolving scaffold for a just transition, not a perpetual corporation.** A mission, not an empire.
